@@ -1,0 +1,41 @@
+name: opera_lyrics
+description: "Opera Lyrics: a library of opera libretti to read while the music plays."
+publish_to: 'none'
+
+# The number after the + is the Android versionCode: it must grow with every
+# upload to Google Play.
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  shared_preferences: ^2.5.6
+  wakelock_plus: ^1.8.1
+  url_launcher: ^6.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/libretti/
+    - assets/fonts/OFL-Edwin.txt
+
+  # Edwin, the text font of MuseScore, as in Low End.
+  fonts:
+    - family: Edwin
+      fonts:
+        - asset: assets/fonts/Edwin-Roman.otf
+        - asset: assets/fonts/Edwin-Bold.otf
+          weight: 700

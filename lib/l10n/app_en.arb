@@ -1,0 +1,62 @@
+{
+  "@@locale": "en",
+  "appTitle": "Opera Lyrics",
+  "settings": "Settings",
+  "about": "About",
+  "language": "Language",
+  "languageSystem": "Phone language",
+  "languageEnglish": "English",
+  "languageItalian": "Italiano",
+  "textSize": "Text size",
+  "textSizeSample": "Libiamo ne' lieti calici",
+  "@textSizeSample": {
+    "description": "A sample verse shown at the chosen size; left in Italian, as in the libretti."
+  },
+  "keepScreenOn": "Keep the screen on",
+  "keepScreenOnHint": "While a libretto is open",
+  "resumeReading": "Continue reading",
+  "resumePlace": "{opera}, {act}",
+  "@resumePlace": {
+    "placeholders": {
+      "opera": {"type": "String"},
+      "act": {"type": "String"}
+    }
+  },
+  "emptyLibrary": "No libretti yet.",
+  "libraryError": "The libretti could not be read.",
+  "librettoBy": "Libretto by {name}",
+  "@librettoBy": {
+    "placeholders": {
+      "name": {"type": "String"}
+    }
+  },
+  "source": "Source: {source}",
+  "@source": {
+    "placeholders": {
+      "source": {"type": "String"}
+    }
+  },
+  "license": "Text: {license}",
+  "@license": {
+    "placeholders": {
+      "license": {"type": "String"}
+    }
+  },
+  "readAct": "Read {act}",
+  "@readAct": {
+    "placeholders": {
+      "act": {"type": "String"}
+    }
+  },
+  "contents": "Numbers in this act",
+  "previousAct": "Previous act",
+  "nextAct": "Next act",
+  "aboutDescription": "Opera Lyrics is a free library of opera libretti to read while the music plays, at home or at the theatre. It works fully offline: the texts are inside the app.",
+  "aboutLegalese": "Free and open source under the MIT License. The libretti are in the public domain; each says where its text comes from.",
+  "aboutSource": "Source code: {url}",
+  "@aboutSource": {
+    "placeholders": {
+      "url": {"type": "String"}
+    }
+  }
+}
