@@ -1,0 +1,30 @@
+// A made-up libretto for the tests: the words are not from any opera.
+title: L'esempio
+composer: Giovanni Battista Prova
+librettist: Anna Verso
+year: 1850
+source: Scritto per i test
+license: CC0
+
+# Atto primo
+(Una stanza. È sera.)
+
+## Recitativo – Chi bussa?
+ANNA
+Chi bussa alla mia porta
+a quest'ora tarda?
+
+CARLO
+Sono io, apri.
+(Anna apre.)
+
+
+## Duetto – Insieme
+ANNA E CARLO
+Insieme canteremo
+fino al mattino.
+
+# Atto secondo
+## Finale
+CORO
+Evviva, evviva!
