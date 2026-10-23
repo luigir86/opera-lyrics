@@ -4,11 +4,13 @@ Uso: python3 ocr.py lavoro/aida-cairo
 
 Per ogni immagine in pagine/: toglie il bordo nero della scansione, divide le
 doppie pagine sulla piega e passa ogni metà a Tesseract (modello italiano).
-Tiene la metà che il dizionario italiano riconosce meglio: nei libretti
-bilingui l'altra lingua viene scartata da sola.
+Tiene le metà che il dizionario italiano riconosce: nei libretti bilingui
+l'altra lingua viene scartata da sola, in quelli solo italiani si tengono
+entrambe le pagine.
 
-Scrive ita/NNNN.png (la metà tenuta, le coordinate dell'OCR si riferiscono a
-questa immagine), ocr/NNNN.tsv e pagine.json con il riassunto.
+Scrive ita/NNNNa.png e NNNNb.png (pagina sinistra e destra; le coordinate
+dell'OCR si riferiscono a queste immagini), ocr/NNNNa.tsv e NNNNb.tsv e
+pagine.json con il riassunto.
 Richiede: tesseract-ocr, tesseract-ocr-ita, hunspell, hunspell-it, Pillow.
 """
 import csv
@@ -107,28 +109,28 @@ def una_pagina(args):
     w, h = g.size
     if w > h * 1.1:
         x = piega(g)
-        meta = {'s': g.crop((0, 0, x, h)), 'd': g.crop((x, 0, w, h))}
+        meta = {'a': g.crop((0, 0, x, h)), 'b': g.crop((x, 0, w, h))}
     else:
-        meta = {'u': g}
-    migliore = None
+        meta = {'a': g}
+    info = {}
     for lato, img in meta.items():
         tsv = tesseract(img)
         quota, conte = quota_italiana(tsv)
-        if migliore is None or quota > migliore[1]:
-            migliore = (lato, quota, conte, img, tsv)
-    lato, quota, conte, img, tsv = migliore
-    tenuta = quota >= SOGLIA_ITALIANO
-    if tenuta:
-        img.save(os.path.join(cartella, 'ita', f'{n}.png'))
-        with open(os.path.join(cartella, 'ocr', f'{n}.tsv'), 'w', encoding='utf-8') as f:
-            f.write(tsv)
-    return n, {'lato': lato, 'italiano': round(quota, 2), 'parole': conte, 'tenuta': tenuta}
+        tenuta = quota >= SOGLIA_ITALIANO
+        if tenuta:
+            img.save(os.path.join(cartella, 'ita', f'{n}{lato}.png'))
+            with open(os.path.join(cartella, 'ocr', f'{n}{lato}.tsv'), 'w', encoding='utf-8') as f:
+                f.write(tsv)
+        info[lato] = {'italiano': round(quota, 2), 'parole': conte, 'tenuta': tenuta}
+    return n, info
 
 
 def main():
     cartella = sys.argv[1]
     for d in ('ita', 'ocr'):
         os.makedirs(os.path.join(cartella, d), exist_ok=True)
+        for vecchio in os.listdir(os.path.join(cartella, d)):
+            os.remove(os.path.join(cartella, d, vecchio))
     nomi = sorted(f for f in os.listdir(os.path.join(cartella, 'pagine')) if f.endswith('.jpg'))
     riassunto = {}
     with ProcessPoolExecutor() as ex:

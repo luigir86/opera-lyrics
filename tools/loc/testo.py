@@ -116,7 +116,7 @@ def rumore(r):
         return True
     if re.fullmatch(r'FINE\W*', t):
         return True
-    if re.match(r'(ATTO|SCENA|PROLOGO)\b', t) and len(t) < 25:
+    if re.match(r'(ATTO|PARTE|SCENA|PROLOGO)\b', t) and len(t) < 45:
         return False
     if maiuscola(t) and sum(c.isalpha() for c in t) <= 3:          # frammenti: MER, BR
         return r.conf < 90
@@ -126,6 +126,8 @@ def rumore(r):
 
 
 def tipografia(s):
+    s = re.sub(r'\s+[|¦]+(?=\s|$)', '', s)              # filetti a margine
+    s = re.sub(r'^[a-zìè]\s+(?=[A-ZÀ-Ý])', '', s)        # macchia prima del verso
     s = re.sub(r'\.?\s*:,\s*$', '.', s)
     s = s.replace('’', "'").replace('‘', "'").replace('«', '"').replace('»', '"')
     s = re.sub(r"(\w)' +(?=\w)", r"\1'", s)            # l’ Etiope -> l'Etiope
@@ -138,12 +140,120 @@ def tipografia(s):
     return re.sub(r'\s{2,}', ' ', s).strip()
 
 
+NUMERI_A = {'2': 'A DUE', '3': 'A TRE', '4': 'A QUATTRO', '5': 'A CINQUE', '6': 'A SEI'}
+
+
+def nomi_dei_personaggi(prima, dopo):
+    """I nomi dei personaggi: la prima parola in maiuscolo di ogni riga
+    dell'elenco iniziale (dopo vengono gli interpreti, da ignorare) e i nomi
+    in maiuscolo degli ingressi in scena."""
+    nomi = Counter()
+    esclusi = ('PERSONAGGI', 'ATTORI', 'ATTO', 'PARTE', 'SCENA', 'PROLOGO', 'SIG', 'SIGN',
+               'SIGNORA', 'DETTI', 'DETTO', 'FINE')
+    pag = next((r.pagina for r in prima if 'PERSONAGGI' in r.testo), None)
+    for r in prima:
+        if pag and r.pagina != pag:
+            continue
+        m = re.match(r"(?:Il|La|Lo|Un|Una|Gran|Il Gran)?\s*([A-ZÀ-Ý][A-ZÀ-Ý']{2,})", r.testo)
+        if m and m.group(1) not in esclusi:
+            nomi[m.group(1)] += 1
+    for r in dopo:
+        for w in re.findall(r"[A-ZÀ-Ý][A-ZÀ-Ý']{2,}", r.testo):
+            if w not in esclusi:
+                nomi[w] += 1
+    for w in ('TUTTI', 'TUTTE', 'CORO'):
+        nomi[w] += 1
+    return nomi
+
+
+def separa_etichette(righe, nomi):
+    """Nei libretti di metà Ottocento chi canta è un'abbreviazione a margine,
+    sulla stessa riga del verso ("Zac. D'Egitto là sui lidi"). La si riconosce
+    dallo spazio largo che la separa dal verso. Diventa una riga a sé con il
+    nome per intero, preso dall'elenco dei personaggi."""
+    inizi = defaultdict(list)
+    for r in righe:
+        if len(r.parole) >= 3:
+            inizi[r.pagina].append(r.parole[0]['box'][0])
+    mediane = {p: sorted(v)[len(v) // 2] for p, v in inizi.items()}
+
+    def etichetta(r):
+        ps = r.parole
+        if len(ps) < 2 or re.match(r'(ATTO|PARTE|SCENA|PROLOGO)\b', r.testo):
+            return 0
+        med = mediane.get(r.pagina, 0)
+        p0 = ps[0]['box']
+        if p0[0] < med - 100 and p0[0] + p0[2] < med - 30:
+            k = 1                    # parola tutta a sinistra della colonna dei versi
+        else:
+            for k in range(1, min(4, len(ps))):
+                fine = ps[k - 1]['box'][0] + ps[k - 1]['box'][2]
+                if ps[k]['box'][0] - fine > max(30, 1.3 * ps[k - 1]['box'][3]):
+                    break            # spazio largo dopo l'etichetta
+            else:
+                return 0
+        testo = ' '.join(p['t'] for p in ps[:k])
+        if not re.fullmatch(r"[A-ZÀ-Ýa][\wÀ-ÿ'.,]{0,14}(?:\s(?:e|ed|E|[\dA-ZÀ-Ý][\wÀ-ÿ.,]*)){0,2}", testo):
+            return 0
+        return k
+
+    trovate = [etichetta(r) for r in righe]
+    if sum(1 for r, k in zip(righe, trovate) if k and r.parole[k - 1]['t'].endswith('.')) < 10:
+        return righe            # questo libretto scrive i nomi su righe proprie
+
+    def nome_pieno(et):
+        et = et.strip(' .:')
+        m = re.fullmatch(r'a\s*(\d)', et)
+        if m:
+            return NUMERI_A.get(m.group(1), et.upper())
+        pezzi = re.split(r'\s+(?:e|ed|E)\s+', et)
+        if len(pezzi) > 1:
+            return ' E '.join(nome_pieno(p) for p in pezzi)
+        k = senza_accenti(et).upper().strip('.,')
+        if k[:1] == 'T' and SequenceMatcher(None, k, 'TUTTI').ratio() >= 0.4:
+            return 'TUTTI'           # Turri, Turi, Torri: il coro di tutti
+        candidati = [n for n in nomi if senza_accenti(n).startswith(k)]
+        if candidati:
+            return max(candidati, key=lambda n: nomi[n])
+        # letture storpiate: Turri -> TUTTI, Isn. -> ISMAELE
+        voto = {n: SequenceMatcher(None, k, senza_accenti(n)[:max(len(k), 3)]).ratio()
+                for n in nomi}
+        migliore = max(voto, key=lambda n: (voto[n], nomi[n]), default=None)
+        if migliore and voto[migliore] >= 0.6:
+            return migliore
+        return et.upper()
+
+    out = []
+    for r, k in zip(righe, trovate):
+        if not k:
+            out.append(r)
+            continue
+        et = Riga(r.pagina, r.parole[:k])
+        et.testo = nome_pieno(et.testo)
+        out.append(et)
+        out.append(Riga(r.pagina, r.parole[k:]))
+    return out
+
+
 def main():
     cartella, intestazione = sys.argv[1], sys.argv[2]
     tutte = []
     for r in leggi_righe(cartella):
         # macchie in testa alla riga: "; SCENA SETTIMA.", "Ò ATTO III."
+        while len(r.parole) > 1 and not re.search(r'[\w(]', r.parole[0]['t']):
+            r.parole.pop(0)                      # macchie a margine: "|", "®."
+        r.testo = ' '.join(p['t'] for p in r.parole)
         r.testo = re.sub(r'^(?:[^\w(«"]+|[A-ZÀ-Ý]\s+(?=[A-Z]{3}))', '', r.testo.strip())
+        r.testo = re.sub(r'^\d+\s+(?=(ATTO|PARTE)\b)', '', r.testo)   # testatina: "10 ATTO I"
+        m = re.match(r"FINE\s+DELL?'?\s*(ATTO|PARTE|PROLOGO)\s*(\S*)", r.testo.upper())
+        if m:
+            # FINE DELL'ATTO PRIMO: serve a ritrovare gli atti quando il titolo
+            # dell'atto, in caratteri grandi, l'OCR non lo legge
+            r.testo = '§FINE ' + ' '.join(x for x in m.groups() if x)
+            tutte.append(r)
+            continue
+        if re.match(r"FINE\s+(DELL|DEL)", r.testo.upper()):
+            continue
         if rumore(r):
             continue
         if tutte and tutte[-1].testo.endswith('-') and r.testo[:1].isalpha():
@@ -154,16 +264,40 @@ def main():
 
     # Il libretto comincia al primo atto (o prologo): prima ci sono frontespizio,
     # avvertenze e personaggi.
-    inizio = next(i for i, r in enumerate(tutte)
-                  if re.match(r'(ATTO|PROLOGO)\b', r.testo.strip().upper()))
-    righe = tutte[inizio:]
+    inizio = next((i for i, r in enumerate(tutte)
+                   if re.match(r'(ATTO|PARTE|PROLOGO)\b', r.testo.strip()) and len(r.testo) < 45),
+                  None)
+    if inizio is not None and not re.search(r'\b(PRIM[OA]|I|PROLOGO)\b\W*$',
+                                             tutte[inizio].testo.replace('|', 'I')):
+        # il primo titolo letto non è il primo atto: quello è andato perso,
+        # si comincia dalla prima scena che lo precede
+        prima_scena = next((i for i, r in enumerate(tutte[:inizio])
+                            if re.match(r'S\s?C\s?E\s?N\s?A\s+(PRIMA|I)\b', r.testo)), None)
+        if prima_scena is not None:
+            tipo = tutte[inizio].testo.split()[0]
+            finto = Riga(tutte[prima_scena].pagina, tutte[prima_scena].parole[:1])
+            finto.testo = f'{tipo} PRIM{"A" if tipo == "PARTE" else "O"}'
+            tutte.insert(prima_scena, finto)
+            inizio = prima_scena
+    if inizio is None:
+        # nessun titolo d'atto letto: si comincia dalla prima scena
+        inizio = next(i for i, r in enumerate(tutte)
+                      if re.match(r'S\s?C\s?E\s?N\s?A\s+[A-Z|]+\b', r.testo) and len(r.testo) < 25)
+        fini = [r.testo for r in tutte[inizio:] if r.testo.startswith('§FINE')]
+        primo = 'PROLOGO' if fini and 'PROLOGO' in fini[0] else (
+            'PARTE PRIMA' if fini and 'PARTE' in fini[0] else 'ATTO PRIMO')
+        finto = Riga(tutte[inizio].pagina, tutte[inizio].parole[:1])
+        finto.testo = primo
+        tutte.insert(inizio, finto)
+    nomi = nomi_dei_personaggi(tutte[:inizio], tutte[inizio:])
+    righe = separa_etichette(tutte[inizio:], nomi)
 
     # Nomi dei personaggi: la grafia più frequente (con gli accenti) vince.
     varianti = defaultdict(Counter)
     alias = {}
     for r in righe:
         testa = re.split(r'[,.;]', r.testo)[0].strip()
-        if maiuscola(testa) and not re.match(r'(ATTO|SCENA|PROLOGO)\b', testa):
+        if maiuscola(testa) and not re.match(r'(ATTO|PARTE|SCENA|PROLOGO)\b', testa):
             for nome in re.split(r'\s+E\s+|,\s*', testa):
                 nome = nome.strip(' .,;:')
                 if len(nome) > 2:
@@ -243,15 +377,48 @@ def main():
 
     for r in righe:
         t = r.testo.strip()
-        m = re.match(r'(?:ATTO|PROLOGO)\b\s*(\S*)', t)
-        if m and len(t) < 20:
+        if t.startswith('§FINE'):
+            fatti = [o for o in out if o.startswith('# ')]
+            ultimo = fatti[-1].split() if fatti else ['#', 'Prologo']
+            if ultimo[1] == 'Prologo':
+                t = 'ATTO PRIMO'
+            else:
+                lista = ORDINALI_F if ultimo[1] == 'Parte' else ORDINALI
+                i = lista.index(ultimo[2]) + 1 if ultimo[2] in lista else 1
+                if i >= len(lista):
+                    continue
+                t = f'{ultimo[1].upper()} {lista[i].upper()}'
+        m = re.match(r'(ATTO|PARTE|PROLOGO)\b\W*([A-Z|l]*)\W*(.*)', t)
+        if m and len(t) < 45 and (maiuscola(m.group(3)) or len(m.group(3)) <= 2):
             chiudi_prosa()
             vuota()
-            if t.upper().startswith('PROLOGO'):
+            tipo, num, resto = m.groups()
+            if tipo != 'PROLOGO':
+                lista = ORDINALI_F if tipo == 'PARTE' else ORDINALI
+                n = numero(num, lista) or 1
+                titolo = f'# {tipo.capitalize()} {lista[n - 1]}'
+                if titolo in out:
+                    continue                 # testatina ripetuta in cima alla pagina
+                fatti = [o for o in out if o.startswith('# ')]
+                if fatti and (fatti[-1].split()[1] != tipo.capitalize() and fatti[-1] != '# Prologo'
+                              or (tipo != 'PROLOGO' and fatti[-1].split()[1] == tipo.capitalize()
+                                  and lista.index(fatti[-1].split()[2]) >= n - 1)):
+                    break                    # ricomincia la numerazione: è un altro libretto
+            if tipo == 'PROLOGO':
                 emetti('# Prologo', r)
+                resto = ' '.join(x for x in (num, resto) if x)
+            elif tipo == 'PARTE':
+                n = numero(num, ORDINALI_F) or 1
+                emetti(f'# Parte {ORDINALI_F[n - 1]}', r)
             else:
-                n = numero(m.group(1), ORDINALI) or 1
+                n = numero(num, ORDINALI) or 1
                 emetti(f'# Atto {ORDINALI[n - 1]}', r)
+            sc = re.match(r'S\s?C\s?E\s?N\s?A\s+([A-Z|]+)', resto)
+            if sc:                                                   # ATTO I. SCENA I.
+                n = numero(sc.group(1), ORDINALI_F)
+                emetti(f'## Scena {ORDINALI_F[n - 1] if n else sc.group(1).lower()}', r)
+            elif len(resto.strip(' .-—')) > 2:
+                emetti(f'({tipografia(frase(resto.strip(" .-—")))})', r)   # IL DUELLO
             stato = 'luogo'
             continue
         m = re.match(r'S\s?C\s?E\s?N\s?A\s+([A-Z|]+)\b', t)
@@ -290,6 +457,12 @@ def main():
         if stato in ('luogo', 'prosa'):
             prosa.append(r)
             stato = 'prosa'
+            # la didascalia è prosa a tutta riga: una riga corta che chiude la
+            # frase è la sua ultima, quel che segue sono versi
+            larga = max(p.box()[2] for p in prosa)
+            if len(prosa) >= 2 and r.box()[2] < 0.6 * larga and re.search(r'[.)]\W*$', t):
+                chiudi_prosa()
+                stato = None
             continue
         if (out and out[-1].startswith('(') and ')' not in out[-1] and t[:1].islower()):
             out[-1] += ' ' + tipografia(t)                   # didascalia su due righe
@@ -298,8 +471,16 @@ def main():
         emetti(tipografia(t), r)
 
     chiudi_prosa()
-    while out and out[-1] == '':
-        out.pop()
+    # Nomi abbreviati su una riga loro ("ERN.", "SIL."): si scrivono per intero
+    # se un solo nome dell'elenco comincia così.
+    for i, o in enumerate(out):
+        if fonti[i] and maiuscola(o) and len(o.strip('. ')) <= 5 and not o.startswith('#'):
+            k = senza_accenti(o.strip('. '))
+            pieni = [n for n in nomi if senza_accenti(n).startswith(k) and n != k]
+            if len(pieni) == 1:
+                out[i] = pieni[0]
+    while out and (out[-1] == '' or out[-1].startswith('# ')):
+        out.pop()                     # in fondo: righe vuote e l'atto dopo l'ultimo FINE
         fonti.pop()
     with open(os.path.join(cartella, 'libretto.txt'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(out) + '\n')

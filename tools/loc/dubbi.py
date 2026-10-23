@@ -48,6 +48,11 @@ def norm(w):
     return senza_accenti(w.lower().replace('’', "'"))
 
 
+def ruolo(riga):
+    lettere = [c for c in riga if c.isalpha()]
+    return len(lettere) >= 2 and all(c.isupper() for c in lettere) and not riga.startswith('#')
+
+
 def struttura(riga):
     t = riga.strip()
     lettere = [c for c in t if c.isalpha()]
@@ -139,7 +144,12 @@ def confronta(mie, altre):
     return confermate, diverse, sm.ratio()
 
 
-def ritaglio(cartella, fonte):
+def ritaglio(cartella, fonte, parola=None):
+    """La riga stampata dove sta la parola (non tutta la didascalia)."""
+    if parola and len(fonte) > 1:
+        n = norm(parola).strip("'")
+        con = [f for f in fonte if any(n and n in norm(p['t']) for p in f['parole'])]
+        fonte = con[:1] or fonte[:2]
     pezzi = []
     for f in fonte:
         im = Image.open(os.path.join(cartella, 'ita', f['pagina'] + '.png'))
@@ -186,6 +196,20 @@ def main():
         if motivi:
             dubbi.append({'riga': i + 1, 'pos': k, 'parola': w, 'motivi': motivi,
                           'altra': diverse.get(t, '') or SCAMBI.get(w) or ''})
+    # Nomi dei personaggi che compaiono una o due volte: spesso un'etichetta
+    # letta male ("VECCNI") o un pezzo di didascalia preso per un nome.
+    ruoli = Counter(r.strip() for i, r in enumerate(righe)
+                    if i < len(fonti) and fonti[i] and ruolo(r))
+    frequenti = [n for n, c in ruoli.items() if c >= 3]
+    for i, r in enumerate(righe):
+        r = r.strip()
+        if i < len(fonti) and fonti[i] and ruolo(r) and ruoli[r] <= 2:
+            vicino = max(frequenti, key=lambda n: SequenceMatcher(None, r, n).ratio(), default='')
+            if not vicino or SequenceMatcher(None, r, vicino).ratio() < 0.6:
+                vicino = ', '.join(sorted(frequenti))
+            dubbi.append({'riga': i + 1, 'pos': 'nome', 'parola': r, 'motivi': ['personaggio raro'],
+                          'altra': vicino})
+    dubbi.sort(key=lambda d: d['riga'])
     sugg = suggerimenti(sorted({d['parola'] for d in dubbi if 'dizionario' in d['motivi']}))
 
     rev = os.path.join(cartella, 'revisione')
@@ -198,7 +222,8 @@ def main():
                     'dizionario', 'ritaglio', 'correzione'])
         for n, d in enumerate(dubbi, 1):
             nome = f'{n:04d}.jpg'
-            ritaglio(cartella, fonti[d['riga'] - 1]).save(os.path.join(rev, nome), quality=80)
+            ritaglio(cartella, fonti[d['riga'] - 1],
+                     None if d['pos'] == 'nome' else d['parola']).save(os.path.join(rev, nome), quality=80)
             w.writerow([n, d['riga'], d['pos'], d['parola'], ', '.join(d['motivi']),
                         d['altra'], sugg.get(d['parola'], ''), nome, ''])
 
@@ -208,13 +233,16 @@ def main():
         with open(os.path.join(rev, f'{n:04d}.jpg'), 'rb') as f:
             src = 'data:image/jpeg;base64,' + base64.b64encode(f.read()).decode()
         riga = righe[d['riga'] - 1]
-        ms = list(PAROLA.finditer(riga))
-        m = ms[d['pos']]
-        letta = (html.escape(riga[:m.start()]) + '<mark>' + html.escape(m.group()) +
-                 '</mark>' + html.escape(riga[m.end():]))
+        if d['pos'] == 'nome':
+            letta = '<mark>' + html.escape(riga) + '</mark>'
+        else:
+            m = list(PAROLA.finditer(riga))[d['pos']]
+            letta = (html.escape(riga[:m.start()]) + '<mark>' + html.escape(m.group()) +
+                     '</mark>' + html.escape(riga[m.end():]))
         prop = []
         if d['altra']:
-            prop.append(f'altra edizione: <b>{html.escape(d["altra"])}</b>')
+            fonte = 'personaggi' if d['pos'] == 'nome' else 'altra edizione'
+            prop.append(f'{fonte}: <b>{html.escape(d["altra"])}</b>')
         if sugg.get(d['parola']):
             prop.append(f'dizionario: {html.escape(sugg[d["parola"]])}')
         blocchi.append(

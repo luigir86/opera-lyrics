@@ -31,8 +31,15 @@ def main():
         if d['correzione'].strip() != '=':
             per_riga.setdefault(int(d['riga']), []).append(d)
     cambiate = 0
+    prima = {}          # riga -> nome di personaggio da mettere prima
     for n, ds in per_riga.items():
         riga = righe[n - 1]
+        nomi = [d for d in ds if d['pos'] == 'nome']
+        if nomi:                      # nome di personaggio: si cambia la riga intera
+            nuova = nomi[0]['correzione'].strip()
+            righe[n - 1] = None if nuova == '-' else nuova.upper()
+            cambiate += 1
+            continue
         ms = list(PAROLA.finditer(riga))
         # da destra a sinistra, così le posizioni non si spostano
         for d in sorted(ds, key=lambda d: int(d['pos']), reverse=True):
@@ -40,6 +47,12 @@ def main():
             if m.group() != d['parola']:
                 sys.exit(f'riga {n}: mi aspettavo "{d["parola"]}", trovo "{m.group()}"')
             nuova = re.sub(r"'\s+", "'", d['correzione'].strip())
+            if nuova.startswith('>'):
+                # era il nome di chi canta, a inizio verso: va su una riga sua
+                riga = riga[m.end():].lstrip(' .,:')
+                prima.setdefault(n, nuova[1:].strip().upper())
+                cambiate += 1
+                continue
             if nuova.lower() == m.group().lower():
                 continue    # solo maiuscole diverse: si tiene la forma del testo
             if nuova == '-':
@@ -48,6 +61,8 @@ def main():
                 riga = riga[:m.start()] + nuova + riga[m.end():]
             cambiate += 1
         righe[n - 1] = re.sub(r'^[^\w(«"]+', '', riga) if riga.strip() else None
+    for n in sorted(prima, reverse=True):
+        righe[n - 1:n - 1] = ['', prima[n]] if righe[n - 2] else [prima[n]]
     righe = [r for r in righe if r is not None]
     with open(uscita, 'w', encoding='utf-8') as f:
         f.write('\n'.join(righe))
