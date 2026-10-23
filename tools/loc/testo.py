@@ -169,7 +169,7 @@ def nomi_dei_personaggi(prima, dopo):
             if w not in esclusi:
                 nomi[w] += 1
     for w in ('TUTTI', 'TUTTE', 'CORO'):
-        nomi[w] += 1
+        nomi[w] += 3
     return nomi
 
 
@@ -192,6 +192,7 @@ def separa_etichette(righe, nomi):
         p0 = ps[0]['box']
         if p0[0] < med - 100 and p0[0] + p0[2] < med - 30:
             k = 1                    # parola tutta a sinistra della colonna dei versi
+            a_sinistra.add(id(r))
         else:
             for k in range(1, min(4, len(ps))):
                 fine = ps[k - 1]['box'][0] + ps[k - 1]['box'][2]
@@ -204,7 +205,21 @@ def separa_etichette(righe, nomi):
             return 0
         return k
 
+    a_sinistra = set()
     trovate = [etichetta(r) for r in righe]
+    # In un'aria rientrata anche l'inizio di un verso sta a sinistra della
+    # colonna ("È strano!...", "Che risolvi"). Su una pagina così nessuna di
+    # queste parole sembra un nome: nessuna finisce col punto, è in maiuscolo
+    # o è l'inizio di un nome dell'elenco. Allora non sono nomi.
+    def nome_sicuro(w):
+        lettere = senza_accenti(w).upper().strip(".,:;!?'")
+        return w.endswith('.') or (len(lettere) >= 2 and w.isupper()) or (
+            len(lettere) >= 2 and any(senza_accenti(n).startswith(lettere) and c >= 3
+                                      for n, c in nomi.items()))
+    pagine_buone = {r.pagina for r, k in zip(righe, trovate)
+                    if k and id(r) in a_sinistra and nome_sicuro(r.parole[0]['t'])}
+    trovate = [0 if k and id(r) in a_sinistra and r.pagina not in pagine_buone else k
+               for r, k in zip(righe, trovate)]
     if sum(1 for r, k in zip(righe, trovate) if k and r.parole[k - 1]['t'].endswith('.')) < 10:
         return righe            # questo libretto scrive i nomi su righe proprie
 
@@ -297,6 +312,9 @@ def main():
             continue
         if rumore(r):
             continue
+        if (r.testo.strip(' .') in ('ELENCO', 'CATALOGO')
+                or re.match(r"(ELENCO|CATALOGO)\b.{0,30}\b(libretti|opere|edizioni)", r.testo, re.I)):
+            break           # in fondo, il catalogo dell'editore: non è libretto
         if tutte and tutte[-1].testo.endswith('-') and r.testo[:1].isalpha():
             tutte[-1].testo = tutte[-1].testo[:-1] + r.testo     # parola divisa a fine riga
             tutte[-1].parole += r.parole
