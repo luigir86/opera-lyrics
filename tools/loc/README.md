@@ -46,6 +46,6 @@ python3 applica.py lavoro/aida-cairo ../../assets/libretti/verdi-aida.txt
 
 Le colonne `altra_edizione` e `dizionario` sono solo suggerimenti: l'altra edizione può avere davvero una parola diversa (Ricordi scrive "Giovine" dove il Cairo stampa "Giovane"), e allora vale la stampa del ritaglio. In caso di dubbio si lascia `=` e si annota il numero.
 
-Il lavoro è meccanico: lo può fare una persona o un modello piccolo che sappia leggere immagini.
+Il lavoro è meccanico: lo può fare una persona o un modello piccolo che sappia leggere immagini. Le istruzioni da dargli sono in [REVISORE.md](REVISORE.md).
 
 La punteggiatura non viene controllata: va riletta a parte.

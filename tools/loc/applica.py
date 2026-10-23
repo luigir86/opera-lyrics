@@ -39,7 +39,9 @@ def main():
             m = ms[int(d['pos'])]
             if m.group() != d['parola']:
                 sys.exit(f'riga {n}: mi aspettavo "{d["parola"]}", trovo "{m.group()}"')
-            nuova = d['correzione'].strip()
+            nuova = re.sub(r"'\s+", "'", d['correzione'].strip())
+            if nuova.lower() == m.group().lower():
+                continue    # solo maiuscole diverse: si tiene la forma del testo
             if nuova == '-':
                 riga = (riga[:m.start()].rstrip() + ' ' + riga[m.end():].lstrip()).strip()
             else:
