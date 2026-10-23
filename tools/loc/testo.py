@@ -235,6 +235,18 @@ def separa_etichette(righe, nomi):
     return out
 
 
+def fine_di(testo):
+    """"FINE DELL'ATTO PRIMO" -> "ATTO PRIMO", anche letto male ("Fine versa Panre Terza")."""
+    parole = re.findall(r"[A-ZÀ-Ý]+", senza_accenti(testo.upper()))
+    if len(testo) > 40 or len(parole) < 2 or parole[0] != 'FINE':
+        return None
+    for i, w in enumerate(parole[1:4], 1):
+        for tipo in ('ATTO', 'PARTE', 'PROLOGO'):
+            if w == tipo or (len(w) >= 4 and SequenceMatcher(None, w, tipo).ratio() >= 0.6):
+                return ' '.join([tipo] + parole[i + 1:i + 2])
+    return None
+
+
 def main():
     cartella, intestazione = sys.argv[1], sys.argv[2]
     tutte = []
@@ -245,11 +257,11 @@ def main():
         r.testo = ' '.join(p['t'] for p in r.parole)
         r.testo = re.sub(r'^(?:[^\w(«"]+|[A-ZÀ-Ý]\s+(?=[A-Z]{3}))', '', r.testo.strip())
         r.testo = re.sub(r'^\d+\s+(?=(ATTO|PARTE)\b)', '', r.testo)   # testatina: "10 ATTO I"
-        m = re.match(r"FINE\s+DELL?'?\s*(ATTO|PARTE|PROLOGO)\s*(\S*)", r.testo.upper())
+        m = fine_di(r.testo)
         if m:
             # FINE DELL'ATTO PRIMO: serve a ritrovare gli atti quando il titolo
             # dell'atto, in caratteri grandi, l'OCR non lo legge
-            r.testo = '§FINE ' + ' '.join(x for x in m.groups() if x)
+            r.testo = '§FINE ' + m
             tutte.append(r)
             continue
         if re.match(r"FINE\s+(DELL|DEL)", r.testo.upper()):
@@ -454,6 +466,13 @@ def main():
             emetti(f'({tipografia(coda.strip(" ;,")).strip("()")})', r)
             stato = None
             continue
+        if stato == 'prosa' and len(prosa) >= 2 and re.search(r'[.)!?]\W*$', prosa[-1].testo.strip()):
+            # la prosa va da margine a margine; una riga rientrata dopo una
+            # frase chiusa è un verso: la didascalia era finita
+            larga = max(p.box()[2] for p in prosa)
+            if r.box()[0] > min(p.box()[0] for p in prosa) + 0.08 * larga:
+                chiudi_prosa()
+                stato = None
         if stato in ('luogo', 'prosa'):
             prosa.append(r)
             stato = 'prosa'

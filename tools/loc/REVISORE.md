@@ -24,4 +24,8 @@ Per ogni riga del file:
 
 Lavora a gruppi di una decina di immagini e aggiorna il file dopo ogni gruppo (con uno script Python e il modulo csv, salvato dentro la cartella `revisione/` che stai rivedendo e non altrove, perché altri revisori possono lavorare in parallelo su altre opere; separatore tabulazione, intestazione e colonne invariate: riempi solo `correzione`). Non modificare altri file. Non fermarti finché tutte le righe hanno un valore in `correzione`.
 
+Attenzione a un errore frequente: se la parola dell'OCR è una macchia (per esempio una `i` o un segno tra due parole che ci sono già), la risposta è `-`. Non scrivere mai al suo posto la parola accanto o quella della riga sotto: verrebbe ripetuta due volte.
+
+Se nella cartella c'è anche `segni.tsv`, va riempito allo stesso modo. Lì ogni riga è un pezzo di testo (tra due spazi) con una cifra o un simbolo: un `0` letto al posto di `O`, un `1` al posto di `I` o di `!`, un `°` al posto di un apostrofo. La colonna `riga_letta` mostra tutta la riga letta dall'OCR. In `correzione` scrivi il pezzo intero come è stampato, con la sua punteggiatura (`O`, `Il`, `d'`, `dar.`), oppure `=` se è stampato così (per esempio un numero vero), oppure `-` se nella stampa non c'è.
+
 Alla fine riporta: quante righe `=`, quante corrette, quante `-` e l'elenco delle righe incerte.
