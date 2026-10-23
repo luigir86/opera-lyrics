@@ -272,13 +272,15 @@ def fine_di(testo):
     return None
 
 
-def maiuscole_le_etichette(righe):
+def maiuscole_le_etichette(righe, nomi=()):
     """Nomi di chi canta stampati in tondo su una riga loro ("Zaccaria.").
 
     Alcune edizioni non usano il maiuscoletto: il nome è una riga corta che
     finisce col punto. Sono etichette le righe così che tornano almeno tre
     volte, e quelle che somigliano molto a una di esse ("Zacearia."); si
-    scrivono in maiuscolo, come le altre edizioni.
+    scrivono in maiuscolo, come le altre edizioni. Un nome abbreviato ("Abig.")
+    diventa il nome intero se è l'inizio di uno solo dei nomi scritti a mano
+    in personaggi.txt.
     """
     forma = re.compile(r"[A-ZÀ-Ý][\wÀ-ÿ']*(?:\s+(?:e|ed|[A-ZÀ-Ý][\wÀ-ÿ']*\.?),?){0,3}\s*\.")
     conta = Counter(r.testo.strip() for r in righe
@@ -289,6 +291,10 @@ def maiuscole_le_etichette(righe):
         if t in conta and (t in frequenti or any(
                 SequenceMatcher(None, t, f).ratio() >= 0.8 for f in frequenti)):
             r.testo = t.upper()
+            k = r.testo.strip(' .')
+            pieni = [n for n in nomi if nomi[n] >= 100 and n != k and n.startswith(k)]
+            if r.testo.endswith('.') and len(pieni) == 1:
+                r.testo = pieni[0]
 
 
 def main():
@@ -357,7 +363,7 @@ def main():
                 if n.strip():
                     nomi[n.strip().upper()] += 100
     righe = separa_etichette(tutte[inizio:], nomi)
-    maiuscole_le_etichette(righe)
+    maiuscole_le_etichette(righe, nomi)
 
     # Nomi dei personaggi: la grafia più frequente (con gli accenti) vince.
     varianti = defaultdict(Counter)
