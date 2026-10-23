@@ -49,7 +49,7 @@ def main():
         riga = righe[n - 1]
         nomi = [d for k, d in ds if d['pos'] == 'nome']
         if nomi:                      # nome di personaggio: si cambia la riga intera
-            nuova = nomi[0]['correzione'].strip()
+            nuova = nomi[0]['correzione'].strip().lstrip('>').strip()
             righe[n - 1] = None if nuova == '-' else nuova.upper()
             cambiate += 1
             continue
@@ -83,6 +83,7 @@ def main():
                 riga = riga[:m.start()] + nuova + riga[m.end():]
             cambiate += 1
         riga = re.sub(r"(\w')\s+(?=\w)", r'\1', riga)      # l' eguale -> l'eguale
+        riga = re.sub(r"\b(\w{1,3}')\1", r'\1', riga, flags=re.I)   # l'l'amor: segno e parola
         righe[n - 1] = re.sub(r'^[^\w(«"]+', '', riga) if riga.strip() else None
     for n in sorted(prima, reverse=True):
         righe[n - 1:n - 1] = ['', prima[n]] if righe[n - 2] else [prima[n]]

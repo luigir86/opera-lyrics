@@ -387,7 +387,7 @@ def main():
             emetti(f'({tipografia(testo).strip("()")})', *prosa)
             prosa.clear()
 
-    for r in righe:
+    for indice, r in enumerate(righe):
         t = r.testo.strip()
         if t.startswith('§FINE'):
             fatti = [o for o in out if o.startswith('# ')]
@@ -450,6 +450,13 @@ def main():
         if maiuscola(t) and (',' in t.rstrip('.,;') or re.search(r'\bE\s', t)):
             chiudi_prosa()
             vuota()
+            dopo = righe[indice + 1].testo.strip() if indice + 1 < len(righe) else ''
+            if (stato is None and dopo and not maiuscola(dopo) and not dopo.startswith('(')
+                    and not re.search(r'\b(DETT[OI]|INDI|SOL[OAIE])\b', t)):
+                # "RAMPHIS E SACERDOTI." seguito da versi: cantano insieme
+                emetti(re.sub(r'[A-ZÀ-Ý]{3,}', lambda m: canonico(m.group()), t).strip(' .,;:'), r)
+                stato = None
+                continue
             emetti(f'({tipografia(elenco_nomi(t).rstrip(",. ") + ".")})', r)   # AIDA E DETTI
             stato = None
             continue
@@ -466,11 +473,14 @@ def main():
             emetti(f'({tipografia(coda.strip(" ;,")).strip("()")})', r)
             stato = None
             continue
-        if stato == 'prosa' and len(prosa) >= 2 and re.search(r'[.)!?]\W*$', prosa[-1].testo.strip()):
-            # la prosa va da margine a margine; una riga rientrata dopo una
-            # frase chiusa è un verso: la didascalia era finita
+        if stato == 'prosa' and prosa:
+            # la prosa va da margine a margine; una riga rientrata o stretta
+            # dopo una frase chiusa è un verso: la didascalia era finita
             larga = max(p.box()[2] for p in prosa)
-            if r.box()[0] > min(p.box()[0] for p in prosa) + 0.08 * larga:
+            rientro = r.box()[0] - min(p.box()[0] for p in prosa)
+            chiusa = re.search(r'[.)!?]\W*$', prosa[-1].testo.strip())
+            if (chiusa and (rientro > 0.08 * larga or len(prosa) >= 2 and r.box()[2] < 0.6 * larga)
+                    or len(prosa) >= 2 and rientro > 0.15 * larga):
                 chiudi_prosa()
                 stato = None
         if stato in ('luogo', 'prosa'):

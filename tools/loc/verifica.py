@@ -13,6 +13,7 @@ vengono più segnalati.
 """
 import csv
 import os
+import re
 import sys
 from difflib import SequenceMatcher
 
@@ -28,8 +29,15 @@ def ripara(d, righe):
     c = d['correzione'].strip()
     if d['pos'] == 'nome' or c in ('=', '-') or c.startswith('>'):
         return c
-    parole = [m.group() for m in PAROLA.finditer(righe[int(d['riga']) - 1])]
+    riga = righe[int(d['riga']) - 1]
+    ms = list(PAROLA.finditer(riga))
+    parole = [m.group() for m in ms]
     k = int(d['pos'])
+    # "l' adducano": se la correzione ripete l'elisione che sta già prima
+    # della parola ("l'adducano"), si tiene solo la parola
+    prima = re.search(r"(\w+')\s*$", riga[:ms[k].start()]) if k < len(ms) else None
+    if prima and norm(c).startswith(norm(prima.group(1))) and not norm(d['parola']).startswith(norm(prima.group(1))):
+        c = c[len(prima.group(1)):]
     if k + 1 < len(parole):
         dopo = parole[k + 1]
         if len(c) > len(dopo) and norm(c).endswith(norm(dopo)) and norm(c) != norm(d['parola']):
