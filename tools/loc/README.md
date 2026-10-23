@@ -36,6 +36,9 @@ python3 applica.py lavoro/aida-cairo ../../assets/libretti/verdi-aida.txt
 | `segni.py` | Segnala i pezzi di riga con cifre o simboli (`0` per `O`, `1` per `I`, `°` per l'apostrofo), che `dubbi.py` non vede. |
 | `verifica.py` | Dopo la revisione, elenca le risposte sospette: la parola accanto ripetuta al posto di una macchia, o una correzione che non somiglia alla parola letta. |
 | `applica.py` | Applica le correzioni della revisione. Si ferma se ne manca qualcuna. |
+| `ritocchi.py` | Applica i ritocchi di struttura scritti a mano in un `ritocchi.tsv` (versi finiti in una didascalia, nomi sbagliati, righe perse), così si possono rifare dopo ogni `applica.py`. |
+| `rimappa.py` | Se `testo.py` cambia a revisione fatta, riporta le risposte sul testo rigenerato. |
+| `riprendi.py` | Se si rifà l'OCR di alcune pagine (`ocr.py cartella 0005 0016`) e si rilanciano `dubbi.py` e `segni.py`, copia le risposte già date nella revisione nuova: restano da rivedere solo i dubbi nuovi. |
 | `controlla.py` | Ripete i controlli dell'app sul libretto finito ed elenca ciò che va guardato a mano. |
 
 ## La revisione
@@ -54,5 +57,7 @@ Le colonne `altra_edizione` e `dizionario` sono solo suggerimenti: l'altra edizi
 Il lavoro è meccanico: lo può fare una persona o un modello piccolo che sappia leggere immagini. Le istruzioni da dargli sono in [REVISORE.md](REVISORE.md).
 
 Un modello piccolo sbaglia soprattutto in un modo: quando la parola dell'OCR è una macchia, scrive la parola accanto invece di `-`. `verifica.py` trova questi casi (in `revisione/sospette.tsv`), che vanno riguardati da una persona o da un modello più attento prima di `applica.py`.
+
+Quando l'elenco dei personaggi è stampato in tondo e l'OCR lo legge male ("Yerrando" per Ferrando), le abbreviazioni a margine non si sciolgono. Si può scrivere a mano, guardando la pagina, un file `personaggi.txt` nella cartella di lavoro, un nome per riga (`FERRANDO`): `testo.py` lo usa al posto dell'elenco letto.
 
 La punteggiatura non viene controllata: va riletta a parte. Anche la struttura (didascalie che inglobano versi, un "Fine dell'atto" letto male) va controllata a mano sul libretto finito, con l'aiuto di `controlla.py`.

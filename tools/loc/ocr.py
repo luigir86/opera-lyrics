@@ -1,6 +1,9 @@
 """OCR delle pagine scaricate, tenendo solo il testo italiano.
 
-Uso: python3 ocr.py lavoro/aida-cairo
+Uso: python3 ocr.py lavoro/aida-cairo [0005 0016 ...]
+
+Con i numeri di pagina rifà solo quelle (dopo aver corretto il taglio della
+piega, per esempio) e lascia le altre come sono.
 
 Per ogni immagine in pagine/: toglie il bordo nero della scansione, divide le
 doppie pagine sulla piega e passa ogni metà a Tesseract (modello italiano).
@@ -49,18 +52,30 @@ def togli_bordo(im):
 def piega(g):
     """Ascissa della piega in una doppia pagina.
 
-    La piega è scura lungo tutta l'altezza, mentre una colonna di testo è
-    chiara tra una riga e l'altra: si prende la colonna centrale con la
-    mediana più scura.
+    La piega è una striscia stretta più scura della carta ai due lati, lungo
+    tutta l'altezza, mentre una colonna di testo è chiara tra una riga e
+    l'altra: si prende la colonna centrale con la mediana più scura, se è
+    davvero più scura delle colonne vicine.
     """
     w, h = g.size
     piccola = g.resize((max(1, w // 4), max(1, h // 4)))
     pw, ph = piccola.size
     px = piccola.load()
     a, b = int(pw * 0.38), int(pw * 0.62)
-    mediane = {x: sorted(px[x, y] for y in range(ph))[ph // 2] for x in range(a, b)}
+    mediane = {x: sorted(px[x, y] for y in range(ph))[ph // 2]
+               for x in range(max(0, a - 13), min(pw, b + 13))}
     liscia = {x: sum(mediane.get(x + d, 255) for d in (-1, 0, 1)) for x in mediane}
-    return min(liscia, key=liscia.get) * 4
+    scura = min(range(a, b), key=liscia.get)
+    lati = [liscia.get(scura + s * d, 765) for s in (-1, 1) for d in range(6, 12)]
+    if min(lati) - liscia[scura] >= 15:
+        return scura * 4
+    # nessuna piega visibile (una pagina bianca accanto al testo, o la carta
+    # che scurisce piano verso un lato): si taglia nella colonna senza
+    # inchiostro più vicina al centro
+    vuote = [x for x in range(a, b) if sorted(px[x, y] for y in range(ph))[ph // 50] > 180]
+    if vuote:
+        return min(vuote, key=lambda x: abs(x - pw // 2)) * 4
+    return scura * 4
 
 
 def tesseract(im):
@@ -126,19 +141,24 @@ def una_pagina(args):
 
 
 def main():
-    cartella = sys.argv[1]
+    cartella, scelte = sys.argv[1], set(sys.argv[2:])
+    nomi = sorted(f for f in os.listdir(os.path.join(cartella, 'pagine')) if f.endswith('.jpg'))
+    riassunto = {}
+    if scelte:
+        nomi = [x for x in nomi if x[:-4] in scelte]
+        with open(os.path.join(cartella, 'pagine.json'), encoding='utf-8') as f:
+            riassunto = json.load(f)
     for d in ('ita', 'ocr'):
         os.makedirs(os.path.join(cartella, d), exist_ok=True)
         for vecchio in os.listdir(os.path.join(cartella, d)):
-            os.remove(os.path.join(cartella, d, vecchio))
-    nomi = sorted(f for f in os.listdir(os.path.join(cartella, 'pagine')) if f.endswith('.jpg'))
-    riassunto = {}
+            if not scelte or vecchio[:4] in scelte:
+                os.remove(os.path.join(cartella, d, vecchio))
     with ProcessPoolExecutor() as ex:
         for n, info in ex.map(una_pagina, [(cartella, x) for x in nomi]):
             riassunto[n] = info
             print(n, info)
     with open(os.path.join(cartella, 'pagine.json'), 'w', encoding='utf-8') as f:
-        json.dump(riassunto, f, indent=1)
+        json.dump(dict(sorted(riassunto.items())), f, indent=1)
 
 
 if __name__ == '__main__':

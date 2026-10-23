@@ -150,13 +150,20 @@ def nomi_dei_personaggi(prima, dopo):
     nomi = Counter()
     esclusi = ('PERSONAGGI', 'ATTORI', 'ATTO', 'PARTE', 'SCENA', 'PROLOGO', 'SIG', 'SIGN',
                'SIGNORA', 'DETTI', 'DETTO', 'FINE')
+    esclusi += ('PRIMA', 'SECONDA', 'TERZA', 'QUARTA', 'ULTIMA', 'III', 'CORI', 'COMPARSE')
     pag = next((r.pagina for r in prima if 'PERSONAGGI' in r.testo), None)
-    for r in prima:
-        if pag and r.pagina != pag:
-            continue
+    elenco = [r for r in prima if not pag or r.pagina == pag]
+    for r in elenco:
         m = re.match(r"(?:Il|La|Lo|Un|Una|Gran|Il Gran)?\s*([A-ZÀ-Ý][A-ZÀ-Ý']{2,})", r.testo)
         if m and m.group(1) not in esclusi:
             nomi[m.group(1)] += 1
+    if pag and len(nomi) < 3:
+        # elenco in tondo ("Il Conte di Luna . . . sig. Coretti"): la prima
+        # parola con la maiuscola di ogni riga
+        for r in elenco:
+            m = re.match(r"(?:(?i:il|la|lo|un|una|gran|il gran)\s+)?([A-ZÀ-Ý][\wÀ-ÿ']{2,})", r.testo)
+            if m and m.group(1).upper() not in esclusi:
+                nomi[m.group(1).upper()] += 1
     for r in dopo:
         for w in re.findall(r"[A-ZÀ-Ý][A-ZÀ-Ý']{2,}", r.testo):
             if w not in esclusi:
@@ -202,6 +209,7 @@ def separa_etichette(righe, nomi):
         return righe            # questo libretto scrive i nomi su righe proprie
 
     def nome_pieno(et):
+        intero = not et.rstrip(' :').endswith('.')    # "Coro" e non "Con.": parola intera
         et = et.strip(' .:')
         m = re.fullmatch(r'a\s*(\d)', et)
         if m:
@@ -217,6 +225,8 @@ def separa_etichette(righe, nomi):
             return max(candidati, key=lambda n: nomi[n])
         # letture storpiate: Turri -> TUTTI, Isn. -> ISMAELE
         voto = {n: SequenceMatcher(None, k, senza_accenti(n)[:max(len(k), 3)]).ratio()
+                + (0.1 if n[:1] == k[:1] else 0)            # Fan. -> FAMIGLIARI, non MANRICO
+                + (0.05 if intero and len(n) == len(k) else 0)  # Cono -> CORO, non CONTE
                 for n in nomi}
         migliore = max(voto, key=lambda n: (voto[n], nomi[n]), default=None)
         if migliore and voto[migliore] >= 0.6:
@@ -245,6 +255,25 @@ def fine_di(testo):
             if w == tipo or (len(w) >= 4 and SequenceMatcher(None, w, tipo).ratio() >= 0.6):
                 return ' '.join([tipo] + parole[i + 1:i + 2])
     return None
+
+
+def maiuscole_le_etichette(righe):
+    """Nomi di chi canta stampati in tondo su una riga loro ("Zaccaria.").
+
+    Alcune edizioni non usano il maiuscoletto: il nome è una riga corta che
+    finisce col punto. Sono etichette le righe così che tornano almeno tre
+    volte, e quelle che somigliano molto a una di esse ("Zacearia."); si
+    scrivono in maiuscolo, come le altre edizioni.
+    """
+    forma = re.compile(r"[A-ZÀ-Ý][\wÀ-ÿ']*(?:\s+(?:e|ed|[A-ZÀ-Ý][\wÀ-ÿ']*\.?),?){0,3}\s*\.")
+    conta = Counter(r.testo.strip() for r in righe
+                    if forma.fullmatch(r.testo.strip()) and not maiuscola(r.testo))
+    frequenti = [t for t, c in conta.items() if c >= 3]
+    for r in righe:
+        t = r.testo.strip()
+        if t in conta and (t in frequenti or any(
+                SequenceMatcher(None, t, f).ratio() >= 0.8 for f in frequenti)):
+            r.testo = t.upper()
 
 
 def main():
@@ -302,7 +331,15 @@ def main():
         finto.testo = primo
         tutte.insert(inizio, finto)
     nomi = nomi_dei_personaggi(tutte[:inizio], tutte[inizio:])
+    if os.path.exists(os.path.join(cartella, 'personaggi.txt')):
+        # elenco scritto a mano guardando la pagina dei personaggi, quando
+        # l'OCR non la legge bene ("Yerrando" per Ferrando)
+        with open(os.path.join(cartella, 'personaggi.txt'), encoding='utf-8') as f:
+            for n in f.read().split('\n'):
+                if n.strip():
+                    nomi[n.strip().upper()] += 100
     righe = separa_etichette(tutte[inizio:], nomi)
+    maiuscole_le_etichette(righe)
 
     # Nomi dei personaggi: la grafia più frequente (con gli accenti) vince.
     varianti = defaultdict(Counter)
@@ -433,7 +470,8 @@ def main():
                 emetti(f'({tipografia(frase(resto.strip(" .-—")))})', r)   # IL DUELLO
             stato = 'luogo'
             continue
-        m = re.match(r'S\s?C\s?E\s?N\s?A\s+([A-Z|]+)\b', t)
+        m = (re.match(r'S\s?C\s?E\s?N\s?A\s+([A-Z|]+)\b', t)
+             or re.match(r'Scena\s+([IVXLl|]+|[A-Za-z]+a)\b\W*$', t))   # "Scena IL °", "Scena ultima"
         if m and len(t) < 25:
             chiudi_prosa()
             vuota()

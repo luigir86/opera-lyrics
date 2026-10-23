@@ -16,7 +16,7 @@ import re
 import sys
 from difflib import SequenceMatcher
 
-from dubbi import PAROLA, norm
+from dubbi import PAROLA, norm, ruolo
 
 PEZZO = re.compile(r'\S+')
 
@@ -61,9 +61,21 @@ def main():
             if d['pos'] == 'nome':
                 # il nome di personaggio è una riga intera: si cerca la riga
                 # dove è finito il suo primo pezzo
+                # (anche se il nuovo testo lo scrive diverso, "FEN" -> "FERRANDO":
+                # la risposta resta giusta)
                 dove = primi.get((int(d['riga']), 0))
-                if dove and nuove[dove[0]].strip() == d['parola']:
-                    d['riga'] = str(dove[0] + 1)
+                if not dove:
+                    # il nome cambiato non si allinea: si guarda dove è finita
+                    # la riga dopo, e si prende la riga di nome che la precede
+                    dopo = next((primi[(r, 0)] for r in range(int(d['riga']) + 1, int(d['riga']) + 4)
+                                 if (r, 0) in primi), None)
+                    if dopo:
+                        j = dopo[0] - 1
+                        while j > 0 and not nuove[j].strip():
+                            j -= 1
+                        dove = (j, 0, nuove[j])
+                if dove and (nuove[dove[0]].strip() == d['parola'] or ruolo(nuove[dove[0]])):
+                    d['riga'], d['parola'] = str(dove[0] + 1), nuove[dove[0]].strip()
                     tenute.append(d)
                 else:
                     perse.append(d)

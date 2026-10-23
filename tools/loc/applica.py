@@ -50,7 +50,10 @@ def main():
         nomi = [d for k, d in ds if d['pos'] == 'nome']
         if nomi:                      # nome di personaggio: si cambia la riga intera
             nuova = nomi[0]['correzione'].strip().lstrip('>').strip()
-            righe[n - 1] = None if nuova == '-' else nuova.upper()
+            # un nome; ma se chi rivede ha scritto minuscole, era un verso
+            # preso per un nome ("Conforto, e")
+            righe[n - 1] = None if nuova == '-' else (
+                nuova if re.search(r'[a-zà-ÿ]', nuova) else nuova.upper())
             cambiate += 1
             continue
         # ogni correzione è un pezzo della riga originale (inizio, fine) da
@@ -71,8 +74,11 @@ def main():
         for k, m, nuova in sorted(modifiche, key=lambda x: x[1].start(), reverse=True):
             if nuova.startswith('>'):
                 # era il nome di chi canta, a inizio verso: va su una riga sua
-                riga = riga[m.end():].lstrip(' .,:')
-                prima.setdefault(n, nuova[1:].strip().upper())
+                # ">TUTTI Squilli": il nome e, attaccato, l'inizio del verso
+                nome = re.match(r"[A-ZÀ-Ý'][A-ZÀ-Ý' ]*(?![a-zà-ÿ])", nuova[1:].strip())
+                resto = nuova[1:].strip()[nome.end():].strip() if nome else ''
+                riga = (resto + ' ' if resto else '') + riga[m.end():].lstrip(' .,:')
+                prima.setdefault(n, (nome.group().strip() if nome else nuova[1:].strip()).upper())
                 cambiate += 1
                 continue
             if nuova.lower() == m.group().lower():
