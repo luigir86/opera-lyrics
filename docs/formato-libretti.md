@@ -38,6 +38,7 @@ che la bellezza infiora.
 | `(testo)` | Didascalia, mostrata in corsivo attenuato. |
 | Riga vuota | Fine di una strofa. |
 | `// testo` | Commento, ignorato. |
+| `\testo` | Sempre un verso, anche se è tra parentesi o in maiuscolo: serve per gli a parte cantati, come `\(Che tumulto!... Oh ciel! che gridi!)`. |
 | Qualsiasi altra riga | Un verso. |
 
 Le didascalie tra l'inizio dell'atto e il primo `##` restano in cima all'atto, senza titolo.

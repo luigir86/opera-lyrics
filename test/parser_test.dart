@@ -56,6 +56,19 @@ void main() {
     expect(isRoleName('...'), isFalse);
   });
 
+  test('a backslash keeps a line a verse', () {
+    final lines = parseLibretto(
+      'x',
+      '# Atto\nANNA\n\\(Che tumulto!)\n\\AH!\n(Parte.)',
+    ).acts.single.numbers.single.lines;
+    expect(lines, [
+      const LibrettoLine(LineKind.role, 'ANNA'),
+      const LibrettoLine(LineKind.verse, '(Che tumulto!)'),
+      const LibrettoLine(LineKind.verse, 'AH!'),
+      const LibrettoLine(LineKind.direction, 'Parte.'),
+    ]);
+  });
+
   test('the header alone does not read the acts', () {
     final l = parseLibrettoHeader('x', text);
     expect(l.title, "L'esempio");

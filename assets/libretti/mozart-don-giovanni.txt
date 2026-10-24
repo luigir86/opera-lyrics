@@ -1,0 +1,3389 @@
+// Testo da Wikisource, trascrizione completa ma non ancora riletta
+// dell'edizione del 1867 (Indice:Da Ponte - Don Giovanni, 1867.djvu): può
+// contenere refusi dell'OCR, lasciati come sono. Divisione in scene
+// dell'originale; i nomi abbreviati (Gio., Lep., Elv.) sono scritti per
+// intero.
+title: Don Giovanni
+composer: Wolfgang Amadeus Mozart
+librettist: Lorenzo Da Ponte
+year: 1787
+source: https://it.wikisource.org/wiki/Don_Giovanni
+license: Pubblico dominio; trascrizione di Wikisource, CC BY-SA 4.0
+
+# Atto primo
+
+## Scena prima
+(Atrio corrispondente al palazzo del Commendatore. Notte.)
+(Leporello, indi Don Giovanni e Donn’Anna, ed in ultimo il Commendatore.)
+(Leporello entrando dal lato destro con lanterna in mano s’avanza cauto e circospetto)
+
+LEPORELLO
+Notte e giorno faticar
+Per chi nulla sa gradir;
+Pioggia e vento sopportar.
+Mangiar male e non dormir!
+Voglio fare il gentiluomo,
+E non voglio più servir.
+Oh che caro galantuomo
+Vuol star dentro con la bella
+Ed io far la sentinella!...
+Voglio fare il gentiluomo.
+E non voglio più servir...
+Ma mi par che venga gente...
+Non mi voglio far sentir.
+((si ritira).)
+(Don Gio. dal palazzo del Comm. inseguito da Donn’Anna; cerca coprirsi il viso, ed è involto in un lungo mantello)
+
+DONNA ANNA
+Non sperar, se non mi uccidi,
+(trattenendo D. Gio.)
+Ch’io ti lasci fuggir mai.
+
+DON GIOVANNI
+Donna folle! indarno gridi:
+Chi son io tu non saprai.
+
+LEPORELLO
+\(Che tumulto!... Oh ciel! che gridi!)
+Il padron in nuovi guai!...
+(Avanzandosi)
+
+DONNA ANNA
+Gente!... servi!... al traditore!...
+
+DON GIOVANNI
+Taci o trema al mio furore.
+
+DONNA ANNA
+Scellerato!
+
+DON GIOVANNI
+Sconsigliata!
+(Questa furia disperata
+Mi vuol far precipitar)
+
+DONNA ANNA
+Come furia disperata
+Ti saprò Perseguitar
+
+LEPORELLO
+Sta a veder che il malandrino
+Mi farà precipitar.
+
+IL COMMENDATORE
+Lasciala indegno!
+(con spada e lume. Anna, udendo la voce del padre, lascia Gio. ed entra in casa)
+Battiti meco.
+
+DON GIOVANNI
+Va: non mi degno
+Di pugnar teco.
+
+IL COMMENDATORE
+Così pretendi
+Da me fuggir?
+
+LEPORELLO
+(Potessi almeno
+Di qua partir)
+
+DON GIOVANNI
+Misero! attendi
+Se vuoi morir.
+(si battono. Il Commend. è ferito.)
+
+IL COMMENDATORE
+Ah soccorso!... son tradito...
+L’assassino m’ha ferito...
+E dal seno palpitante...
+Sento l’anima partir...
+
+DON GIOVANNI
+Ah! già cade il sciagurato...
+Affannosa e agonizzante
+Già dal seno palpitante
+Veggo l’anima partir.
+(il Comm. muore)
+
+LEPORELLO
+(Qual misfatto, qual eccesso!
+Entro il sen, dallo spavento,
+Palpitar il cor mi sento,
+E non so che far, che dir.)
+
+DON GIOVANNI
+Leporello, ove sei?
+(sottovoce)
+
+LEPORELLO
+Son qui, per mia disgrazia. E voi?
+
+DON GIOVANNI
+Son qui,
+
+LEPORELLO
+Chi è morto? voi o il vecchio?
+
+DON GIOVANNI
+Che domanda da bestia! il vecchio.
+
+LEPORELLO
+Bravo!
+Due imprese leggiadre:
+Tentar la figlia, ed ammazzare il padre.
+
+DON GIOVANNI
+L’ha voluto: suo danno.
+
+LEPORELLO
+Ma donn’Anna...
+
+DON GIOVANNI
+Non mi seccar. Vien meco, se non vuoi
+Qualche cosa ancor tu.
+
+LEPORELLO
+Non vo’ nulla, signor; non parlo più.
+(Alzando da terra la lanterna ed il mantello)
+(partono)
+
+## Scena II
+(Duca Ottavio, Donn’Anna, e Servi con lumi.)
+
+DONNA ANNA
+Ah! del padre in periglio
+In soccorso voliam.
+
+DON OTTAVIO
+Tutto il mio sangue
+Verserò se bisogna:
+Ma dov’è il scellerato?
+
+DONNA ANNA
+In questo luogo.
+Ah! qual mai s’offre o Dei,
+(Vede il cadavere)
+Spettacolo funesto, agli occhi miei!
+Il padre!... padre mio!... mio caro padre!...
+(cade quasi svenuta sul corpo del padre)
+
+DON OTTAVIO
+Signora...
+
+DONNA ANNA
+Ah! l’assassino
+Me ’l trucidò... Quel sangue...
+Quella piaga... quel volto
+Tinto e coperto del color di morte...
+Ei non respira più... fredde ah le membra...
+Padre mio!... caro padre!... io manco... io moro...
+
+DON OTTAVIO
+Ah! soccorrete, amici, il mio tesoro.
+(sviene)
+Cercatemi, recatemi
+Qualche odor, qualche spirito... Ah! non tardate.
+(partono due servi)
+Donn’Anna!... sposa!... amica!.. Il duolo estremo
+La meschinella uccide!
+
+DONNA ANNA
+Ahi!
+
+DON OTTAVIO
+Già rinviene.
+Datele nuovi aiuti.
+(ritornano i servi)
+
+DONNA ANNA
+Padre mio!
+
+DON OTTAVIO
+Celate, allontanate agli occhi suoi
+Quell’oggetto d’orrore.
+(viene portato via il cadavere)
+Anima mia, consolati fa core!
+
+DONNA ANNA
+Fuggi, crudele. Fuggi!
+Lascia che mora anch’io
+Ora ch’è morto, oh Dio!
+Chi a me la vita diè.
+
+DON OTTAVIO
+Senti, cor mio, deh! senti
+Guardami un solo istante:
+Ti parla il core amante
+Che vive sol per te.
+
+DONNA ANNA
+Tu sei! perdon mio bene.
+L’affanno mio.. le pene...
+Ah! il padre mio dov’è?
+
+DON OTTAVIO
+Il padre.. lascia, o cara,
+La rimembranza amara:
+Hai sposo e padre in me.
+
+DONNA ANNA
+Ah! vendicar, se il puoi
+Giura quel sangue ognor.
+
+DON OTTAVIO
+Lo giuro agli occhi tuoi
+Lo giuro al nostro amor.
+
+A DUE
+Che giuramento, oh Dio!
+Che barbaro tormento!
+Fra cento affetti e cento
+Vammi ondeggiando il cor.
+(Anna parte coi servi)
+
+## Scena III
+(Ottavio solo.)
+
+DON OTTAVIO
+Come mai creder deggio,
+Di delitto sì nero
+Capace un cavaliere
+Ah! di scoprir il vero
+Ogni mezzo si cerchi. Io sento in petto
+E di sposo e d’amico il dover che mi parla:
+Disingannarla io voglio e vendicarla.
+Dalla sua pace la mia dipende,
+Quel che a lei piace vita mi rende,
+Quel che le incresce morte mi dà.
+S’ella sospira sospiro anch’io,
+È mia quel’ira quel pianto è mio,
+E non ho bene s’ella non l’ha.
+(parte)
+
+## Scena IV
+(Recinto d’antico castello con veduta d'una locanda (Alba.))
+(Don Giovanni e Leporello.)
+
+DON GIOVANNI
+Orsù, spicciati presto. Cosa vuoi?
+
+LEPORELLO
+L’affar di cui si tratta
+È importante.
+
+DON GIOVANNI
+Lo credo.
+
+LEPORELLO
+È importantissimo.
+
+DON GIOVANNI
+Meglio ancora! finiscila.
+
+LEPORELLO
+Giurate.
+Di non andar in collera.
+
+DON GIOVANNI
+Lo giuro sul mio onore.
+Purché non parli del Commendatore.
+
+LEPORELLO
+Siamo soli.
+
+DON GIOVANNI
+Lo vedo.
+
+LEPORELLO
+Nessun ci sente.
+
+DON GIOVANNI
+Via.
+
+LEPORELLO
+Vi posso dire
+Tutto liberamente...
+
+DON GIOVANNI
+Sì.
+
+LEPORELLO
+Dunque, quand’è così,
+Caro signor padrone,
+La vita che menate è da briccone.
+
+DON GIOVANNI
+Temerario! in tal guisa?...
+
+LEPORELLO
+E il giuramento?
+
+DON GIOVANNI
+Non so di giuramento. Taci, o ch’io...
+
+LEPORELLO
+Non parlo più, non fiato, o padron mio.
+
+DON GIOVANNI
+Così saremo amici. Or odi un poco:
+Sai tu perchè son qui?
+
+LEPORELLO
+Non ne so nulla.
+Ma, essendo l’alba chiara, non sarebbe
+Qualche nuova conquista?
+Io lo devo saper per porla in lista.
+
+DON GIOVANNI
+Va là, che sei il grand’uomo! Sappi ch’io sono
+Innamorato d’una bella dama,
+E son certo che m’ama.
+La vidi, le parlai; meco al casino
+Questa notte verrà... Zitto: mi pare
+Sentir odor di femmina..
+
+LEPORELLO
+Cospetto...
+Che odorato perfetto!
+
+DON GIOVANNI
+All’aria mi par bella.
+
+LEPORELLO
+\(Che occhio, dico!)
+
+DON GIOVANNI
+Ritiriamoci un poco.
+E scopriamo terren.
+
+LEPORELLO
+(Già prese foco),
+(vanno in disparte)
+
+## Scena V
+(Donna Elvira dalla locanda.)
+
+DONNA ELVIRA
+Ah! chi mi dice mai
+Quel barbaro dov’è,
+Che per mio scorno amai,
+Che mi mancò di fé?
+Ah! se ritrovo l’empio.
+E a me non torna ancor,
+Vo’ farne orrendo scempio.
+Vo’ trapassargli il cor.
+
+DON GIOVANNI
+Udisti? qualche bella
+(piano a Lep.)
+Dal vago abbandonata... Poverina!
+Cerchiara di consolare il suo tormento,
+(avanzandosi)
+
+LEPORELLO
+\(Così ne consolò mille e ottocento.)
+
+DON GIOVANNI
+Signorina...
+
+DONNA ELVIRA
+Chi è là?
+
+DON GIOVANNI
+Stelle! che vedo!
+
+LEPORELLO
+\(Oh bella! Donna Elvira!)
+
+DONNA ELVIRA
+\(Don Giovanni!...)
+Sei qui, mostro, fellon, nido d’inganni!...
+
+LEPORELLO
+(Che titoli cruscanti! Manco male
+Che lo conosce bene!)
+
+DON GIOVANNI
+Ah! cara Donn’Elvira
+Calmate quella collera... sentite...
+Lasciatemi parlar...
+
+DONNA ELVIRA
+Cosa può dire
+Dopo azion si nera? In casa mia
+Entri furtivamente. A forza d’arte.
+Di giuramenti e di lusinghe, arrivi,
+A sedurre il cor mio;
+M’innamori o crudele!
+Mi dichiari tua sposa. E poi, mancando
+Della terra e del ciel al santo dritto,
+Con enorme delitto
+Dopo tre dì da Burgos t’allontani,
+M’abbandoni, mi fuggi, e lasci in preda
+Al rimorso ed al pianto
+Per pena forse che l’ami cotanto.
+
+LEPORELLO
+\(Pare un libro stampato?)
+
+DON GIOVANNI
+In quanto a questo
+Ebbi le mie ragioni!
+È vero!
+(a Lep. ironicamente)
+
+LEPORELLO
+È vero.
+E che ragioni forti!
+
+DONNA ELVIRA
+E qual sono.
+Se non la tua perfidia,
+La leggerezza tua? Ma il giusto cielo
+Volle ch’io ti trovassi
+Per far le sue, le mie vendette.
+
+DON GIOVANNI
+Siate più ragionevole... (Mi pone
+A cimento costei). Se non credete
+Al labbro mio, credete
+A questo galantuomo.
+
+LEPORELLO
+(Salvo il vero).
+
+DON GIOVANNI
+Via, dille un poco,..
+
+LEPORELLO
+E cosa devo dirle?
+(sottovoce a Gio.)
+
+DON GIOVANNI
+Sì sì. dille pur tutto.
+(parte non visto da Elv.)
+
+DONNA ELVIRA
+Ebben, fa presto.
+
+LEPORELLO
+Madama... veramente... questo mondo...
+Conciossiacosaquandofossechè
+Il quadro non è tondo...
+
+DONNA ELVIRA
+Sciagurato!
+Così del mio dolor giuoco ti prendi?
+Ah! voi!... Stelle! l’iniquo (verso Gio. che non crede partito)
+Fuggì!... misera me!... Dove? in qual parte?
+
+LEPORELLO
+Eh! lasciate che vada. Egli non merta
+Che su di lui pensiate.
+
+DONNA ELVIRA
+Scellerato!
+M’ingannò, mi tradi...
+
+LEPORELLO
+Eh! consolatevi;
+Non siete voi, non foste e non sarete
+Né la prima nè l’ultima. Guardate
+Questa non piccol lista; è tutta piena
+De’ nomi di sue belle.
+Ogni villa, ogni borgo, ogni paese
+È testimon di sue donnesche imprese.
+Madamina, il catalogo è questo
+Delle belle che amò il padron mio:
+Un catalogo egli è che ho fatt’io;
+Osservate leggete con me.
+In Italia seicento e quaranta.
+In Germania duegento e trentuna.
+Cento In Francia, in Turchia novantuna.
+Ma in Ispagna son già mille e tre.
+V’han fra queste contadine,
+Cameriere, cittadine,
+V’han contesse, baronesse,
+Marchesine, principesse,
+E v’han donne d’ogni grado,
+D’ogni forma, d’ogni età.
+Nella bionda egli ha l’usanza
+Di lodar la gentilezza;
+Nella bruna, la costanza;
+Nella bianca, la dolcezza;
+Vuol d’inverno la grassetta
+Vuol d’estate la magrotta
+E la grande maestosa,
+La piccina ognor vezzosa;
+Delle vecchie fa conquista
+Pel piacere di porle in lista.
+Ma passion predominante;
+E la giovin principiante;
+Non si picca se sia ricca,
+Se sia brutta, se sia bella;
+Purchè porti la gonnella,
+Ogni donna per lui fa.
+(parte)
+
+## Scena VI
+(Elvira sola.)
+
+DONNA ELVIRA
+In questa forma dunque
+Mi tradì il scellerato? È questo il premio,
+Che quel barbaro rende all’amor mio?
+Ah! vendicar vogl’io
+L’ingannato mio cor. Pria ch’ei mi fugga
+tfi ricorra... si vada... Io sento in petto
+Sol vendetta parlar, rabbia e dispetto.
+In quali eccessi, o Numi! in quai misfatti
+Orribili, tremendi,
+È avvolto il sciagurato!
+Ah no. non può tardar l’ira del cielo,
+La giustizia tarda. Sentir già parmi
+La fatale saetta,
+Che gli piomba sul capo! Aperto veggio
+Il baratro mortal. Misera Elvira!
+Che contrasto d’affetti in sen ti nasce!
+Perchè questi sospiri e queste ambasce?
+Mi tradì quell’alma ingrata,
+Infelice, o Dio! mi fa.
+Ma tradita e abbandonata
+Provo ancor per lui pietà,
+Quando sento il mio tormento
+Di vendetta il cor favella,
+Ma se guardo il suo cimento
+Palpitante il cor mi va.
+(parte)
+
+## Scena VII
+(Zerlina, Masetto e Coro di contadini d’ambo i sessi che cantano, suonano e ballano.)
+
+ZERLINA
+Giovinette, che fate all’amore.
+Non lasciate che passi l’età:
+Se nel seno vi brulica il core,
+Il rimedio vedetelo qua.
+La ra la, la ra la, la ra la.
+Che piacer! che piacer che sarà!
+
+CORO
+La rà la, ecc.
+
+MASETTO
+Giovinetti, leggeri di testa,
+Non andate girando qua e ià:
+Poco dura de’ matti la festa,
+Ma per me cominciato non ha.
+La ra la, la ra la, la ra la.
+Che piacer! che piacer che sarà!
+
+CORO
+La ra la. ecc.
+
+ZERLINA E MASETTO
+Vieni, vieni, carinoa, godiamo,
+E cantiamo e balliamo o suoniamo.
+Vieni, vieni, carinoa, godiamo,
+Che piacere! che piacer che sarà!
+
+## Scena VIII
+(Don Giovanni, Leporello e Detta)
+
+DON GIOVANNI
+Manco male e partita... Oh guarda, guarda
+Che bella gioventù, che belle donne!
+
+LEPORELLO
+(Fra tante, per mia fè,
+Vi sarà qualche cosa anche per me).
+
+DON GIOVANNI
+Cari amici, buon giorno. Seguitate
+A stare allegramente.
+Seguitate a suonar, o buona gente.
+C’è qualche sposalizio?
+
+ZERLINA
+Sì, signore,
+E la sposa son io.
+
+DON GIOVANNI
+Me ne consolo.
+Lo sposo?
+
+MASETTO
+Io, per servirla.
+
+DON GIOVANNI
+O bravo! per servirmi; questo è vero
+Parlar da galantuomo.
+
+LEPORELLO
+Che eccellente marito!
+
+ZERLINA
+Oh! il mio Masetto
+È un uom d’ottimo core.
+
+DON GIOVANNI
+Anch’io, vedete.
+Voglio che siamo amici. Il vostro nome?
+
+ZERLINA
+Zerlina.
+
+DON GIOVANNI
+E il tuo?
+
+MASETTO
+Masetto.
+
+DON GIOVANNI
+Oh, caro il mio Masetto!
+Cara la mia Zerlina! ti esebisco
+Le mia protezione... Leporello?...
+Cosa fai li, birbone?...
+(a Lep., che fa scherzi alle altre Contadine)
+
+LEPORELLO
+Anch’io, caro padrone,
+Esebisco la mia protezione.
+
+DON GIOVANNI
+Presto: va con costor: nel mio palazzo
+Conducili sul fatto; ordina che abbiano
+Cioccolata, Caffè, vini, pvesciutti;
+Cerca divertir tutti,
+Mostra loro il giardino,
+La galleria, le Camere: in effetto
+Fa che resti contento il mio Masetto.
+Hai capito?
+
+LEPORELLO
+Ho capito. Andiam.
+(ai villani)
+
+MASETTO
+Signor...
+
+DON GIOVANNI
+Cosa c’è?
+
+MASETTO
+La Zerlina
+Senza me non può star.
+
+LEPORELLO
+In vostro loco
+Ci sarà sua eccellenza, e saprà bene
+Fare le vostre parti,
+
+DON GIOVANNI
+Oh! la Zerlina
+È in man d’un cavalier. Va pur: fra poco
+Ella meco verrà,
+
+ZERLINA
+Va, non temere:
+Nelle mani son io d’un Cavaliere.
+
+MASETTO
+E per questo...
+
+ZERLINA
+E per questo
+Non c’è da dubitar...
+
+MASETTO
+Ed io, cospetto!...
+
+DON GIOVANNI
+Olà, finiam le dispute; se subito.
+Senz’altro replicar, non te ne vai,
+(mostrandogli la spada)
+Masetto, guarda ben, ti pentirai.
+
+MASETTO
+Ho capito, signor si!
+(a Don Gio.)
+Chino il capo, e me ne vo.
+Giacché piace a voi così.
+Altre repliche non fo.
+Cavalier voi siete già,
+Dubitar non posso affè,
+Me lo dice la bontà
+Che volete aver per me.
+Bricconaccia, malandrina,
+(a Zer. a parte)
+Fosti ognor la mia ruìna.
+Vengo, vengo! Resta, resta!
+(a Lep.)
+(a Zer.)
+È una cosa molto onesta,
+Faccia il nostro cavaliere
+Cavaliere ancora te.
+((Masetto parte con Leporello ed i Contadini).)
+
+## Scena IX
+(Don Giovanni e Zerlina.)
+
+DON GIOVANNI
+Alfin siamo liberati,
+Zerlinetta gentil, da quel scioccone.
+Che ne dite, mio ben, so far pulito?
+
+ZERLINA
+Signore, è mio marito...
+
+DON GIOVANNI
+Chi! colui?
+Vi par che un onest’uomo,
+Un nobil cavalier, com’io mi vanto.
+Possa soffrir che quel visetto d’oro,
+Quel viso inzuccherato
+Da un bifolcaccio vil sia strapazzato?
+
+ZERLINA
+Ma, signore, io gli diedi
+Parola di sposarlo.
+
+DON GIOVANNI
+Tal parola
+Non vale un zero, Voi non siete fatta
+Per esser paesana; un’altra sorte
+Vi procuran quegli occhi bricconcelli,
+Que’labbretti sì belli,
+Quelle ditucce candide e odorose:
+Parmi toccar giuncata e fiutar rose.
+
+ZERLINA
+Ah!... non vorrei...
+
+DON GIOVANNI
+Che non vorreste?
+
+ZERLINA
+Alfine
+Ingannata restar, lo so che rado
+Colle donne voi altri cavalieri
+Siete onesti e sinceri.
+
+DON GIOVANNI
+È un’impostura
+Della gente plebea. La nobiltà
+Ha dipinta negli occhi l’onestà.
+Orsù, non perdiam tempo; in questo istante
+Io vi voglio sposar.
+
+ZERLINA
+Voi!
+
+DON GIOVANNI
+Certo, io.
+Quel casinetto è mio; soli saremo,
+E là, gioiello mio, ci sposeremo.
+Là ci darem la mano.
+Là mi dirai di sì,
+Vedi non è lontano:
+Partiam, ben mio, di qui.
+
+ZERLINA
+(Vorrei, e non vorrei...
+Mi trema un poco il cor..
+felice, è ver, sarei;
+Ma può burlarmi ancor).
+
+DON GIOVANNI
+Vieni, mio bel diletto!
+
+ZERLINA
+(Mi fa pietà Masetto;.
+
+DON GIOVANNI
+Io cangerò tua sorte.
+
+ZERLINA
+Presto... non son più forte.
+
+A DUE
+Andiamo, andiam mio bene
+A ristorar le pene
+D’un innocente amor!
+(s’incamminano verso il casino)
+
+## Scena X
+(Donna Elvira e detti.)
+
+DONNA ELVIRA
+Fermati, scellerato! il ciel mi fece
+Udir le tue perfidie. Io sono a tempo
+Di salvar questa misera innocente
+Dal tuo barbaro artiglio.
+
+ZERLINA
+Meschina! cosa sento!
+
+DON GIOVANNI
+(Amor, consiglia).
+Idol mio, non vedete
+(piano a D. Elvira)
+Ch’io voglio divertirmi?
+
+DONNA ELVIRA
+Divertirti,
+È vero? divertirti... io so, crudele,
+Come tu ti diverti.
+
+ZERLINA
+Ma, signor cavaliere,
+È ver quello ch’ella dice?
+
+DON GIOVANNI
+La povera infelice
+(piano a Zer.)
+È di me innamorata,
+E per pietà degg’io fingere amore,
+Ch’io son: per mia disgrazia, uom di buon cuore.
+
+DONNA ELVIRA
+Ah, fuggi il traditor!
+Non lo lasciar più dir:
+Il labbro è mentitor,
+Fallace il ciglio.
+Da’miei tormenti impara
+A credere a quel cor,
+E nasca il tuo timor
+Dal mio periglio
+\(parte conducendo via Zerlina)
+
+## Scena XI
+(Don Giovanni, poi Don Ottavio e Donn’Anna vestita a lutto.)
+
+DON GIOVANNI
+Mi par ch’oggi il demonio si diverta
+D’opporsi a’ miei piacevoli progressi;
+Vanno mal tutti quanti.
+
+DON OTTAVIO
+Ahi ch’ora, idolo mio, son vani i pianti,
+(a D. Anna)
+Di vendetta si parli... Oh don Giovanni!
+
+DON GIOVANNI
+\(Mancava questo in ver!)
+
+DONNA ANNA
+Amico! a tempo
+Vi ritroviam, avete core, avete
+Anima generosa?
+
+DON GIOVANNI
+(Sta a vedere.
+Che il diavolo le ha detto qualche cosa).
+Qual domanda! perchè?
+
+DON OTTAVIO
+Bisogno abbiamo
+Della vostra amicizia;
+
+DON GIOVANNI
+(Mi torna il fiato in corpo). Comandate...
+I congiunti, i parenti,
+Questa man, questo ferro, i beni, il sangue
+Spenderò per servirvi.
+Ma voi, bella donn’Anna,
+Perchè così piangete?
+II crudele chi fu che osò la calma
+Turbar del viver vostro...
+
+## Scena XII
+(Don Elvira e Detti.)
+
+DONNA ELVIRA
+Ah! ti ritrovo ancor, perfido mostro!
+(a D. Gio.)
+Non ti fidar, o misera
+(a D. Au.)
+Di quel ribaldo cor:
+Me già tradì quel barbaro,
+Te vuol tradire ancor.
+
+DONNA ANNA E DON OTTAVIO
+(Cielo, che aspetto nobile!
+Che dolce maestà!
+Il suo dolor, le lagrime.
+M’empiono di pietà).
+
+DON GIOVANNI
+La povera ragazza
+È pazza, amici miei:
+Lasciatemi con lei;
+Forse si calmerà.
+
+DONNA ELVIRA
+Ah! non credete al perfido
+Restate, oh Dei, restate...
+
+DON GIOVANNI
+È pazza non badate...
+
+DONNA ANNA E DON OTTAVIO
+A chi si crederà?
+(Certo moto - d’ignoto - tormento
+Dentro l’alma girare mi sento,
+Che mi dice - per quella infelice"
+Cento cose che intender non sai.
+
+DONNA ELVIRA
+(Sdegno, rabbia, dispetto, spavento
+Dentro l’alma girare mi sento,
+Che mi dice di quel traditore
+Cento cose che intender non sa).
+
+DON OTTAVIO
+Io di qua non vado via
+(ad Anna)
+Se non so com’è l’affar;
+
+DONNA ANNA
+Non ha l’aria di pazzia
+(ad Ott.)
+Il suo volto, il suo parlar.
+
+DON GIOVANNI
+(Se me ’n vado, si potria
+Qualche cosa sospettar).
+
+DONNA ELVIRA
+Ah! dal ceffo si potria
+(ad Anna e ad Ott.)
+La ner’alma giudicar.
+
+DON OTTAVIO
+Dunque quella?...
+(a Gio.)
+
+DON GIOVANNI
+È pazzarella...
+
+DONNA ANNA
+Dunque quegli?...
+
+DONNA ELVIRA
+È un traditore.
+
+DON GIOVANNI
+Infelice!
+
+DONNA ELVIRA
+Mentitore!
+
+DONNA ANNA E DON OTTAVIO
+Incomincio a dubitar,
+(passano dei Contadini)
+
+DON GIOVANNI
+Zitto, zitto, che la gente
+(piano ad Elv.)
+Si raduna a noi d’intorno:
+Siate un poco più prudente;
+Vi farete criticar.
+
+DONNA ELVIRA
+Non sperarlo, o scellerato:
+Ho perduto la prudenza.
+Le tue colpe ed il mio stato
+Voglio a tutti palesar.
+
+DONNA ANNA E DON OTTAVIO
+(Quegli accenti sì sommessi,
+Quel cangiarsi di colore,
+Son indizi troppo espressi
+Che mi fa determinar.
+(Elv. parte)
+
+DON GIOVANNI
+Povera sventurata! i passi suoi
+Voglio seguir, non voglio
+Che faccia un precipizio:
+Perdonate bellissima, donn’Anna:
+Se servirvi poss’io,
+In mia casa v’aspetto: amici, addio!
+(parte frettoloso)
+
+## Scena XIII
+(Donn’Anna e Duca Ottavio.)
+
+DONNA ANNA
+Don Ottavio... son morta!
+
+DON OTTAVIO
+Cos’è stato
+
+DONNA ANNA
+Per pietà, soccorretemi..,
+
+DON OTTAVIO
+Mio bene,
+Fate coraggio.
+
+DONNA ANNA
+Oh Dei! quegli è il carnefice
+Del padre mio,..
+
+DON OTTAVIO
+Che dite?
+
+DONNA ANNA
+Non dubitate più. Gli ultimi accenti,
+Che l’empio proferì, tutta la voce
+Richiamar nel cor mio di quell’indegno
+Che nel mio appartamento...
+
+DON OTTAVIO
+Oh ciel possibile
+Che sotto il sacro patto d’amicizia?...
+Ma, come fu narratemi.
+Lo strano avvenimento,
+
+DONNA ANNA
+Era già alquanto
+Avanzata la notte,
+Quando nelle mie stanze, ove soletta
+Mi trovai per sventura, entrar io vidi
+In un mantello avvolto
+Un uomo che al primo istante
+Avea preso per voi;
+Ma riconobbi poi
+Che un inganno era il mio...
+
+DON OTTAVIO
+Stelle seguite.
+
+DONNA ANNA
+Tacito a me s’appressa,
+E mi vuole abbracciar: sciogliermi cerco,
+Ei più mi stringe: grido:
+Non vien alcun; con una mano tenta
+D’impedirmi la voce.
+E coll’altra m’afferra
+Stretta così, che già mi credo vinta.
+
+DON OTTAVIO
+Perfido!... alfin?...
+
+DONNA ANNA
+Alfin il duol, l’orrore
+Dell’infame attentato
+Accrebbe sì la lena mia, che a forza
+Di svincolarmi, torcermi e piegarmi,
+Da lui mi sciolsi.
+
+DON OTTAVIO
+Ohimè! respiro
+
+DONNA ANNA
+Allora
+Rinforzo i stridi miei, chiamo soccorso.
+Fugge il fellon; arditamente il seguo
+Fin nella strada per fermarlo, e sono
+Assalitrice ed assalita: il padre
+V’accorre; vuol conoscerlo, e l’iniquo.
+Che del povero vecchio era più forte,
+Compie il misfatto suo col dargli morte.
+Or sai chi l’onore
+Rapire a me volse;
+Chi fu il traditore’
+Che il padre’ mi tolse;
+Vendetta ti chieggio,
+La chiede il tuo cor.
+Rammenta la piaga
+Del misero seno:
+Rimira di sangue
+Coperto il terreno.
+Se l’ira in te languc
+D’un giusto furor.
+(partono)
+
+## Scena XIV
+(Leporello, poi Don Giovanni.)
+
+LEPORELLO
+Io deggio, ad ogni patto,
+Per sempre abbandonar questo bel matto.
+Eccolo qui: guardate
+Con quale indifferenza se ne viene!
+
+DON GIOVANNI
+Oh Leporello mio! va tutto bene.
+
+LEPORELLO
+Don Giovannino mio! va tutto male.
+
+DON GIOVANNI
+Come va tutto male?
+
+LEPORELLO
+Vado a casa.
+Come voi m’ordinaste,
+Con tutta quella gente.
+
+DON GIOVANNI
+Bravo!
+
+LEPORELLO
+A forza
+Di chiacchiere, di vezzi e di bugie.
+Che ho imparato si bene a star con voi.
+Cerco di trattenerli...
+
+DON GIOVANNI
+Bravo!
+
+LEPORELLO
+Dico
+Mille cose a Masetto per placarlo,
+Per torgli dal pensier la gelosia...
+
+DON GIOVANNI
+Bravo, in coscienza mia
+
+LEPORELLO
+Faccio che bevano
+E gli uomini e le donne:
+Son già mezzo ubbriachi,
+Altri canta, altri scherza,
+Altri seguita a ber... In sul più bello.
+Chi credete che capiti?
+
+DON GIOVANNI
+Zerlina?
+
+LEPORELLO
+Bravo! e con lei chi venne?
+
+DON GIOVANNI
+Donn’Elvira?
+
+LEPORELLO
+Bravo! e disse di voi?...
+
+DON GIOVANNI
+Tutto quel mal che in bocca le venia?
+
+LEPORELLO
+Bravo, in coscienza mia!
+
+DON GIOVANNI
+E tu cosa facesti?
+
+LEPORELLO
+Tacqui.
+
+DON GIOVANNI
+Ed ella?
+
+LEPORELLO
+Seguì a gridar.
+
+DON GIOVANNI
+E tu?
+
+LEPORELLO
+Quando mi parve
+Che già fosse sfogata, dolcemente
+Fuor dell’orto la trassi, e con bell’arte,
+Chiusa la porta a chiave,
+Io di là mi cavai,
+E su la via soletta la lasciai.
+
+DON GIOVANNI
+Bravo! bravo! arcibravo!
+L’affar non può andar meglio. Incominciasti,
+Io saprò terminar; troppo mi premono
+Queste contadinotte:
+Le voglio divertir finchè vien notte.
+Finchè dal vino
+Calda han la testa
+Una gran festa
+Fa preparar.
+Se trovi in piazza,
+Qualche ragazza,
+Teco ancor quella
+Cerca menar.
+Senza alcun ordine
+La danza sia:
+Chi ’l minuetto,
+Chi la follia,
+Chi l’alemanna
+Farai ballar.
+Ed io frattanto
+Dall’altro canto
+Con questa e quella
+Vo’amoreggiar.
+Ah! la mia lista
+Doman mattina
+D’una diecina
+Devi aumentar.
+(partono)
+
+## Scena XV
+(Giardino e casino di Don Giovanni.)
+(Zerlina, Masetto e Contadini.)
+
+ZERLINA
+Masetto... senti un po’.. Masetto, dico...
+
+MASETTO
+Non mi toccar.
+
+ZERLINA
+Perchè?
+
+MASETTO
+Perchè, mi chiedi?
+Perfida! il tutto sopportar dovrei
+Da una mano infedele?
+
+ZERLINA
+Ah! no! taci, crudele!
+Io non merto da te tal trattamento.
+
+MASETTO
+Come! ed hai l’ardimento di scusarti?
+Star sola con un uom! abbandonarmi
+Il dì delle mie nozze porre in fronte
+Ad un villan d’onore
+Questa marca d’infamia!... Ah! se non fosse,.
+Se non fosse lo scandalo, vorrei...
+
+ZERLINA
+Ma se colpa io non ho: ma se da lui
+Ingannata rimasi; e poi, che temi?
+Tranquillati, mia vita,
+Non mi toccò la punta delle dita.
+Non me lo credi?... Ingrato!
+Vien qui, sfogati, ammazzami, fa tutto
+Di me quel che ti piace,
+Ma poi, Masetto mio, ma poi fa pace
+Batti, batti, o bel Masetto
+La tua povera Zerlina:
+Starò qui come agnellina
+Le tue botte ad aspettar.
+Lascerò straziarmi il crine,
+Lascerò cavarmi gli occhi;
+E le care tue manine
+Lieta poi saprò baciar.
+Ah! lo vedo, non hai core;
+Pace, pace, o vita mia!
+In contenti ed allegria
+Notte e dì vogliam passar.
+(parte)
+
+## Scena XVI
+(Masetto, poi Don Giovanni, di dentro e di nuovo Zerlina.)
+
+MASETTO
+Guarda un po’ come seppe
+Questa strega sedurmi! Siamo pure
+I deboli di testa!
+
+DON GIOVANNI
+Sia preparato il tutto a una gran festa.
+
+ZERLINA
+Ah! Masetto, Masetto, odi la voce
+Del monsù. cavaliero!...
+
+MASETTO
+Ebben, che c’è?
+
+ZERLINA
+Verrà...
+
+MASETTO
+Lascia, che venga.
+
+ZERLINA
+Ah! se vi fosse
+Un buco da fuggir...
+
+MASETTO
+Di cosa temi?
+Perchè diventi pallida?... Ah! capisco:
+Capisco, bricconcella.
+Hai timor ch’io comprenda
+Com’è tra voi passata la faccenda.
+Presto, presto... pria che venga,
+Por mi vo da questo lato...
+C’è una nicchia... qui celato
+Cheto, cheto mi vo’ star.
+
+ZERLINA
+Senti, senti... dove vai?
+Non t’oscondere, Masetto.
+Se ti trova, poveretto.
+Tu no sai quelche può far.
+
+MASETTO
+Faccia, dica quel che vuole.
+
+ZERLINA
+Ah no giova le parole...
+(sottovoce)
+
+MASETTO
+Parla forte, e qui t’arresta.
+
+ZERLINA
+Che capriccio hai nella testa!
+
+MASETTO
+(Capirò se m’è fedele,
+E in qual modo andò l’affar.)
+(si nasconde)
+
+ZERLINA
+Quel ingrato, quel crudele
+Oggi vuol precipitar)
+
+## Scena XVII
+(Don Giovanni, Contadini e Servi.)
+(Zerlina, e Masetto nascosto.)
+
+DON GIOVANNI
+Su, svegliatevi: da bravi!
+Su, coraggio, o buona gente.
+Vogliam stare allegramente,
+Vogliam ridere e scherzar.
+
+CORO
+Su, svegliatevi, ecc.
+
+DON GIOVANNI
+Alla stanza - della danza
+Conducete tutti quanti,
+(a servi.)
+Ed a tutti in abbondanza
+Gran rinfreschi, fate dar.
+
+CORO
+Su svegliamoci, ecc.
+(partendo coi servi)
+
+## Scena XVIII
+(Don Giovanni, Contadini, Zerlina, e Masetto nascosto.)
+
+ZERLINA
+Tra questi alberi celata
+Si può dar che non mi veda,
+(vuol nascondersi)
+
+DON GIOVANNI
+Zerlinetta mia garbata.
+Ti ho già vista, non scappar,
+(la prende)
+
+ZERLINA
+Ah! lasciatemi andar via...
+
+DON GIOVANNI
+No, no, resta, gioia mia!
+
+ZERLINA
+Se pietade avete in core!...
+
+DON GIOVANNI
+Idol mio! son tutto amore...
+Vieni un poco in questo loco
+Fortunata io ti vo far,
+
+ZERLINA
+(Ah! se vede il sposo mio,
+So ben io quel che può far.)
+
+DON GIOVANNI
+Masetto!
+(Gio. scuopre Masetto)
+
+MASETTO
+Sì, Masetto
+Gio. E ascoso lá, perchè?
+La bella tua Zerlina
+Non puote, poverina!
+Più star senza di te.
+
+MASETTO
+Capisco, sì signore.
+(iron.)
+
+DON GIOVANNI
+Adesso fate core.
+I suonatori udite:
+Venite omai con me.
+
+MASETTO E ZERLINA
+Sì sì facciamo core,
+Ed a ballar cogli altri
+Andiamo tutti tre.
+(partono)
+
+## Scena XIX
+(Si va facendo notte)
+(Duca Ottavio, Donn’Anna e Donna Elvira in bautta; poi Leporello e don Giovanni alla finestra)
+
+DONNA ELVIRA
+Bisogna aver coraggio,
+O cari amici miei,
+E i suoi misfatti rei
+Scoprir potremo allor
+
+DON OTTAVIO
+L’amica dice ben:
+Coraggio aver conviene.
+Di scaccia, o vita mia
+(ad’A.)
+L’affanno ed il timor.
+
+DONNA ANNA
+Il passo e periglioso,
+Può nascer qualche imbroglio
+Temo pel caro sposo,
+E per voi temo ancor
+(ad’E)
+
+LEPORELLO
+Signor guardate un poco
+Che maschere galanti!
+
+DON GIOVANNI
+Falle passare avanti,
+Di che ci fanno onor,
+
+DONNA ANNA E DON OTTAVIO
+(Al volto ed alla voce
+
+DON OTTAVIO E DONNA ELVIRA
+Si scopre il traditor.
+
+LEPORELLO
+Psi, psi, Signore maschere
+psi, psi...
+
+DONNA ANNA E DONNA ELVIRA
+Via rispondete.
+
+LEPORELLO
+Psi... psi...
+(ad Ottavio)
+
+DON OTTAVIO
+Cosa chiedete?
+
+LEPORELLO
+Al ballo, se vi piace,
+V’invita il mio signore.
+
+DON OTTAVIO
+Grazie di tant’onore.
+Andiam compagne belle.
+
+LEPORELLO
+(L’amico anche su quelle
+Prova farà d’amor.)
+(Entra e chiude la finestra)
+
+DONNA ANNA E DON OTTAVIO
+Protegga il giusto cielo
+Il zelo del mio cor.
+
+DONNA ELVIRA
+Vendichi il giusto cielo
+Il mio tradito amor.
+(entrano)
+
+## Scena XX
+(Sala nella casa di Don Giovanni.)
+(Don Giovanni, Leporello, Zerlina, Masetto, villani e villane.)
+
+DON GIOVANNI
+Riposate, vezzose ragazze.
+
+LEPORELLO
+Rinfrescatevi, bei giovinotti.
+
+DON GIOVANNI
+Lep. Tornerete a far presto le pazze,
+Tornerete a scherzare, a ballar.
+
+DON GIOVANNI
+Ehi! caffè.
+
+LEPORELLO
+Cioccolata.
+
+DON GIOVANNI
+Sorbetti.
+
+MASETTO
+Ah! Zerlina, giudizio!
+(piano a Zerlina)
+
+LEPORELLO
+Confetti.
+
+MASETTO E ZERLINA
+Troppo dolce comincia la scena,
+In amaro potria terminar.
+(vengono portati e distribuiti i rinfreschi)
+
+DON GIOVANNI
+Sei pur vaga e brillante, Zerlina!
+(prendendola per mano)
+
+ZERLINA
+Sua bontà.
+
+MASETTO
+\(La briccona fa festa.)
+
+LEPORELLO
+Sei pur cara, Giannotta, Sandrina!
+(imitando D.Gio.)
+
+MASETTO
+\(Tocca pur; che ti cada la testa)
+(Guardando Gio.)
+
+ZERLINA
+(Quel Masetto mi par stralunato.
+Brutto brutto si fa quest’affar.)
+
+DON GIOVANNI E LEPORELLO
+(Quel Masetto mi par stralunato,
+Qui bisogna cervello adoprar.)
+
+## Scena XXI
+(Duca Ottavio, Donn’Anna, Donna Elvira, e Detti.)
+
+LEPORELLO
+Venite pur avanti.
+Vezzose mascherette.
+
+DON GIOVANNI
+È aperto a tutti quanti.
+
+TUTTI
+Viva la libertà!
+
+DONNA ANNA, DON OTTAVIO E DONNA ELVIRA
+Siam grati a tanti segni
+Di generosità.
+
+DON GIOVANNI
+Ricominciate il suono.
+Tu accoppio i ballerini.
+(a Lep.)
+Meco tu dei ballare,
+Zerlina, vien pur qua.
+
+LEPORELLO
+Da bravi, via ballate.
+(ballando)
+
+DONNA ELVIRA
+Quella è la contadina.
+(ad Anna)
+
+DONNA ANNA
+Io moro!
+(ad Ottavio)
+
+DON OTTAVIO
+Simulate!
+
+LEPORELLO E MASETTO
+Va bene in verità!
+(con ironia)
+
+DON GIOVANNI
+A bada tien Masetto.
+(a Lep.)
+Il tuo compagno io sono,
+Zerlina, vien pur qua..
+
+LEPORELLO
+Non balli, poveretto?
+Vien qua, Masetto caro,
+Facciam quel ch’altri fa
+(fa ballare a forza Mas.)
+
+MASETTO
+No, no, ballar non voglio.
+
+LEPORELLO
+Eh! balla, amico mio.
+
+DONNA ANNA
+Resister non poss’io!
+(ad Ott.)
+
+DON OTTAVIO E DONNA ELVIRA
+Fingete, per pietà.
+(ad Anna)
+
+DON GIOVANNI
+Vieni con me, mi vita...
+(ballando conduce via Zer.)
+
+ZERLINA
+Oh Numi! son tradita!..,
+
+MASETTO
+Lasciami... Ah... no... Zerlina?
+(entra sciogliendosi da Lep.)
+
+LEPORELLO
+\(Qui nasce una ruina.)
+(entra)
+
+DONNA ANNA, DONNA ELVIRA E DON OTTAVIO
+L’iniquo da se stesso
+Nel laccio se ne va.
+(fra loro)
+
+ZERLINA
+Gente!... aiuto!... aiuto! gente?
+
+DONNA ANNA, DONNA ELVIRA E DON OTTAVIO
+Soccorriamo l’innocente...
+(i suonatori partono)
+
+MASETTO
+Ah! Zerlina!...
+
+ZERLINA
+Scellerato!
+(di dentro)
+
+DONNA ANNA, DON OTTAVIO E DONNA ELVIRA
+Ora grida da quel lato...
+Ah! gettiamo giù la porta...
+
+ZERLINA
+Soccorretemi, o son morta!...
+
+DONNA ANNA, DON OTTAVIO, DONNA ELVIRA E MASETTO
+Siam qui noti per tua difesa.
+
+DON GIOVANNI
+(esce colla spada in mano, conducendo per un braccio Lep., e finge di non poterla sguainare per ferirlo)
+Ecco il birbo che t’ha offesa,
+Ma da me la pena avrà.
+Mori iniquo!
+
+LEPORELLO
+Ah! cosa fate?...
+
+DON GIOVANNI
+Mori, dico....
+
+DON OTTAVIO
+No ’l sperate...
+(cavando una pistola)
+
+DONNA ANNA, DON OTTAVIO E DONNA ELVIRA
+(L’empio crede con tal frode
+Di nasconder l’empietà.)
+(si cavano la maschera)
+
+DON GIOVANNI
+Donn’Elvira!
+
+DONNA ELVIRA
+Sì, malvagio!
+
+DON GIOVANNI
+Don Ottavio!
+
+DON OTTAVIO
+Sì, signore!
+
+DON GIOVANNI
+Ah! credete.,..
+(Ad Anna)
+
+DONNA ANNA
+Traditorei
+
+ZERLINA E MASETTO
+Tutto, tutto già si sa.
+Gio. Lep.
+(Tutti, fuorchè)
+(e)
+Trema, trema, o scellerato.
+Saprà tosto il mondo intero
+Il misfatto orrendo e nero.
+La tua fiera crudeltà,
+Odi il tuon della vendetta
+Che ti fischia intorno intorno:
+Sul tuo capo in questo giorno
+Il suo fulmine cadrà.
+
+DON GIOVANNI E LEPORELLO
+Nonsosa più quel ch’io miei si faccia
+È confusa la miasua testa,
+E un’orrìbile tempesta
+Minacciando già milo va!
+Ma non manca in melui coraggio.
+Non mi perdosi perde o mi confondo:si confonde:
+Se cadesse ancora il mondo,
+Nulla mai temer milo fa.
+
+# Atto secondo
+
+## Scena prima
+(Recinto d’antico castello come nell’atto primo.)
+(Don Giovanni, con un mandolino in mano e Leporello.)
+
+DON GIOVANNI
+Eh via, buffon, non mi seccar.
+
+LEPORELLO
+No, no, padrone, non vo’ restar.
+
+DON GIOVANNI
+Sentimi, amico...
+
+LEPORELLO
+Vo’ andar, vi dico...
+
+DON GIOVANNI
+Ah, che ti ho fatto - che vuoi lasciarmi?
+
+LEPORELLO
+Oh, niente affatto! - quasi ammazzarmi.
+
+DON GIOVANNI
+Va che sei matto, - fu per burlar.
+
+LEPORELLO
+Ed io non burlo, - ma voglio andar.
+
+DON GIOVANNI
+Leporello.
+
+LEPORELLO
+Signore.
+
+DON GIOVANNI
+Vien qui, facciamo pace. Prendi...
+
+LEPORELLO
+Cosa?
+
+DON GIOVANNI
+Quattro doppie.
+(gli da del denaro)
+
+LEPORELLO
+Oh! sentite:
+Per questa volta ancora
+La cerimonia accetto;
+Ma non vi ci avvezzate; non credete
+Di sedurre i miei pari,
+(Prendendo la borsa)
+Come le donne, a forza di danari.
+
+DON GIOVANNI
+Non parliam più di ciò. Ti basta l’animo
+Di far quel ch’io ti dico?
+
+LEPORELLO
+Purché lasciam le donne,
+
+DON GIOVANNI
+Lasciar le donne? Sai ch’elle per me
+Son necessarie più del pan che mangio,
+Più dell’aria che spiro?
+
+LEPORELLO
+E avete core
+D’ingannarle poi tutte?
+
+DON GIOVANNI
+È tutto amore.
+Chi a una sola è fedele,
+Verso l’altre è crudele.
+Io che in me sento.
+Sì esteso sentimento,
+Vo’ bene a tutte quante.
+Le donne poi, che calcolar non sanno,
+il mio buon natural chiaman inganno.
+
+LEPORELLO
+Non ho veduto mai
+Naturale più vasto e più benigno.
+Orsù, cosa vorreste?
+
+DON GIOVANNI
+Odi. Vedi tu la cameriera
+Di donn’Elvira?
+
+LEPORELLO
+Io no
+
+DON GIOVANNI
+Non hai veduto
+Qualche cosa di bello,
+Caro il mio Leporello! Or io con lei
+Vo’ tentar la mia sorte, ed ho pensato,
+Giacchè siam verso sera.
+Per aguzzarle meglio l’appetito
+Di presentarmi a lei col tuo vestito.
+
+LEPORELLO
+E perché non potreste
+Presentarvi col vostro?
+
+DON GIOVANNI
+Han poco credito
+Con gente di tal rango
+Gli abiti signorili.
+(si cava il mantello)
+Sbrigati, via.
+
+LEPORELLO
+Signor, per più ragioni...
+
+DON GIOVANNI
+Finiscila, non soffro opposizioni.
+(fanno cambio del mantello e del cappello)
+
+## Scena II
+(Don Giovanni, Leporello e Donna Elvira alla finestra della locanda)
+
+DONNA ELVIRA
+Ah! taci, ingiusto core,
+Non palpitarmi in seno.
+È un empio, un traditore
+È colpa aver pietà.
+
+LEPORELLO
+Zitto... di donn’Elvira,
+Signor, la voce io sento.
+
+DON GIOVANNI
+Cogliere io vo’ il nomento.
+(come sopra)
+Tu fermati un po’ là..
+Elvira, idolo mio!...
+
+DONNA ELVIRA
+Non e costui l’ingrato?
+
+DON GIOVANNI
+Sì, vita mia, son io.
+(Gio. si mette dietro a Lep. e parla ad Elv.)
+E chieggo carità.
+
+DONNA ELVIRA
+(Numi, che strano affetto
+Mi si risveglia in petto!)
+
+LEPORELLO
+(State a veder la pazza,
+Che ancor gli crederà!)
+
+DON GIOVANNI
+Discendi, gioia bella!
+Vedrai che tu sei quella
+Che adora l’alma mia:
+Pentito io son già.
+
+DONNA ELVIRA
+No, non ti credo, o barbaro.
+
+DON GIOVANNI
+O credemi, o m’uccido.
+
+LEPORELLO
+Se seguitate, io rido.
+(sottovoce)
+
+DON GIOVANNI
+Idolo mio! vien qua.
+
+DONNA ELVIRA
+(Dei, che cimento è questo!
+Non so s’io vado o resto....
+Ah! proteggete, o numi,.
+La mia credulità.)
+(entra)
+
+DON GIOVANNI
+(Spero che cada presto;
+Che bel colpetto è questo!
+Più fertile talento
+Del mio, no, non si dà.)
+
+LEPORELLO
+Già quel mendace labbro
+Torna a sedur costei.
+Deh! proteggete, o Dei,
+La sua credulità.)
+
+DON GIOVANNI
+Amico, che ti par?
+
+LEPORELLO
+Mi par che abbiate
+Un’anima di bronzo.
+
+DON GIOVANNI
+Va là che se’ il gran gonzo. - Ascolta bene:
+Quando costei se’ viene,
+Tu corri ad abbracciarla.
+Falle quattro carezze,
+Fingi la voce mia; poi con bell’arte,
+Cerca teco condurla in altra parte,
+
+LEPORELLO
+Ma, signor...
+
+DON GIOVANNI
+Non più repliche.
+
+LEPORELLO
+Ma se poi mi conosce?
+
+DON GIOVANNI
+Non ti conoscerà, se tu non vuoi.
+Zitto: ell’apre; giudizio.
+(va in disparte)
+
+## Scena III
+(Donna Elvira, e detti.)
+
+DONNA ELVIRA
+Eccomi a voi.
+
+DON GIOVANNI
+\(Veggiamo che farà.)
+
+LEPORELLO
+\(Che bell’imbroglio)
+
+DONNA ELVIRA
+Dunque creder potrò che i pianti miei
+Abbian vinto quel cor? Dunque pentito,.
+L’amato don Giovanni al suo dovere
+E all’amor mio ritorna?
+
+LEPORELLO
+Sì, carina!
+(alterando sempre la voce)
+
+DONNA ELVIRA
+Crudele! se sapeste
+Quante lacrime e quanti
+Sospir voi mi costaste!
+
+LEPORELLO
+Io? vita mia!
+
+DONNA ELVIRA
+Voi.
+
+LEPORELLO
+Poverina, quanto mi dispiace!
+
+DONNA ELVIRA
+Mi fuggirete più?
+
+LEPORELLO
+No, muso bello!
+
+DONNA ELVIRA
+Sarete sempre mio!
+
+LEPORELLO
+Sempre.
+
+DONNA ELVIRA
+Carissimo!
+
+LEPORELLO
+Carissima! (La burla mi dà gusto.)
+
+DONNA ELVIRA
+Mio tesoro!
+
+LEPORELLO
+Mia Venere!
+
+DONNA ELVIRA
+Son per voi tutta foco.
+
+LEPORELLO
+Io tutto cenere.
+
+DON GIOVANNI
+\(Il birbo si riscalda.)
+
+DONNA ELVIRA
+E non mi ingannerete?
+
+LEPORELLO
+No, sicuro.
+
+DONNA ELVIRA
+Giuratelo.
+
+LEPORELLO
+Lo Giuro a questa mano.
+Che bacio con trasporto, a que’ bei lumi
+
+DON GIOVANNI
+(fingendo di uccidere qualcheduno)
+Ah! eh! ih! ah! ih! ah! sei morto...
+
+DONNA ELVIRA
+Oh Numi!
+(fuggendo con Lep.)
+
+DON GIOVANNI
+Ih! ah! Par che la sorto
+(ridendo)
+Mi secondi. Veggiamo:
+Le finestre son queste. Ora cantiamo.
+(canta, accompagnandosi col mandolino)
+Deh! vieni alla finestra, o mio tesoro,
+Deh! vieni a consolar il pianto mio.
+Se nieghi a me di dar qualche ristoro,
+Davanti agli occhi tuoi morir vogl’io.
+Tu che ai la bocca dolce più del miele
+Tu che il zucchero porti in mezzo al core,
+Non esser, gioia mia, con me crudele,
+Lasciati almen veder, mio bell’amore!
+V’è gente alla finestra. Forse è dessa...
+Psi, psi...
+
+## Scena IV
+(Masetto e Contadini armati di fucili e Bastoni; Don Giovanni.)
+
+MASETTO
+Non ci stanchiamo, amici. Il cor mi dice
+Che trovarlo dobbiam.
+
+DON GIOVANNI
+\(qualchuno parla)
+
+MASETTO
+Fermatevi: mi pare
+(ai contadini)
+Che alcuno qui si muova.
+
+DON GIOVANNI
+\(Se non fallo è Masetto.)
+
+MASETTO
+Chi va la?... Non risponde.
+(ai suoi)
+Animo, schioppo al muso
+Chi va là?
+
+DON GIOVANNI
+(Non è solo:
+Ci vuol giudizio.) Amico,
+(cerca di imitare la voce di Leporello)
+(Non mi voglio scoprir,) Sei tu Masetto?
+
+MASETTO
+Appunto quello. E tu?
+(in collera)
+
+DON GIOVANNI
+Non mi conosci? Il servo
+Son io di don Giovanni.
+
+MASETTO
+Leporello!
+Servo di quell’indegno cavaliere!
+
+DON GIOVANNI
+Certo di quel briccone
+
+MASETTO
+Di quell’uom senza onore! Ah dimmi un poco
+Dove possinm trovarlo?
+Lo cerco con costor per trucidarlo
+
+DON GIOVANNI
+(Bagattelle! Bravissimo Masetto!
+Anch’io con voi m’unisco.
+Per fargliela a quel birbo di padrone.
+Ma udite un po’ qual è la mia intenzione.
+Metà di voi qua vadano.
+E gli altri vadan là.
+E pian pianin lo cerchino,
+Lontan non sta di qua.
+Se un uom e una ragazza
+Passeggian per la piazza
+Se sotto a una finestra
+Fare all’amor sentite,
+Ferite pur, ferite,
+Il mio padron sarà!
+In testa ha un gran cappello
+Con candidi pennacchi,
+Addosso un gran mantello,
+E spada al fianco egli ha
+Andate fate presto!
+(al contad.)
+Tu sol verrai con me
+(a Mas.)
+Noi far dobbiamo il resto,
+E già vedrai cos’è.
+(partono i contadini da opposte vie)
+
+## Scena V
+(Don Giovanni e Masetto.)
+
+DON GIOVANNI
+Zitto.. Lascia ch'io senta... Ottimamente,
+(essendosi assicurato che i contadini sono già lontani)
+Dunque dobbiam ucciderlo?
+
+MASETTO
+Sicuro.
+
+DON GIOVANNI
+E non ti basterà rompergli l'ossa,
+Fracassarli le spalle?
+
+MASETTO
+No, no; voglio ammazzarlo,
+Vo farlo in cento brani,
+
+DON GIOVANNI
+Hai buon’arme?
+
+MASETTO
+Cospetto,
+Ho pria questo moschetto,
+E poi questa pistola.
+
+DON GIOVANNI
+(disarmandolo) E poi?
+
+MASETTO
+Non basta?
+
+DON GIOVANNI
+Oh! basta, certo. Or prendi:
+(bastonandolo)
+Questa, per la pistola;
+Questa, per il moschetto...
+
+MASETTO
+Ahi! ahi!.... la testa mia!...
+
+DON GIOVANNI
+Taci, o t’uccido...
+Questa, per ammazzarlo,
+Questa, per farlo in brani,
+Villano! mascalzon! ceffo da cani!
+(Masetto cade, e Gio. parte)
+
+## Scena VI
+(Masetto, indi Zerlina con lanterna.)
+
+MASETTO
+Ahi! ahi! la testa mia!
+Ahi! ahi! le spalle e il petto.!
+
+ZERLINA
+Mi par sentir la voce di Masetto.
+
+MASETTO
+Oh Dio! Zerlina... oh Dio!
+Zerlina mia, soccorso.
+
+ZERLINA
+Cosa è stato?
+
+MASETTO
+L’iniquo, il scellerato
+Mi ruppe l'ossa e i nervi.
+
+ZERLINA
+Oh poveretta me! chi?
+
+MASETTO
+Leporello.
+O qualche diavol che somiglia a lui.
+
+ZERLINA
+Crudel! non te ’l diss’io.
+Che con questa tua pazza gelosia
+Ti ridurresti a qualche brutto passo?
+Dove ti duole?
+
+MASETTO
+Qui.
+
+ZERLINA
+E poi?
+
+MASETTO
+Qui ancora.
+
+ZERLINA
+E poi non ti duole altro?
+
+MASETTO
+Duolmi un poco
+Questo pie, questo braccio, e questa mano.
+
+ZERLINA
+Via, via, non è gran mal, se il resto è sano
+Vientene meco a casa:
+Purché tu mi prometta
+D’essere men geloso,
+Io, ti guarirò, caro il mio sposo.
+Vedrai, carino,
+Se sei tuonino,
+Che bel rimedio
+Ti voglio dar.
+E naturale,
+Non da disgusto,
+E lo speziale
+Non lo sa far.
+E un certo balsamo,
+Che porto addosso,
+Dare te ’l posso
+Se ’l vuoi provar.
+Saper vorresti
+Dove mi sta:
+Sentilo battere,
+Toccami qua.
+(gli fa toccare il cuore, poi partono)
+
+## Scena VII
+(Atrio come nell’atto primo.)
+(Donna Elvira e Leporello.)
+
+LEPORELLO
+Di molte faci il lume
+(fingendo la voce del padrone)
+S’avvicina, o mio ben, stiamo qui un poco
+Finché da noi si scosta.
+
+DONNA ELVIRA
+Ma che temi
+Adorato mio sposo?
+
+LEPORELLO
+Ah! non lasciarmi.
+Certi riguardi... lo vo’ veder se il lume
+È già lontano. (Come
+Da costei liberarmi?)
+Rimani, anima mia...
+
+DONNA ELVIRA
+Ah! non lasciarmi.
+Sola, sola, in buio loco,
+Palpitare il cor mi sento,
+E m’assale un tal spavento
+Che mi sembra di morir
+
+LEPORELLO
+(Più che cerco, men ritrovo
+(andando a tentone)
+Questa porta sciagurata
+Piano, piano, l’ho trovata:
+Ecco il tempo di fuggir.)
+(sbaglia l’uscita)
+
+## Scena VIII
+(Donn’Anna, Duca Ottavio, Servi con lumi e Detti.)
+(Elv. al venir de’ lumi si ritira in un angolo, e Lep.)
+(in un’altro)
+
+DON OTTAVIO
+Tergi il ciglio, o vita mia.
+E dà calma al tuo dolore.
+L’ombra omai del genitore
+Più non vuole il tuo martir.
+
+DONNA ANNA
+Lascia almeno alla mia pena
+Questo piccolo ristoro.
+Sol la morte, o mio tesoro,
+Il mio pianto può finir!
+
+DONNA ELVIRA
+\(Ah! dovè lo sposo mio?)
+(senza esser vista)
+
+LEPORELLO
+\(Se mi trovan son perduto.)
+
+DONNA ELVIRA E LEPORELLO
+Ma la porta là vegg’io.
+Chetao chetao io vo’ partir.
+(Lep. nell’uscir s’incontra con Mas. e Zer.)
+
+## Scena IX
+(Masetto con bastone Zerlina e Detti)
+
+MASETTO E ZERLINA
+Ferma, briccone! Dove te ’n vai?
+(Lep. s’asconde la faccia)
+Ecco il fellone...
+
+DONNA ANNA E DON OTTAVIO
+Com’era qua!
+Ah! mora il perfido che m’ha tradito.
+
+DONNA ELVIRA
+È mio marito... Pietà! pietà!..
+(Anna, Zer., Ott. e Mas.)
+È
+donn’Elvira quella ch’io vedo?
+Appena il credo... No no, morrà.
+
+LEPORELLO
+Perdon, perdono - signori miei;
+Quello non sono - sbaglia costei...
+Viver lasciatemi per carità?
+
+GLI ALTRI
+Dei! Leporello!... Che inganno è questo?
+Stupidoa resto! - che mai sarà?
+
+LEPORELLO
+(Mille torbidi pensieri
+Mi s’aggiran per la testa...
+Se mi salvo in tal tempesta
+E un prodigio in verità.)
+
+GLI ALTRI
+(Mille torbidi pensieri
+Mi s’aggiran per la testa..
+Che giornata, ho cielo, e questa!
+Che impensata novità!)
+(Anna parte)
+
+ZERLINA
+Dunque quello sei tu che il mio Masetto
+(a Lep. con furia)
+Poco fa crudelmente maltrattasti?
+
+DONNA ELVIRA
+Dunque tu m’ingannasti, o scellerato,
+Spacciandoti con me per don Giovanni?
+
+DON OTTAVIO
+Dunque tu in questi panni
+Venisti qui per qualche tradimento!
+
+DONNA ELVIRA
+A me tocca punirti.
+
+ZERLINA
+Anzi a me.
+
+DON OTTAVIO
+Tocca a me.
+
+MASETTO
+Accoppatelo meco tutti tre.
+
+LEPORELLO
+Ah! pietà, signori miei
+Do ragione a voi.., a lei...
+Ma il delitto mio non è.
+Del padron la prepotenza
+L’innocenza mi rubò
+Donna Elvira! compatite,
+Voi capite come andò.
+Di Masetto non so nulla,
+Vel dirà questa fanciulla.
+È un’oretta incirca incirca
+Che con lei girando vo.
+A voi, signore! non dico niente...
+Certo timore... certo accidente...
+Di fuori chiaro... di dentro oscuro...
+Non e’ è riparo... la porta, il muro...
+Io me ne vado verso quel lato...
+Poi qui celato, l’affar si sa...,
+Ma, s’io sapeva, fuggia per qua!...
+(fugge disperatamente)
+
+## Scena X
+(Duca Ottavio, Donna Elvira, Zerlina e Masetto)
+
+DONNA ELVIRA
+Ferma, perfido! ferma...
+
+MASETTO
+Il birbo ha l’ali a’ piedi...
+
+ZERLINA
+Con qual arte
+Si sottrasse l’iniquo!
+
+DON OTTAVIO
+Amici miei!
+Dopo eccessi sì enormi,
+Dubitar non possiam che Don Giovanni
+Non sia l’empio uccisore
+Del padre di donn’Anna. In questa casa
+Per poche ore fermatevi: un ricorso
+Vo’ far a chi si deve, e in pochi istanti
+Vendicarvi prometto;
+Così vuole il dover, pietade e affetto.
+Il mio tesoro intanto
+Andate a consolar
+E dal bel ciglio il pianto
+Cercate d’asciugar.
+Ditele che i suoi torti
+A vendicar io vado;
+Che sol di stragi e morti
+Nunzio vogl’io tornar,
+(part.)
+
+## Scena XI
+(Zerlina nel partire s’incontra in Leporello.)
+
+ZERLINA
+Restati qua.
+(lo ferma, pel vestito)
+
+LEPORELLO
+Per carità, Zerlina.
+
+ZERLINA
+Eh! non c’è carità pei pari tuoi!
+
+LEPORELLO
+Dunque cavar mi vuoi?,..
+
+ZERLINA
+I capelli, la testa, il core e gli occhi!
+
+LEPORELLO
+Senti, carina mia.!
+
+ZERLINA
+Guai se mi tocchi!
+Vedrai, schiuma de’ birbi,
+Qual premio n’ha chi le ragazze ingiuria,
+
+LEPORELLO
+\(Liberatemi, o Dei, da questa furia!)
+
+ZERLINA
+Masetto, olà, Masetto!
+(chiama verso la scena)
+Dove diavolo è ito... servi, gente.
+Nessun vien.... nessun sente.
+
+LEPORELLO
+Fa piano per pietà, non strascinarmi
+A coda di cavallo.
+
+ZERLINA
+Vedrai, vedrai, come finisce il ballo!
+Presto quà quella sedia.
+
+LEPORELLO
+Eccola!
+
+ZERLINA
+Siedi
+
+LEPORELLO
+Stanco non son.
+
+ZERLINA
+(tira fuori dalla saccoccia un rasoio)
+Siedi, o con queste mani
+Ti strappo il cor, e poi lo getto ai cani.
+
+LEPORELLO
+Siedo, ma tu di grazia
+Metti giù quel rasoio:
+Mi vuoi forse sbarbar?
+
+ZERLINA
+Sì, mascalzone,
+Io ti vo’senza sapone.
+
+LEPORELLO
+Eterni Dei!
+
+ZERLINA
+Dammi la man!
+(Lep. esita minacciandolo)
+La mano.
+L’altra.
+
+LEPORELLO
+Ma che vuoi farmi?
+
+ZERLINA
+Voglio far... voglio far quello che parmi!
+
+LEPORELLO
+Per queste tue manine
+Candide e tenerelle,
+Per questa fresca pelle,
+Abbi pietà di me!
+
+ZERLINA
+Non v’è pietà briccone,
+Son una tigre irata,
+Un aspide, un leone,
+No, no, non v’è pietá.
+
+LEPORELLO
+Ah! di fuggir si provi...
+
+ZERLINA
+Sei morto se ti muovi.
+
+LEPORELLO
+Barbari ingiusti dei!
+In mano di costei
+Chi capitar mi fè!
+
+ZERLINA
+Barbaro traditore!
+(lo lega con una corda sulla sedia)
+Del tuo padrone il core
+Avessi qui con te.
+
+LEPORELLO
+Deh! non mi stringer tanto,
+L’anima mia sen va.
+
+ZERLINA
+Sen vada o resti, intanto
+Non partirai di qua!
+
+LEPORELLO
+Che strette, o Dei,che botte!
+È giorno ovver è notte?
+Che scosse di tremuoto!
+Che buia oscurità!
+
+ZERLINA
+Di gioia e di diletto
+Sento brillarmi il petto,
+Così, così, cogli uomini,
+Così, così si fa.
+(parte)
+
+## Scena XII
+(leporello seduto e legato.)
+(ad un contadino che passa in fondo della scena)
+
+LEPORELLO
+Amico, per pietà, un po’d’acqua fresca,
+O ch’io mi moro! Guarda come stretto
+Mi legò l’assassina!
+Se mi potessi liberar coi denti...
+Venga il diavolo a disfar questi gruppi!
+Io vo’ veder di rompere la corda...
+Come è forte! Paura della morte,
+E tu Mercurio, protettor de’ladri,
+Proteggi un galantuom.
+Coraggio!
+(fa sforzi per sciogliersi, ma non vi riesce del tutto)
+Bravo! Pria che costei ritorni
+Bisogna dar di sprone alle calcagna,
+E strascinar se occorre una montagna.
+(corre via trascinando seco la sedia)
+
+## Scena XIII
+(Donna Elvira e Zerlina)
+
+ZERLINA
+Signora, andiam. Vedrete in qual maniera
+Ha concio il scellerato.
+
+DONNA ELVIRA
+Ah ! sopra lui si sfoghi il mio furor.
+
+ZERLINA
+Stelle! in qual modo si salvò il briccone?
+
+DONNA ELVIRA
+L’avrà sottratto l’empio suo padrone.
+
+ZERLINA
+Fu desso senza fallo: anche di questo
+Informiam don Ottavio: a lui si aspetta
+Fa per noi tutti, o domandar vendetta.
+(partono)
+
+## Scena XIV
+(Recinto con statua del Commendatore, Don Giovanni poi Leporello.)
+
+DON GIOVANNI
+Ah! ah ! ah! questa è buona!
+(ridendo)
+Or lasciala cercar. Che bella notte!
+È più chiara del giorno; sembra fatta
+Per gire a zonzo a caccia di ragazze.
+È tardi. Oh! ancor non sono
+(guarda l’orologio)
+Due della notte. Avrei
+Voglia un po’ di saper com’è finito
+L’affar tra Leporello e donn’Elvira.
+S’egli ha avuto giudizio...
+
+LEPORELLO
+Alfin vuole ch’io faccia un precipizio.
+(È desso.) Leporello!
+
+LEPORELLO
+Chi mi chiama?
+
+DON GIOVANNI
+Non conosci il padrone?
+
+LEPORELLO
+Così no ’l conoscessi!
+
+DON GIOVANNI
+Come, birbo?
+
+LEPORELLO
+Ah ! siete voi scusate.
+
+DON GIOVANNI
+Cos’è stato?
+Per cagion vostra io fui quasi accoppato.
+
+DON GIOVANNI
+Ebben non era questo
+Un onore per te?
+
+LEPORELLO
+Signor, ve ’l dono.
+
+DON GIOVANNI
+Via, via, vien qua. Che bella
+Cosa ti deggio dire!
+
+LEPORELLO
+Ma cosa fate qui?
+
+DON GIOVANNI
+Vieni, e 11 saprai,
+Di tante storielle.
+Che accadute mi son da che partisti,
+Ti dirò un’altra volta: or la più bella
+Ti vo’ solo narrar.
+
+LEPORELLO
+Donnesca al certo.
+(rende il cappello ed il mantello al padrone e riprende quelli che aveva seco cambiato)
+
+DON GIOVANNI
+C’è dubbio? una fanciulla
+Bella, giovin, galante
+Per la strada incontrai; le vado appresso,
+La prendo per la man; fuggir mi vuole,
+Dico poche parole: ella mi piglia
+Sai per chi?
+
+LEPORELLO
+Non lo so.
+
+DON GIOVANNI
+Per Leporello.
+
+LEPORELLO
+Per me?
+
+DON GIOVANNI
+Per te.
+
+LEPORELLO
+Va bene,
+
+DON GIOVANNI
+Per la mano
+Essa allora mi prende.
+
+LEPORELLO
+Ancora meglio
+
+DON GIOVANNI
+M’accarezza, m’abbraccia.
+Caro il mio Leporello!
+Leporello mio caro!... Allor m’accorsi
+Ch’era qualche tua bella.
+
+LEPORELLO
+\(Oh maledetto!)
+
+DON GIOVANNI
+Dell’inganno approfitto; non so come
+Mi riconosce: grida; sento gente,
+A fuggire mi metto, e, pronto pronto,
+Per quel muretto in questo loco io monto
+
+LEPORELLO
+E mi dite la cosa
+Con tale indifferenza?’
+
+DON GIOVANNI
+Perchè no?
+
+LEPORELLO
+Ma se fosse
+Costei stata mia moglie?
+
+DON GIOVANNI
+Meglio ancora!
+(ridendo forte)
+
+IL COMMENDATORE
+Di rider finirai pria dell’aurora.
+
+DON GIOVANNI
+Chi ha parlato?
+(a Lep.)
+
+LEPORELLO
+Ah! qualche anima
+(estremamente impaurito)
+Sarà dall’altro mondo.
+Che vi conosce a fondo.
+
+DON GIOVANNI
+Taci, sciocco!
+Chi va là? chi va la?
+(mette mano alla spada)
+
+IL COMMENDATORE
+Ribaldo audace
+Lascia a’ morti la pace.
+
+LEPORELLO
+Ve l’ho detto?...
+(tremando)
+
+DON GIOVANNI
+Sarà qualcun di fuori,.
+Che si burla di noi...
+Ehi? del Commendatore
+Non è questa la statua? Leggi un poco
+Quella iscrizion.
+
+LEPORELLO
+Scusate...
+Non ho imparato a leggere
+A’ raggi della luna.
+
+DON GIOVANNI
+Leggi, dico.
+
+LEPORELLO
+Dell’empio, che mi trasse
+(leggendo)
+Al duro Passo estremo
+Qui Attendo la vendetta.... Udiste?... Io tremo:
+
+DON GIOVANNI
+Oh, vecchio buffonissimo!
+Digli che questa sera
+L’attendo a cena meco.
+
+LEPORELLO
+Che pazzia! Ma vi par... Oh Dei! mirate
+Che terribili occhiate egli ci da....
+Par vivo... par che senta...
+E che voglia parlar...
+
+DON GIOVANNI
+Orsù, va là.
+O qui t’ammazzo: e poi ti seppellisco.
+
+LEPORELLO
+Piano... piano... signore... ora ubbidisco.
+O statua gentilissima
+Del gran Commendatore...
+Padron... mi trema il core,,.
+Non pos....so... ter...mi...nar...
+
+DON GIOVANNI
+Finiscila, o nel petto
+Ti metto - quest’acciar.
+(Che gusto! che spassetto!
+Lo voglio far tremar.)
+
+LEPORELLO
+Che impiccio! - che capriccio!
+Io sentomi gelar!
+O statua gentilissima.
+Benchè di marmo siate...
+Ah! padron mio... mirate...
+Che seguita... a guardar... ’
+
+DON GIOVANNI
+Morì...
+
+LEPORELLO
+No, no... attendete...
+Signor, il padron mio...
+Badate ben... non io...
+Vorria con voi cenar...
+Ahi! ahi! che scena e questa!...
+Oh ciel!... chinò la testa...
+
+DON GIOVANNI
+Va la che sei un baffone...
+
+LEPORELLO
+Guardate ancor, padrone...
+
+DON GIOVANNI
+E che degg’io guardar?
+
+LEPORELLO
+Colla marmorea testa
+Ei fa... così.... così...
+
+DON GIOVANNI
+(Colla marmorea testa
+Ei fa così... così...)
+Parlate, se potete:
+(verso la statua)
+Verrete a cena?
+
+IL COMMENDATORE
+Sì
+
+LEPORELLO
+Mover... mi... posso appena...
+Mi manca, oh Dio!., la lena...
+Per carità... partiamo...
+Andiamo - via di qua.
+
+DON GIOVANNI
+Bizzarra è inver la scena!
+Verrà il buon vecchio a cena!
+A prepararla andiamo:
+Partiamo - via di qua.
+(partono)
+
+## Scena XV
+(Appartamenti in casa di donn’Anna)
+(Duca Ottavio e Donn’Anna)
+
+DON OTTAVIO
+Calmatevi, idol mio di quel ribaldo
+Vedrera Puniti in breve i grandi eccessi:
+Vendicati sarem.
+
+DONNA ANNA
+Ma il padre, oh Dio!
+
+DON OTTAVIO
+Convien chinare il ciglio
+A’ voleri del ciel, Respira, o cara!
+Di tua perdita amara
+Fia domani, se vuoi, dolce compenso
+Questo cor, questa mano.
+Che il mio tenero amor...
+
+DONNA ANNA
+Oh Dei! che dite?
+In sì tristi momenti..
+
+DON OTTAVIO
+E che! vorresti,
+Con indugi novelli.
+Accrescer le mie pene?
+Ah! crudele!
+
+DONNA ANNA
+Crudele?
+Ah no! giammai, mio ben! troppo mi spiace
+Allontanarti un ben che lungamente
+La nostr’alma desia... Ma il mondo, ho Dio!..
+Non sedur la costanza
+Del sensibil mio core:
+Abbastanza per te mi parla amore.
+Non mi dir, bell’idol mio.
+Che son io crudel con te!
+Tu ben sai - quant’io t’amai,
+Tu conosci la mia fè.
+Calma, calma il tuo tormento.
+Se di duol non vuoi ch’io mora:
+Forse un giorno il cielo ancora
+Sentirà pietà di me.
+(parte)
+
+DON OTTAVIO
+Si seguono i suoi passi: io vo’ con lei
+Dividere i martiri.
+Saranno meno gravi i suoi sospiri.
+(parte)
+
+## Scena XVI
+(Sala in, casa di Don Giovanni.)
+(Don Giovanni e Leporello, Servi alcuni Suonatori una mensa imbandita.)
+
+DON GIOVANNI
+Già la mensa è preparata:
+Voi suonate, amici cari.
+Già che spendo i miei danari.
+Io mi voglio divertir.
+(siede a mensa)
+Leporello, presto in tavola.
+
+LEPORELLO
+Son prontissimo a servire.
+(si suona)
+Bravi! Bravi! Cosa rara
+(alludendo ad un pezzo di musica dell’opera La Cosa rara)
+
+DON GIOVANNI
+Che ti par del bel concerto?
+
+LEPORELLO
+E conforme al vostro merto.
+
+DON GIOVANNI
+Oh che piatto saporito!
+
+LEPORELLO
+(Oh che barbaro appetito!
+(mangia di nascosto)
+Che bocconi da gigante!
+Mi par proprio di svenir.)
+
+DON GIOVANNI
+Piatto.
+
+LEPORELLO
+Servo
+(muta il piatto)
+
+DON GIOVANNI
+Versa il vino,
+(i suonatori cangiano la musica)
+Fra i due Litiganti.
+(alludendo ad altr’opera di questo titolo)
+
+LEPORELLO
+(Eccellente marzimino?
+(bevendo e mangiando di nascosto)
+Questo pezzo di fagiano
+Piano, piano vo’ inghiottir,)
+
+DON GIOVANNI
+(Sta mangiando quel marrano,
+Fingerò di non capir.)
+
+LEPORELLO
+Questa poi ben la conosco.
+(ai suonatori, che di nuovo cangiano motivo)
+
+DON GIOVANNI
+Leporello!
+
+LEPORELLO
+Padron mio.)
+(col boccone in gola)
+
+DON GIOVANNI
+Parla schietto, o mascalzone.
+
+LEPORELLO
+Non mi lascia una flussione
+Le parole proferir
+
+DON GIOVANNI
+Mentre io mangio, fischia un poco.
+
+LEPORELLO
+Non so far.
+
+DON GIOVANNI
+Cos’è?
+
+LEPORELLO
+Scusate.
+(mangiando)
+Sì eccellente è il vostro cuoco.
+Che lo volli anch’io provar.
+
+DON GIOVANNI
+(Sì eccellente è il cuoco mio,
+Che lo volle anch’ei provar.)
+
+## Scena XVII
+(Donna Elvira, e detti.)
+
+DONNA ELVIRA
+L’ultima prova
+Dell’amor mio
+Ancor vogl’io
+Fare con te.
+Più non rammento
+Gl’inganni tuoi;
+Pietade io sento
+(s inginocchia)
+
+DON GIOVANNI E LEPORELLO
+Cos’e? cos’è?
+
+DONNA ELVIRA
+Da te non chiede
+Quest’alma oppressa
+Della sua fede
+Qualche mercè
+
+DON GIOVANNI
+mi meraviglio!
+Cosa volete?
+(per beffarla s’inginocchia)
+Se non sorgete,
+Non resto in piè.
+
+DONNA ELVIRA
+Ah! non deridere
+Gli affanni miei.
+
+LEPORELLO
+(Quasi da piangere
+Mi fa costei.)
+
+DON GIOVANNI
+Io te deridere!
+(alzandosi)
+Cielo! e perchè?
+Che vuoi, mio bene?
+(con affettata tenerezza)
+
+DONNA ELVIRA
+Che vita cangi.
+
+DON GIOVANNI
+Brava!
+(beffandola)
+
+DONNA ELVIRA
+Cor perfido!
+
+DON GIOVANNI
+Lascia ch’io mangi;
+E, se ti piace,
+Mangia con me.
+
+DONNA ELVIRA
+Restati, barbaro!
+Nel lezzo immondo,
+Esempio orribile
+D’iniquità.
+(parte)
+
+LEPORELLO
+(Se non si muove
+Al suo dolore.
+Di sasso ha il core,
+O cor non ha.)
+
+DON GIOVANNI
+Vivan le femmine!
+Viva il buon vino!
+Sostegno e gloria
+D’umanità.
+
+DONNA ELVIRA
+Ah!
+(di dentro: poi traversando la scena fuggendo esce da un’altra parte)
+
+DON GIOVANNI E LEPORELLO
+Che grido è questo mai!
+
+DON GIOVANNI
+Va a veder che cos’è stato.
+
+LEPORELLO
+Ah!
+(di dentro, e tornando impaurito)
+
+DON GIOVANNI
+Che grido indiavolato!
+Leporello, che cos’è?
+(i suonatori partono in fretta)
+
+LEPORELLO
+Ah!... signor... per carità.,.
+Non an...da...te fuor... di qua...
+L’uom... di... sasso... l’uomo... bianco...
+Ah padron... io gelo... io... manco...
+Se vedeste... che... figura...
+Se... sentiste... come... fa...
+Ta ta tà ta ta ta ta.
+(imitando i passi del Com.)
+
+DON GIOVANNI
+Non capisco niente affatto;
+Tu sei matto in verità
+(si batte alla porta)
+
+LEPORELLO
+Ahi sentite?
+
+DON GIOVANNI
+Qualcun batte.
+Apri.
+
+LEPORELLO
+Io tremo...
+
+DON GIOVANNI
+Apri, ti dico.
+Lep. Ah!
+
+DON GIOVANNI
+Per togliermi d’intrico
+Ad aprire io stesso andrò,
+(prende il lume e la spada sguainata, e va ad aprire)
+
+LEPORELLO
+(Non vo’ più veder l’amico:
+Pian pianin m’asconderò
+(si cela sotto la tavola)
+
+## Scena XVIII
+(Il Commendatore e detti.)
+
+IL COMMENDATORE
+Don Giovanni, a cenar teco
+M’invitasti, e son venuto.
+
+DON GIOVANNI
+Non l’avrei giammai creduto
+Ma farò quel che potrò.
+Leporello, un’altra cena
+Fa che subito si porti
+
+LEPORELLO
+Ah! padron.. Siam tutti morti...
+(facendo capolino di sotto alla tavola)
+
+DON GIOVANNI
+Vanne dico.
+(tirandolo fuori)
+
+IL COMMENDATORE
+Ferma un po’,
+(a Lep. ch’è in atto di partire)
+Non si pasce di cibo mortale
+Chi si pasce di cibo celeste
+Altre cure più gravi di queste,
+Altra brama quaggiù mi guidò
+
+LEPORELLO
+(La terzana d’avere mi sembra...
+E le membra - fermar più non so.)
+
+DON GIOVANNI
+Parla dunque: che chiedi? che vuoi?
+
+IL COMMENDATORE
+Parlo, ascolta più tempo non ho.
+
+DON GIOVANNI
+Parla, parla: ascoltando ti sto.
+
+IL COMMENDATORE
+Tu m’invitasti a cena:
+Il tuo dovere or sai
+Rispondimi: verrai
+Tu a cenar meco?.
+
+LEPORELLO
+Oibò!
+Tempo non ha.. scusate
+(da lontano sempre tremando)
+
+DON GIOVANNI
+A torto di viltate
+Tacciato mai sarò.
+
+IL COMMENDATORE
+Risolvi.
+
+DON GIOVANNI
+Ho già risolto.
+
+IL COMMENDATORE
+Verrai?
+
+LEPORELLO
+Dite di no.
+
+DON GIOVANNI
+Ho fermo il core in petto:
+Non ho timor, verrò.
+
+IL COMMENDATORE
+Dammi la mano in pegno.
+
+DON GIOVANNI
+Eccola... Ohimè!...
+
+IL COMMENDATORE
+Cos’hai?
+
+DON GIOVANNI
+Che gelo è questo mai!
+
+IL COMMENDATORE
+Pentiti, cangia vita:
+È l’ultimo momento.
+
+DON GIOVANNI
+No, no, ch’io non mi pento...
+(vuole sciogliersi, ma invano.)
+Vanne lontan da me.
+
+IL COMMENDATORE
+Pentiti, scellerato.
+
+DON GIOVANNI
+No, vecchio infatuato.
+
+IL COMMENDATORE
+Pentiti.
+
+DON GIOVANNI
+No.
+
+IL COMMENDATORE E LEPORELLO
+Sì.
+
+DON GIOVANNI
+No.
+
+IL COMMENDATORE
+Ah! tempo più non v’è.
+(fuoco da diverse parti; il Comm. sparisce, e s’apre una voragine)
+
+DON GIOVANNI
+Da quel tremore insolito:..
+Sento... assalir gli spiriti!...
+D’onde escono que vortici
+Di foco... Ohimè; che orror!...
+
+CORO
+Tutto a tue colpe è poco:
+(sotto terra)
+Vieni; c’è mal peggior.
+
+DON GIOVANNI
+Chi l’anima mi lacera!...
+Chi m’agitale viscere!...
+Che strazio! ohimè! che smania!
+Che inferno! che terrori...
+
+LEPORELLO
+(Che ceffo disperato!...
+Che gesti da dannato!...
+Che grida! che lamenti!
+Come mi fa terror!...)
+
+CORO
+Tutto a tue colpe è poco:
+Vieni! C’è un mal peggior
+(cresce il fuoco, compariscono diverse furie, s’impossessano di Giovanni, e seco lui sprofondano)
+
+## Scena ultima
+(Donna Elvira, Donn’Anna, Zerlina, Duca Ottavio, Masetto entrano in scena; e Leporello spaventato.)
+
+TUTTI
+(meno Donn’Anna e Leporello)
+Ah! dov’è il perfido?
+Dov’è l’indegno?
+Tutto il mio sdegno
+Sfogar io vo..
+
+DONNA ANNA
+Solo mirandolo
+Stretto in catene,
+Alle mie pene
+Calma darò.
+
+LEPORELLO
+Più non sperate
+Di ritrovarlo...
+Più non cercate...
+Lontano andò.
+
+TUTTI
+Cos’è? favella. Via presto sbrigati!
+
+LEPORELLO
+Venne un colosso... – ma se non posso....
+Tra fumo e foco... – badate un poco...
+L’uomo di sasso... – fermate il passo...
+Giusto là sotto.. – diede il gran botto.!.
+Giusto là il diavolo - sel trangugiò.
+
+TUTTI
+Stelle che sento!
+
+LEPORELLO
+Vero è l’evento.
+
+TUTTI
+Di certo è l’ombra - che m’incontrò.
+
+DON OTTAVIO
+Or che tutti, o mio tesoro!
+Vendicati siam dal cielo,
+Porgi, porgi a me un ristoro.
+Non mi far languire ancor.
+
+DONNA ANNA
+Lascia, o caro, un anno ancora
+Allo sfogo del mio cor.
+Al desio di chi t’adora
+Ceder deve un fido amor
+
+DONNA ELVIRA
+Io men vado in un ritiro
+A finir la vita mia.
+
+ZERLINA E MASETTO
+Noi, Zerlina,Masetto, a casa andiamo)
+A cenar in compagnia.
+
+LEPORELLO
+Ed io vado all’osteria
+A trovar padron miglior.
+
+ZERLINA, MASETTO E LEPORELLO
+Resti dunque quel birbone,
+Con Proserpina e Pluton.
+E noi tutti, buona gente
+Ripetiam allegramente
+L’antichissima canzon:
+
+TUTTI
+Questo è il fin di chi fa mal!
+E de’ perfidi la morte
+Alla vita è sempre ugual.
