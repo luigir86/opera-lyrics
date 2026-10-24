@@ -173,11 +173,13 @@ def nomi_dei_personaggi(prima, dopo):
     return nomi
 
 
-def separa_etichette(righe, nomi):
+def separa_etichette(righe, nomi, letture=None):
     """Nei libretti di metà Ottocento chi canta è un'abbreviazione a margine,
     sulla stessa riga del verso ("Zac. D'Egitto là sui lidi"). La si riconosce
     dallo spazio largo che la separa dal verso. Diventa una riga a sé con il
-    nome per intero, preso dall'elenco dei personaggi."""
+    nome per intero, preso dall'elenco dei personaggi. Le letture date a mano
+    in personaggi.txt ("WURM = Won, War") vincono sulla somiglianza."""
+    letture = letture or {}
     inizi = defaultdict(list)
     for r in righe:
         if len(r.parole) >= 3:
@@ -233,6 +235,8 @@ def separa_etichette(righe, nomi):
         if len(pezzi) > 1:
             return ' E '.join(nome_pieno(p) for p in pezzi)
         k = senza_accenti(et).upper().strip('.,')
+        if k in letture:
+            return letture[k]
         if k[:1] == 'T' and SequenceMatcher(None, k, 'TUTTI').ratio() >= 0.4:
             return 'TUTTI'           # Turri, Turi, Torri: il coro di tutti
         candidati = [n for n in nomi if senza_accenti(n).startswith(k)]
@@ -320,7 +324,9 @@ def main():
             continue
         if (r.testo.strip(' .') in ('ELENCO', 'CATALOGO')
                 or re.match(r"(ELENCO|CATALOGO)\b.{0,30}\b(libretti|opere|edizioni)", r.testo, re.I)):
-            break           # in fondo, il catalogo dell'editore: non è libretto
+            if any(re.match(r'S\s?C\s?E\s?N\s?A\b', t.testo) for t in tutte):
+                break       # in fondo, il catalogo dell'editore: non è libretto
+            continue        # un catalogo prima del frontespizio
         if tutte and tutte[-1].testo.endswith('-') and r.testo[:1].isalpha():
             tutte[-1].testo = tutte[-1].testo[:-1] + r.testo     # parola divisa a fine riga
             tutte[-1].parole += r.parole
@@ -355,14 +361,21 @@ def main():
         finto.testo = primo
         tutte.insert(inizio, finto)
     nomi = nomi_dei_personaggi(tutte[:inizio], tutte[inizio:])
+    letture = {}
     if os.path.exists(os.path.join(cartella, 'personaggi.txt')):
         # elenco scritto a mano guardando la pagina dei personaggi, quando
         # l'OCR non la legge bene ("Yerrando" per Ferrando)
         with open(os.path.join(cartella, 'personaggi.txt'), encoding='utf-8') as f:
             for n in f.read().split('\n'):
+                # "WURM = Won, Wor": letture dell'OCR da dare a quel nome,
+                # quando la somiglianza sceglie male (Won. -> CONTADINO)
+                n, _, altre = n.partition('=')
                 if n.strip():
                     nomi[n.strip().upper()] += 100
-    righe = separa_etichette(tutte[inizio:], nomi)
+                for a in altre.split(','):
+                    if a.strip():
+                        letture[senza_accenti(a).strip(' .').upper()] = n.strip().upper()
+    righe = separa_etichette(tutte[inizio:], nomi, letture)
     maiuscole_le_etichette(righe, nomi)
 
     # Nomi dei personaggi: la grafia più frequente (con gli accenti) vince.
