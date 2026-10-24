@@ -1,0 +1,1926 @@
+title: La traviata
+composer: Giuseppe Verdi
+librettist: Francesco Maria Piave
+year: 1853
+source: https://www.loc.gov/item/2010658253/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Atto primo
+
+## Scena prima
+(Salotto in casa di Violetta; nel fondo è la porta che mette ad altra sala; ve ne sono altre due laterali; a sinistra un caminetto con sopra uno specchio. Nel mezzo è una tavola riccamente imbandita. Violetta seduta sur un divano sta discorrendo col Dottore e con alcuni Amici, mentre altri vanno ad incontrare quelli che sopraggiungono, tra' quali sono il Barone e Flora al braccio del Marchese.)
+
+CORO I
+Dell'invito trascorsa è già l'ora...
+Voi tardaste...
+
+CORO II
+Giuocammo da Flora,
+E giuocando quell'ore volar.
+
+VIOLETTA
+Flora, amici, la notte che resta (va loro incontro)
+D'altre gioie qui fate brillar...
+Fra le tazze è più viva la festa...
+
+FLORA E MARCHESE
+E goder voi potrete?
+
+VIOLETTA
+Lo voglio;
+Al piacere m'affido, ed io soglio
+Con tal farmaco i mali sopir.
+
+TUTTI
+Si; la vita s'addoppia al gioir.
+
+## Scena seconda
+(Detti, il Visconte Gastone di Letorieres, Alfredo Germont; Servi affaccendati intorno alla mensa.)
+
+GASTONE
+In Alfredo Germont, o signora,
+Ecco un altro che molto vi onora;
+Pochi amici a lui simili sono.
+
+VIOLETTA
+Mio Visconte, mercè di tal dono.
+(dà la mano ad Alf. che gliela bacia)
+
+MARCHESE
+Caro Alfredo...
+
+ALFREDO
+Marchese... (si stringono la mano)
+
+GASTONE
+T'ho detto
+L'amistà qui s'intreccia al diletto. (ad Alf.)
+(i Servi frattanto avranno imbandite le vivande)
+
+VIOLETTA
+Pronto è il tutto?... (*) Miei cari, sedete;
+(* un servo accenna che si)
+È al convito che s'apre ogni cor.
+
+TUTTI
+Ben diceste... le cure segrete
+Fuga sempre l'amico licor.
+(siedono in modo che Violetta resti tra Alfredo e Gastone; di fronte vi sarà Flora tra il Marchese ed il Barone; gli altri siedono a piacere. V'ha un momento di silenzio; frattanto passano i piatti, e Violetta e Gastone parlano sottovoce tra loro, poi)
+
+GASTONE
+Sempre Alfredo a voi pensa.
+
+VIOLETTA
+Scherzate?
+
+GASTONE
+Egra foste, e ogni di con affanno
+Qui volò, di voi chiese.
+
+VIOLETTA
+Cessate,
+Nulla son io per lui...
+
+ALFREDO
+Non v'inganno.
+
+VIOLETTA
+Vero è dunque?... onde ciò?... nol comprendo. (ad Alf.)
+
+ALFREDO
+Si, egli è ver. (sospirando)
+
+VIOLETTA
+Le mie grazie vi rendo.
+Voi, barone, non feste altrettanto... (al Bar.)
+
+BARONE
+Vi conosco da un anno soltanto.
+
+VIOLETTA
+Ed ei solo da qualche minuto.
+
+FLORA
+Meglio fora se avesse taciuto. (piano al Bar.)
+
+BARONE
+M'è increscioso quel giovin... (piano a Flo.)
+
+FLORA
+Perchè?
+A me invece simpatico egli è.
+
+GASTONE
+E tu dunque non apri più bocca? (ad Alf.)
+
+MARCHESE
+È a madama che scuoterlo tocca.... (a Vio.)
+
+VIOLETTA
+Sarò l'Ebe che versa... (mesce ad Alf.)
+
+ALFREDO
+E ch'io bramo
+Immortal come quella. (con galanteria)
+
+TUTTI
+Beviamo.
+
+GASTONE
+O barone, nè un verso, nè un viva
+Troverete in quest'ora giuliva?...
+(Bar. accenna che no)
+Dunque a te... (ad Alf.)
+
+TUTTI
+Si, sì, un brindisi.
+
+ALFREDO
+L'estro
+Non m'arride...
+
+GASTONE
+E non se' tu maestro?
+
+ALFREDO
+Vi fia grato?... (a Violetta)
+
+VIOLETTA
+Si.
+
+ALFREDO
+Si?... L'ho in cor. (s'alza)
+
+MARCHESE
+Dunque attenti...
+
+TUTTI
+Sì, attenti al cantor.
+
+ALFREDO
+Libiam ne' lieti calici
+Che la bellezza infiora,
+E la fuggevol ora
+S'innebrii a voluttà.
+Libiam ne' dolci fremiti
+Che suscita l'amore,
+Poichè quell'occhio al core (indicando Viol.)
+Onnipotente va.
+
+TUTTI
+Libiamo, amor fra i calici
+Più caldi baci avrà.
+
+VIOLETTA
+Tra voi saprò dividere (s'alza)
+Il tempo mio giocondo:
+Tutto è follia nel mondo
+Ciò che non è piacer.
+Godiam, fugace e rapido
+È il gaudio dell'amore;
+È fior che nasce e muore,
+Nè più si può goder.
+
+TUTTI
+Godiam... c'invita un fervido
+Accento lusinghier,
+Godiam... la tazza e il cantico
+Le notti abbella e il riso;
+In questo paradiso
+Ne scopra il nuovo dì.
+
+VIOLETTA
+La vita è nel tripudio... (ad Alf.)
+
+ALFREDO
+Quando non s'ami ancora. (a Vio.)
+
+VIOLETTA
+Nol dite a chi lo ignora... (ad Alf.)
+
+ALFREDO
+È il mio destin così... (a Vio.)
+
+TUTTI
+Godiam... la tazza e il cantico
+Le notti abbella e il riso;
+In questo paradiso
+Ne scopra il nuovo dì. (s'ode musica dall'altra sala)
+Che è ciò?
+
+VIOLETTA
+Non gradireste ora le danze?
+
+TUTTI
+Oh il gentile pensier!... tutti accettiamo.
+
+VIOLETTA
+Usciamo dunque... (*) Oimè!... (* s'avviano alla porta di mezzo, ma Violetta è côlta da subito pallore)
+
+TUTTI
+Che avete?...
+
+VIOLETTA
+Nulla,
+Nulla.
+
+TUTTI
+Che mai v'arresta?...
+
+VIOLETTA
+Usciamo... (*) Oh Dio!... (* fa qualche passo, ma è obbligata a nuovamente fermarsi e sedere)
+
+TUTTI
+Ancora!...
+
+ALFREDO
+Voi soffrite!
+
+TUTTI
+Oh ciel!... ch'è questo?
+
+VIOLETTA
+È un tremito che provo... or là passate.
+(indica l'altra stanza)
+Tra poco anch'io sarò...
+
+TUTTI
+Come bramate. (tutti passano all'altra sala, meno Alfredo che resta indietro)
+
+## Scena terza
+(Violetta, Alfredo e Gastone a tempo.)
+
+VIOLETTA
+(guardando allo specchio)
+Oh qual pallor!... (*) Voi qui!... (* volgendosi s'accorge d'Alf.)
+
+ALFREDO
+Cessata è l'ansia,
+Che vi turbò?
+
+VIOLETTA
+Sto meglio.
+
+ALFREDO
+Ah in cotal guisa
+V'ucciderete... aver v'è duopo cura
+Dell'esser vostro...
+
+VIOLETTA
+E lo potrei?
+
+ALFREDO
+Se mia
+Foste, custode io veglierei pe' vostri
+Soavi dì.
+
+VIOLETTA
+Che dite?... ha forse alcuno
+Cura di me?
+
+ALFREDO
+Perchè nessuno al mondo (con fuoco)
+V'ama...
+
+VIOLETTA
+Nessun?...
+
+ALFREDO
+Tranne sol io.
+
+VIOLETTA
+Gli è vero!...
+Si grande amor dimenticato avea... (ridendo)
+
+ALFREDO
+Ridete!... e in voi v'ha un core?...
+
+VIOLETTA
+Un cor?... sì... forse... e a che lo richiedete?...
+
+ALFREDO
+Oh se ciò fosse, non potreste allora
+Celiar...
+
+VIOLETTA
+Dite davvero?...
+
+ALFREDO
+Io non v'inganno.
+
+VIOLETTA
+Da molto è che mi amate?...
+
+ALFREDO
+Ah si, da un anno.
+Un di felice eterea
+Mi balenaste innante,
+E da quel dì, tremante
+Vissi d'ignoto amor.
+Di quell'amor ch'è l'anima
+Dell'universo intero,
+Misterioso, altero,
+Croce e delizia al cor.
+
+VIOLETTA
+Ah, se ciò è ver, fuggitemi...
+Solo amistade io v'offro;
+Amar non so, nè soffro
+Di così eroico ardor.
+Io sono franca, ingenua:
+Altra cercar dovete;
+Non arduo troverete
+Dimenticarmi allor.
+
+GASTONE
+Ebben?... che diavol fate? (si presenta sulla porta di mezzo)
+
+VIOLETTA
+Si folleggiava...
+
+GASTONE
+Ah! ah!... sta ben... restate. (rientra)
+
+VIOLETTA
+Amor dunque non più... Vi garba il patto?...
+
+ALFREDO
+Io v'obbedisco... Parto... (per andarsene)
+
+VIOLETTA
+A tal giungeste? (si toglie un fiore dal seno)
+Prendete questo fiore.
+
+ALFREDO
+Perchè?...
+
+VIOLETTA
+Per riportarlo...
+
+ALFREDO
+Quando? (tornando)
+
+VIOLETTA
+Quando
+Sarà appassito.
+
+ALFREDO
+Allor domani...
+
+VIOLETTA
+Ebbene:
+Domani.
+
+ALFREDO
+Io son felice! (prende con trasporto il fiore)
+
+VIOLETTA
+D'amarmi dite ancora?
+
+ALFREDO
+Oh quanto v'amo!... (per partire)
+
+VIOLETTA
+Partite?
+
+ALFREDO
+Parto. (torna a lei e le bacia la mano)
+
+VIOLETTA
+Addio.
+
+ALFREDO
+Di più non bramo. (esce)
+
+## Scena quarta
+(Violetta e tutti gli altri che tornano dalla sala riscaldati dalle danze.)
+
+TUTTI
+Si ridesta in ciel l'aurora,
+E n'è forza di partir:
+Mercè a voi, gentil signora,
+Di sì splendido gioir.
+La città di feste è piena,
+Volge il tempo dei piacer:
+Nel riposo ancor la lena
+Si ritempri per goder. (partono dalla destra)
+
+## Scena quinta
+(Violetta sola.)
+
+VIOLETTA
+È strano!... è strano!... in core
+Scolpiti ho quegli accenti!...
+Saria per mia sventura un serio amore?..
+Che risolvi, o turbata anima mia?...
+Null'uomo ancora t'accendeva... oh gioia
+Ch'io non conobbi, esser amata amando!...
+E sdegnarla poss'io
+Per l'aride follie del viver mio?
+Ah forse è lui che l'anima
+Solinga ne' tumulti
+Godea sovente pingere
+De' suoi colori occulti!...
+Lui che modesto e vigile
+All'egre soglie ascese,
+E nuova febbre accese
+Destandomi all'amor.
+A quell'amor ch'è palpito
+Dell'universo intero,
+Misterioso, altero,
+Croce e delizia al cor.
+A me fanciulla un candido
+E trepido desire
+Questi effigiò dolcissimo
+Signor dell'avvenire,
+Quando ne' cieli il raggio
+Di sua beltà vedea,
+E tutta me pascea
+Di quel divino error.
+Sentia che amore è il palpito
+Dell'universo intero,
+Misterioso, altero,
+Croce e delizia al cor!
+(resta concentrata un istante, poi dice)
+Follie!... follie!... delirio vano è questo!...
+In quai sogni mi perdo,
+Povera donna, sola,
+Abbandonata in questo
+Popoloso deserto
+Che appellano Parigi,
+Che spero or più?... che far degg'io?... gioire,
+Di voluttà nei vortici finire.
+Sempre libera degg'io
+Trasvolar di gioia in gioia,
+Perchè ignoto al viver mio
+Nulla passi del piacer.
+Nasca il giorno, il giorno muoia
+Sempre me la stessa trovi;
+Le dolcezze a me rinnovi
+Ma non muti il mio pensier. (entra a sinistra)
+
+# Atto secondo
+
+## Scena prima
+(Casa di campagna presso Parigi. Salotto terreno. Nel fondo, in faccia agli spettatori, è un camino, sopra il quale uno specchio ed un orologio, fra due porte chiuse da cristalli, che mettono ad un giardino. Al primo panno due altre porte, una di fronte all'altra. - Sedie, tavolini, qualche libro, l'occorrente per scrivere.)
+(Alfredo entra in costume da caccia.)
+
+ALFREDO
+Lunge da lei per me non v'ha diletto!... (depone il fucile)
+Volaron già tre lune
+Dacchè la mia Violetta
+Agi per me lasciò, dovizie, onori,
+E le pompose feste,
+Ove agli omaggi avvezza,
+Vedea schiavo ciascun di sua bellezza...
+Ed or contenta in questi ameni luoghi
+Solo esiste per me... qui presso a lei
+Io rinascer mi sento,
+E dal soffio d'amor rigenerato
+Scordo ne' gaudj suoi tutto il passato.
+De' miei bollenti spiriti
+Il giovanile ardore
+Ella temprò col placido
+Sorriso dell'amore!
+Dal dì che disse: Vivere
+Io voglio a te fedel,
+Dell'universo immemore
+Mi credo quasi in ciel.
+
+## Scena seconda
+(Detto ed Annina in arnese da viaggio.)
+ALFREDO
+Annina, donde vieni?
+
+ANNINA
+Da Parigi.
+
+ALFREDO
+Chi tel commise?
+
+ANNINA
+Fu la mia signora.
+
+ALFREDO
+Perchè?
+
+ANNINA
+Per alienar cavalli, cocchi,
+E quanto ancor possiede...
+
+ALFREDO
+Che mai sento!
+
+ANNINA
+Lo spendio è grande a viver qui solinghi...
+
+ALFREDO
+E tacevi?...
+
+ANNINA
+Mi fu il silenzio imposto.
+
+ALFREDO
+Imposto!... e v'abbisogna?...
+
+ANNINA
+Mille luigi.
+
+ALFREDO
+Or vanne... Andrò a Parigi...
+Questo colloquio ignori la signora...
+Il tutto valgo a riparare ancora...
+(Annina parte)
+
+## Scena terza
+(Alfredo solo.)
+
+ALFREDO
+Oh mio rimorso!... Oh infamia!...
+E vissi in tale errore?
+Ma il turpe sogno a frangere
+Il ver mi balenò.
+Per poco in seno acquetati,
+O grido dell'onore,
+M'avrai securo vindice,
+Quest'onta laverò. (esce)
+
+## Scena quarta
+(Violetta ch'entra con alcune carte, parlando con Annina, poi Giuseppe a tempo.)
+
+VIOLETTA
+Alfredo?
+
+ANNINA
+Per Parigi or or partiva.
+
+VIOLETTA
+E tornerà?...
+
+ANNINA
+Pria che tramonti il giorno...
+Dirvel m'impose...
+
+VIOLETTA
+È strano!...
+
+GIUSEPPE
+Per voi... (le presenta una lettera)
+
+VIOLETTA
+(la prende) Sta bene. In breve
+Giungerà un uom d'affari... entri all'istante.
+(Annina e Giuseppe escono)
+
+## Scena quinta
+(Violetta, quindi il sig. Germont, introdotto da Giuseppe, che avanza due siede, e parte.)
+
+VIOLETTA
+Ah, ah!... (leggendo la lettera)
+Scuopriva Flora il mio ritiro!...
+E m'invita a danzar per questa sera!...
+Invan m'aspetterà... (getta il foglio sul tavolino e siede)
+
+GIUSEPPE
+Giunse un signore...
+
+VIOLETTA
+Ah! sarà lui che attendo!... (accenna a Giu. d'introd.)
+
+GERMONT
+Madamigella Valery?...
+
+VIOLETTA
+Son io.
+
+GERMONT
+D'Alfredo il padre in me vedete.
+
+VIOLETTA
+Voi! (sorpresa gli accenna di sedere)
+
+GERMONT
+Si, dell'incauto, che a rovina corre,
+Ammaliato da voi. (sedendo)
+
+VIOLETTA
+Donna son io, signore, ed in mia casa; (alzandosi risentita)
+Ch'io vi lasci assentite,
+Più per voi, che per me. (per uscire)
+
+GERMONT
+(Quai modi!) Pure...
+
+VIOLETTA
+Tratto in error voi foste. (torna a sedere)
+
+GERMONT
+De' suoi beni
+Dono vuol farvi...
+
+VIOLETTA
+Non l'osò finora...
+Rifiuterei.
+
+GERMONT
+Pur tanto lusso...
+
+VIOLETTA
+A tutti
+È mistero quest'atto... A voi nol sia. (gli dà le carte)
+
+GERMONT
+(dopo averle scorse coll'occhio)
+D'ogni avere pensate dispogliarvi!...
+Ah il passato perchè, perchè v'accusa!...
+
+VIOLETTA
+Più non esiste... or amo Alfredo, e Dio
+Lo cancellò col pentimento mio.
+
+GERMONT
+Nobili sensi invero!...
+
+VIOLETTA
+Oh come dolce
+Mi suona il vostro accento!...
+
+GERMONT
+Ed a tai sensi
+Un sacrifizio chieggo...
+
+VIOLETTA
+(alzandosi) Ah no, tacete...
+Terribil cosa chiedereste, certo...
+Troppo...
+
+GERMONT
+D'Alfredo il padre
+La sorte, l'avvenir domanda or qui
+De' suoi due figli...
+
+VIOLETTA
+Di due figli!...
+
+GERMONT
+Sì.
+Pura siccome un angelo
+Iddio mi diè una figlia;
+Se Alfredo nega riedere
+In seno alla famiglia,
+L'amato e amante giovane,
+Cui sposa andar dovea,
+Or si ricusa al vincolo
+Che lieti ne rendea...
+Deh non mutate in triboli
+Le rose dell'amor...
+Ai prieghi miei resistere
+Non voglia il vostro cor.
+
+VIOLETTA
+Ah comprendo... dovrò" per alcun tempo
+Da Alfredo allontanarmi... doloroso
+Fora per me... pur...
+
+GERMONT
+Non è ciò che chiedo...
+
+VIOLETTA
+Cielo!... che più cercate?... offersi assai...
+
+GERMONT
+Pur non basta...
+
+VIOLETTA
+Volete che per sempre
+A lui rinunzi?...
+
+GERMONT
+È duopo!...
+
+VIOLETTA
+No... giammai!
+Non sapete quale affetto
+Vivo, immenso m'arda il petto?
+Che nè amici, nè parenti
+Io non conto tra' viventi?...
+E che Alfredo m'ha giurato
+Che in lui tutto io troverò?...
+Non sapete che colpita
+D'atro morbo è la mia vita?...
+Che già presso il fin ne vedo?...
+Ch'io mi separi da Alfredo!...
+Ah il supplizio è sì spietato,
+Che morir preferirò.
+
+GERMONT
+È grave il sacrifizio,
+Ma pur, tranquilla udite...
+Bella voi siete e giovane...
+Col tempo...
+
+VIOLETTA
+Ah più non dite...
+V'intendo... m'è impossibile...
+Lui solo amar vogl'io...
+
+GERMONT
+Sia pure... ma volubile
+Sovente è l'uom...
+
+VIOLETTA
+Gran Dio! (colpita)
+
+GERMONT
+Un dì, quando le veneri
+Il tempo avrà fugate,
+Fia presto il tedio a sorgere...
+Che sarà allor?.. pensate...
+Per voi non avran balsamo
+I più soavi affetti!...
+Da un genitor non furono
+Tai nodi benedetti...
+
+VIOLETTA
+È vero!...
+
+GERMONT
+Ah dunque sperdasi
+Tal sogno seduttore...
+Siate di mia famiglia
+L'angiol consolatore...
+Violetta, deh pensateci,
+Ne siete in tempo ancor.
+È Dio che inspira, o giovane,
+Tai detti a un genitor.
+
+VIOLETTA
+(Cosi alla misera - ch'è un di caduta,
+Di più risorgere - speme è perduta.
+Se pur benefico - le indulga Iddio,
+L'uomo implacabile - per lei sarà...)
+Dite alla giovane - si bella e pura (a Ger. piangendo)
+Ch'avvi una vittima - della sventura
+Cui resta un unico - raggio di bene...
+Che a lei il sagrifica - e che morrà!
+
+GERMONT
+Si, piangi, o misera... - supremo, il veggo.
+È il sacrifizio - ch'or io ti chieggo.
+Sento nell'alma - già le tue pene;
+Coraggio... e il nobile - cor vincerà. (silenzio)
+
+VIOLETTA
+Or imponete.
+
+GERMONT
+Non amarlo ditegli.
+
+VIOLETTA
+Nol crederà.
+
+GERMONT
+Partite.
+
+VIOLETTA
+Seguirammi.
+
+GERMONT
+Allor...
+
+VIOLETTA
+Qual figlia m'abbracciate... forte
+Così sarò. (s'abbracciano). Tra breve ci vi fia reso,
+Ma afflitto oltre ogni dire... a suo conforto
+Di colà volerete. (indicandogli il giardino, va per iscrivere)
+
+GERMONT
+Or che pensate?
+
+VIOLETTA
+Sapendol, v'opporreste al pensier mio.
+
+GERMONT
+Generosa!... e per voi che far poss'io?...
+
+VIOLETTA
+Morrò!... la mia memoria (tornando a lui)
+Non fia ch'ei maledica,
+Se le mie pene orribili
+Vi sia chi almen gli dica.
+Conosca il sacrifizio
+Ch'io consumai d'amor....
+Che sarà suo fin l'ultimo
+Sospiro del mio cor.
+
+GERMONT
+No, generosa, vivere,
+E lieta voi dovrete,
+Mercè di queste lagrime
+Dal cielo un giorno avrete,
+Premiato il sacrifizio
+Sarà del vostro cor....
+D'un'opra così nobile
+Andrete fiera allor.
+
+VIOLETTA
+Qui giunge alcun: partite!...
+
+GERMONT
+Ah, grato v'è il cor mio!...
+
+VIOLETTA
+Non ci vedrem più, forse... (s'abbracciano)
+
+A DUE
+Felice siate... Addio!...
+
+GERMONT
+(esce per la porta del giardino)
+
+## Scena sesta
+(Violetta, poi Annina, quindi Alfredo.)
+
+VIOLETTA
+Dammi tu forza, o cielo! (siede, scrive, poi suona il campanello)
+
+ANNINA
+Mi chiedeste?
+
+VIOLETTA
+Si, reca tu stessa
+Questo foglio...
+
+ANNINA
+(ne guarda la direzione, e se ne mostra sorpresa)
+
+VIOLETTA
+Silenzio... va all'istante. (Ann. parte)
+Ed or si scriva a lui...
+Che gli dirò?... Chi men darà il coraggio?
+(scrive e poi suggella)
+
+ALFREDO
+Violetta, che fai?
+
+VIOLETTA
+Nulla. (nascondendo la lettera)
+
+ALFREDO
+Scrivevi?
+
+VIOLETTA
+No... sì... (confusa)
+
+ALFREDO
+Qual turbamento!... a chi scrivevi?...
+
+VIOLETTA
+A te...
+
+ALFREDO
+Dammi quel foglio.
+
+VIOLETTA
+No, per ora...
+
+ALFREDO
+Mi perdona... son io preoccupato.
+
+VIOLETTA
+Che fu!!... (alzandosi)
+
+ALFREDO
+Giunse mio padre...
+
+VIOLETTA
+Lo vedesti?
+
+ALFREDO
+No, no; un severo scritto mi lasciava...
+Ma verrà... t'amerà solo in vederti...
+
+VIOLETTA
+Ch'ei qui non mi sorprenda... (molto agitata)
+Lascia che m'allontani... tu lo calma...
+Ai piedi suoi mi getterò... divisi (mal frenando il pianto)
+Ei più non ne vorrà... sarem felici...
+Perchè tu m'ami, Alfredo, non è vero?...
+
+ALFREDO
+Oh quanto!... perchè piangi?...
+
+VIOLETTA
+Di lagrime avea duopo... or son tranquilla...
+Lo vedi?... ti sorrido... (forzandosi)
+Sarò là, tra quei fior, presso a te sempre...
+Amami, Alfredo, quant'io t'amo... Addio.
+(corre in giardino)
+
+## Scena settima
+(Alfredo, poi Giuseppe, indi un Commissionario a tempo.)
+
+ALFREDO
+Ah, vive sol quel core all'amor mio!...
+(siede, prende a caso un libro, legge alquanto, quindi s'alza, guarda l'ora sull'orologio sovrapposto al camino)
+È tardi; ed oggi forse,
+Più non verrà mio padre.
+
+GIUSEPPE
+La signora è partita... (entrando frettoloso)
+L'attendeva un calesse, e sulla via
+Già corre di Parigi... Annina pure
+Prima di lei spariva.
+
+ALFREDO
+Il so, ti calma.
+
+GIUSEPPE
+(Che vuol dir ciò?) (esce)
+
+ALFREDO
+Va forse d'ogni avere
+Ad affrettar la perdita... Ma Annina
+La impedirà. (si vede il padre attraversare in lontano il giardino) Qualcuno è nel giardino!
+Chi è là?... (per uscire)
+
+COMMISSIONARIO
+(alla porta) Il signor Germont?
+
+ALFREDO
+Son io.
+
+COMMISSIONARIO
+Una dama
+Da un cocchio, per voi, di qua non lunge
+Mi diede questo scritto... (dà una lettera ad Alf., ne riceve qualche moneta e parte)
+
+## Scena ottava
+(Alfredo, poi Germont ch'entra dal giardino.)
+
+ALFREDO
+Di Violetta!... Perchè son io commosso?...
+A raggiungerla forse ella m'invita...
+Io tremo!... Oh ciel!... Coraggio! (apre e legge)
+Alfredo, al giungervi di questo foglio...
+(come fulminato, grida)
+Ah!... (*) Padre mio!... (* volgendosi, si trova a fronte del padre nelle cui braccia si abbandona, esclamando)
+
+GERMONT
+Mio figlio!...
+Oh quanto soffri... tergi, ah tergi il pianto...
+Ritorna di tuo padre orgoglio e vanto.
+
+ALFREDO
+(disperato siede presso il tavolino col volto tra le mani)
+
+GERMONT
+Di Provenza il mare, il suol - chi dal cor ti cancellò?
+Al natio fulgente sol - qual destino ti furò?...
+Oh rammenta pur nel duol - ch'ivi gioia a te brillò,
+E che pace colà sol - su te splendere ancor può.
+Dio mi guidò.
+Ah il tuo vecchio genitor - tu non sai quanto soffri...
+Te lontano, di squallor - il suo tetto si copri...
+Ma se alfin ti trovo ancor - se in me speme non falli,
+Se la voce dell'onor - in te appien non ammuti...
+Dio m'esaudi!
+Nè rispondi d'un padre all'affetto (abbracciandolo)
+
+ALFREDO
+Mille furie divoranmi il petto...
+Mi lasciate... (respingendolo)
+
+GERMONT
+Lasciarti...
+
+ALFREDO
+(Oh vendetta!) (risoluto)
+
+GERMONT
+Non più indugi; partiamo... t'affretta...
+
+ALFREDO
+(Ah fu Douphol!)
+
+GERMONT
+M'ascolti tu?
+
+ALFREDO
+No.
+
+GERMONT
+Dunque invano trovato t'avrò!
+No, non udrai rimproveri;
+Copriam d'oblio il passato:
+L'amor che m'ha guidato
+Sa tutto perdonar.
+Vieni, i tuoi cari in giubilo
+Con me rivedi ancora;
+A chi penò finora
+Tal gioja non niegar.
+Un padre ed una suora
+T'affretta a consolar.
+
+ALFREDO
+(scuotendosi, getta a caso gli occhi sulla tavola, e vede la lettera di Flora, la scorre ed esclama)
+Ah!... ell'è alla festa!... volisi
+L'offesa a vendicar. (fugge precipitoso seguito dal padre)
+
+## Scena nona
+(Galleria nel palazzo di Flora, riccamente addobbata e illuminata. Una porta nel fondo e due laterali. A destra più avanti un tavoliere con quanto occorre pel giuoco; a sinistra, ricco tavolino con fiori e rinfreschi, varie sedie e un divano.)
+(Flora, il Marchese, il Dottore, ed altri invitati entrano dalla sinistra, discorrendo tra loro.)
+
+FLORA
+Avrem lieta di maschere la notte;
+N'è duce il viscontino...
+Violetta ed Alfredo anco invitai...
+
+MARCHESE
+La novità ignorate?
+Violetta e Germont son disgiunti.
+
+DOTTORE E FLORA
+Fia vero?...
+
+MARCHESE
+Ella verrà qui col barone.
+
+DOTTORE
+Li vidi jeri ancor... parean felici. (s'ode rumore a destra)
+
+FLORA
+Silenzio... Udite?...
+
+TUTTI
+(vanno verso la destra) Giungono gli amici.
+
+## Scena decima
+(Detti, e molte signore mascherate da Zingare, che entrano dalla destra.)
+
+ZINGARE
+Noi siamo zingarelle
+Venute da lontano:
+D'ognuno sulla mano
+Leggiamo l'avvenir.
+Se consultiam le stelle
+Null'avvi a noi d'oscuro,
+E i casi del futuro
+Possiamo altrui predir.
+
+ZINGARE I
+Vediamo?... Voi, signora, (prendono la mano a Flo. e la osservano)
+Rivali alquante avete.
+
+ZINGARE II
+Marchese, voi non siete (fanno lo stesso al Marchese)
+Model di fedeltà.
+
+FLORA
+Fate il galante ancora? (al Marchese)
+Ben vo' me la paghiate...
+
+MARCHESE
+Che diacin vi pensate?... (a Flora)
+L'accusa è falsità.
+
+FLORA
+La volpe lascia il pelo,
+Non abbandona il vizio...
+Marchese mio, giudizio,
+O vi farò pentir.
+
+TUTTI
+Su via, si stenda un velo
+Sui fatti del passato,
+Già quel ch'è stato è stato,
+Badiamo all'avvenir. (Flo. ed il Mar. si stringono la mano)
+
+## Scena undecima
+(Detti, Gastone ed altri mascherati da Mattadori Piccadori spagnuoli, ch'entrano vivacemente dalla destra.)
+
+GASTONE E MATTADORI
+Di Madride noi siam mattadori,
+Siamo i prodi del circo de' tori;
+Testè giunti a godere del chiasso
+Che a Parigi si fa pel Bue grasso:
+E, una storia se udire vorrete,
+Quali amanti noi siamo, saprete.
+
+GLI ALTRI
+Si, sì, bravi; narrate, narrate;
+Con piacere l'udremo...
+
+GASTONE E MATTADORI
+Ascoltate.
+È Piquillo un bel gagliardo
+Biscaglino mattador;
+Forte il braccio, fiero il guardo,
+Delle giostre egli è signor.
+D'Andalusa giovinetta
+Follemente innamorò;
+Ma la bella ritrosetta
+Così al giovine parlò:
+Cinque tori in un sol giorno
+Vo' vederti ad atterrar;
+E, se vinci, al tuo ritorno
+Mano e cor ti vo' donar.
+Sì, gli disse, e il mattadore
+Alle giostre mosse il piè:
+Cinque tori, vincitore,
+Sull'arena egli stendè.
+
+GLI ALTRI
+Bravo invero, il mattadore
+Ben gagliardo si mostrò,
+Se alla giovine l'amore
+In tal guisa egli provò,
+
+GASTONE E MATTADORI
+Poi, tra plausi, ritornato
+Alla bella del suo cor.
+Colse il premio desiato
+Dalla fede, dall'amor.
+
+GLI ALTRI
+Con tai prove i Mattadori
+San le amanti conquistar!
+
+GASTONE E MATTADORI
+Ma qui son più miti i cori;
+A noi basta folleggiar...
+
+TUTTI
+Si, sì, allegri... Or pria tentiamo
+Della sorte il vario umor;
+La palestra dischiudiamo
+Agli audaci giuocator. (gli uomini si tolgono la maschera, chi passeggia e chi si accinge a giuocare)
+
+## Scena duodecima
+(Detti, ed Alfredo, quindi Violetta col Barone; un Servo a tempo.)
+
+TUTTI
+Alfredo!... Voi!...
+
+ALFREDO
+Si, amici...
+
+FLORA
+Violetta?
+
+ALFREDO
+Non ne so.
+
+TUTTI
+Ben disinvolto!... Bravo!... Or via, giuocar si può.
+
+GASTONE
+(si pone a tagliare: Alfredo ed altri puntano)
+
+VIOLETTA
+(entra al braccio del Barone)
+
+FLORA
+Qui desiata giungi... (andandole incontro)
+
+VIOLETTA
+Cessi al cortese invito.
+
+FLORA
+Grata vi son, Barone, d'averlo pur gradito.
+
+BARONE
+(Germont è qui! il vedete?) (piano a Viol.)
+
+VIOLETTA
+(Cielo!... egli è vero! Il vedo.) (da sè)
+
+BARONE
+Da voi non un sol detto si volga a questo Alfredo. (piano a Vio.)
+
+VIOLETTA
+(Ah perchè venni incauta! Pietà di me, gran Dio!) (da sè)
+
+FLORA
+(Meco t'assidi; narrami... quai novità vegg'io?
+(a Viol. facendola sedere presso di sè sul divano. Il Dottore si avvicina ad esse, che sommessamente conversano. Il Marchese si trattiene a parte col Barone, Gastone taglia; Alfr. ed altri puntano, altri passeggiano)
+
+ALFREDO
+Un quattro!
+
+GASTONE
+Ancora hai vinto!
+
+ALFREDO
+Sfortuna nell'amore
+Vale fortuna al giuoco... (punta e vince)
+
+TUTTI
+È sempre vincitore!...
+
+ALFREDO
+Oh vincerò stassera; e l'oro guadagnato
+Poscia a goder fra' campi ritornerò beato.
+
+FLORA
+Solo?
+
+ALFREDO
+No, no, con tale, che vi fu meco ancor,
+Poi mi sfuggia...
+
+VIOLETTA
+(Mio Dio!...)
+
+GASTONE
+(Pietà di lei.) (ad Alf. indic. Viol.)
+
+BARONE
+(ad Alfr. con mal frenata ira) Signor!....
+
+VIOLETTA
+(Frenatevi, o vi lascio.) (piano al Barone)
+
+ALFREDO
+(disinvolto) Barone, m'appellaste?
+
+BARONE
+Siete in sì gran fortuna, che al gioco mi tentaste.
+
+ALFREDO
+Si?... la disfida accetto... (ironico)
+
+VIOLETTA
+(Che fia?... morir mi sento!)
+
+BARONE
+Cento luigi a destra... (punta)
+
+ALFREDO
+Ed alla manca cento. (punta)
+
+GASTONE
+Un asso... un fante... hai vinto!... (ad Alf.)
+
+BARONE
+Il doppio?...
+
+ALFREDO
+Il doppio sia.
+
+GASTONE
+Un quattro, un sette.... (tagliando)
+
+TUTTI
+Ancora!...
+
+ALFREDO
+Pur la vittoria è mia!
+
+CORO
+Bravo davver!... la sorte è tutta per Alfredo!...
+
+FLORA
+Del villeggiar la spesa farà il Baron, già il vedo.
+
+ALFREDO
+Seguite pur... (al Barone)
+
+SERVO
+La cena è pronta.
+
+FLORA
+Andiamo.
+
+CORO
+(avviandosi) Andiamo.
+
+ALFREDO
+Se continuar v'aggrada... (tra loro a parte)
+
+BARONE
+Per ora nol possiamo:
+Più tardi la rivincita.
+
+ALFREDO
+Al gioco che vorrete.
+
+BARONE
+Seguiam gli amici: poscia...
+
+ALFREDO
+Sarò qual mi verrete.
+(Tutti entrano nella porta di mezzo: la scena rimane un istante vuota)
+
+## Scena decimaterza
+(Violetta, che ritorna affannata, indi Alfredo.)
+
+VIOLETTA
+Invitato a qui seguirmi,
+Verrà desso?... vorrà udirmi?....
+Ei verrà... chè l'odio atroce
+Puote in lui più di mia voce...
+
+ALFREDO
+Mi chiamaste?... Che bramate?
+
+VIOLETTA
+Questi luoghi abbandonate...
+Un periglio vi sovrasta...
+
+ALFREDO
+Ah comprendo!... Basta, basta...
+E sì vile mi credete?...
+
+VIOLETTA
+Ah, no, mai...
+
+ALFREDO
+Ma che temete?..
+
+VIOLETTA
+Tremo sempre del Barone...
+
+ALFREDO
+È tra noi mortal quistione...
+S'ei cadrà per mano mia
+Un sol colpo vi torria
+Coll'amante il protettore...
+V'atterrisce tal sciagura?...
+
+VIOLETTA
+Ma s'ei fosse l'uccisore!...
+Ecco l'unica sventura...
+Ch'io pavento a me fatale!...
+
+ALFREDO
+La mia morte!... Che ven cale?...
+
+VIOLETTA
+Deh, partite, e sull'istante.
+
+ALFREDO
+Partirò, ma giura innante
+Che dovunque seguirai
+I miei passi...
+
+VIOLETTA
+Ah no, giammai.
+
+ALFREDO
+No!... giammai!....
+
+VIOLETTA
+Va. sciagurato,
+Scorda un nome ch'è infamato...
+Va... mi lascia sul momento...
+Di fuggirti un giuramento
+Sacro io feci...
+
+ALFREDO
+E chi potea?...
+
+VIOLETTA
+Chi diritto pien ne avea.
+
+ALFREDO
+Fu Douphol!...
+
+VIOLETTA
+(con supremo sforzo) Si.
+
+ALFREDO
+Dunque l'ami?
+
+VIOLETTA
+Ebben... l'amo...
+
+ALFREDO
+(corre furente sulla porta, e grida)
+Or tutti a me.
+
+## Scena decimaquarta
+(Detti, e Tutti precedenti che confusamente ritornano.)
+
+TUTTI
+Ne appellaste?... Che volete?
+
+ALFREDO
+Questa donna conoscete? (additando Viol. che abbattuta, si appoggia al tavolino)
+
+TUTTI
+Chi?... Violetta?
+
+ALFREDO
+Che facesse
+Non sapete?
+
+VIOLETTA
+Ah taci...
+
+ALFREDO
+No.
+Ogni suo aver tal femmina
+Per amor mio sperdea...
+Io cieco, vile, misero,
+Tutto accettar potea.
+Ma è tempo ancora, tergermi
+Da tanta macchia bramo...
+Qui testimon vi chiamo
+Ch'ora pagata io l'ho. (getta con furente sprezzo una borsa ai piedi di Violetta, ed essa sviene tra le braccia di Flora e del Dottore. In tal momento entra il padre)
+
+## Scena decimaquinta
+(Detti ed il signor Germont, ch'entra all'ultime parole.)
+
+TUTTI
+Oh infamia orribile
+Tu commettesti!...
+Un cor sensibile
+Così uccidesti!...
+Di donne ignobile
+Insultator,
+Di qui allontanati,
+Ne desti orror.
+
+GERMONT
+Di sprezzo degno sè stesso rende (con dignitoso fuoco)
+Chi pur nell'ira la donna offende.
+Dov'è mio figlio?... più non lo vedo.
+In te più Alfredo - trovar non so.
+(Io sol fra tutti so qual virtude
+Di quella misera il sen racchiude...
+Io so che l'ama, che gli è fedele:
+Eppur, crudele, tacer dovrò!
+
+ALFREDO
+(Ah si!... che feci!... ne sento orrore!... (da sè)
+Gelosa smania, deluso amore
+Mi strazian l'alma... più non ragiono...
+Da lei perdono - più non avrò.
+Volea fuggirla... non ho potuto!...
+Dall'ira spinto, son qui venuto!...
+Or che lo sdegno ho disfogato,
+Me sciagurato!... rimorso io n'ho.)
+
+VIOLETTA
+Alfredo, Alfredo, di questo core (riavendosi)
+Non puoi comprendere tutto l'amore;
+Tu non conosci che fino a prezzo
+Del tuo disprezzo - provato io l'ho!
+Ma verrà giorno, in che il saprai...
+Com'io t'amassi confesserai...
+Dio dai rimorsi ti salvi allora...
+Io spenta ancora - pur t'amerò.
+
+BARONE
+(A questa donna l'atroce insulto (piano ad Alf.)
+Qui tutti offese, ma non inulto
+Fia tanto oltraggio... provar vi voglio
+Che tanto orgoglio - fiaccar saprò.)
+
+TUTTI
+Ahi quanto peni!... Ma pur fa core... (a Viol.)
+Qui soffre ognuno del tuo dolore;
+Fra cari amici qui sei soltanto;
+Rasciuga il pianto - che t'inondò.
+(Germont trae seco il figlio; il Barone lo segue. Violetta è condotta in altra stanza dal Dottore e da Flora; gli altri si disperdono.)
+
+# Atto terzo
+
+## Scena prima
+(Camera da letto di Violetta. Nel fondo è un letto con cortine mezzo tirate; una finestra chiusa da imposte interne; presso il letto uno sgabello su cui una bottiglia d'acqua, una tazza di cristallo, diverse medicine. A metà della scena una toilette, vicino un canapè; più distante un altro mobile, su cui arde un lume da notte, varie sedie ed altri mobili. La porta è a sinistra; di fronte v'è un caminetto con fuoco acceso.)
+(Violetta dorme sul letto. Annina seduta presso il caminetto è pure addormita.)
+
+VIOLETTA
+Annina?... (destandosi)
+
+ANNINA
+Comandate?... (svegliandosi confusa)
+
+VIOLETTA
+Dormivi, poveretta?
+
+ANNINA
+Si, perdonate...
+
+VIOLETTA
+Dammi d'acqua un sorso.
+
+ANNINA
+(eseguisce)
+
+VIOLETTA
+Osserva, è pieno il giorno?
+
+ANNINA
+Son sett'ore.
+
+VIOLETTA
+Dà accesso a un po' di luce...
+
+ANNINA
+(apre le imposte, e guarda nella via)
+Il signore Grenvil!...
+
+VIOLETTA
+Oh il vero amico!...
+Alzar mi vo'... m'aita...
+(si alza e ricade; poi sostenuta da Annina va lentamente verso il canapè, ed il Dottore entra in tempo per assisterla ad adagiarvisi, Annina vi aggiunge dei cuscini)
+
+## Scena seconda
+(Dette, ed il Dottore.)
+
+VIOLETTA
+Quanta bontà!... pensaste a me per tempo!...
+
+DOTTORE
+Or come vi sentite? (le tocca il polso)
+
+VIOLETTA
+Soffre il mio corpo, ma tranquilla ho l'alma.
+Mi confortò ier sera un pio ministro.
+Religione è sollievo a' sofferenti.
+
+DOTTORE
+E questa notte?
+
+VIOLETTA
+Ebbi tranquillo il sonno.
+
+DOTTORE
+Coraggio adunque... la convalescenza
+Non è lontana...
+
+VIOLETTA
+Oh la bugia pietosa
+A' medici è concessa...
+
+DOTTORE
+Addio... a più tardi. (stringendole la mano)
+
+VIOLETTA
+Non mi scordate.
+
+ANNINA
+(piano al Dot. accompagnandolo) Come va, signore?
+
+DOTTORE
+La tisi non le accorda che poch'ore. (piano, e parte)
+
+## Scena terza
+(Violetta e Annina.)
+ANNINA
+Or fate cor...
+
+VIOLETTA
+Giorno di festa è questo?...
+
+ANNINA
+Tutta Parigi impazza... è carnevale...
+
+VIOLETTA
+Oh nel comun tripudio, sallo il cielo
+Quanti infelici gemon!... Quale somma
+V'ha in quello stipo? (indicandolo)
+
+ANNINA
+(l'apre e conta) Venti luigi.
+
+VIOLETTA
+Dieci ne reca ai poveri tu stessa.
+
+ANNINA
+Poco rimanvi allora...
+
+VIOLETTA
+Oh mi sarà bastante!... (sospirando)
+Cerca poscia mie lettere.
+
+ANNINA
+Ma voi?...
+
+VIOLETTA
+Nulla occorrà... sollecita, se puoi. (Annina esce)
+
+## Scena quarta
+(Violetta che trae dal seno una lettera e legge)
+
+VIOLETTA
+Teneste la promessa... La disfida
+Ebbe luogo; il barone fu ferito,
+Però migliora... Alfredo
+È in stranio suolo; il vostro sagrifizio
+Io stesso gli ho svelato.
+Egli a voi tornerà pel suo perdono;
+Io pur verrò... Curatevi... mertate
+Un avvenir migliore. -
+Giorgio Germont... - È tardi!... (desolata)
+Attendo, attendo... nè a me giungon mai!... (si guarda nello specchio)
+Oh come son mutata!...
+Ma il Dottore a sperar pure m'esorta!...
+Ah con tal morbo ogni speranza è morta!...
+Addio del passato bei sogni ridenti,
+Le rose del volto già sono pallenti;
+L'amore d'Alfredo pur esso mi manca
+Conforto, sostegno dell'anima stanca...
+Ah della Traviata sorridi al desio,
+A lei deh perdona, tu accoglila, o Dio.
+Or tutto fini.
+Le gioie, i dolori fra poco avran fine;
+La tomba ai mortali di tutto è confine!..
+Non lacrima o fiore avrà la mia fossa,
+Non croce col nome che copra quest'ossa!
+Ah, della Traviata sorridi al desio.
+A lei deh perdona, tu accoglila, o Dio.
+Or tutto fini. (siede)
+
+CORO BACCANALE
+(esterno)
+Largo al quadrupede
+Sir della festa,
+Di fiori e pampini
+Cinto la testa...
+Largo al più docile
+D'ogni cornuto,
+Di corni e pifferi
+Abbia il saluto.
+Parigini, date passo
+Al trionfo del Bue grasso.
+L'Asia, nè l'Africa
+Vide il più bello,
+Vanto ed orgoglio
+D'ogni macello...
+Allegre maschere,
+Pazzi garzoni,
+Tutti plauditelo
+Con canti e suoni.
+Parigini, date passo
+Al trionfo del Bue grasso.
+
+## Scena quinta
+(Detta ed Annina, che torna frettolosa.)
+ANNINA
+Signora... (esitando)
+
+VIOLETTA
+Che t'accadde?
+
+ANNINA
+Quest'oggi è vero?... vi sentite meglio?...
+
+VIOLETTA
+Si, perchè?
+
+ANNINA
+D'esser calma promettete?
+
+VIOLETTA
+Si, che vuoi dirmi?...
+
+ANNINA
+Prevenir vi volli...
+Una gioia improvvisa...
+
+VIOLETTA
+Una gioia!... dicesti?...
+
+ANNINA
+Si, o signora...
+
+VIOLETTA
+Alfredo!... Ah tu il vedesti!... ei vien... l'affretta...
+(Annina afferma col capo, e va ad aprire la porta)
+
+## Scena sesta
+(Violetta, Alfredo e Annina.)
+
+VIOLETTA
+Alfredo?... (andando verso l'uscio)
+
+ALFREDO
+(comparisce pallido pella commozione, ed ambidue, gettandosi le braccia al collo, esclamano)
+
+VIOLETTA
+Amato Alfredo!...
+
+ALFREDO
+Mia Violetta!...
+Colpevol sono... so tutto, o cara...
+
+VIOLETTA
+Io so che alfine reso mi sei!...
+
+ALFREDO
+Da questo palpito s'io t'ami impara.
+Senza te esistere più non potrei.
+
+VIOLETTA
+Ah s'anco in vita m'hai ritrovata,
+Credi che uccidere non può il dolor.
+
+ALFREDO
+Scorda l'affanno, donna adorata,
+A me perdona e al genitor.
+
+VIOLETTA
+Ch'io ti perdoni?... la rea son io;
+Ma solo amore tal mi rendè...
+
+A DUE
+Null'uomo o demone, angelo mio,
+Mai più staccarti potrà da me.
+Parigi, o cara, noi lascieremo,
+La vita uniti trascorreremo:
+De' corsi affanni compenso avrai,
+La tua / mia salute rifiorirà.
+Sospiro e luce tu mi sarai,
+Tutto il futuro ne arriderà.
+
+VIOLETTA
+Ah non più... a un tempio... Alfredo, andiamo,
+Del tuo ritorno grazie rendiamo... (vacilla)
+
+ALFREDO
+Tu impallidisci!...
+
+VIOLETTA
+È nulla, sai?...
+Gioia improvvisa non entra mai
+Senza turbarlo in mesto core... (si abbandona come sfinita sopra una sedia col capo cadente all'indietro)
+
+ALFREDO
+Gran Dio!... Violetta!... (spaventato sorreggendola)
+
+VIOLETTA
+È il mio malore... (sforzandosi)
+Fu debolezza!.. ora son forte...
+Vedi?... sorrido... (sforzandosi)
+
+ALFREDO
+(desolato) (Ahi cruda sorte!...)
+
+VIOLETTA
+Fu nulla... Annina, dammi a vestire...
+
+ALFREDO
+Adesso!... Attendi...
+
+VIOLETTA
+(alzandosi) No... voglio uscire.
+
+ANNINA
+(le presenta una veste ch'ella fa per indossare, e impeditane dalla debolezza esclama)
+
+VIOLETTA
+Gran Dio non posso!.. (getta con dispetto la veste e ricade sulla sedia)
+
+ALFREDO
+(Cielo!... che vedo!...)
+Va pel dottore... (ad Annina)
+
+VIOLETTA
+(ad Annina) Digli... che Alfredo
+È ritornato all'amor mio...
+Digli che viver ancor vogl'io...
+
+ANNINA
+(parte)
+
+VIOLETTA
+Ma se tornando non m'hai salvato, (ad Alf,)
+A niuno in terra salvarmi è dato.
+
+## Scena settima
+(Violetta e Alfredo.)
+
+VIOLETTA
+Gran Dio!... morir sì giovane,
+Io che penato ho tanto!...
+Morir sì presso a tergere
+Il mio sì lungo pianto!
+Ah dunque fu delirio
+La credula speranza;
+Invano di costanza
+Armato avrò il mio cor...
+Alfredo... oh il crudo termine
+Serbato al nostro amor!...
+
+ALFREDO
+Oh mio sospiro, oh palpito
+Diletto del cor mio!...
+Le mie colle tue lacrime
+Confondere degg'io...
+Or più che mai nostr'anime
+Han duopo di costanza...
+Ah tutto alla speranza
+Non chiudere il tuo cor.
+Violetta mia, deh calmati,
+M'uccide il tuo dolor.
+(Violetta s'abbandona sul canapè)
+
+## Scena ultima
+(Detti, Annina, il signor Germont ed il Dottore.)
+
+GERMONT
+Ah Violetta!... (entrando)
+
+VIOLETTA
+Voi, signor!...
+
+ALFREDO
+Mio padre!...
+
+VIOLETTA
+Non mi scordaste?
+
+GERMONT
+La promessa adempio...
+A stringervi qual figlia vengo al seno,
+O generosa...
+
+VIOLETTA
+Oimè, tardi giungeste!...
+Pure, grata ven sono... (lo abbraccia)
+Grenvil, vedete?... tra le braccia io spiro
+Di quanti ho cari al mondo...
+
+GERMONT
+Che mai dite!
+(Oh cielo!... è ver!) (la osserva)
+
+ALFREDO
+La vedi, padre mio?
+
+GERMONT
+Di più non lacerarmi...
+Troppo rimorso l'alma mi divora...
+Quasi fulmin m'atterra ogni suo detto...
+Oh mal cauto vegliardo!...
+Ah tutto il mal ch'io feci ora sol vedo!
+
+VIOLETTA
+(frattanto avrà aperto a stento un ripostiglio della toilette e toltone un medaglione dice)
+Prendi, quest'è l'immagine
+De' miei passati giorni,
+A rammentar ti torni
+Colei che sì t'amò.
+Se una pudica vergine
+Degli anni suoi nel fiore
+A te donasse il core...
+Sposa ti sia... lo vo'.
+Le porgi questa effigie;
+Dille che dono ell'è
+Di chi nel ciel tra gli angeli
+Prega per lei, per te.
+
+ALFREDO
+No, non morrai, non dirmelo,
+Dêi vivere, amor mio...
+A strazio così orribile
+Qui non mi trasse Iddio.
+Sì presto, ah no, dividerti
+Morte non può da me...
+Ah vivi, o un solo feretro
+M'accoglierà con te.
+
+GERMONT
+Cara, sublime vittima
+D'un generoso amore,
+Perdonami lo strazio
+Recato al tuo bel core.
+
+GERMONT, DOTTORE, ANNINA
+Finchè avrà il ciglio lacrime
+Io piangerò per te;
+Vola a' beati spiriti;
+Iddio ti chiama a sè.
+
+VIOLETTA
+È strano!... (alzando rianimata)
+
+TUTTI
+Che!
+
+VIOLETTA
+Cessarono
+Gli spasmi del dolore.
+In me rinasce... m'anima
+Insolito vigore!...
+Ah! io ritorno a vivere!... (trasalendo)
+Oh gio... ia!... (ricade sul canapè)
+
+TUTTI
+Oh cielo!... muor!...
+
+ALFREDO
+Violetta?...
+
+TUTTI
+Oh Dio, soccorrasi...
+
+DOTTORE
+È spenta!... (dopo averle toccato il polso)
+
+TUTTI
+Oh rio / mio dolor!
+(Quadro e cade la tela.)

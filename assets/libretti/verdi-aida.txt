@@ -1,0 +1,1494 @@
+title: Aida
+composer: Giuseppe Verdi
+librettist: Antonio Ghislanzoni
+year: 1871
+source: https://www.loc.gov/item/2010657556/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Atto primo
+
+## Scena prima
+(Giardino nel Palazzo del Re, a Menfi.)
+(Il padiglione del Re formato da una doppia linea di colonne in legno. Vasi ed arbusti in fiore abbelliscono tutta la scena. In fondo la pianura coltivata dell'Egitto, e in lontananza il deserto e le Piramidi.)
+
+(Rhadamès, Ramphis.)
+
+RAMPHIS
+Si: corre voce che l'Etiope ardisca
+Sfidarci ancora, e del Nilo la valle
+E Tebe minacciar — Fra breve un messo
+Recherà il ver.
+
+RHADAMÈS
+La Sacra
+Iside consultasti?
+
+RAMPHIS
+Ella ha nomato
+Delle egizie falangi
+Il condottier supremo.
+
+RHADAMÈS
+Oh lui felice!
+
+RAMPHIS
+(con intenzione, fissando Rhadamès.)
+Giovane e prode è desso — Ora del Nume
+Reco i decreti al Re.
+(Esce).
+RHADAMÈS
+(solo.)
+Se quel guerriero
+Io fossi! se il mio sogno
+Si avverasse!... Un esercito di prodi
+Da me guidato... e la vittoria... e il plauso
+Di Menfi tutta! — E a te, mia dolce Aida,
+Tornar di lauro cinto...
+Dirti: per te ho pugnato, e per te ho vinto.
+Celeste Aida, forma divina,
+Mistico serto di luce e fior,
+Del mio pensiero tu sei regina,
+Tu di mia vita sei lo splendor.
+Il tuo bel cielo vorrei ridarti,
+Le dolci brezze del patrio suol;
+Un regal serto sul crin posarti,
+Ergerti un trono vicino al sol!
+
+(Amnéris e detto.)
+
+AMNÉRIS
+Quale insolita fiamma
+Nel tuo sguardo! Di quale
+Nobil fierezza ti balena il volto!
+Degna di invidia oh! quanto
+Saria la donna il cui bramato aspetto
+Tanta luce di gaudio in te destasse!
+
+RHADAMÈS
+D'un sogno avventuroso
+Si beava il mio cuore — Oggi la Diva
+Profferse il nome del guerrier che al campo
+Le schiere egizie condurrà... S'io fossi
+A tale onor prescelto...
+
+AMNÉRIS
+Nè un altro sogno mai
+Più gentil... più soave...
+Al cuore ti parlò?... Non hai tu in Menfi
+Desiderii... speranze?...
+
+RHADAMÈS
+Io!... (Quale inchiesta!)
+(Forse... l'arcano amore
+Scoprì che mi arde in core...
+Della sua schiava il nome
+Mi lesse nel pensier!)
+
+AMNÉRIS
+(Oh! guai se un altro amore
+Ardesse a lui nel core!...
+Guai se il mio sguardo penetra
+Questo fatal mister!)
+
+(Aida e detti.)
+
+RHADAMÈS
+(vedendo Aida.)
+Dessa!
+
+AMNÉRIS
+(Ei si turba... e quale
+Sguardo rivolse a lei!
+Aida... a me rivale...
+Forse saria costei?)
+(Dopo breve silenzio, rivolgendosi ad Aida.)
+Vieni, o diletta, appressati...
+Schiava non sei nè ancella
+Qui dove in dolce fascino
+Io ti chiamai sorella...
+Piangi?... delle tue lacrime
+Svela il segreto a me.
+
+AIDA
+Ohimè! di guerra fremere
+L'atroce grido io sento...
+Per la infelice patria...
+Per me... per voi pavento.
+
+AMNÉRIS
+Favelli il ver? nè s'agita
+Più grave cura in te?
+(Aida abbassa gli occhi e cerca dissimulare il proprio turbamento.)
+
+AMNÉRIS
+(guardando Aida)
+(Trema, o rea schiava, ah! trema
+Ch'io nel tuo cor discenda...
+Trema che il ver mi apprenda
+Quel pianto e quel rossor!)
+
+AIDA
+(No, sull'afflitta patria
+Non geme il cor soltanto;
+Quello ch'io verso è pianto
+Di sventurato amor)
+
+RHADAMÈS
+(guardando Amnéris.)
+(Nel volto a lei balena
+Lo sdegno ed il sospetto...
+Guai se l'arcano affetto
+A noi leggesse in car!)
+
+(Il Re, preceduto dalle sue guardie e seguito da Ramphis, dai Ministri, Sacerdoti, Capitani, ecc., ecc. Un Uffiziale di Palazzo, indi un Messaggiero.)
+
+IL RE
+Alta cagion vi aduna,
+O fidi Egizi, al vostro Re d'intorno.
+Dal confin d'Etiòpia un Messaggiero
+Dianzi giungea — Gravi novelle ei reca...
+Vi piaccia udirlo...
+(Ad un Uffiziale.)
+Il Messaggier sì avanzi!
+
+MESSAGGIERO
+Il sacro suolo dell'Egitto è invaso
+Dai barbari Etiòpi. — I nostri campi
+Fur devastati.... arse le messi... e, baldi
+Della facil vittoria, i predatori
+Già marciano su Tebe...
+
+TUTTI
+Ed osan tanto!
+
+MESSAGGIERO
+Un guerriero indomabile, feroce,
+Li conduce... Amonasro.
+
+TUTTI
+Il Re!
+
+AIDA
+(Mio padre!)
+
+MESSAGGIERO
+Già Tebe è in armi e dalle cento porte
+Sul barbaro invasore
+Proromperà, guerra recando e morte.
+
+IL RE
+Sì: guerra è morte! il nostro grido sia.
+
+TUTTI
+Guerra! guerra!
+
+IL RE
+Tremenda, inesorata!
+(Accostandosi a Rhadamès,)
+Iside venerata
+Di nostre schiere invitte
+Già designava il condottier supremo:
+Rhadamès.
+
+TUTTI
+Rhadamès!
+
+RHADAMÈS
+Sien grazie ai Numi!
+I miei voti fur paghi!
+
+AMNÉRIS
+(Ei duce!)
+
+AIDA
+(Io tremo.)
+
+IL RE
+Or, di Vulcano al tempio
+Muovi, o guerrier — Le sacre
+Armi ti cingi e alla vittoria vola,
+Su! del Nilo al sacro lido
+Accorrete, Egizii eroi!
+Da ogni cor prorompa il grido:
+Guerra e morte allo stranier!
+
+RAMPHIS E SACERDOTI
+Gloria ai Numi, e ognun rammenti
+Ch'essi reggono gli eventi,
+Che in poter dei Numi solo
+Stan le sorti dei guerrier.
+
+MINISTRI - CAPITANI
+Su! del Nilo al sacro lido
+Sien barriera i nostri pettì:
+Non eccheggi che un sol grido:
+Guerra e morte allo stranier!
+
+RHADAMÈS
+Sacro fremito di gloria
+Tutta l'anima mi investe:
+Su! corriamo alla vittoria!
+Guerra e morte allo stranier!
+
+AMNÉRIS
+(Recando una bandiera e consegnandola a Rhadamès.)
+Di mia man ricevi, o duce,
+Il vessillo glorioso;
+Ti sia guida, ti sia luce
+Della gloria sul sentier.
+
+AIDA
+(Per chi piango? per chi piango?...
+Qual poter m'avvince a lui?
+Deggio amarlo... ed è costui
+Un nemico... uno stranier!)
+
+TUTTI
+Guerra! guerra! sterminio all'invasor!
+Va, Rhadamès, ritorna vincitor!
+(Escono tutti meno Aida.)
+
+AIDA
+Ritorna vincitor!... E dal mio labbro
+Uscì l'empia parola? — Vincitore
+Del padre mio... di lui che impugna l'armi
+Per me... per ridonarmi
+Una patria, una reggia e il nome illustre
+Che qui celar mi è forza! — Vincitore
+De'miei fratelli... ond'io lo vegga, tinto
+Del sangue amato, trionfar nel plauso
+Dell'Egizie coorti!... E dietro il carro
+Un Re...mio padre... di catene avvinto!
+L'insana parola,
+O numi, sperdete!
+Al seno d'un padre
+La figlia rendete;
+Struggete - le squadre
+Dei nostri oppressor!
+Sventurata! che dissi? e l'amor mio?...
+Dunque scordar poss'io
+Questo fervido amor che oppressa e schiava
+Come raggio di sol qui mi beava!
+Imprecherò la morte
+A Rhadamès... a lui che amo pur tanto!
+Ah! non fu in terra mai
+Da più crudeli angoscie un core affranto!
+I sacri nomi di padre... di amante
+Nè profferir poss'io, nè ricordar...
+Per l'un, per l'altro, confusa... tremante...
+Io piangere vorrei... vorrei pregar.
+Ma la mia prece in bestemmia si muta:
+Delitto è il pianto a me... colpa il sospir...
+In notte cupa la mente è perduta...
+E nell'ansia crudel vorrei morir.
+Numi, pietà - del mio soffrir!
+Speme non v'ha - pel mio dolor...
+Amor fatal - tremendo amor,
+Spezzami il cor - fammi morir.
+(Esce.)
+
+## Scena seconda
+(Interno del tempio di Vulcano, a Menfi.)
+(Vasto portico formato da colonne di pietra sullo stile dei temp. dell'alto Egitto. Le mura sono coperte da grandi quadri, che rappresentano soggetti religiosi. In fondo una grande porta, al di là della quale si scorge il Nilo e la catena delle montagne della Libia. Da un lato l'altare sormontato dalla statua del Nume. Il fumo degl'incensi s'innalza da tripodi d'oro.)
+(Sacerdoti e Ramphis, ai piedi dell'altare. — A suo tempo, Rhadamès. — Si ode dall'interno il canto delle Sacerdotesse, accompagnato dalle arpe.)
+
+TERMUTHIS E SACERDOTESSE
+(nell'interno)
+Immenso Fthà del mondo
+Spirito animator,
+Noi t'invochiamo!
+Immenso Fthà, del mondo
+Spirto fecondator,
+Noi t'invochiamo!
+Fuoco increato, eterno,
+Onde ebbe luce il sol,
+Noi t'invochiamo!
+
+SACERDOTI
+Tu che dal nulla hai tratto
+L'onde, la terra e il ciel,
+Noi t'invochiamo!
+Nume che del tuo spirito
+Sei figlio e genitor,
+Noi t'invochiamo!
+Vita dell'universo,
+Mito di eterno amor,
+Noi t'invochiamo !
+(Rhadamès viene introdotto senz'armi. Mentre va all'altare, le Sacerdotesse eseguiscono la danza sacra, Sul capo di Rhadamès viene steso un velo d'argento.)
+
+RAMPHIS
+Mortal, diletto ai Numi, a te fidate
+Son d'Egitte le sorti - Il sacro brando
+Dal Dio temprato per tua man diventi
+Ai nemici terror, folgore, morte.
+(Volgendosi al Nume.)
+Nume, custode e vindice
+Di questa sacra terra,
+La mano tua distendi
+Sovra l'Egizio suol.
+
+RHADAMÈS
+Nume, che duce ed arbitro
+Sei d'ogni umana guerra,
+Proteggi tu, difendi
+D'Egitto il sacro suol.
+(Mentre Rhadamès viene investito delle armi sacre, le Sacerdotesse: ed i Sacerdoti riprendono l'inno religioso e la. mistica danza.)
+
+# Atto secondo
+
+## Scena terza
+(Una sala nell'appartamento di Amnéris)
+(Amneris è circondata dalle schiave che l'abbigliano per la festa trionfale. Giovani schiavi mori danzando agitano dei ventagli di piume.)
+
+SCHIAVE
+Chi mai fra gli inni-e i plausì
+Erge alla gloria il vol
+Al par di un Dio terribile,
+Fulgente al par del sol?
+Vieni: sul crin ti piovano
+Contesti ai lauri i fior;
+Suonin di gloria i cantici
+Coi cantici d'amor.
+
+AMNÉRIS
+(Vieni, amor mio, mi innebria..
+Fammi beato il cor!)
+
+SCHIAVE
+Or, dove son le barbare
+Orde dello stranier?
+Siccome nebbia sparvero
+Al soffio del guerrier,
+Vieni: di gloria il premio
+Raccogli, o vincitor!
+T'arrise la vittoria,
+T'arriderà l'amor.
+
+AMNÉRIS
+(Vieni, amor mio, ravvivami
+D'un caro accento ancor!)
+Silenzio! Aida verso noi si avanza...
+Figlia dei vinti, il suo dolor mi è sacro.
+(Ad un cenno di Amnéris tutti si allontanano.)
+Nel rivederla, il dubbio
+Atroce in me si desta...
+Il mistero fatal si squarci alfine!
+
+(Amnéris, Aida.)
+
+AMNÉRIS
+(Ad Aida con simulata amorevolezza.)
+Fu la sorte dell'armi a'tuoi funesta,
+Povera Aida! — Il lutto
+Che ti pesa sul cor teco divido.
+Io son l'amica tua...
+Tutto da me tu avrai — Vivrai felice!
+
+AIDA
+Felice esser poss'io
+Lungi dal suol natio... qui dove ingnota
+M'è la sorte del padre e dei fratelli?
+
+AMNÉRIS
+Ben ti compiango; pure hanno un confine
+I mali di quaggiù... Sanerà il tempo
+Le angoscie del tuo core...
+E più che il tempo, un Dio possente... Amore.
+
+AIDA
+(Vivamente commossa.)
+(Amore! amore! - gaudio... tormento
+Soave ebbrezza - ansia crudel!...
+Ne'” tuoi dolori - la vita io sento...
+Un tuo sorriso - mi schiude il ciel!
+
+AMNÉRIS
+(Guardando Aida fissamente.)
+Ah! quel pallore... - quel turbamento
+Svelan l'arcana - febbre d'amore...
+D'interrogarla - quasi ho sgomento...
+Divido l'ansia - del suo terror.)
+(Ad Aida, fissandola attentamente.)
+Ebben, qual nuovo fremito
+Ti assal, gentile Aida?
+I tuoi segreti svelami,
+All'amor mio ti affida...
+Tra i forti che pugnarono
+Della tua patria a danno...
+Qualcuno... un dolce affanno, ..
+Forse... a te in cor destò...
+
+AIDA
+Che parli?...
+
+AMNÉRIS
+A tutti barbara
+Non si mostrò la sorte...
+Se in campo il duce impavido
+Cadde trafitto a morte...
+
+AIDA
+Che mai dicesti! ahi misera!...
+
+AMNÉRIS
+Sì... Rhadamès da'tuoi
+Fu spento... E pianger puoi?...
+
+AIDA
+Per sempre io piangerò!
+
+AMNÉRIS
+Gli Dei t'han vendicata...
+
+AIDA
+Avversi sempre
+Mi furo i Numi...
+
+AMNÉRIS
+(prorompendo con ira.)
+Ah! trema! in cor ti lessi...
+
+AIDA
+Io!...
+
+AMNÉRIS
+Un detto ancora e il vero
+Saprò... Fissami in volto...
+Io t'ingannai... Rhadamès vive...
+
+AIDA
+(Con esaltazione inginocchiandosi.)
+Ei vive?
+Sien grazie ai Numi!
+
+AMNÉRIS
+E mentir speri ancora?...
+(Nel massimo furore.)
+Si... tu l'ami... ma l'amo
+Anch'io... comprendi tu?... son tua rivale...
+Figlia dei Faraoni...
+
+AIDA
+(Con orgoglio, alzandosi.)
+Mia rivale!...
+Ebben sia pure... Anch'io
+Son tal... (Reprimendosi)
+Che dissi mai?... pietà! perdono!
+Pietà ti prenda del mio dolore...
+È vero... io l'amo d'immenso amore...
+Tu sei felice... tu sei possente...
+Io vivo solo per questo amor!
+
+AMNÉRIS
+Trema, o vil schiava! spezza il tuo core...
+Segnar tua morte può questo amore...
+Del tuo destino arbitra io sono;
+D'odio e vendetta le furie ho in cor.
+(Suoni interni.)
+Alla pompa che si appresta,
+Meco, o schiava, assisterai;
+Tu prostrata nella polve,
+Io sul trono accanto al Re.
+Vien... mi segui e apprenderai
+Se lottar tu puoi con me.
+
+AIDA
+Ah! pietà!... che più mi resta?
+Un deserto è la mia vita;
+Vivi e regna, il tuo furore
+Io fra breve placherò.
+Questo amore che ti irrita
+Nella tomba porterò.
+
+## Scena quarta
+(Uno degli ingressi della citta" di Tebe.)
+(Sul davanti un gruppo di palme. A destra il tempio di Hator-Afrodite e un trono sormontato da un baldacchino di porpora. Nel fondo un gran viale di Sfingi, al di la del quale si mostra il panorama della città, La scena è ingombra di popolo.)
+(Entra IL RE, seguito dai MINISTRI, SACERDOTI, Capitani, Flabelliferi, Vessilliferi, ecc., ecc. Quindi, AMNERIS con AIDA e Schiave. — IL RE va a sedere sul trono. AMNERIS prende posto alla sinistra del Re.)
+
+POPOLO
+Gloria all'Egitto e ad Iside
+Che il sacro suol protegge!
+Al Re che il Delta regge
+Inni festosi alziam!
+Vieni, o guerriero vindice,
+Vieni a gioir con noi;
+Sul passo degli eroì
+I lauri e i fior versiam!
+
+DONNE
+S'intrecci il mirto al lauro
+Sul crin dei vincitori!
+Nembo gentil di fiori
+Stenda sull'armi un vel.
+Danziam, fanciulle egizie,
+Le mistiche carole,
+Come d'intorno al sole
+Danzano gli astri in ciel.
+
+SACERDOTI
+Della vittoria agli arbitri
+Supremi il guardo ergete;
+Grazie agli Dei rendete
+Nel fortunato di.
+Così per noi di gloria
+Sia l'avvenir segnato,
+Nè mai ci colga il fato
+Che i barbari colpì.
+(Le truppe vincitrici precedute dalle fanfare sfilano dinanzi al Re. Seguono quattro drappelli di danzatrici dell'Asia, dell'Etiopia, della Libia e dell'Egitto. Vengono quindi le statue degli Dei e la barca sacra di Athor portata da Sacerdoti. Da ultimo Rhadamès sopra una palanchina condotta a spalla da otto uffiziali.)
+
+IL RE
+(Che scende dal trono per abbracciare Rhadamès.)
+Salvator della patria, io ti saluto.
+Vieni, e mia figlia di sua man ti porga
+Il serto trionfale.
+(Rhadamès si inchina davanti Amnéris che gli porge la corona.)
+
+IL RE
+(a Rhadamès.)
+Ora, a me chiedi
+Quanto più brami. Nulla a te negato
+Sarà in tal dì; lo giuro
+Per la corona mia, per sacri Numi.
+
+RHADAMÈS
+Concedì in pria che innanzi a te sien tratti
+I prigionier...
+(Entrano fra le guardie i prigionieri Etiopi, ultimo Amonasro, vestito da uffiziale.)
+
+AIDA
+Che veggo!... Egli?... mio padre!
+
+TUTTI
+Suo padre!
+
+AMNÉRIS
+In poter nostro!...
+
+AIDA
+(Abbracciando il padre.)
+Tu! Prigionier!
+
+AMONASRO
+(piano ad Aida.)
+Non mi tradir!
+
+IL RE
+T'appressa...
+Dunque... tu sei?
+
+AMONASRO
+Suo padre... Anch'io pugnai...
+Vinti noi fummo e morte invan cercai.
+(accennando alla divisa che lo veste.)
+Questa assisa ch'io vesto vi dica
+Che il mio Re, la mia patria ho difeso.
+Fu la sorte a nostr'armi nemica...
+Tornò vano dei forti l'ardir.
+Al mio piè nella polve disteso
+Giacque il Re da più colpi trafitto;
+Se l'amor della patria è delitto,
+Siam rei tutti, siam pronti a morir.
+(Volgendosi al Re con accento supplichevole.)
+Ma tu, o Re, tu signore possente,
+A costoro ti volgi clemente...
+Oggi noi siam percossi dal fato,
+Doman voi potria il fato colpir.
+
+AIDA, PRIGIONIERI, SCHIAVE
+Si: dai Numi percossi noi siamo;
+Tua pietà, tua clemenza imploriamo,
+Ah! giammai di soffrir vi sia dato
+Ciò che in oggi n'è dato soffrir!
+
+RAMPHIS, SACERDOTI
+Struggi, o Re, queste ciurme feroci,
+Chiudi il cor alle perfide voci;
+Fur dai Numi votate alla morte,
+Si compisca dei Numi il voler.
+
+POPOLO
+Sacerdoti, gli sdegni placate,
+L'umil prece dei vinti ascoltate;
+E tu, o Re, tu possente, tu forte,
+A clemenza dischiudi il pensier.
+
+RHADAMÈS
+(Fissando Aida.)
+(Il dolor che in quel volto favella
+Al mio sguardo la rende più bella;
+Ogni stilla del pianto adorato
+Nel mio petto ravviva l'amor.)
+
+AMNÉRIS
+(Quali sguardi sovr'essa ha rivolti!
+Di qual fiamma balenano i volti!
+E a tal sorte serbata son io?...
+La vendetta mi rugge nel cor.)
+
+IL RE
+Or che fausti ne arridon gli eventi
+A costoro mostriamci clementi;
+La pietà sale ai Numi gradita
+E rafferma dei Prenci il poter.
+
+RHADAMÈS
+(al Re.)
+O Re: pei sacri Numi,
+Per lo splendore della tua corona,
+Compier giurasti il voto mio...
+
+IL RE
+Giurai.
+
+RHADAMÈS
+Ebbene: a te pei prigionieri Etiopi
+Vita domando e libertà.
+
+AMNÉRIS
+(Per tutti!)
+
+SACERDOTI
+Morte ai nemici della patria!
+
+POPOLO
+Grazia
+Per gli infelici
+
+RAMPHIS
+Ascolta, o Re — (A Rhadamés)
+Tu pure,
+Giovine eroe, saggio consiglio ascolta,
+Son nemici e prodi sono...
+La vendetta hanno nel cor,
+Fatti audaci dal perdono
+Correranno all'armi ancor!
+
+RHADAMÈS
+Spento Amonasro, il re guerrier, non resta
+Speranza ai vinti.
+
+RAMPHIS
+Almeno,
+Arra di pace e securtà, fra noi
+Resti col padre Aida...
+Gli altri sien sciolti...
+
+IL RE
+Al tuo consiglio io cedo.
+Di securtà, di pace un miglior pegno
+Or io vuo'darvi - Rhadamés, la patria
+Tutto a te deve - D'Amnéris la mano
+Premio ti sia. Sovra l'Egitto un giorno
+Con essa regnerai...
+
+AMNÉRIS
+(Venga or la schiava,
+Venga a rapirmi l'amor mio... se l'osa:)
+
+IL RE
+Gloria all'Egitto e ad Iside
+Che il sacro suol difende,
+S'intrecci il mirto al lauro,
+Sul crin del vincitor!
+Inni leviamo ad Iside
+Che il sacro suol difende
+Preghiam che i fati arridano
+Fausti alla patria ognor.
+
+AIDA
+(Qual speme omai più restami?
+A lui la gloria e il trono;
+A me l'oblio, le lacrime
+Di disperato amor.)
+
+PRIGIONIERI
+Gloria al clemente Egizio
+Che i nostri ceppi ha sciolto,
+Che ci ridona ai liberi
+Solchi del patrio suol.
+
+RHADAMÈS
+(D'avverso Nume il folgore
+Sul capo mio discende...
+Ah! no! d'Egitto il soglio
+Non val d'Aida il cor.)
+
+AMNÉRIS
+(Dall'inatteso giubilo
+Inebriata io sono ;
+Tutti in un di sì compiono
+I sogni del mio cor.)
+
+AMONASRO
+(Ad Aida.)
+Fa cor: della tua patria
+I lieti eventi aspetta;
+Per noi della vendetta
+Già prossimo è l'albor.
+
+POPOLO
+Gloria all'Egitto e ad Iside
+Che il sacro suol difende!
+S'intrecci il mîrto al lauro
+Sul crin del vincitor!
+
+# Atto terzo
+
+## Scena quinta
+(Le rive del Nilo.)
+(Roccie di granito fra cui crescono dei palmizii. Sul vertice delle roccie il tempio d'Iside per metà nascosto tra le fronde. È notte, Splendore di luna.)
+
+TERMUTHIS E SACERDOTESSE
+(nel tempio.)
+O tu che sei d'Osiride
+Madre immortale e sposa,
+Diva che i casti palpiti
+Desti agli umani in cor,
+Soccorri a noi pietosa,
+Madre d'eterno amor.
+(Amnéris e Ramphis, seguiti da guardie, si avanzano dal fondo.)
+
+RAMPHIS
+(ad Amnéris.)
+Vieni d'Iside al tempio - alla vigilia
+Delle tue nozze, implora
+Della Diva il favore - Iside legge
+Dei mortali nel cuore - ogni mistero
+Degli umani a lei noto.
+
+AMNÉRIS
+Si: pregherò che Rhadamès mi donì
+Tutto il suo cor, come il mio core a lui
+Sacro è per sempre...
+
+RAMPHIS
+Entriamo.
+Pregherai fino all'alba - io sarò teco.
+(Tutti entrano nel tempio. Il Coro ripete il canto sacro.)
+
+AIDA
+(Entra cautamente coperta da un velo.)
+Astri dei cieli azzurri
+Copritevi d'un vel... M'avvolgi, o notte,
+Nel lugubre tuo manto...
+Cela a tutti il mio duol... cela il mio piante.
+Qui Rhadamés verrà... Che vorrà dirmi?
+Io tremo... Ah! se tu vieni
+A recarmi, o crudel, l'ultimo addio,
+Del Nilo i cupi vortici
+Mi daran tomba... e pace forse... e oblio.
+O cieli azzurri... o dolci aure native
+Dove sereno il mio mattin brillò...
+O verdi colli... o profumate rive...
+O patria mia, mai più ti rivedrò.
+O fresche valli... o queto asil beato,
+Che un dì promesso dall'amor mi fu.
+Or che d'amor il sogno è dileguato...
+O patria mia, non ti vedrò mai più.
+
+(Amonasro e Aida.)
+
+AIDA
+Cielo! mio padre!
+
+AMONASRO
+A te grave cagione
+Mi adduce, Aida. Nulla sfugge al mio
+Sguardo — D'amor ti struggi
+Per Rhadamès... ei t'ama... e qui lo attendi.
+Dei Faraon la figlia è tua rivale...
+Razza infame, aborrita e a noi fatale!
+
+AIDA
+E in suo potere io sto!... Io d'Amonasro
+Figlia!...
+
+AMONASRO
+In poter di lei?... No!... se lo brami,
+La possente rival tu vincerai,
+E patria, e trono, e amor, tutto tu avrai.
+Rivedrai le foreste imbalsamate,
+Le fresche valli, i nostri templi d'òr!
+
+AIDA
+(con trasporto.)
+Rivedrò le foreste imbalsamate!
+Le nostre valli... i nostri tempi d'òr!
+
+AMONASRO
+Sposa felice a lui che amasti tanto,
+Tripudii immensi ivi potrai gioir...
+
+AIDA
+Un giorno solo di sì dolce incanto...
+Un'ora di tal gaudio... e poi morir!
+
+AMONASRO
+Pur rammenti che a noi l'Egizio immite,
+Le case, i tempii e l'are profanò...
+Trasse in ceppi le vergini rapite...
+Madri, vecchi e fanciulli ei trucidò.
+
+AIDA
+Ah! ben rammento quegli infausti giorni!
+Rammento i lutti che il mio cor soffri...
+Deh! fate, o Numi, che per noi ritorni
+L'alba invocata dei sereni di.
+
+AMONASRO
+Non fia che tardi — In armi ora si desta o
+Il popol nostro: tutto pronto è già...
+Vittoria avrem... Solo a saper mi resta
+Qual sentiero il nemico seguirà...
+
+AIDA
+Chi scoprirlo potria? chi mai? I
+
+AMONASRO
+Tu stessa!
+
+AIDA
+Io!...
+
+AMONASRO
+Rhadamès qui verrà tosto... Ei t'ama...
+Ei conduce gli Egizii... Intendi?..
+
+AIDA
+Orrore!
+Che mi consigli tu? No! no! giammai!
+
+AMONASRO
+(Con impeto selvaggio.)
+Su, dunque, sorgete
+Egizie coorti!
+Col fuoco struggete
+Le nostre città!
+Spargete il terrore,
+Le stragi, le morti...
+Al vostro furore
+Più freno non v'ha!
+
+AIDA
+Ah padre!...
+
+AMONASRO
+(Respingendola.)
+Mia figlia
+Ti chiami!...
+
+AIDA
+(Atterrita e supplichevole, .)
+Pietà!
+
+AMONASRO
+Flutti di sangue scorrono
+Sulle città dei vinti...
+Vedi? dai negri vortici
+Si levano gli estinti...
+Ti additan essi e gridano:
+Per te la patria muor!
+
+AIDA
+Pietà!...
+
+AMONASRO
+Una larva orribile
+Fra l'ombre a noi s'affaccia..,
+Trema! le scarne braccia
+Sul capo tuo levò...
+Tua madre ell'è... ravvisala...
+Ti maledice...
+
+AIDA
+(nel massimo terrore.)
+Ah! no!...
+Padre...
+
+AMONASRO
+(respingendola.)
+Va, indegna! non sei mia prole...
+Dei Faraoni tu sei la schiava.
+
+AIDA
+Padre, a costoro schiava io non sono...
+Non maledirmi... non imprecarmi...
+Tua figlia ancora potrai chiamarmi...
+Della mia patria degna sarò
+
+AMONASRO
+Pensa che un popolo, vinto, straziato
+Per te soltanto risorger può...
+
+AIDA
+O patria! o patria... quanto mi costi!
+
+AMONASRO
+Coraggio! ei giunge... là tutto udrò...
+(Si nasconde fra i palmizii.)
+
+(Rhadamès e Aida.)
+
+RHADAMÈS
+Pur ti riveggo, mia dolce Aida...
+
+AIDA
+Ti arresta, vanne... che speri ancor?
+
+RHADAMÈS
+A te dappresso l'amor mi guida.
+
+AIDA
+Te i riti attendono d'un altro amor.
+D'Amnéris sposo...
+
+RHADAMÈS
+Che parli mai?...
+Te sola, Aida, te deggio amar,
+Gli Dei mi ascoltano... tu mia sarai...
+
+AIDA
+D'uno spergiuro non ti macchiar!
+Prode t'amai, non t'amerei spergiuro.
+
+RHADAMÈS
+Dell'amor mio dubiti. Aida?
+
+AIDA
+E come
+Speri sottrarti d'Amnèris ai vezzi,
+Del Re al voler, del tuo popolo ai voti,
+Dei sacerdoti all'ira?
+
+RHADAMÈS
+Odimi, Aida.
+Nel fiero anelito di nuova guerra
+Il suolo Etiope si ridestò...
+I tuoi già invadono la nostra terra,
+Io degli Egizii duce sarò.
+Fra il suon, fra i plausi della vittoria,
+Al Re mi prostro, gli svelo il cor...
+Sarai tu il serto della mia gloria,
+Vivrem beati d'eterno amor.
+
+AIDA
+Nè d'Amnèris paventi
+Il vindice furor? la sua vendetta
+Come folgor tremenda
+Cadrà su me, sul padre mio, su tutti,
+
+RHADAMÈS
+Io vi difendo.
+
+AIDA
+Invan! tu nol potresti...
+Pur... se tu m'ami... ancor s'apre una via
+Di scampo a noi...
+
+RHADAMÈS
+Quale?
+
+AIDA
+Fuggir!
+
+RHADAMÈS
+Fuggire!
+
+AIDA
+(colla più viva espansione.)
+Fuggiam gli ardori inospiti
+Di queste lande ignude;
+Una novella patria
+Al nostro amor si schiude...
+Là tra foreste vergini
+Di fiori profumate,
+In estasi ignorate
+La terra scorderem.
+
+RHADAMÈS
+Sovra una terra estrania
+Teco fuggir dovrei!
+Abbandonar la patria,
+L'are de'nostri Dei!
+Il suol dov'io raccolsi
+Di gloria i primi allori,
+Il ciel dei nostri amori
+Come scordar potrem?
+
+AIDA
+Sotto il mio ciel più libero
+L'amor ne fia concesso;
+Ivi nel tempio istesso
+Gli stessi Numì avrem.
+
+RHADAMÈS
+(esitante.)
+Aida!
+
+AIDA
+Tu non m'ami... Va! —
+
+RHADAMÈS
+Non t'amo!
+Mortal giammai nè Dio
+Arse d'amor al par del mio possente.
+
+AIDA
+Va... va... ti attende all'ara
+Amnéris., .
+
+RHADAMÈS
+No!... giammai!...
+
+AIDA
+Giammai, dicesti?
+Allor piombi la scure
+Su me, sul padre mio...
+
+RHADAMÈS
+Ah no! fuggiamo!
+(Con appassionata risoluzione.)
+Si: faggiam da queste mura,
+Al deserto insiem fuggiamo:
+Qui sol regna la sventura,
+Là si schiude un ciel d'amor.
+deserti interminati
+A noi talamo saranno,
+Su noi gli astri brilleranno
+D'un insolito fulgor.
+
+AIDA
+Nella terra avventurata
+De'miei padri, il ciel ne attende;
+Ivi l'aura è imbalsamata,
+Ivi il suolo è aromi e fior.
+Fresche valli e verdi prati
+A noi talamo saranno,
+Su noi gli astri brilleranno
+D'un insolito fulgor.
+
+AIDA E RHADAMÈS
+Vieni meco - insiem fuggiamo
+Questa terra di dolor -
+Vieni meco - io t'amo, io t'amo!
+A noi duce sia l'amor.
+(Si allontanano rapidamente.)
+
+AIDA
+(Arrestandosi all'improvviso.)
+Ma, dimmi: per qual via
+Eviterem le schiere
+Degli armati?
+
+RHADAMÈS
+Il sentier scelto dei nostri
+A piombar sul nemico fia deserto
+Fino a domani..
+
+AIDA
+E qual sentier?
+
+RHADAMÈS
+Le gole
+Di Nàpata...
+
+(Amonasro e detti.)
+AMONASRO
+Di Nàpata le gole?
+Ivi saranno i miei...
+
+RHADAMÈS
+Oh! chi ci ascolta!.."
+
+AMONASRO
+D'Aida il padre e degli Etiopi il Re!
+
+RHADAMÈS
+(Agitatissimo.)
+Tu! Amonasro!... tu il Re? Numi! che dissi?
+No!... non è ver... sogno... delirio è questo...
+
+AIDA
+Ah no! ti calma... ascoltami,
+All'amor mio t'affida.
+
+AMONASRO
+A te l'amor d'Aida
+Un soglio innalzerà.
+
+RHADAMÈS
+Io son disonorato!
+Per te tradii la patria!
+
+AMONASRO
+No: tu non sei colpevole -
+Era voler del fato!...
+Vieni: oltre il Nil ne attendono
+I prodi a noi devoti,
+Là del tuo core i voti
+Coronerà l'amor.
+(Amnéris dal tempio, indi Ramphis, Sacerdoti, Guardie e detti.)
+
+AMNÉRIS
+Traditor!
+
+AIDA
+La mia rivale....
+
+AMONASRO
+(Avventandosi ad Amnéris con un pugnale.)
+Vieni a strugger l'opra mia!
+Muori!...
+
+RHADAMÈS
+(frapponendosi.)
+Arresta, insano!
+
+AMONASRO
+Oh rabbia!
+Guardie, olà
+
+RHADAMÈS
+(ad Aida e Amonasro.)
+Presto !... fuggite!...
+
+AMONASRO
+(trascinando Aida.)
+Vieni, o figlia!
+
+RAMPHIS
+Li inseguite!
+
+RHADAMÈS
+Sacerdote, io resto a te.
+
+# Atto quarto
+
+## Scena sesta
+(Sala nel Palazzo del Re)
+(Alla sinistra, una gran porta che mette alla sala sotterranea della sentenza, — Andito a destra che conduce alla prigione di Rhadamès.)
+
+AMNÉRIS
+(Mestamente atteggiata davanti la porta del sotterraneo.)
+L'abborrita rivale a me sfuggia!
+Dai sacerdoti Rhadamès attende
+Dei traditor la pena. — Traditore
+Egli non è... Pur rivelò di guerra
+L'alto segreto; egli fuggir volea...
+Con lei fuggire... Traditori tutti!
+A morte! A morte!... Oh! che mai parlo? io l'amo...
+Io l'amo sempre... Disperato, insano
+È questo amor che la mia vita strugge,
+Oh! s'ei potesse amarmi!...
+Vorrei salvarlo., . E come?
+Si tenti... Guardie, Rhadamès qui venga.
+(Rhadamès condotto dalle guardie - Amnéris.)
+
+AMNÉRIS
+Già i sacerdoti adunansi
+Arbitri del tuo fato;
+Pur dall'accusa orribile
+Scolparti ancor ti è dato;
+Ti scolpa, e la tua grazia
+Io pregherò dal trono,
+E nunzia di perdono,
+Di vita, a te sarò.
+
+RHADAMÈS
+Di mie discolpe i giudici
+Mai non udran l'accento:
+Dinnanzi ai Numi e agli uomini
+Nè vil, nè reo mi sento.
+Profferse il labbro incauto
+Fatal segreto, è vero,
+Ma puro il mio pensiero
+E l'onor mio restò.
+
+AMNÉRIS
+Salvati dunque e scolpati.
+
+RHADAMÈS
+No.
+
+AMNÉRIS
+Tu morrai...
+
+RHADAMÈS
+La vita
+Abborro; d'ogni gaudio
+La fonte inaridita,
+Svanita ogni speranza,
+Sol bramo di morir!
+
+AMNÉRIS
+Morire !... ah... tu dei vivere?.
+Si all'amor mio vivrai;
+Per te le angoscie orribili
+Di morte io già provai;
+T'anai... soffersi tanto...
+Vegliai le notti in pianto...
+E patria, e trono, e vita
+Tutto darei per te.
+
+RHADAMÈS
+Per essa anch'io la patria
+E l'onor mio tradiva...
+
+AMNÉRIS
+Di lei non più !...
+
+RHADAMÈS
+L'infamia
+Mi attende e vuoi che io viva?...
+Misero appien mi festi,
+Aida a me togliesti,
+Spenta l'hai forse... e in dono
+Offri la vita a me?
+
+AMNÉRIS
+Io...di sua morte origine?
+No!... vive Aida;
+
+RHADAMÈS
+Vive:
+
+AMNÉRIS
+Nei disperati aneliti
+Dell'orde fuggitive
+Sol cadde il padre...
+
+RHADAMÈS
+Ed ella?...
+
+AMNÉRIS
+Sparve, nè più novella
+S'ebbe...
+
+RHADAMÈS
+Gli Dei l'adducano
+Salva alle patrie mura,
+E ignori la sventura
+Di chi per lei morrà.
+
+AMNÉRIS
+Or, s'io ti salvo, giurami
+Che più non la vedrai...
+
+RHADAMÈS
+Nol posso...
+
+AMNÉRIS
+A lei rinunzia
+Per sempre... e tu vivrai!...
+
+RHADAMÈS
+Nol posso!
+
+AMNÉRIS
+Anco una volta.
+A lei rinunzia...
+
+RHADAMÈS
+È vano!...
+
+AMNÉRIS
+Morir vuoi dunque, insano?
+Pronto a morir son già!
+
+AMNÉRIS
+Chi ti salva, o sciagurato,
+Dalla sorte che ti aspetta?
+In furore hai tu cangiato
+Un amor che ugual non ha:
+De'miei pianti la vendetta
+Or dal ciel si compirà.
+
+RHADAMÈS
+È la morte un ben supremo
+Se per lei morir m'è dato;
+Nel subir l'estremo fato
+Gaudii immensi il core avrà:
+L'ira umana io più non temo,
+Temo sol la tua pietà.
+(Rhadamès circondato dalle guardie entra nel sotterraneo.)
+
+AMNÉRIS
+(cade desolata su un sédile)
+Ohimé!.. morir mi sento... Oh! chi lo salva?
+E in poter di costoro
+Io stessa lo gettai!.. Ora, a te impreco,
+Atroce gelosia, che la sua morte
+E il lutto eterno del mio cor segnasti!
+(Si volge e vede i sacerdoti che attraversano la scena per entrare nel sotterraneo.)
+Che veggo! Ecco i fatali,
+Gli inesorati ministri di morte...
+Oh! ch'io non vegga quelle bieche larve!
+(Si copre il volto colle mani.)
+
+SACERDOTI
+(nel sotterraneo.)
+Spirto del Nume, sovra noi discendi!
+Ne avviva al raggio dell'eterna luce:
+Pel labbro nostro tua giustizia apprendi.
+
+AMNÉRIS
+Numi, pietà del mio straziato core...
+Egli è innocente, lo salvate, o Numi!
+Disperato, tremendo è il mio dolore!
+
+RAMPHIS
+(nel sotterraneo)
+Rhadamès, Rhadamès; tu rivelasti
+Della patria i segreti allo straniero...
+
+SACERDOTI
+Discolpati!
+
+RAMPHIS
+Egli tace.
+
+TUTTI
+Traditor!
+
+RAMPHIS
+Rhadamès, Rhadamès: tu disertasti
+Dal campo il dì che precedea la pugna
+
+SACERDOTI
+Discolpati!
+
+RAMPHIS
+Egli tace...
+
+TUTTI
+Traditor!
+
+RAMPHIS
+Rhadamès, Rhadamès: tua fè violasti,
+Alla patria spergiuro, al Re, all'onor
+
+SACERDOTI
+Discolpati!
+
+RAMPHIS
+Egli tace...
+
+TUTTI
+Traditor !
+Rhadamès: è deciso il tuo fato;
+Degli infami la morte tu avrai:
+Sotto l'ara del Nume sdegnato
+A te vivo fia schiuso l'avel.
+
+AMNÉRIS
+A lui vivo... la tomba! oh! gli infami!
+Nè di sangue son paghi giammai!
+E si chiaman ministri del ciel !
+(Investendo i Sacerdoti che escono dal sotterraneo.)
+Sacerdoti! compiste un delitto!
+Tigri infami di sangue assetate...
+Voi la terra ed i Numi oltraggiate...
+Voi punite chi colpa non ha.
+
+SACERDOTI
+È traditor! morrà!
+
+AMNÉRIS
+(a Ramphis.)
+Sacerdote! quest'uomo che uccidi,
+Tu lo sai... da me un giorno fu amato...
+L'anatèma d'un core straziato
+Col suo sangue su te ricadrà!
+
+SACERDOTI
+È traditor! morrà! (Si allontanano lentamente.)
+
+AMNÉRIS
+Empia razza! anatèma! su voi
+La vendetta del ciel scenderà.
+(Esce disperata.)
+
+## Scena settima
+(La scena è divisa in due piani.)
+(Il piano superiore rappresenta l'interno del tempio di Vulcano splendente di luce. — Il piano inferiore rappresenta un ampio sotterra neo. - Lunghe file d'arcate si perdono nell'oscurità)
+
+(Rhadamès è nel sotterraneo sui gradini della scala per cui è disceso. - Al di sopra, due Sacerdoti intenti a chiudere la pietra del sotterraneo.)
+RHADAMÈS
+La fatal pietra sovra me si chiuse...
+Ecco la tomba mia. - Del dì la luce
+Più non vedrò... - non rivedrò più Aida...
+Aida, ove sei tu? Possa tu almeno
+Viver felice e la mia sorte orrenda
+Sempre ignorar! - Qual gemito!... Una larva..
+Una vision... No! forma umana è questa..
+Cielo!... Aida!
+
+AIDA
+Sono io...
+
+RHADAMÈS
+Tu! in questa tomba!
+
+AIDA
+Presago il core della tua condanna,
+Qui da tre dì ti attendo,
+E qui lontana da ogni umano sguardo
+Nelle tue braccia desiai morire.
+
+RHADAMÈS
+Morir! si pura e bella!
+Morir per me d'amore...
+Degli anni tuoi nel fiore
+Fuggir la vita!
+T'aveva il cielo per l'amor creata,
+Ed io t'uccido per averti amata! !
+No, non morrai!
+Troppo io t'amai!...
+Troppo sei bella!
+
+AIDA
+(vaneggiando.)
+Vedi?... di morte l'angelo
+Radiante a noi si appressa...
+Ne adduce a eterni gaudii
+Sovra i suoi vanni d'òr.
+Su noi già il ciel dischiudesi...
+Ivi ogni affanno cessa...
+Ivi comincia l'estasi
+D'un immortale amor.
+(Canti e danze delle Sacerdotesse nel tempio.)
+
+AIDA
+Triste canto!...
+
+RHADAMÈS
+Il tripudio
+Dei Sacerdoti...
+
+AIDA
+Il nostro inno di morte...
+
+RHADAMÈS
+Nè le mie forti braccia
+Smuovere ti potranno o fatal pietra!
+
+AIDA
+Invan!... tutto è finito
+Sulla terra per noi...
+
+RHADAMÈS
+(Con desolata rassegnazione.)
+È vero! è vero!...
+(Si avvicina ad Aida e la sorregge.)
+
+AIDA E RHADAMÈS
+O terra, addio; addio valle di pianti!
+Sogno di gaudio che in dolor svanì...
+A noi si schiude il cielo e l'alme erranti
+Volano al raggio dell'eterno dì
+(Aida cade dolcemente fra le braccia di Rhadamès.)
+
+AMNÉRIS
+(Apparisce nel tempio e va a prostrarsi sulla pietra che chiude il sotterraneo.)
+Pace t'imploro - martire santo;
+Eterno il pianto - sarà per me!
