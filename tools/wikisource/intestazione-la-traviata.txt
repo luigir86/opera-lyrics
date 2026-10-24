@@ -1,0 +1,10 @@
+// Testo da Wikisource, trascrizione riletta e controllata della stampa
+// originale (Indice:La traviata.djvu). Divisione in scene
+// dell'originale; i ruoli "CORO I" e "CORO II" sono i due gruppi di
+// invitati che il libretto chiama "I" e "II".
+title: La traviata
+composer: Giuseppe Verdi
+librettist: Francesco Maria Piave
+year: 1853
+source: https://it.wikisource.org/wiki/La_traviata
+license: Pubblico dominio; trascrizione di Wikisource, CC BY-SA 4.0

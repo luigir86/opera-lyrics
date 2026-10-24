@@ -18,7 +18,9 @@ import 'libretto.dart';
 /// `key: value` lines before the first act are the header; `#` starts an
 /// act, `##` a number, a line in capitals names who sings, a line in
 /// brackets is a stage direction, a blank line ends a stanza and `//`
-/// starts a comment. Anything else is a verse. The parser never fails on a
+/// starts a comment. Anything else is a verse, and so is a line that starts
+/// with a backslash, for verses that would read as something else: a sung
+/// aside in brackets, or a cry in capitals. The parser never fails on a
 /// text: what it cannot place it keeps as a verse.
 Libretto parseLibretto(String id, String text) {
   final header = <String, String>{};
@@ -66,6 +68,8 @@ Libretto parseLibretto(String id, String text) {
             .substring(colon + 1)
             .trim();
       }
+    } else if (line.startsWith(r'\')) {
+      lines.add(LibrettoLine(LineKind.verse, line.substring(1).trim()));
     } else if (line.isEmpty) {
       if (lines.isNotEmpty && lines.last.kind != LineKind.stanzaBreak) {
         lines.add(const LibrettoLine(LineKind.stanzaBreak));
