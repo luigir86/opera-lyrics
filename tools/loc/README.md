@@ -39,6 +39,9 @@ python3 applica.py lavoro/aida-cairo ../../assets/libretti/verdi-aida.txt
 | `ritocchi.py` | Applica i ritocchi di struttura scritti a mano in un `ritocchi.tsv` (versi finiti in una didascalia, nomi sbagliati, righe perse), così si possono rifare dopo ogni `applica.py`. |
 | `rimappa.py` | Se `testo.py` cambia a revisione fatta, riporta le risposte sul testo rigenerato. |
 | `riprendi.py` | Se si rifà l'OCR di alcune pagine (`ocr.py cartella 0005 0016`) e si rilanciano `dubbi.py` e `segni.py`, copia le risposte già date nella revisione nuova: restano da rivedere solo i dubbi nuovi. |
+| `personaggi.py` | Scrive `personaggi.txt` (nome completo = sigle lette dall'OCR) con una chiamata a Sonnet sul solo testo. Va riletto prima di `ricostruisci.py`. |
+| `ricostruisci.py` | Revisione strutturata: un modello (Sonnet) riscrive il libretto a blocchi di circa 150 righe nel formato dell'app, senza cambiare le parole. Segnala le parole che non c'erano. Riprende dai blocchi già fatti se si ferma. |
+| `rifinisci.py` | Ultimi ritocchi deterministici: rinumera le scene, toglie righe vuote doppie, scioglie le sigle rimaste. |
 | `controlla.py` | Ripete i controlli dell'app sul libretto finito ed elenca ciò che va guardato a mano. |
 
 ## La revisione
@@ -61,3 +64,16 @@ Un modello piccolo sbaglia soprattutto in un modo: quando la parola dell'OCR è 
 Quando l'elenco dei personaggi è stampato in tondo e l'OCR lo legge male ("Yerrando" per Ferrando), le abbreviazioni a margine non si sciolgono. Si può scrivere a mano, guardando la pagina, un file `personaggi.txt` nella cartella di lavoro, un nome per riga (`FERRANDO`): `testo.py` lo usa al posto dell'elenco letto.
 
 La punteggiatura non viene controllata: va riletta a parte. Anche la struttura (didascalie che inglobano versi, un "Fine dell'atto" letto male) va controllata a mano sul libretto finito, con l'aiuto di `controlla.py`.
+
+## La revisione strutturata
+
+Dopo `applica.py`, la struttura (nomi, didascalie, versi spezzati, rumore) si sistema con un modello sul solo testo, senza guardare le scansioni:
+
+```
+python3 personaggi.py cartella            # poi rileggere cartella/personaggi.txt
+python3 ricostruisci.py cartella sonnet   # scrive cartella/sonnet.txt e sonnet-blocchi.json
+python3 rifinisci.py cartella/sonnet.txt finale.txt cartella/personaggi.txt
+python3 controlla.py finale.txt
+```
+
+`ricostruisci.py` legge `cartella/parole.txt` (il libretto con le parole già corrette) e chiama `claude -p` per ogni blocco. In `sonnet-blocchi.json` ci sono il costo e, per ogni blocco, le parole nuove: devono essere zero o quasi, e quelle che ci sono vanno guardate. Sul pilota (Lombardi, Luisa Miller, Stiffelio, confrontati con la versione rifatta a mano) Sonnet ha lasciato da sistemare l'11% delle righe, come Opus, a circa 0,5-2 $ per opera. I versi persi dall'OCR (pagine mancanti, prima parola di riga) restano persi: si vedono solo dalla scansione o da un'altra edizione.
