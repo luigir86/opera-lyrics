@@ -50,3 +50,6 @@ app.*.map.json
 # Screenshots for UI review, regenerated on demand
 test_screenshots/**/goldens/
 dist/
+
+# Release APKs copied out of build/ for installing on a phone
+/apk/
