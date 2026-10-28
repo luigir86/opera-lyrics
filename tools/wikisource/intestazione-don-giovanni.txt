@@ -1,0 +1,11 @@
+// Testo da Wikisource, trascrizione completa ma non ancora riletta
+// dell'edizione del 1867 (Indice:Da Ponte - Don Giovanni, 1867.djvu): può
+// contenere refusi dell'OCR, lasciati come sono. Divisione in scene
+// dell'originale; i nomi abbreviati (Gio., Lep., Elv.) sono scritti per
+// intero.
+title: Don Giovanni
+composer: Wolfgang Amadeus Mozart
+librettist: Lorenzo Da Ponte
+year: 1787
+source: https://it.wikisource.org/wiki/Don_Giovanni
+license: Pubblico dominio; trascrizione di Wikisource, CC BY-SA 4.0

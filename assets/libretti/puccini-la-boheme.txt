@@ -1,0 +1,3032 @@
+title: La bohème
+composer: Giacomo Puccini
+librettist: Giuseppe Giacosa e Luigi Illica
+year: 1896
+source: https://www.loc.gov/item/2010666571/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Quadro primo
+(In soffitta)
+(Ampia finestra dalla quale si scorge una distesa di tetti coperti di neve. A destra un camino. Una tavola, un letto, un armadio, quattro sedie, un cavalletto da pittore con una tela sbozzata ed uno sgabello: libri sparsi, molti fasci di carte, due candellieri. Uscio nel mezzo, altro a sinistra.)
+(Rodolfo e Marcello.)
+(Rodolfo guarda meditabondo fuori della finestra. Marcello lavora al suo quadro: Il passaggio del Mar Rosso, colle mani intirizzite dal freddo e che egli riscalda alitandovi su di quando in quando, mutando, pel gran gelo, spesso posizione)
+
+MARCELLO
+Questo Mar Rosso - mi ammollisce e assidera
+come se addosso - mi piovesse in stille.
+(si allontana dal cavalletto per guardare il suo quadro)
+Per vendicarmi, affogo un Faraone.
+(torna al lavoro - a Rodolfo)
+Che fai?
+
+RODOLFO
+Nei cieli bigi
+guardo fumar dai mille
+comignoli Parigi,
+(additando il camino senza fuoco)
+e penso a quel poltrone
+di un vecchio caminetto ingannatore
+che vive in ozio come un gran signore.
+
+MARCELLO
+Le sue rendite oneste
+da un pezzo non riceve.
+
+RODOLFO
+Quelle sciocche foreste
+che fan sotto la neve?
+
+MARCELLO
+Rodolfo, io voglio dirti un mio pensier profondo:
+ho un freddo cane.
+
+RODOLFO
+(avvicinandosi a Marcello)
+Ed io, Marcel, non ti nascondo
+che non credo al sudore della fronte.
+
+MARCELLO
+Ho diacciate
+le dita quasi ancora le tenessi immollate
+giù in quella gran ghiacciaia che è il cuore di Musetta.
+(lascia sfuggire un lungo sospirone, e tralascia di dipingere, deponendo tavolozza e pennelli)
+
+RODOLFO
+L'amore è un caminetto che sciupa troppo...
+
+MARCELLO
+e in fretta!
+
+RODOLFO
+dove l'uomo è fascina
+
+MARCELLO
+e la donna è l'alare......
+
+RODOLFO
+l'uno brucia in un soffio......
+
+MARCELLO
+e l'altro sta a guardare.
+
+RODOLFO
+Ma intanto qui si gela...
+
+MARCELLO
+e si muore d'inedia!...
+
+RODOLFO
+Fuoco ci vuole...
+
+MARCELLO
+(afferrando una sedia e facendo atto di spezzarla)
+Aspetta... sacrifichiam la sedia!
+(Rodolfo impedisce con energia l'atto di Marcello)
+(ad un tratto Rodolfo esce in un grido di gioia ad un'idea che gli è balenata)
+
+RODOLFO
+Eureka !!
+(corre alla tavola e ne leva un voluminoso scartafaccio)
+
+MARCELLO
+Trovasti?
+
+RODOLFO
+Sì. Aguzza
+l'ingegno. L'idea vampi in fiamma.
+
+MARCELLO
+(additando il suo quadro)
+Bruciamo il Mar Rosso?
+
+RODOLFO
+No. Puzza
+la tela dipinta. Il mio dramma,
+l'ardente mio dramma ci scaldi.
+
+MARCELLO
+(con comico spavento)
+Vuoi leggerlo forse? Mi geli.
+
+RODOLFO
+No, in cener la carta si sfaldi
+e l'estro rivoli ai suoi cieli.
+(con enfasi tragica)
+Al secol gran danno minaccia...
+Ma Roma è in periglio......
+
+MARCELLO
+Gran cor!
+
+RODOLFO
+(dà a Marcello una parte dello scartafaccio)
+A te l'atto primo.
+
+RODOLFO
+Straccia.
+
+MARCELLO
+Accendi.
+(Rodolfo batte un acciarino, accende una candela e va al camino con Marcello: insieme danno fuoco a quella parte dello scartafaccio buttato sul focolare, poi entrambi prendono delle sedie e seggono, riscaldandosi voluttuosamente)
+
+RODOLFO E MARCELLO
+Che lieto baglior.
+(si apre con fracasso la porta in fondo ed entra Colline gelato, intirizzito, battendo i piedi, gettando con ira sulla tavola un pacco di libri legato con un fazzoletto)
+(Rodolfo, Marcello, Colline.)
+
+COLLINE
+Già dell'Apocalisse appariscono i segni.
+In giorno di Vigilia non si accettano pegni!...
+(si interrompe sorpreso)
+Una fiammata!
+
+RODOLFO
+(a Colline)
+Zitto, si dà il mio dramma...
+
+MARCELLO
+al fuoco.
+
+COLLINE
+Lo trovo scintillante.
+
+RODOLFO
+(il fuoco diminuisce)
+
+MARCELLO
+Ma dura poco.
+
+RODOLFO
+La brevità, gran pregio.
+
+COLLINE
+(levandogli la sedia)
+Autore, a me la sedia.
+
+MARCELLO
+Presto. Questi intermezzi fan morire d'inedia.
+
+RODOLFO
+(prende un'altra parte dello scartafaccio)
+Atto secondo.
+
+MARCELLO
+(a Colline)
+Non far susurro.
+(Rodolfo straccia parte dello scartafaccio e lo getta sul camino: il fuoco si ravviva, Colline avvicina ancora più la sedia e si riscalda le mani: Rodolfo è in piedi presso ai due, col rimanente dello scartafaccio)
+
+COLLINE
+(con intenzione di critico teatrale)
+Pensier profondo !...
+
+MARCELLO
+Giusto color!
+
+RODOLFO
+In quell'azzurro - guizzo languente
+sfuma un'ardente - scena d'amor.
+
+COLLINE
+Scoppietta un foglio.
+
+MARCELLO
+Là c'eran baci!
+
+RODOLFO
+Tre atti or voglio - d'un colpo udir.
+(getta sul fuoco il rimanente dello scartafaccio)
+
+COLLINE
+Tal degli audaci - l'idea s'integra.
+
+TUTTI
+Bello in allegra - vampa svanir.
+(applaudono entusiasticamente: la fiamma dopo un momento diminuisce)
+
+MARCELLO
+Oh! Dio... già s'abbassa la fiamma.
+
+COLLINE
+Che vano, che fragile dramma!
+
+MARCELLO
+Già scricchiola, increspasi, muore.
+
+RODOLFO E MARCELLO
+Abbasso, sì abbasso l'autore.
+(dalla porta di mezzo entrano due garzoni, portando l'uno provviste di cibi, bottiglie di vino, sigari, e l'altro un fascio di legna. Al rumore i tre innanzi al camino si volgono e con grida di meraviglia si slanciano sulle provviste portate dal garzone e le depongono sulla tavola: Colline prende la legna e la porta presso il caminetto: comincia a far sera)
+
+COLLINE
+Legna!
+
+MARCELLO
+Sigari!
+
+RODOLFO
+Bordò!
+
+TUTTI
+Le dovizie d'una fiera
+il destin ci destinò.
+(i garzoni partono)
+(Rodolfo, Colline, Marcello, Schaunard.)
+
+SCHAUNARD
+(entra dalla porta di mezzo con aria di trionfo, gettando a terra alcuni scudi)
+La banca di Francia
+per voi si sbilancia.
+
+COLLINE
+(raccattando gli scudi insieme a Rodolfo e Marcello)
+Raccatta, raccatta!
+
+MARCELLO
+(incredulo)
+Son pezzi di latta!...
+
+SCHAUNARD
+(mostrandogli uno scudo)
+Sei sordo?... Sei lippo?
+Quest'uomo chi è?
+
+RODOLFO
+(inchinandosi)
+Luigi Filippo!
+M'inchino al mio Re.
+
+TUTTI
+Sta Luigi Filippo ai nostri piè!
+(Schaunard vorrebbe raccontare la sua fortuna: ma gli altri non lo ascoltano: ogni cosa sulla tavola e la legna nel camino)
+
+SCHAUNARD
+Or vi dirò: quest'oro, o meglio, argento
+ha la sua brava storia...
+
+RODOLFO
+Riscaldiamo
+il camino!
+
+COLLINE
+Sofferto ha tanto freddo!
+
+SCHAUNARD
+Un inglese... un signor... lord o milord
+che sia, cercava un musicista...
+
+MARCELLO
+(gettando via il pacco di libri di Colline dalla tavola)
+Via!
+Prepariamo la tavola!
+
+SCHAUNARD
+Io? volo!
+
+RODOLFO
+L'esca dov'è?
+
+SCHAUNARD
+E mi presento.
+M'accetta - gli domando...
+
+COLLINE
+(mettendo a posto le vivande)
+Arrosto freddo!
+
+SCHAUNARD
+A quando le lezioni?...
+
+MARCELLO
+(accende le candele e le mette sulla tavola)
+Or le candele!
+
+SCHAUNARD
+Risponde: "Incominciam!..."
+
+COLLINE
+Pasticcio dolce!
+
+SCHAUNARD
+Guardare!"
+(e un pappagallo a un primo piano m'addita)
+poi soggiunge: "Voi suonare
+finchè quello morire!"
+Fulgida folgori la sala splendida.
+E fu così:
+Suonai tre lunghi dì...
+
+MARCELLO
+Mangiar senza tovaglia?
+
+SCHAUNARD
+Allora usai l'incanto
+di mia presenza bella...
+
+RODOLFO
+No; un'idea!...
+(leva un giornale di tasca)
+
+SCHAUNARD
+Gli propinai prezzemolo!...
+
+RODOLFO
+Il Costituzionale!
+
+SCHAUNARD
+Lorito allargò l'ali,
+Lorito il becco aprì,
+da Socrate morì!
+
+RODOLFO
+(spiegandolo)
+Si mangia e si divora un'appendice!
+
+SCHAUNARD
+(vedendo che nessuno gli bada, afferra Colline che gli passa vicino con un piatto)
+(urlando, indispettito)
+Il diavolo vi porti tutti quanti!
+(poi vedendoli in atto di mettersi a mangiare il pasticcio freddo)
+Ed or che fate?
+(con gesto solenne stende la mano sul pasticcio)
+No! Queste cibarie
+sono la salmeria
+pei dì futuri
+tenebrosi, oscuri.
+(e nel parlare sgombra la tavola)
+Come?... Pranzare in casa?
+Pranzare in casa è male
+oggi ch'è la vigilia di Natale!
+Mentre il Quartier Latino le sue vie
+addobba di salsiccie e leccornie?
+Mentre un olezzo di frittelle imbalsama
+le vecchie strade? È il dì della Vigilia!
+Là le ragazze cantano contente
+ed han per eco ognuna uno studente!
+Un po' di religione, o miei signori:
+si beva in casa, ma si pranzi fuori.
+(Rodolfo chiude la porta a chiave, poi tutti vanno intorno alla tavola e versano il vino: bussano alla porta: s'arrestano stupefatti)
+
+BENOIT
+(di fuori)
+Si può?
+
+MARCELLO
+Chi è là?
+
+BENOIT
+Benoit.
+
+MARCELLO
+Il padrone di casa!
+
+SCHAUNARD
+Uscio sul muso.
+
+COLLINE
+(grida)
+Non c'è nessuno.
+
+SCHAUNARD
+È chiuso.
+
+BENOIT
+Una parola.
+
+SCHAUNARD
+(dopo essersi consultato cogli altri, va ad aprire)
+Sola!
+
+BENOIT
+(entra sorridente: vede Marcello e mostrandogli una carta dice)
+Affitto!
+
+MARCELLO
+(con esagerata premura)
+Olà!
+Date una sedia.
+
+RODOLFO
+Presto.
+
+BENOIT
+(schermendosi)
+Non occorre. Vorrei...
+
+SCHAUNARD
+(insistendo con dolce violenza lo fa sedere)
+
+MARCELLO
+Vuol bere?
+(gli versa del vino)
+
+BENOIT
+Grazie.
+
+RODOLFO E COLLINE
+Tocchiamo.
+(tutti bevono. Benoit depone il bicchiere e si rivolge nuovamente a Marcello mostrandogli la carta)
+
+BENOIT
+Questo
+è l'ultimo trimestre...
+
+MARCELLO
+(con ingenuità)
+Ne ho piacere.
+
+BENOIT
+E quindi...
+
+SCHAUNARD
+(interrompendolo)
+Ancora un sorso.
+(riempie i bicchieri)
+
+BENOIT
+(toccando con Benoit)
+Alla sua salute!
+(tutti bevono)
+
+BENOIT
+(riprendendo con Marcello)
+A lei ne vengo
+perchè il trimestre scorso
+mi promise...
+
+MARCELLO
+Promisi ed or mantengo.
+(mostrando a Benoit gli scudi che sono sulla tavola)
+
+RODOLFO
+(piano a Marcello)
+Che fai?...
+
+SCHAUNARD
+(come sopra)
+Sei pazzo?
+
+MARCELLO
+(a Benoit, senza badare ai due)
+Ha visto? Or via
+resti un momento in nostra compagnia.
+Dica: quant'anni ha
+caro signor Benoit?
+
+BENOIT
+Gli anni?... Per carità!
+
+RODOLFO
+Su e giù la nostra età.
+
+BENOIT
+(protestando)
+Di più, molto di più.
+(mentre fanno chiacchierare Benoit, gli riempiono il bicchiere appena egli l'ha vuotato)
+
+COLLINE
+Ha detto su e giù.
+
+MARCELLO
+(abbassando la voce e con tono di furberia)
+L'altra sera al Mabil...
+
+BENOIT
+(inquieto)
+Eh?!...
+
+MARCELLO
+L'hanno colto
+in peccato d'amore.
+
+BENOIT
+To?
+
+BENOIT
+Un caso.
+
+MARCELLO
+(lusingandolo)
+Bella donna!
+
+BENOIT
+(mezzo brillo, con subito moto)
+Ah! molto.
+
+SCHAUNARD
+Briccone!
+(gli batte una mano sulla spalla)
+
+COLLINE
+Seduttore!
+(fa lo stesso sull'altra spalla)
+
+MARCELLO
+(magnificando)
+Una quercia!... un cannone! il crin ricciuto,
+fulvo.
+
+RODOLFO
+L'uomo ha buon gusto.
+
+MARCELLO
+Ei gongolava arzillo e pettoruto.
+
+BENOIT
+(ringalluzzito)
+Son vecchio, ma robusto.
+
+MARCELLO
+A lui cedea, punta dal dolce assillo,
+la femminil virtù.
+
+COLLINE, SCHAUNARD E RODOLFO
+(con gravità ironica)
+Ei gongolava arzuto e pettorillo.
+
+BENOIT
+(in piena confidenza)
+Timido in gioventù
+ora me ne ripago... È un dolce svago
+qualche donnetta vispa... allegra... e... un po'...
+(accenna a forme accentuate)
+Non dico una balena
+o un mappamondo
+o un viso tondo
+da luna piena,
+ma magra, proprio magra, no e poi no!
+Le donne magre sono grattacapi
+e spesso... sopracapi...
+e son piene di doglie —
+per esempio mia moglie...
+(Marcello dà un pugno sulla tavola e si alza: gli altri lo imitano: Benoit li guarda sbalordito)
+
+MARCELLO
+(terribile)
+Quest'uomo ha moglie
+e sconcie voglie
+nutrisce!
+
+TUTTI
+Orror!
+
+RODOLFO
+E ammorba, e appesta
+la nostra onesta
+dimora.
+
+TUTTI
+Fuor!
+
+SCHAUNARD
+(maestoso)
+È la morale offesa che vi scaccia!
+
+MARCELLO
+Si abbruci dello zucchero!
+
+COLLINE
+Si discacci il reprobo.
+
+BENOIT
+(allibito, tenta inutilmente di parlare)
+Io di...
+
+SCHAUNARD
+Faccia silenzio!
+
+TUTTI
+(circondando Benoit e spingendolo verso la porta)
+Via, signore!
+
+BENOIT
+Discacciarmi!?...
+
+TUTTI
+Via di qua!
+
+BENOIT
+(sbuffando)
+Tale oltraggio!... Un momento...
+
+TUTTI
+Vada via
+e buona sera a vostra signoria.
+(Benoit è cacciato fuori)
+
+MARCELLO
+(chiudendo l'uscio)
+Ho pagato il trimestre.
+
+TUTTI
+(ridono)
+Ah! Ah! Ah! Ah!
+
+SCHAUNARD
+Momus ci attende. Al Quartiere Latino.
+
+MARCELLO
+Viva chi spende.
+
+SCHAUNARD
+Spartiamo il bottino.
+(si dividono gli scudi rimasti sulla tavola)
+
+MARCELLO
+(presentando uno specchio rotto a Colline)
+Là ci sono beltà scese dal cielo.
+Or che sei ricco, bada alla decenza!
+Orso, ravviati il pelo.
+
+COLLINE
+Farò la conoscenza
+la prima volta d'un barbitonsore.
+Guidatemi al ridicolo
+oltraggio d'un rasoio.
+
+SCHAUNARD
+Andiamo.
+
+RODOLFO
+Io resto
+per terminar l'articolo
+del mio giornale: Il Castoro.
+
+MARCELLO
+Fa presto.
+
+RODOLFO
+Cinque minuti. Conosco il mestiere.
+
+COLLINE
+Ti aspetterem dabbasso dal portiere.
+
+MARCELLO
+Se tardi udrai che coro!
+
+SCHAUNARD
+Taglia corta la coda al tuo Castoro.
+(Rodolfo prende un lume, ed apre l'uscio: Marcello, Schaunard, Colline escono e scendono la scala)
+
+MARCELLO
+(di fuori)
+Occhio alla scala. Tienti
+alla ringhiera.
+
+RODOLFO
+(sempre sull'uscio, alzando il lume)
+Adagio..
+
+COLLINE
+(di fuori)
+È buio pesto.
+
+SCHAUNARD
+Maledetto portier!
+(rumore d'un che ruzzola)
+
+COLLINE
+Accidenti!
+
+RODOLFO
+(sull'uscio)
+Colline, sei morto?
+
+COLLINE
+(dal basso)
+Non ancor.
+
+MARCELLO
+(dal basso)
+Vien presto.
+(Rodolfo chiude l'uscio, depone il lume, sgombra un po'la tavola, prende calamaio e carta, poi siede e si mette a scrivere dopo avere spento l'altro lume rimasto acceso: ma non trovando alcuna idea, s'inquieta, straccia il foglio e getta via la penna)
+(bussano timidamente all'uscio)
+
+RODOLFO
+Chi è là?
+
+MIMÌ
+(di fuori)
+
+RODOLFO
+Una donna!
+
+MIMÌ
+Di grazia, mi si è spento
+il lume,
+
+RODOLFO
+(corre ad aprire)
+
+MIMÌ
+(sull'uscio, con un lume spento in mano ed una chiave)
+Vorrebbe...?
+
+RODOLFO
+S'accomodi un momento.
+
+MIMÌ
+Non occorre.
+
+RODOLFO
+(insistendo)
+La prego, entri.
+
+MIMÌ
+(entra: è presa da soffocazione)
+Ah!
+
+RODOLFO
+(premuroso)
+Si sente male?
+
+MIMÌ
+No, nulla.
+
+RODOLFO
+Impallidisce!
+
+MIMÌ
+(presa da tosse)
+E il respir... Quelle scale...
+(sviene e Rodolfo è appena a tempo di sorreggerla ed adagiarla su di una sedia, mentre dalle mani di Mimì cadono e candeliere e chiave)
+
+RODOLFO
+(imbarazzato)
+Ora come faccio?... come faccio?...
+(va a prendere dell'acqua e ne spruzza il viso di Mimì)
+Così!
+(guardandola con grande interesse)
+Che viso da malata!
+(Mimì rinviene)
+Si sente meglio?
+
+MIMÌ
+(con un fil di voce)
+Sì
+
+RODOLFO
+Qui c'è tanto freddo. Segga vicino al fuoco.
+(fa alzare Mimì e la conduce a sedere presso al camino)
+un po' di vino.
+(corre alla tavola e vi prende bottiglia e bicchiere)
+
+MIMÌ
+Grazie
+
+RODOLFO
+(le dà il bicchiere e le versa da bere)
+A lei.
+
+MIMÌ
+Poco, poco.
+
+MIMÌ
+Grazie
+(beve)
+
+RODOLFO
+(ammirandola)
+(Che bella bambina!)
+
+MIMÌ
+(levandosi, cerca il suo candelliere)
+Ora permetta
+che accenda il lume. È tutto passato.
+
+RODOLFO
+Tanta fretta?
+
+RODOLFO
+(accende il lume di Mimì e glie lo consegna senza far parola)
+
+MIMÌ
+Buona sera.
+
+RODOLFO
+(l'accompagna fino sull'uscio, poi ritorna subito al lavoro)
+Buona sera.
+
+MIMÌ
+(esce, poi riappare sull'uscio)
+Oh! sventata!
+chiave della stanza!
+Dove l'ho lasciata?
+
+RODOLFO
+Non stia sull'uscio; il lume, vede, vacilla al vento.
+(il lume di Mimì si spegne)
+
+MIMÌ
+Oh Dio! Torni ad accenderlo.
+
+RODOLFO
+(accorre colla sua candela per riaccendere quella di Mimì, ma avvicinandosi alla porta anche il suo lume si spegne e la camera rimane buia)
+Ecco... Anche il mio s'è spento.
+Buio pesto!
+Ah! disgraziata!
+E la chiave?
+(avanzandosi a tentoni incontra la tavola e vi depone il suo candeliere)
+Ove sarà?
+(si trova presso la porta e la chiude)
+MIMÌ
+(cerca la chiave sul pavimento strisciando i piedi: Rodolfo fa lo stesso e trovata la tavola vi depone egli pure il candeliere, poi torna a cercare la chiave tastando colle mani il pavimento)
+Cerco. Ah!...
+(la trova e la intasca)
+
+MIMÌ
+L'ha trovata?
+
+RODOLFO
+No...
+
+MIMÌ
+Mi parve...
+
+RODOLFO
+in verità!
+
+MIMÌ
+(confusa)
+Importuna è la vicina...
+
+RODOLFO
+Cosa dice, ma le par!
+(guidato dalla voce di Mimì, Rodolfo finge di cercare mentre si avvicina ad essa: Mimi si china a terra e cerca a tastoni; Rodolfo colla sua mano incontra quella di Mimi, e l'afferra)
+
+MIMÌ
+(sorpresa, rizzandosi)
+Ah!
+
+RODOLFO
+(tenendo la mano di Mimi)
+Che gelida manina,
+se la lasci riscaldar.
+che giova? - Al buio non si trova.
+per fortuna - è una notte di luna,
+e qui la luna l'abbiamo vicina.
+Aspetti signorina,
+e intanto le dirò con due parole
+chi son, che faccio e come vivo. Vuole?
+(Mimi tace)
+Chi son? - Sono un poeta.
+Che cosa faccio? - Scrivo.
+E come vivo? - Vivo.
+In mia povertà lieta
+scialo da gran signore
+rime ed inni d'amore.
+Per sogni, per chimere
+e per castelli in aria
+l'anima ho milionaria.
+Talor dal mio forziere
+ruban tutti i gioielli
+due ladri: gli occhi belli.
+V'entrar con voi pur ora,
+ed i miei sogni usati
+tosto son dileguati.
+Ma il furto non m'accora
+poichè vi ha preso stanza
+una dolce speranza.
+Or che mi conoscete
+parlate voi. Chi siete?
+Vi piace dirlo?
+
+MIMÌ
+Mi chiamano Mimi
+ma il mio nome è Lucia.
+La storia mia
+è breve. A tela o a seta
+ricamo in casa e fuori,
+in bianco ed a colori.
+Lavoro d'ago,
+sono tranquilla e lieta
+ed è mio svago
+far gigli e rose.
+Mi piaccion quelle cose
+che han sì dolce malia,
+che parlano d'amor, di primavere,
+di sogni e di chimere,
+quelle cose che han nome poesia...
+Lei m'intende?
+
+MIMÌ
+Mi chiamano Mimi,
+ed il perchè non so.
+Sola, mi fo
+il pranzo da me stessa.
+Non vado sempre a messa
+ma assai prego il Signore.
+Vivo sola, soletta
+nella mia cameretta
+che guarda i tetti e il cielo,
+ma quando vien lo sgelo
+il primo sole è mio. Col novo aprile
+una rosa germoglia
+sul davanzal; ne aspiro a foglia a foglia
+l'olezzo... È sì gentile
+il profumo d'un fiore!
+Quelli ch'io fingo, ahimè! non hanno odore.
+Altro di me non le saprei narrare.
+Sono la sua vicina
+che la vien fuori d'ora a importunare.
+(dal cortile)
+
+SCHAUNARD
+Ehi! Rodolfo!
+
+COLLINE
+E Rodolfo!
+
+MARCELLO
+Olà. Non senti?
+(alle grida degli amici, Rodolfo s'impazienta)
+Lumaca!
+
+COLLINE
+Poetucolo!
+
+SCHAUNARD
+Accidenti
+al pigro!
+(sempre più impaziente, Rodolfo a tentoni si avvia alla finestra e l'apre spingendosi un poco fuori per rispondere agli amici che sono giù nel cortile: dalla finestra aperta entrano i raggi lunari, rischiarando così la camera)
+
+RODOLFO
+(alla finestra)
+Scrivo ancor tre righe a volo.
+
+MIMÌ
+(avvicinandosi un poco alla finestra)
+Chi sono?
+
+SCHAUNARD
+Sentirai le tue.
+
+MARCELLO
+Che te ne fai lì solo?
+
+RODOLFO
+Non son solo. Siam due.
+Andate da Momus, tenete il posto,
+ci sarem tosto.
+(rimane alla finestra, onde assicurarsi che gli amici se ne vanno)
+
+MARCELLO, SCHAUNARD E COLLINE
+(allontanandosi)
+Momus, Momus, Momus,
+zitti e discreti andiamocene via.
+Momus, Momus, Momus,
+il poeta trovò la poesia.
+(Mimì si è ancora avvicinata alla finestra per modo che i raggi lunari la illuminano: Rodolfo volgendosi scorge Mimi avvolta come da un nimbo di luce, e la contempla, quasi estatico)
+
+RODOLFO
+O soave fanciulla, o dolce viso
+di mite circonfuso alba lunar,
+in te, vivo ravviso
+il sogno ch'io vorrei sempre sognar!
+
+MIMÌ
+(Oh! come dolci scendono
+le sue lusinghe al core...
+tu sol comandi, amore!...)
+
+RODOLFO
+Fremono dentro l'anima
+già le ebbrezze supreme,
+amor, nel bacio freme!
+(Rodolfo la bacia)
+
+MIMÌ
+(svincolandosi)
+No, per pietà!
+
+RODOLFO
+Sei mia!
+
+MIMÌ
+Gli amici aspettan...
+
+RODOLFO
+Già mi mandi via?
+
+MIMÌ
+Vorrei dir... ma non oso...
+
+MIMÌ
+(con graziosa furberia)
+Se venissi con voi?
+
+RODOLFO
+Che?... Mimi!
+(con intenzione tentatrice)
+Sarebbe così dolce restar qui.
+C'è freddo fuori.
+
+MIMÌ
+Vi starò vicina!...
+
+RODOLFO
+E al ritorno?
+
+MIMÌ
+(maliziosa)
+Curioso!
+
+RODOLFO
+Andiamo. Dammi il braccio o mia piccina...
+
+MIMÌ
+(dà il braccio a Rodolfo)
+Obbedisco, signor!
+(s'avviano)
+
+RODOLFO
+Dimmi che m'ami...
+
+MIMÌ
+(con abbandono)
+
+RODOLFO
+Amore!
+
+MIMÌ
+Amor!
+# Quadro secondo
+(Al Quartiere Latino)
+(La vigilia di Natale)
+(Un crocicchio di vie che nel largo prende forma di piazzale; botteghe, venditori di ogni genere; da un lato il Caffè Momus.)
+(Nella folla si aggirano Rodolfo e Mimì. Colline presso alla botte di una rappezzatrice, Schaunard a una bottega di ferravecchi sta comperando una pipa e un corno, Marcello è spinto qua e là dal capriccio della gente.)
+
+SCHAUNARD
+(soffia nel corno e ne cava fuori note strane)
+Re Re! Re!... Falso questo re!...
+
+CORO
+(sul limitare delle loro botteghe)
+Aranci, datteri!
+
+SCHAUNARD
+(tratta col ferravecchi)
+Pipa e corno quant'è?...
+
+CORO
+Caldi i marroni.
+Spillette, ninnoli, croci.
+
+COLLINE
+(alla botte della rappezzatrice che gli sta cucendo la falda di un zimarrone usato che egli ha appena comperato)
+È un poco usato
+
+CORO
+Torroni
+
+COLLINE
+ma è serio e a buon mercato...
+(paga e distribuisce con giusto equilibrio i libri dei quali è carico nelle molte tasche del zimarrone)
+
+CORO
+Fiori alle belle.
+
+MARCELLO
+(tutto solo in mezzo alla folla, con un involto sotto braccio, occhieggiando le donnine che la calca gli getta quasi la braccia)
+Oh! la crostata.
+Io pur mi sento in vena di gridare:
+Panna montata.
+Chi vuol, donnine allegre, un po' d'amore?
+Facciamo insieme a vendere e comprare
+Fringuelli, passeri.
+Io do ad un soldo il vergine mio cuore.
+(Rodolfo e Mimì, a braccio, attraversano la folla avviati al negozio della modista)
+
+CORO
+Datteri!
+Trote!
+di cocco!
+
+MIMÌ
+Per la cuffietta?
+
+CORO
+Giubbe!
+
+RODOLFO
+Tienti al mio braccio stretta...
+(entrano dalla modista)
+
+CORO
+Carote!
+(La folla si espande per le vie adiacenti. Le botteghe sono piene di compratori che vanno e vengono. Nel Caffè pure sempre movimento di persone che entrano, escono e si avviano chi per una strada, chi per un'altra. Passato il primo momento di confusione, il crocicchio diventa luogo di passaggio, animatissimo sempre)
+(Gran folla è diversa; Borghesi, Soldati, Fantesche, Ragazzi, Bambine, Studenti, Sartine, Gendarmi, ecc.)
+(È sera. Le botteghe sono adorne di lampioncini e fanali accesi: un grande fanale illumina l'ingresso del Caffè Momus. Il Caffè è affollatissimo così che alcuni Borghesi sono costretti a sedere ad una tavola fuori all'aperto.)
+
+CORO
+Al Caffè.
+
+BORGHESI
+Quanta folla!
+
+CORO
+Andiam, qua, camerier!
+Che chiasso!
+
+STUDENTI E SARTINE
+Presto!
+Stringiti a me, corriamo.
+
+MAMME
+(chiamando le sue figliuole)
+Corri!
+Lisa! Emma!...
+
+BORGHESI
+Date il passo.
+Vien qua!
+
+MAMME
+Emma, quando ti chiamo!
+A me!
+
+SARTINE
+Ancora un altro giro... Birra
+
+STUDENTI
+Birra!
+Pigliam via Mazzarino.
+
+CORO
+Un bicchier!
+Qui mi manca il respiro!...
+
+BORGHESI
+Vedi? Il Caffè è vicino.
+Vaniglia!...
+
+SARTINE
+(ammirando una bacheca)
+Oh! stupendi gioielli!
+Ratafià!
+
+STUDENTI
+(abbracciandole)
+Son gli occhi assai più belli!
+Dunque? Presto!...
+
+BORGHESI
+(scandolezzati)
+Pericolosi esempi
+la folla oggi ci dà!
+Da ber!
+
+BORGHESI
+Era meglio ai miei tempi!
+
+MONELLI
+Viva la libertà!
+Presto, olà!
+
+(Rodolfo e Mimì escono dalla bottega)
+
+RODOLFO
+(a Mimì)
+Vieni, gli amici aspettano.
+
+MIMÌ
+È da un pezzo
+che mi struggevo d'una
+cuffietta rosa. Mi sta ben?
+
+RODOLFO
+Sei bruna
+e quel color ti dona.
+
+MIMÌ
+(guardando con rimpianto verso la bottega della modista)
+O che bel vezzo
+di corallo.
+
+RODOLFO
+Ho uno zio
+quasi nonagenario - e milionario.
+Se fa senno il buon Dio
+voglio comprarti un vezzo assai più bello.
+(a un tratto, vedendo Mimì guardare, si volge egli pure sospettoso)
+
+MIMÌ
+Sei geloso?
+
+RODOLFO
+Un vice Otello.
+All'uom felice sta il sospetto accanto.
+
+SCHAUNARD
+(viene a gironzolare avanti al Caffè Momus aspettandovi gli amici; intanto armato della enorme pipa e del corno da caccia guarda curiosamente la folla)
+Fra spintoni e pestate ansando affretta
+la folla e si diletta
+nel provar voglie matte - insoddisfatte.
+Se la spassa così con poche spese
+il buon ceto borghese.
+
+COLLINE
+(se ne viene al ritrovo avvolto nel zimarrone troppo lungo per lui e che gli fa intorno delle pieghe da toga romana, agitando trionfalmente un vecchio libro)
+Copia rara, anzi unica:
+la grammatica Runica!
+
+SCHAUNARD
+(che giunge in quella alle spalle di Colline, compassionandolo)
+Che uomo onesto!...
+
+MARCELLO
+(arriva al Caffè Momus, e vi trova Schaunard e Colline)
+A cena presto.
+
+SCHAUNARD E COLLINE
+E Rodolfo?
+
+MARCELLO
+Pur ora, nella trista
+compagnia di quel tirchio creditore
+che si chiama: l'amore,
+entrò da una modista.
+(Marcello, Schaunard e Colline entrano nel Caffè Momus, ma ne escono quasi subito, sdegnati di quella gran folla che dentro si stipa chiassosa. Essi portano fuori una tavola e li segue un cameriere per nulla meravigliato di quella loro stramberia di voler cenare fuori: i borghesi alla tavola vicina, infastiditi dal baccano che fanno i tre amici; dopo un po' di tempo s'alzano e se ne vanno)
+
+COLLINE
+Odio il profano volgo al par d'Orazio.
+
+MIMÌ
+felice?
+
+RODOLFO
+(stringendola sotto braccio)
+Sì, tanto. E tu?
+
+MIMÌ
+Sì, tanto.
+(Mimì e Rodolfo raggiungono gli amici)
+(Nel fondo, da via Vecchia Commedia, attraverso il crocicchio, passa un venditore di frutta secca, urlando a tutta gola)
+
+CORO
+Vere ed autentiche - prugne di Tours.
+
+SCHAUNARD
+Ed io quando mi sazio
+vo' abbondanza di spazio.
+
+MARCELLO
+(al cameriere)
+
+SCHAUNARD
+Per molti.
+
+MARCELLO
+E subito!
+Vuol essere una cena prelibata.
+
+RODOLFO
+(giunge con Mimì)
+Due posti.
+
+COLLINE
+Finalmente?
+
+RODOLFO
+Eccoci qui.
+(presenta)
+Questa è Mimì
+che a me s'appaia
+gaia - fioraia.
+Il suo venir completa
+la bella compagnia,
+perch'io sono il poeta
+essa la poesia.
+Dal mio cervel sbocciano i canti,
+dalle sue dita sbocciano i fior,
+dall'anime esultanti
+sboccia l'amor.
+
+MARCELLO
+(ironico)
+Dio che concetti rari!
+
+COLLINE
+Digna est intrari.
+
+CORO
+(da lontano, avvicinandosi)
+Ecco i giocattoli di Parpignol!
+(Dalle botteghe e dalle strade sbucano fanciulli e fanciulle)
+
+CORO
+Parpignol!
+Parpignol!
+(Da via Delfino sbocca un carretto tutto a fronzoli e fiori, illuminato a palloncini: chi lo spinge è Parpignol)
+
+PARPIGNOL
+(gridando)
+Ecco i giocattoli di Parpignol!
+
+CORO
+(circondano il carretto, saltellando)
+Parpignol! Parpignol!
+Col bel carretto tutto lumi e fior!
+(ammirando i giocattoli)
+Voglio la tromba, il cavallin!...
+
+SERGENTE
+Dei soldati il drappel!...
+
+MIMÌ
+Voglio il cannon - Voglio il frustin!
+Tamburo e tamburel!
+(alle grida dei fanciulli accorrono le mamme, che tentano inutilmente allontanarli da Parpignol e sgridano stizzite)
+
+MAMME
+Ah! razza di furfanti indemoniati,
+che ci venite a fare in questo loco?
+Gli scappellotti vi parranno poco!...
+A casa! - A letto! - Via brutti sguaiati.
+(i fanciulli non vogliono andarsene: uno di essi scoppia in pianto: la mamma lo prende per un orecchio ed esso si mette a gridare che vuole i giocattoli di Parpignol: le mamme, intenerite, comprano. Parpignol prende giù per via Vecchia Commedia, seguito dai ragazzi che fanno gran baccano con tamburi, tamburelli e trombette)
+
+PARPIGNOL
+(da lontano)
+Ecco i giocattoli di Parpignol!!
+
+SCHAUNARD
+Ingrediat si necessit..
+
+MARCELLO
+Io non do che un: accessit..
+(Rodolfo fa sedere Mimì; seggono tutti: il cameriere ritorna presentando la lista delle vivande)
+
+COLLINE
+(con enfasi romantica al cameriere)
+Salame...
+(il cameriere presenta ai quattro amici la carta; questa passa girando nelle mani di tutti guardata con una specie di ammirazione ed analizzata profondamente)
+
+SCHAUNARD
+Cervo arrosto.
+
+MARCELLO
+No. Un tacchino.
+
+RODOLFO
+(piano a Mimì)
+E tu Mimì, che vuoi?
+
+MIMÌ
+La crêma..
+
+SCHAUNARD
+Vino del Reno.
+
+COLLINE
+E vin di tavola.
+
+SCHAUNARD
+Aragosta senza la crosta.
+E gran sfarzo. C'è una dama.
+
+MAMME E BOTTEGAIE
+(nel ritirarsi a un tratto si soffermano dalla parte delle loro botteghe a riguardare una bella signora: meravigliate nel riconoscere in lei Musetta, susurrano fra di loro additandosela)
+To, è Musetta!
+Lei!
+Tornata!
+Proprio lei!
+È Musetta!
+Siamo in auge!
+Che toeletta!
+(entrano nelle loro botteghe)
+
+STUDENTI E SARTINE
+(attraversando la scena)
+Guarda guarda chi si vede!
+Con quel vecchio che sgambetta!
+Proprio lei!
+Proprio!
+È Musetta!
+
+(All'angolo di via Mazzarino appare una bellissima signora, dal fare civettuolo e allegro, dal sorriso provocante. Le vien dietro un vecchio dal sorriso pomposo e lezioso. La signora alla vista della tavolata degli amici frena la corsa; si direbbe che ella sia arrivata alla meta del suo viaggio)
+
+MARCELLO
+(fattosi cupo ad un tratto alla vista di Musetta, al Cameriere che si avvia)
+(si lascia cadere sulla sedia)
+E a me
+una fiala di tossico.
+
+ALCINDORO
+(raggiunge trafelato Musetta)
+Come un facchino
+correr di qua... di là...
+di su di giù
+pel Quartier Latino...
+no! Non ci stà...
+Io non ne posso più!
+Ragazza benedetta,
+foga m'affoga!
+Mi sloga e sgarretta
+tal furia scorretta.
+
+SCHAUNARD, COLLINE E RODOLFO
+(alla esclamazione di Marcello si volgono ed esclamano)
+Oh! Musetta.
+(gli amici guardano con gli occhi pieni di compassione Marcello che si è fatto pallido)
+(il cameriere comincia a servire; Schaunard e Colline guardano sempre di là dalla parte di Musetta e parlano di lei; Marcello finge la massima indifferenza. Rodolfo solo non ha occhi e pensieri che per Mimì)
+(la bella signora senza curarsi di lui si avvia verso il Caffè Momus e prende posto alla tavola lasciata libera)
+
+MARCELLO
+Essa!
+
+ALCINDORO
+Qui fuori!? Qui!?
+(senza punto curarsi delle proteste di Alcindoro, atterrito di stare fuori al freddo)
+
+SCHAUNARD
+(alla vista del vecchio signore decorato)
+Quel brutto coso
+che ai fianchi le si affanna...
+
+ALCINDORO
+Tali nomignoli
+prego serbateli
+tu per tu
+La convenienza...
+il grado...
+la virtù.
+(un cameriere si è avvicinato premuroso e prepara tavola)
+
+COLLINE
+(esaminando il vecchio)
+È il vizio contegnoso...
+
+MARCELLO
+(con disprezzo)
+Colla casta Susanna.
+
+COLLINE
+Mi sembra un troglodita.
+
+MUSETTA
+(colpita nel vedere che gli amici non la guardano)
+(Marcello è là... mi vide...
+E non mi guarda il vile!
+e quel Schaunard che ride!
+Mi fan tutti una bile!
+(inquietandosi)
+Se potessi picchiare,
+se potessi graffiare!
+
+SCHAUNARD
+Guarda!... Mi par che sudi!
+
+MIMÌ
+(a Rodolfo)
+Essa è pur ben vestita!!
+
+RODOLFO
+Gli angeli vanno nudi.
+
+(Passa attraverso al crocicchio, sboccando dalla via della Vecchia Commedia un picchetto militi della Guardia Nazionale. Sono bottegai di servizio che rincasano)
+(sull'angolo di Via Delfino il Venditore di Cocco fresco fa ottimi affari — i suoi bicchieri di ottone passano di mano in mano rapidamente a rinfrescare ugole asciutte dal troppo vociare)
+(la Rappezzatrice esce fuori dal guscio della sua botte e infilatene le bretelle se ne va colla sua botte a spalle giù per via Vecchia Commedia)
+
+MUSETTA
+Ma non ho sotto mano
+che questo pellicano.
+Aspetta!
+(chiama il cameriere che si è allontanato)
+Ehi! Camerier!
+(il cameriere accorre: Musetta prende un piatto)
+Cameriere! Questo piatto
+ha una puzza di rifritto!
+(getta il piatto a terra; il Cameriere si affretta a raccogliere i cocci)
+
+ALCINDORO
+(cerca acquetarla)
+Musetta... zitto, zitto!
+
+MUSETTA
+(rabbiosa, sempre guardando Marcello)
+(Non si volta. Ora lo batto!)
+
+MIMÌ
+(si rivolge curiosa a Rodolfo)
+La conosci? Chi è?
+
+MARCELLO
+(agli amici nascondendo la commozione che lo vince)
+Domandatelo a me.
+È di nome: Musetta;
+cognome: Tentazione!
+Per sua vocazione
+fa la Rosa dei venti;
+gira e muta soventi
+ed amanti e d'amore.
+Al par della civetta
+è uccello sanguinario;
+il suo cibo ordinario
+è il cuore... Mangia il cuore!...
+Per questo io non ne ho più...
+
+ALCINDORO
+chi parli?...
+
+MUSETTA
+(seccata)
+Passatemi il ragù!
+
+SCHAUNARD
+(a Colline)
+La commedia è stupenda!
+Essa all'un parla perchè l'altro intenda.
+
+ALCINDORO
+(prende la nota dal cameriere e si mette ad ordinare la cena)
+Modi, garbo
+
+MUSETTA
+(stizzita)
+Non seccar!
+Voglio fare il mio piacere
+voglio dir quel che par!
+(guardando Marcello, a voce alta)
+non mi guardi!
+
+COLLINE
+(a Schaunard)
+E l'altro invan crudele
+finge di non capir, ma sugge miele.
+
+RODOLFO
+(a Mimì)
+Sappi per tuo governo
+ch'io non darei perdono in
+sempiterno.
+
+ALCINDORO
+(credendo rivolte a lui queste parole)
+Vedi bene che ordino!
+
+MIMÌ
+(a Rodolfo)
+Io t'amo, io t'amo, io sono
+tutta tua!... Chè mi parli di perdono?
+
+MARCELLO
+il tuo cuore martella!
+
+ALCINDORO
+(come sopra)
+Parla piano.
+
+COLLINE
+Questo pollo è un poema!
+
+SCHAUNARD
+Il vino è prelibato.
+
+RODOLFO
+(a Mimì)
+Ancor di questo intingolo?
+
+MIMÌ
+Si, non ne ho mai gustato.
+
+MUSETTA
+(Ma che sia proprio geloso di questa mummia?... di questo rudere?...
+Vediamo se mi resta
+tanto poter su lui da farlo cedere).
+(civettuola, volgendosi con intenzione a Marcello, il quale comincia ad agitarsi)
+Quando men vo soletta per la via
+la gente sosta e mira,
+e la bellezza mia - ricerca in me
+tutta da capo a piè
+Ed assaporo allor la bramosia
+sottil, che dai vogliosi occhi traspira
+e dai vezzi palesi intender sa
+alle occulte beltà.
+Così l'effluvio del desio m'aggira
+e delirar mi fa.
+E tu che sai, che memori e ti struggi
+com'io d'amor, da me tanto rifuggi?
+So ben: le angoscie tue non le vuoi dir
+ma ti senti morir.
+
+MIMÌ
+(a Rodolfo)
+Io vedo ben che quella poveretta
+è di Marcello tuo tutta invaghita!
+
+RODOLFO
+Marcello un di l'amò - ma la fraschetta
+l'abbandonò per correr miglior vita.
+
+MIMÌ
+L'amore ingeneroso, è tristo amore!
+Quell'infelice mi muove a pietà.
+
+RODOLFO
+Spento amor non risorge. È fiacco
+amore
+quel che le offese vendicar non sa.
+
+ALCINDORO
+(Quel canto scurrile mi muove alla bile!)
+
+MARCELLO
+Legatemi alla seggiola.
+
+SCHAUNARD
+(Ella prega, egli castiga,
+chissà mai quel che avverrà!
+Santi numi, in simil briga
+mai Colline intopperà.
+
+COLLINE
+(Quel Marcel che fa il bravaccio
+a momenti cederà;
+trovan dolce al pari il laccio
+chi lo tende e chi ci dà.
+
+SCHAUNARD
+(a Colline)
+Essa è bella, (non son cieco),
+e di calda gioventù;
+ma mi piaccion assai più
+una pipa e un testo greco).
+
+COLLINE
+Se una tal vaga persona
+ti trattasse a tu per tu,
+manderesti a Belzebù
+la tua scienza brontolona).
+
+MARCELLO
+(grandemente commosso)
+(La giovinezza mia non è ancor morta,
+nè di te morto è il sovvenir...
+se tu battessi alla mia porta
+t'andrebbe il mio core ad aprir!)
+
+MUSETTA
+(Marcello smania. È vinto. Ora conviene liberarsi del vecchio).
+(fingendo provare un vivo dolore)
+Ahi!
+
+ALCINDORO
+Che c'è?
+
+MUSETTA
+Qual dolore, qual bruciore.
+
+ALCINDORO
+Dove?
+
+MUSETTA
+Al piè.
+Sciogli, slaccia - rompi, straccia
+te ne imploro - Alcindoro!
+
+ALCINDORO
+(abbassandosi per slacciare la scarpa a Musetta)
+Zitta, zitta...
+
+MUSETTA
+Dio che fitta!
+
+ALCINDORO
+(tastando il piede a Musetta)
+Qui?
+
+MUSETTA
+Più in giù...
+
+ALCINDORO
+Qui?
+
+MUSETTA
+Più in su... maledetta scarpa stretta.
+
+ALCINDORO
+(scandolezzato)
+Quella gente che dirà.
+
+MUSETTA
+Or la levo - per sollievo.
+
+ALCINDORO
+(cercando trattenere Musetta)
+Imprudente!
+
+MUSETTA
+(si leva la scarpa e la mette sulla tavola)
+Eccola qua.
+Laggiù c'è un calzolaio,
+comprane un altro paio.
+
+ALCINDORO
+(disperato, prende la scarpa e rapidamente se la caccia nel panciotto, e si abbottona maestoso l'abito)
+Come! Vuoi che io comprometta
+il mio grado?...
+
+MUSETTA
+Perchè no?
+Via!
+
+ALCINDORO
+Mio Dio!
+
+MUSETTA
+(impazientandosi)
+Corri!
+
+ALCINDORO
+Musetta!
+
+MUSETTA
+Presto!
+
+ALCINDORO
+Aspetta!...
+
+MUSETTA
+Strillo!...
+(per timore di maggior scandalo, Alcindoro corre frettolosamente verso la bottega del calzolaio)
+(appena partito Alcindoro, Musetta si alza e si getta nelle braccia di Marcello, che non sa più resistere)
+
+MUSETTA
+Oh Marcello!
+
+MARCELLO
+Sirena!
+
+SCHAUNARD
+Siamo all'ultima scena!
+(un cameriere porta il conto)
+
+TUTTI
+(meno Marcello)
+Il conto!
+
+SCHAUNARD
+Così presto?
+
+COLLINE
+Chi l'ha richiesto?
+
+SCHAUNARD
+Vediamo.
+(si fa dare il conto, che fa il giro degli amici)
+
+COLLINE E RODOLFO
+Caro!
+
+RODOLFO, SCHAUNARD E COLLINE
+Fuori il danaro!
+
+SCHAUNARD
+Colline, Rodolfo e tu
+Marcel?
+
+MARCELLO
+Sono all'asciutto!
+
+RODOLFO
+Ho trenta soldi in tutto!
+
+MARCELLO, SCHAUNARD E COLLINE
+Come? Non ce n'è più?
+
+SCHAUNARD
+(terribile)
+Ma il mio tesoro ov'è?
+(portano le mani alle tasche: sono vuote: nessuno sa spiegarsi la rapida scomparsa degli scudi di Schaunard; sorpresi si guardano l'un l'altro)
+(Lontanissima si ode la ritirata militare, che poco a poco va avvicinandosi: la gente accorre da ogni parte, guardando e correndo di qua, di là onde vedere da quale parte giunge)
+
+BORGHESI
+La ritirata. - Vien la ritirata.
+Oh, largo - largo - abbasso!
+
+MONELLI
+Come sarà arrivata;
+la seguiremo al passo.
+
+BORGHESI
+In quel rullio tu senti
+la patria maestà.
+
+MONELLI
+S'avvicinano - attenti
+in fila. Eccoli qua.
+(Mamme e Fanciulle alle finestre ed ai balconi guardando la ritirata che arriva)
+
+FANCIULLE
+Mamà voglio vedere.
+
+FANCIULLE
+Papà voglio sentire.
+
+MAMME
+Lisetta vuoi tacere?
+Tonio la vuoi finire?
+
+FANCIULLE
+Prendimi in braccio.
+
+MAMME
+Sisò
+
+FANCIULLE
+Vedere!
+
+TUTTI
+Eccoli qui!
+(la ritirata militare attraversa la scena)
+
+MUSETTA
+(al cameriere)
+Date il mio conto. - È pronto?
+(al cameriere che lo consegna)
+Bene! Sommate presto
+quello con questo...
+Paga il signor che stava qui con me!
+(ponendo i due conti riuniti al posto di Alcindoro)
+E dove s'è seduto
+ritrovi il mio saluto!
+
+SCHAUNARD, COLLINE, MARCELLO E RODOLFO
+Giunge la ritirata,
+il vecchio non ci veda
+fuggir con la sua preda.
+Quella folla serrata
+il nascondiglio appresti!...
+Via lesti, lesti, lesti!...
+(Musetta non potendo camminare perchè ha un solo piede calzato, è alzata a braccia da Marcello e ovazioni: Marcello e Colline con Musetta si mettono in coda alla ritirata: li seguono Rodolfo e mente, poi ragazzi, borghesi, donne che prendono il passo di marcia: tutta questa folla si allontana ritorna verso il Caffè Momus, cerca inutilmente Musetta e s'avvicina alla tavola: il cameriere che quale vedendo la somma, non trovando più alcuno, cade su di una sedia, stupefatto, allibito)
+
+CORO
+Ecco il tamburo maggior più fiero
+d'un antico guerriero!
+Al gesto trionfale
+diresti un generale.
+Che mustacci!! - Che pizzo! - Che statura!
+Che torace! - Che canna! - Che andatura!
+Padron di tutti i cuori
+egli passa e non guarda.
+I zappatori!...
+Che belle barbe! Sembran fra le genti
+possenti monumenti semoventi!
+(Colline: la folla vedendo Musetta portata trionfalmente, ne prende pretesto per farle clamorose Mimì a braccetto e Schaunard col suo corno imboccato; poi studenti e sartine saltellando allegra- dal fondo seguendo la ritirata militare. Intanto Alcindoro, con un paio di scarpe bene incartocciate è lì presso, prende i conti lasciati da Musetta e cerimoniosamente li presenta ad Alcindoro, il)
+
+# Quadro terzo
+(La Barriera d'Enfer)
+(Al di là della barriera il boulevard esterno e, nell'estremo fondo, la strada d'Orleans che si perde lontana fra le alte case e la nebbia del febbraio al di qua, a sinistra, un Cabaré ed il piccolo largo della barriera, a destra il boulevard d'Enfer; a sinistra quello di S.t Jacques.)
+(A destra pure la imboccatura della via d'Enfer che mette in pieno Quartiere Latino.)
+(Il Cabaré ha per insegna il quadro di Marcello " Il passaggio del Mar Rosso, " ma sotto invece a larghi caratteri vi è dipinto " Al porto di Marsiglia, " Ai lati della porta sono pure dipinti a fresco un turco e uno zuavo con una enorme corona d'alloro intorno al fez. Alla parete del Cabaré, che guarda verso la barriera, una finestra a pian terreno donde esce un chiarore rossiccio.)
+(I platani che costeggiano il largo della barriera, grigi, alti e in lunghi filari dal largo si dipartono diagonalmente verso i due boulevards. Fra platano e platano sedili di marmo. È il febbraio; la neve è dappertutto.)
+(All'alzarsi della tela c'è nel cielo e sulle case il biancheggiare incerto della primissima alba. Seduti avanti ad un braciere stanno sonnecchiando i Doganieri. Dal Cabarè, ad intervalli, grida, cozzi di bicchieri, risate. Un Doganiere esce dal Cabaré con vino. La cancellata della barriera è chiusa.)
+(Dietro la cancellata chiusa battendo i piedi dal freddo e soffiandosi su le mani intirizzite stanno alcuni spazzini)
+
+SPAZZINI
+Ohè, là, le guardie!... Aprite!... Siamo noi!
+Quelli di Gentilly!... Siam gli spazzini!...
+(I Doganieri rimangono immobili; gli Spazzini picchiano colle loro scope e badili sulla cancellata urlando)
+Fiocca la neve!... Qui s'agghiaccia!!
+(I Doganieri si scuotono)
+
+SERGENTE
+(sbadigliando e stirandosi le braccia, brontola)
+Vengo!
+(va ad aprire; gli Spazzini entrano e si allontanano per la via d'Enfer. Il Doganiere rinchiude la cancellata)
+(Dal Cabaré voci allegre e tintinnii di bicchieri che accompagnano il lieto cantare)
+
+VOCI INTERNE
+Chi trovò forte piacer — nel suo bicchier,
+di due labbra sul bel fior — trovò l'amor.
+Trallerallè
+Eva e Noè!
+
+MUSETTA
+(nell'interno)
+Ai vegliardi il bicchier!
+La giovin bocca è fatta per l'amor.
+(Suoni di campanelli dallo stradale d'Orleans; sono carri tirati da muli. Schioccare di fruste e grida di carrettieri: hanno fra le ruote lanterne accese ricoperte di tela. Passano e si allontanano pel boulevard d'Enfer)
+
+VOCI
+(dal boulevard esterno; dal fondo)
+Hopp-là !-Hopp-là !! Hopp-là !-Hopp-là !!
+
+SERGENTE
+Son già le lattivendole!
+(dal Corpo di Guardia esce il Sergente dei Doganieri, il quale ordina d'aprire la barriera)
+
+LE LATTIVENDOLE
+(passano per la barriera a dorso di asinelli e si allontanano per diverse strade dicendo ai Doganieri)
+Buon giorno!
+
+CONTADINE
+(con ceste a braccio)
+Burro e cacio!
+Polli ed ova!
+(pagano e i Doganieri le lasciano passare)
+(giunte al crocicchio)
+Voi da che parte andate?
+A San Michele!
+Ci troverem più tardi?
+A mezzodì!
+(si allontanano per diverse strade)
+(i Doganieri ritirano le panche e il braciere)
+(Mimì dalla via d'Enfer, entra guardando attentamente intorno cercando di riconoscere i luoghi, ma giunta al primo platano la coglie un violento accesso di tosse: riavutasi e veduto il Sergente, gli si avvicina.)
+
+MIMÌ
+(al Sergente)
+Sa dirmi, scusi, qual è l'osteria...
+(non ricordandone il nome)
+Dove un pittor lavora?
+
+SERGENTE
+(indicando il Cabaré)
+
+MIMÌ
+Grazie.
+(esce una fantesca dal Cabarè; Mimì le si avvicina)
+O buona donna, mi fate il favore
+di cercarmi il pittore
+Marcel!o? Ho da parlargli. Ho tanta fretta.
+Ditegli, piano, che Mimì lo aspetta.
+(la fantesca rientra nel Cabaré)
+
+SERGENTE
+(ad uno che passa)
+Ehi, quel panier!
+
+SERGENTE
+Vuoto!
+
+SERGENTE
+(dalla barriera entra altra gente, e chi da una parte, chi dall'altra tutti si allontanano. Le campane dell'ospizio Maria Teresa suonano mattutino. È giorno fatto, giorno d'inverno, triste e caliginoso. Dal Cabarè escono alcune coppie che rincasano.)
+(Marcello e Mimì.)
+
+MARCELLO
+(esce dal Cabarè e con sorpresa vede Mimì)
+
+MIMÌ
+Son io. Speravo di trovarvi qui.
+
+MARCELLO
+È ver, siam qui da un mese
+di quell'oste alle spese.
+Musetta insegna il canto ai passeggieri
+Io pingo quei guerrieri
+sulla facciata.
+(Mimì tossisce)
+È freddo. Entrate.
+
+MIMÌ
+C’è Rodolfo?
+
+MARCELLO
+Sì.
+
+MIMÌ
+Non posso entrar.
+
+MARCELLO
+(sorpreso)
+Perchè?
+
+MIMÌ
+(scoppia in pianto)
+O buon Marcello, aiuto!
+
+MARCELLO
+Cos'è avvenuto?
+
+MIMÌ
+Rodolfo m’ama. Rodolfo si strugge
+di gelosia e mi fugge.
+Un passo, un detto,
+un vezzo, un fior lo mettono in sospetto...
+Onde corrucci ed ire.
+Talor la notte fingo di dormire
+e in me lo sento fiso
+spiarmi i sogni in viso.
+Mi grida ad ogni istante:
+Non fai per me, prenditi un altro amante.
+In lui parla il rovello;
+lo so, ma che rispondergli, Marcello?
+
+MARCELLO
+Quando s’è come voi l’amor si beve
+a sorsi e non si vive in compagnia.
+Io son lieve a Musetta ed ella è lieve
+a me perchè ci amiamo in allegria...
+Canti e risa, ecco il fiore
+di un giovanile amore.
+
+MIMÌ
+Dite bene. Dividerci conviene.
+Aiutateci voi; noi s'è provato
+più volte invan. Quando tutto è deciso
+se ci guardiamo in viso
+ogni savio proposito è fiaccato.
+Da sera a giorno e d'oggi alla dimane
+s’indugia la partenza e si rimane.
+Fate voi per il meglio.
+
+MARCELLO
+Sta bene, ora lo sveglio.
+
+MIMÌ
+Dorme?
+
+MARCELLO
+È piombato qui
+senza dir che si fosse
+un'ora avanti l'alba e si assopì
+sopra una panca.
+(va a guardare alla finestra e fa cenno a Mimì di guardare)
+Guardate.
+(Mimì tossisce)
+Che tosse!
+
+MIMÌ
+Da ieri ho l'ossa rotte.
+Fuggi da me stanotte
+dicendomi: È finita.
+A giorno sono uscita
+e me ne corsi a questa volta.
+
+MARCELLO
+(osservando Rodolfo nell'interno del Cabarè)
+Si desta...
+s’alza, mi cerca... viene.
+
+MIMÌ
+Ch'ei non mi veda.
+
+MARCELLO
+Ebbene,
+celatevi!...
+(Mimì si ripara dietro gli alberi)
+(Rodolfo e Marcello - Mimì in disparte.)
+
+RODOLFO
+(accorrendo verso Marcello)
+Marcello. Finalmente!
+Qui niun ci sente.
+Io voglio separarmi da Mimì.
+
+MARCELLO
+Sei volubil così?
+
+RODOLFO
+Già un'altra volta credetti che morto
+fosse il mio cuor
+ma di quegli occhi azzurri allo splendor
+esso è risorto.
+Ora il tedio l'assale.
+
+MARCELLO
+E gli vuoi rinnovare il funerale?
+(Mimì cautamente si avvicina per udire)
+
+RODOLFO
+(con dolore)
+Per sempre!
+
+MARCELLO
+Cambia metro.
+Dei pazzi è l’amor tetro
+che lacrime distilla.
+Se non ride e sfavilla
+l'amore è fiacco e roco.
+Tu sei geloso.
+
+RODOLFO
+Un poco.
+
+MARCELLO
+Collerico, lunatico, imbevuto
+di pregiudizi, noioso, cocciuto!
+
+MIMÌ
+(che ode, fra sè, inquieta)
+Or lo fa incollerir! Me poveretta!
+
+RODOLFO
+E Mimì è una civetta
+che frascheggia con tutti. Un moscardino
+di Viscontino
+le fa l'occhio di triglia. Ella sgonnella
+e scopre la caviglia
+con un far promettente e lusinghiero.
+
+MARCELLO
+Lo devo dir? Non mi sembri sincero.
+
+RODOLFO
+Ebben no, non lo sono. Invan nascondo
+la mia vera tortura.
+Amo Mimì sovra ogni cosa al mondo
+ma ho paura, ho paura.
+
+RODOLFO
+(agitato, temendo che Mimi possa udire)
+(Marcello tenta di allontanare Rodolfo)
+è tanto malata!
+Ogni dì più declina.
+La povera piccina
+è condannata.
+
+MIMÌ
+(sorpresa, si avvicina ancora più sempre nascosta dietro gli alberi)
+Rodolfo! Che vuol dire?
+
+RODOLFO
+terribil tosse
+l'esil petto le scuote
+e già le smunte gote
+di sangue ha rosse...
+
+MIMÌ
+No!... Bada!... Ahimè, morire?!
+
+RODOLFO
+mia stanza è una tana
+squallida... il fuoco ho spento.
+V'entra e l'aggira il vento
+di tramontana.
+
+MARCELLO
+Taci! Taci!... È finita!...
+
+RODOLFO
+canta e sorride
+e me il rimorso assale.
+Me cagion del fatale
+mal che l'uccide.
+
+MARCELLO
+(vorrebbe allontanare Rodolfo)
+Ah, vieni via!...
+
+MIMÌ
+(angosciata)
+O mia vita!
+
+RODOLFO
+di serra è fiore.
+Povertà l'ha sfiorita,
+per ritornarla in vita
+non basta amore.
+(la tosse e i singhiozzi violenti rivelano la presenza di Mimi)
+
+RODOLFO
+(vedendola e accorrendo a lei)
+Chè! Mimi! Tu sei qui?
+M'udisti? Vaneggiai. Ti rassicura:
+facile alla paura
+per nulla io m'arrovello.
+Vieni là nel tepore.
+(vuol farla entrare nel Cabarè)
+
+MIMÌ
+No, quel tanfo mi soffoca.
+(Rodolfo stringe amorosamente fra le sue braccia Mimi)
+(dal Cabarè si ode ridere sfacciatamente Musetta)
+
+MARCELLO
+È Musetta
+che ride.
+(corre alla finestra del Cabarè)
+Con chi ride? Ah la civetta!
+Imparerai.
+(entra furiosamente nel Cabarè)
+
+MIMÌ
+(svincolandosi da Rodolfo)
+
+RODOLFO
+(sorpreso, dolorosamente)
+Che! Vai?
+
+MIMÌ
+D'onde lieta al tuo grido
+d'amore uscì,
+torna sola Mimi
+al solitario nido.
+Ritorna un'altra volta
+a intesser finti fior.
+Addio, senza rancor.
+Ascolta, ascolta.
+Le poche robe aduna che lasciai
+sparse. Nel mio cassetto
+stan chiusi quel cerchietto
+d'oro, i nastrini e il libro di preghiere.
+Involgi tutto quanto in un grembiale
+e manderò il portiere...
+Bada sotto il guanciale
+c'è la cuffietta rosa.
+Se... vuoi... serbarla a ricordo d'amore...
+Addio senza rancore.
+
+RODOLFO
+Dunque è proprio finita.
+Te ne vai, te ne vai, la mia piccina?!
+Addio sognante vita.
+
+MIMÌ
+Addio dolce svegliare alla mattina!
+(sorridendo)
+Addio rabbuffi!
+
+RODOLFO
+Con subite paci!
+
+MIMÌ
+Sospetti!
+
+RODOLFO
+Baci!
+
+MIMÌ
+E gelosie!
+
+RODOLFO
+Che un tuo sorriso acqueta.
+
+MIMÌ
+E pungenti amarezze.
+
+RODOLFO
+Che io da vero poeta
+rimavo con: carezze.
+
+MIMÌ
+Soli l'inverno è cosa da morire.
+
+RODOLFO
+Mentre al primo fiorire
+di primavera ci è compagno il sole.
+
+MIMÌ
+Niuno è solo l'aprile.
+
+RODOLFO
+Si discorre coi gigli e le viole.
+
+MIMÌ
+Esce dai nidi un cinguettio gentile.
+
+RODOLFO
+Chiacchieran le fontane.
+(dal Cabarè fracasso di piatti e bicchieri rotti; si odono le voci concitate di Musetta e Marcello)
+
+MARCELLO
+Che facevi. Che dicevi.
+presso il foco a quel signore?
+
+MUSETTA
+Che vuoi dire?
+(Musetta esce stizzita; Marcello la segue fermandosi sulla porta)
+
+MARCELLO
+Al mio venire
+hai mutato di colore.
+
+MUSETTA
+Quel signore mi diceva:
+Ama il ballo signorina?
+Arrossendo io rispondeva:
+Ballerei sera e mattina.
+
+MARCELLO
+Quel discorso asconde mire
+licenziose e disoneste,
+se ti colgo a incivettire
+io t'acconcio per le feste!
+(quasi avventandosi contro Musetta)
+
+MIMÌ
+La brezza della sera
+balsami stende sulle doglie umane.
+
+RODOLFO
+Vuoi che aspettiamo ancor la primavera?
+
+MIMÌ
+Sempre tua... per la vita.
+
+RODOLFO
+Ci lascieremo alla stagion fiorita!
+
+MIMÌ
+Vorrei che eterno
+durasse il verno!
+
+MUSETTA
+Chè mi gridi? Chè mi canti?
+All'altar non siamo uniti.
+Io detesto quegli amanti
+che la fanno da mariti.
+Fo all'amor con chi mi piace,
+voglio piena libertà.
+Non ti garba? Ebbene pace,
+ma Musetta se ne va.
+Lunghe al gel notti serene
+magri pranzi e magre cene,
+vi saluto. Signor mio,
+con piacer vi dico: addio.
+
+MARCELLO
+Bada sotto il mio cappello
+non ci stan certi ornamenti.
+Io non faccio da zimbello
+ai novizi intraprendenti.
+Vana, frivola, civetta,
+senza cuor nè dignità.
+Il tuo nome di Musetta
+si traduce: infedeltà.
+Ve ne andate? Economia
+Or son ricco divenuto.
+Vi ringrazio; vi saluto.
+Servo a vostra signoria.
+
+MUSETTA
+(si allontana furiosa: ma poi ad un tratto si sofferma e gli grida ancora velenosa)
+Pittore da bottega!
+
+MARCELLO
+Vipera!
+
+MUSETTA
+Rospo!
+(parte)
+
+MARCELLO
+Strega!
+(rientra nel Cabarè)
+
+# Quadro quarto
+(In soffitta)
+(come nel Quadro I)
+(Marcello sta ancora dinanzi al suo cavalletto, come Rodolfo sta seduto al suo tavolo: vorrebbero persuadersi l'un l'altro che lavorano indefessamente, mentre invece non fanno che chiacchierare)
+
+MARCELLO
+(continuando il discorso)
+un coupé?
+
+RODOLFO
+Con pariglia e livree.
+Mimì salutò ridendo. Tò, Musetta!
+dissi: — e il cuor? — Non batte o non lo sento
+grazie al velluto che il copre.
+
+MARCELLO
+Ci ho gusto
+davver.
+
+RODOLFO
+(fra sè)
+(Loiola va. Ti rodi e ridi).
+
+MARCELLO
+(ruminando)
+Non batte? Bene! - Io pur vidi...
+Musetta:
+
+RODOLFO
+(trasalisce)
+L'hai vista?
+(si ricompone)
+Oh guarda!
+
+MARCELLO
+Era in carrozza
+vestita come una regina.
+
+RODOLFO
+Ne son contento.
+
+MARCELLO
+(fra sè)
+(Bugiardo, si strugge
+d'ira e d'amor).
+
+RODOLFO
+Lavoriam.
+
+MARCELLO
+Lavoriamo.
+(si mettono al lavoro)
+
+RODOLFO
+(getta la penna)
+Che penna infame!
+
+MARCELLO
+(getta il pennello)
+Che infame pennello!
+
+RODOLFO
+(Mimì ne andasti e più non torni.
+O giorni lontani - e belli,
+piccole mani - odorosi capelli,
+collo di neve! O gioventù mia breve!
+Sto poche morte cose - a riguardare.
+già poste a segno di pagine care.
+Questa piccola fiala
+che olezzi un giorno ed or veleni esala.
+E tu, cuffietta lieve,
+ch'ella sotto il guancial partendo ascose
+e tutta sai la breve
+nostra felicità, vien sul mio cuore!
+Sul mio cuor morto, poich' è morto amore).
+
+MARCELLO
+(Io non so come sia
+che il mio pennel per suo conto lavori
+e segni forme ed impasti colori
+contro ogni voglia mia.
+Se pingere mi piace
+foglie di rose o cieli o terre o inverni o primavere,
+egli mi traccia due pupille nere
+e una bocca procace.
+E n'esce di Musetta
+Musetta intanto gode.
+E il mio cuor vile la chiama ed aspetta).
+
+RODOLFO
+Che ora sia?
+
+MARCELLO
+L'ora del pranzo... di ieri.
+
+RODOLFO
+E Schaunard che non torna?
+
+SCHAUNARD
+(depone quattro pagnotte sulla tavola)
+
+RODOLFO E MARCELLO
+Ebbene?
+
+MARCELLO
+(con sprezzo)
+Del pane?
+
+COLLINE
+(mostrando un'aringa)
+È un piatto degno di Demostene:
+un'aringa...
+
+SCHAUNARD
+salata.
+
+COLLINE
+Il pranzo è in tavola.
+(siedono attorno alla tavola, fingendo d'essere ad un lauto pranzo)
+
+MARCELLO
+Questa è cuccagna
+da Berlingaccio.
+
+SCHAUNARD
+(pone il cappello di Colline sulla tavola e vi colloca dentro una bottiglia d'acqua)
+Or lo Sciampagna
+mettiamo in ghiaccio.
+
+RODOLFO
+(a Marcello)
+Scelga o Barone
+trota o salmone?
+
+MARCELLO
+(a Schaunard)
+Duca, una lingua
+di pappagallo?
+
+SCHAUNARD
+Grazie, m'impingua.
+Stasera ho un ballo.
+(Colline ha mangiato e si alza)
+
+RODOLFO
+Già sazio?
+
+COLLINE
+(solenne)
+Ho fretta.
+Il Re m'aspetta.
+
+MARCELLO
+C'è qualche trama?
+
+RODOLFO
+Qualche mistero?
+
+COLLINE
+Il Re mi chiama
+al ministero.
+
+SCHAUNARD
+Bene!
+
+COLLINE
+(con importanza)
+Però
+vedrò... Guizot!
+
+SCHAUNARD
+(a Marcello)
+Porgimi il nappo.
+
+MARCELLO
+(gli dà l'unico bicchiere)
+Sì - bevi - io pappo.
+
+SCHAUNARD
+(solenne)
+Mi sia permesso - al nobile consesso...
+
+RODOLFO
+(interrompendolo)
+
+MARCELLO
+Fiacco!
+
+COLLINE
+Che decotto!
+
+MARCELLO
+Leva il tacco.
+
+COLLINE
+Dammi il gotto.
+
+SCHAUNARD
+(ispirato)
+M'ispira irresistibile
+L'estro della romanza...
+
+TUTTI
+(urlando)
+No!
+
+SCHAUNARD
+(arrendevole)
+Azione coreografica
+allora?...
+
+TUTTI
+(applaudendo)
+
+SCHAUNARD
+La danza
+con musica vocale!
+
+COLLINE
+Si sgombrino le sale.
+(portano da un lato la tavola e le sedie e si dispongono a ballare)
+Gavotta.
+
+MARCELLO
+Minuetto.
+
+SCHAUNARD
+Fandango.
+
+RODOLFO
+Pavanella.
+
+COLLINE
+Propongo la quadriglia.
+
+RODOLFO
+Mano alla dame.
+
+COLLINE
+Io detto.
+
+RODOLFO
+(galante a Marcello)
+Vezzosa damigella,
+Venere sei figlia!
+
+MARCELLO
+Rispetti la modestia.
+La prego.
+
+COLLINE
+(dettando le figure)
+Balancez.
+
+SCHAUNARD
+Prima c'è il Rond.
+
+COLLINE
+No, bestia!!
+
+SCHAUNARD
+Che modi da lacchè.
+
+COLLINE
+Se non erro
+lei m'oltraggia.
+Snudi il ferro.
+(prende le molle)
+
+SCHAUNARD
+(prende la paletta)
+(tira un colpo)
+Assaggia.
+
+COLLINE
+(battendosi)
+Un di noi qui si sbudella.
+
+SCHAUNARD
+Il tuo sangue io voglio ber.
+
+COLLINE
+Apprestate una barella.
+
+SCHAUNARD
+Apprestate un cimiter.
+(mentre si battono, Marcello e Rodolfo ballano loro intorno cantando)
+
+RODOLFO E MARCELLO
+Mentre incalza
+la tenzone
+gira e balza
+Rigodone.
+Qual licore
+traditore
+la bolletta
+c'impazzi.
+Chi è più forte
+della sorte
+può...
+(Musetta, poi Mimì.)
+(si spalanca l'uscio ed entra Musetta in grande agitazione)
+
+MARCELLO
+Musetta!
+(tutti rimangono attoniti)
+
+MUSETTA
+(ansimante)
+(con viva ansietà attorniano Musetta)
+C'è Mimì che mi segue e che sta male.
+
+RODOLFO
+(atterrito)
+Dov'è?
+
+MUSETTA
+Nel far le scale
+più non si resse.
+(si vede, per l'uscio aperto, Mimì seduta sul più alto gradino della scala)
+
+RODOLFO
+Ah!
+(si precipita verso Mimì. Marcello accorre anche lui)
+
+SCHAUNARD
+(a Colline)
+Noi accostiam quel lettuccio.
+
+RODOLFO
+(coll'aiuto di Marcello porta Mimì fino al letto sul quale la mette distesa)
+Là
+(agli amici, piano)
+Da bere.
+(Musetta accorre col bicchiere dell'acqua e ne dà un sorso a Mimì)
+
+MIMÌ
+(riavutasi e vedendo Rodolfo presso di sè)
+Rodolfo!
+
+RODOLFO
+Zitta - riposa.
+
+MIMÌ
+Mi vuoi qui con te?
+
+RODOLFO
+(amorosamente fa cenno a Mimì di tacere, rimanendo ad essa vicino)
+Sempre!
+
+MUSETTA
+(Marcello, Schaunard e Colline, piano)
+Ora son poche sere
+intesi dire che Mimì, fuggita
+dal Viscontino, era in fine di vita.
+Dove stia? Cerca, cerca... Or or la veggo
+passar per via
+trascinandosi a stento.
+Mi dice: "Più non reggo...
+Muoio, muoio, lo sento...
+Voglio morir con lui... Forse m'aspetta...
+M'accompagni, Musetta?..."
+
+MARCELLO
+(fa cenno di parlar piano)
+
+MIMÌ
+Mi sento assai meglio...
+lascia ch'io guardi intorno.
+
+MUSETTA
+Se ci fosse
+qualche cordiale...
+(ai tre)
+Dite, che ci avete
+in casa?
+
+MARCELLO
+Nulla!
+
+MUSETTA
+Non caffè? Non vino?
+
+MARCELLO
+Nulla! Ah! miseria!
+
+SCHAUNARD
+(tristamente a Colline, traendolo in disparte)
+Fra mezz'ora è morta!
+
+MIMÌ
+Ah! come si sta bene
+qui... Si rinasce... mi torna la vita!
+qui vivo ed amo!
+
+RODOLFO
+O benedetta bocca
+tu ancor mi parli!...
+
+MIMÌ
+Ho tanto, tanto freddo...
+Se avessi un manicotto! Queste mani
+non si potranno dunque riscaldare
+mai più, mai più?...
+(tossisce)
+
+RODOLFO
+(le prende le mani nelle sue riscaldandogliele)
+Qui, nelle mie, ma taci!
+Il parlare ti stanca.
+
+MIMÌ
+Ho un po' di tosse!
+Ci sono avvezza.
+(vedendo gli amici di Rodolfo, li chiama per nome: essi accorrono premurosi presso Mimì)
+Buon giorno Marcello,
+Schaunard, Colline... buon giorno.
+Tutti qui, tutti qui
+sorridenti a Mimì.
+
+RODOLFO
+Non parlar, non parlare.
+
+MIMÌ
+Parlo piano,
+non temere. Marcello date retta:
+è assai buona Musetta.
+
+MARCELLO
+Lo so, lo so.
+(porge la mano a Musetta)
+
+MIMÌ
+Tu non mi lasci?
+
+MUSETTA
+(si leva gli orecchini e li porge a Marcello)
+A te, vendi, riporta
+qualche cordial - manda un dottore!!...
+(Marcello si precipita)
+Ascolta!
+Forse è l'ultima volta
+che espresso ha un desiderio, poveretta!
+Pel manicotto io vo. - Con te verrò.
+
+MARCELLO
+(commosso)
+Sei buona, o mia Musetta.
+(Musetta e Marcello partono frettolosi)
+
+COLLINE
+(mentre Musetta e Marcello parlavano si è levato il pastrano)
+Vecchia zimarra, senti,
+io resto al pian, tu ascendere
+il sacro monte or devi.
+Le mie grazie ricevi.
+Mai non curvasti il logoro
+dorso ai ricchi, ai potenti,
+nè cercasti le frasche
+dei dorati gingilli.
+Passar nelle tue tasche
+come in antri tranquilli
+filosofi e poeti.
+Ora che i giorni lieti
+fuggir, ti dico addio
+fedele amico mio.
+(Colline fattone un involto se lo pone sotto il braccio, ma vedendo Schaunard gli dice sottovoce)
+Schaunard, ciascuno per diversa via
+mettiamo insiem due atti di pietà;
+io... questo!
+(gli mostra la zimarra che tiene sotto il braccio)
+(accennandogli Rodolfo chino su Mimì addormentata)
+lasciali soli là!...
+
+SCHAUNARD
+(commosso)
+Filosofo, ragioni!
+(guarda verso il letto)
+È ver!... Vo via!
+(si guarda intorno, e per giustificare la sua partenza prende la bottiglia dell'acqua e scende dietro Colline chiudendo con precauzione l'uscio)
+(Mimì - Rodolfo.)
+
+MIMÌ
+Sono andati? Fingevo di dormire
+perchè volli con te sola restare.
+Ho tante cose che ti voglio dire
+o una sola, ma grande come il mare,
+come il mare profonda ed infinita...
+Sei il mio amore e tutta la mia vita.
+
+RODOLFO
+O mia bella Mimì.
+
+MIMÌ
+Son bella ancora?
+
+RODOLFO
+Bella come un'aurora.
+
+MIMÌ
+Hai sbagliato il raffronto.
+Volevi dir: bella come un tramonto.
+Mi chiamano Mimì
+ed il perchè non so.
+
+RODOLFO
+(intenerito e carezzevole)
+Tornò al nido la rondine e cinguetta.
+(si leva di dove l'aveva riposta, in sul cuore, la cuffietta di Mimì e glie la porge)
+
+MIMÌ
+(raggiante)
+La mia cuffietta.
+(tende a Rodolfo la testa, questi le mette la cuffietta. Mimì rimane colla testa appoggiata sul petto di lui)
+Te lo rammenti quando sono entrata
+la prima volta, là?
+
+RODOLFO
+Se lo rammento!
+
+MIMÌ
+Il lume si era spento...
+
+RODOLFO
+Eri tanto turbata!
+
+MIMÌ
+E tu cortese e grave...
+
+RODOLFO
+Poi smarristi la chiave...
+
+MIMÌ
+O mio bel signorino
+posso ben dirlo adesso,
+lei la trovò assai presto
+e a intascarla fu lesto.
+
+RODOLFO
+Aiutavo il destino.
+
+MIMÌ
+(ricordando l'incontro suo con Rodolfo la sera della vigilia di Natale)
+Era buio; il rossor non si vedeva...
+tu la man mi prendevi...
+(susurra le parole di Rodolfo)
+Ah, che gelida manina...
+Se la lasci riscaldar!...
+(Mimì è presa da uno spasimo di soffocazione; lascia ricadere il capo, sfinita)
+
+RODOLFO
+(spaventato)
+Oh Dio! Mimì.
+(in questo momento Schaunard ritorna: al grido di Rodolfo accorre presso Mimì)
+
+SCHAUNARD
+Che avviene?
+
+MIMÌ
+(apre gli occhi e sorride per rassicurare Rodolfo e Schaunard)
+Non è nulla. Sto bene.
+
+RODOLFO
+Zitta per carità.
+
+MIMÌ
+Sì, sì perdona.
+Or sarò buona.
+(Musetta, Marcello, poi Colline.)
+(Musetta porta un manicotto e Marcello una boccetta)
+
+MUSETTA
+(a Rodolfo)
+Dorme?
+
+MARCELLO
+Ho veduto il dottore!
+Verrà; gli ho fatto fretta.
+Ecco il cordiale.
+(prende una lampada a spirito, la pone sulla tavola e l'accende)
+
+MIMÌ
+Chi parla?
+
+MUSETTA
+(si avvicina a Mimì e le porge il manicotto)
+Io, Musetta.
+
+MIMÌ
+Oh come è bello e morbido. Non più
+le mani allividite ora. Il tepore
+le abbellirà.
+(a Rodolfo)
+Sei tu
+che me lo doni?
+
+MUSETTA
+(pronta)
+
+MIMÌ
+Tu! Spensierato!
+Grazie. Ma costerà. Piangi? Sto bene...
+Pianger così perchè?...
+(assopendosi a poco a poco)
+Qui... amor... sempre con te...
+Le mani... al caldo... e... dormire.
+(silenzio)
+
+RODOLFO
+(a Marcello)
+Che ha detto
+il medico?
+
+MUSETTA
+(fa scaldare la boccetta alla lampada a spirito, e quasi incoscientemente mormora una preghiera)
+Dio benedetto,
+Madonna benedetta,
+Gesù bambino caro
+fate la grazia a questa poveretta
+E che non debba morire.
+(interrompendosi, a Marcello)
+Qui ci vuole un riparo
+perchè la fiamma sventola.
+(Marcello mette un libro ritto sulla tavola formando paravento alla lampada)
+(ripiglia la preghiera)
+E che possa guarire.
+Madonna santa io sono
+indegna di perdono
+mentre invece Mimì
+è un angelo del cielo.
+(mentre Musetta prega, Rodolfo le si è avvicinato)
+
+RODOLFO
+Io spero ancora. Vi pare che sia
+grave?
+
+MUSETTA
+Non credo.
+
+SCHAUNARD
+(si è avvicinato al lettuccio poi è corso senza farsi scorgere fino a Marcello)
+(piano a Marcello)
+Marcello, è spirata.
+(intanto Rodolfo si è avveduto che il sole dalla finestra della soffitta sta per battere sul volto Mimì e cerca intorno come porvi riparo; Musetta se ne avvede e gli indica la sua mantiglia. Rodolfo la ringrazia con uno sguardo, prende la mantiglia, sale su di una sedia e studia il modo di distenderla sulla finestra)
+(Marcello si avvicina a sua volta al letto e se ne scosta atterrito: intanto entra Colline che depone del danaro sulla tavola presso a Musetta)
+
+COLLINE
+(a Musetta)
+Prendete.
+(poi visto Rodolfo che solo non riesce a collocare la mantiglia attraverso alla finestra, corre ad aiutarlo chiedendogli di Mimì)
+Come va?...
+
+RODOLFO
+Vedi?... È tranquilla.
+(si volge verso Mimì: in quel mentre Musetta gli fa cenno che la medicina è pronta)
+(nell'accorrere presso Musetta si accorge dello strano contegno di Marcello e Schaunard che, pieni di sgomento, lo guardano con profonda pietà)
+Ebbene... che vuol dire
+quell'andare e venire...
+quel guardarmi così...
+
+MARCELLO
+(non regge più, corre a Rodolfo e abbracciandolo stretto a sè con voce strozzata gli mormora)
+Coraggio.
+
+RODOLFO
+Che?!
+(accorre al lettuccio)
+Mimì!... Mimì!... Mimì!...
