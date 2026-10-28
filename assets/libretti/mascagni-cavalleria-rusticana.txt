@@ -1,0 +1,685 @@
+title: Cavalleria rusticana
+composer: Pietro Mascagni
+librettist: Giovanni Targioni-Tozzetti e Guido Menasci
+year: 1890
+source: https://www.loc.gov/item/2010656795/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Atto primo
+
+(La scena rappresenta una piazza in un paese della Sicilia. Nel fondo, a destra, Chiesa con porta praticabile. — A sinistra l'osteria e la casa di Mamma Lucia. — È il giorno di Pasqua.)
+(A sipario calato.)
+O Lola c'hai di latti la cammisa
+si bianca e russa comu la cirasa,
+quannu t'affacci fai la vucca a risa,
+biatu pi lu primu cu ti vasa!
+Ntra la puorta tua lu sangu è spasu,
+ma nun me mpuorta si ce muoru accisu...
+e si ce muoru e vaju 'n paradisu
+si nun ce truovo a ttia, mancu ce trasu.
+(Traduzione.)
+O Lola, bianca come fior di spino,
+quando t'affacci tu, s'affaccia il sole;
+chi t'ha baciato il labbro porporino
+grazia più bella a Dio chieder non vôle.
+C'è scritto sangue sopra la tua porta,
+ma di restarci a me non me n'importa;
+se per te mojo e vado in paradiso,
+non c'entro se non vedo il tuo bel viso.
+
+## Scena prima
+DONNE
+(di dentro)
+Gli aranci olezzano
+sui verdi margini,
+gli augelli cantano
+tra i mirti in fior;
+tempo è si mormori
+da ognuno il tenero
+canto che i palpiti
+raddoppia al cor.
+
+UOMINI
+(di dentro)
+In mezzo al campo tra le spiche d'oro
+giunge il rumore delle vostre spole,
+noi stanchi riposando dal lavoro
+a voi pensiamo, o belle occhi-di-sole.
+O belle occhi-di-sole, a voi corriamo,
+come vola l'augello al suo richiamo.
+(Il coro entra in iscena.)
+
+DONNE
+Cessin le rustiche
+opre: la Vergine
+serena allietasi
+del Salvator;
+tempo è si mormori
+da ognuno il tenero
+canto che i palpiti
+raddoppia al cor.
+
+UOMINI
+In mezzo al campo tra le spiche d'oro
+giunge il rumore, ecc., ecc.
+(Il coro traversa la scena ed esce.)
+
+## Scena seconda
+(Santuzza e Lucia.)
+
+SANTUZZA
+(entrando)
+Dite, mamma Lucia...
+
+LUCIA
+(sorpresa)
+Sei tu?... che vuoi?
+
+SANTUZZA
+Turiddu ov'è?
+
+LUCIA
+Fin qui vieni a cercare
+il figlio mio?
+
+SANTUZZA
+Voglio saper soltanto,
+perdonatemi voi, dove trovarlo.
+
+LUCIA
+Non lo so, non lo so, non voglio brighe!
+
+SANTUZZA
+Mamma Lucia, vi supplico piangendo,
+fate come il Signore a Maddalena,
+ditemi per pietà, dov'è Turiddu...
+
+LUCIA
+È andato per il vino a Francofonte.
+
+SANTUZZA
+No!... l'han visto in paese ad alta notte...
+
+LUCIA
+Che dici?... se non è tornato a casa!
+(avviandosi all'uscio di casa)
+Entra...
+
+SANTUZZA
+(disperata)
+Non posso entrare in casa vostra...
+Sono scomunicata!
+
+LUCIA
+E che ne sai
+del mio figliuolo?
+
+SANTUZZA
+Quale spina ho in core!
+
+## Scena terza
+(Alfio, Coro e DETTE.)
+
+ALFIO
+Il cavallo scalpita,
+i sonagli squillano,
+schiocca la frusta. — Ehi là! —
+Soffii il vento gelido,
+cada l'acqua e nevichi,
+a me che cosa fa?
+
+CORO
+O che bel mestiere
+fare il carrettiere
+andar di qua e di là!
+
+ALFIO
+M'aspetta a casa Lola
+che m'ama e mi consola,
+ch'è tutta fedeltà.
+Il cavallo scalpiti,
+i sonagli squillino,
+È Pasqua, ed io son qua!
+
+CORO
+O che bel mestiere
+fare il carrettiere
+andar di qua e di là!
+
+LUCIA
+Beato voi, compar Alfio, che siete
+sempre allegro così!
+
+ALFIO
+Mamma Lucia,
+n'avete ancora di quel vecchio vino?
+
+LUCIA
+Non so; Turiddu è andato a provvederne.
+
+ALFIO
+Se è sempre qui! — L'ho visto stamattina
+vicino a casa mia.
+
+LUCIA
+(sorpresa)
+Come?
+
+SANTUZZA
+(rapidamente)
+(dalla Chiesa odesi intonare l'alleluja)
+
+ALFIO
+Io me ne vado, ite voi altri in chiesa.
+(esce)
+
+CORO
+(interno, dalla Chiesa)
+Regina cœli, lætare — Alleluja!
+Quia, quem meruisti portare — Alleluja!
+Resurrexit sicut dixit — Alleluja!
+
+CORO
+(esterno, sulla piazza)
+Inneggiamo, il Signor non è morto,
+Ei fulgente ha dischiuso l'avel,
+inneggiamo al Signore risorto
+oggi asceso alla gloria del Ciel!
+
+CORO
+(interno, dalla chiesa)
+Ora pro nobis Deum — Alleluja!
+Gaude et lætare, Virgo Maria — Alleluja!
+Quia surrexit Dominus vere — Alleluja!
+
+CORO
+(esterno, dalla piazza)
+Dall'altare ora fu benedetto
+quest'olivo che amava il Signor;
+porti e accresca nell'umile tetto
+la domestica pace e l'amor!
+(il coro esce lentamente)
+
+## Scena quarta
+(Lucia e Santuzza.)
+
+LUCIA
+Perchè m'hai fatto segno di tacere?
+
+SANTUZZA
+Voi lo sapete, o mamma, prima d'andar soldato
+Turiddu aveva a Lola eterna fè giurato.
+Tornò, la seppe sposa; e con un nuovo amore
+volle spegner la fiamma che gli bruciava il core:
+m'amò, l'amai. Quell'invida d'ogni delizia mia,
+del suo sposo dimentica, arse di gelosia...
+Me l'ha rapito. Priva dell'onor mio rimango:
+Lola e Turiddu s'amano, io piango, io piango, io piango!
+
+LUCIA
+Miseri noi, che cosa vieni a dirmi?
+in questo santo giorno?
+
+SANTUZZA
+Io son dannata...
+Andate, o mamma, ad implorare Iddio
+e pregate per me. — Verrà Turiddu,
+vo' supplicarlo un'altra volta ancora!
+
+LUCIA
+(avviandosi alla chiesa)
+Ajutatela voi, Santa Maria!
+## Scena quinta
+(Santuzza e Turiddu.)
+
+TURIDDU
+Tu qui, Santuzza?
+
+SANTUZZA
+Qui t'aspettavo.
+
+TURIDDU
+È Pasqua, in chiesa non vai?
+
+SANTUZZA
+Non vo.
+Debbo parlarti...
+
+TURIDDU
+Mamma, cercavo.
+
+SANTUZZA
+Debbo parlarti...
+
+TURIDDU
+Qui no! Qui no!
+
+SANTUZZA
+Dove sei stato?
+
+TURIDDU
+Che vuoi tu dire?...
+A Francofonte!
+
+SANTUZZA
+No, non è ver!
+
+TURIDDU
+Santuzza, credimi...
+
+SANTUZZA
+No, non mentire;
+ti vidi volgere giù dal sentier.
+E stamattina, all'alba, t'hanno scôrto
+presso l'uscio di Lola.
+
+TURIDDU
+Ah! m'hai spiato!
+
+SANTUZZA
+No, te lo giuro. A noi l'ha raccontato
+Compar Alfio, il marito, poco fa.
+
+TURIDDU
+Così ricambi l'amor che ti porto?
+Vuoi che m'uccida?
+
+SANTUZZA
+Oh! questo non lo dire...
+
+TURIDDU
+Lasciami dunque, invan tenti sopire
+il giusto sdegno colla tua pietà.
+
+SANTUZZA
+Tu l'ami dunque?
+
+TURIDDU
+No...
+
+SANTUZZA
+Assai più bella
+
+TURIDDU
+Taci, non l'amo.
+
+SANTUZZA
+Oh! maledetta!
+
+TURIDDU
+Santuzza?
+
+SANTUZZA
+Quella
+cattiva femmina ti tolse a me!
+
+TURIDDU
+Bada, Santuzza, schiavo non sono
+di questa vana tua gelosia!
+
+SANTUZZA
+Battimi, insultami, t'amo e perdono,
+ma è troppo forte l'angoscia mia.
+
+## Scena sesta
+(Lola e DETTI.)
+
+LOLA
+(dentro alla scena)
+Fior di giaggiolo,
+gli angeli belli
+stanno a mille in cielo,
+ma bello come lui
+ce n'è uno solo.
+(entrando)
+Oh! Turiddu... È passato Alfio?
+(sarcastica)
+
+TURIDDU
+Son giunto
+ora in piazza. Non so...
+
+LOLA
+Forse è rimasto
+dal maniscalco, ma non può tardare.
+(ironica)
+E... voi... sentite le funzioni in piazza?...
+
+TURIDDU
+Santuzza mi narrava...
+
+SANTUZZA
+(tetra)
+Gli dicevo
+che oggi è Pasqua e il Signor vede ogni cosa!
+
+LOLA
+(ironica)
+Non venite alla messa?
+
+SANTUZZA
+(tetra)
+Io no, ci deve
+andar chi sa di non aver peccato.
+
+LOLA
+Io ringrazio il Signore e bacio in terra!
+
+SANTUZZA
+(ironica)
+Oh! fate bene, Lola!
+
+TURIDDU
+Andiamo! andiamo!
+Qui non abbiam che fare.
+
+LOLA
+(ironica)
+Oh! rimanete!
+
+SANTUZZA
+(a Turiddu)
+Sì, resta, resta, ho da parlarti ancora!
+
+LOLA
+E v'assista il Signore; io me ne vado.
+(entra in chiesa)
+
+## Scena settima
+(Santuzza e Turiddu.)
+
+TURIDDU
+(irato)
+Ah! lo vedi, chè hai tu detto...?
+
+SANTUZZA
+L'hai voluto, e ben ti sta.
+
+TURIDDU
+(le s'avventa)
+Ah!! perdio!
+
+SANTUZZA
+Squarciami il petto...
+
+TURIDDU
+(s'avvia)
+No!
+
+SANTUZZA
+(trattenendolo)
+Turiddu, ascolta!
+
+TURIDDU
+Va!
+
+SANTUZZA
+No, no, Turiddu — rimani ancora,
+abbandonarmi — dunque tu vuoi?
+
+TURIDDU
+Perchè seguirmi — perchè spiarmi
+sul limitare — fin della chiesa?
+
+SANTUZZA
+La tua Santuzza — piange e t'implora;
+come cacciarla — così tu puoi?
+
+TURIDDU
+Va, ti ripeto — va non tediarmi,
+pentirsi è vano — dopo l'offesa!
+
+SANTUZZA
+(minacciosa)
+Bada!...
+
+TURIDDU
+Dell'ira tua non mi curo!
+(la getta a terra e fugge in chiesa)
+
+SANTUZZA
+(nel colmo dell'ira)
+A te la mala Pasqua, spergiuro!
+
+## Scena ottava
+(Santuzza e Alfio.)
+
+SANTUZZA
+Oh! il Signore vi manda, compar Alfio?
+
+ALFIO
+A che punto è la messa?
+
+SANTUZZA
+È tardi omai,
+Ma per voi, Lola è andata con Turiddu!
+
+ALFIO
+Che avete detto?
+
+SANTUZZA
+Che mentre correte
+all'acqua e al vento a guadagnarvi il pane,
+Lola v'adorna il tetto in malo modo!
+
+ALFIO
+Ah! nel nome di Dio, Santa, che dite?
+
+SANTUZZA
+Il ver. Turiddu mi tolse l'onore,
+e vostra moglie lui rapiva a me!
+
+ALFIO
+Se voi mentite, vo' schiantarvi il core!
+
+SANTUZZA
+Uso a mentire il labbro mio non è!
+Per la vergogna mia, pel mio dolore
+la triste verità vi dissi, ahimè!
+
+ALFIO
+Comare Santa, allor grato vi sono.
+
+SANTUZZA
+Infame io son che vi parlai così!
+
+ALFIO
+No, giusta siete stata io vi condono:
+in odio tutto l'amor mio finì...
+Infami loro: ad essi non perdono;
+vendetta avrò pria che tramonti il dì.
+(escono)
+## Scena nona
+(Tutti escono di chiesa. Lucia traversa la scena ed entra in casa. Lola, Turiddu e Coro)
+
+UOMINI
+A casa, a casa, amici, ove ci aspettano
+i nostri cari, andiam.
+Or che letizia rasserena gli animi
+senza indugio corriam.
+
+DONNE
+A casa, a casa, amiche, ove ci aspettano
+i nostri cari, andiam.
+Or che letizia rasserena gli animi
+senza indugio corriam.
+(il Coro si avvia)
+
+TURIDDU
+(a Lola che s'avvia)
+Comare Lola, ve ne andate via
+senza nemmeno salutare?
+
+LOLA
+Vado
+a casa: non ho visto compar Alfio!
+
+TURIDDU
+Non ci pensate, verrà in piazza.
+(al coro)
+Intanto
+amici, qua, beviamone un bicchiere.
+(tutti si avvicinano alla tavola dell'osteria e prendono i bicchieri)
+
+TURIDDU
+Viva il vino spumeggiante
+nel bicchiere scintillante
+come il riso dell'amante
+mite infonde il giubilo!
+Viva il vino ch'è sincero
+che ci allieta ogni pensiero,
+e che annega l'umor nero
+nell'ebbrezza tenera.
+
+CORO
+Viva il vino spumeggiante, ecc., ecc.
+(si ripete il brindisi)
+
+TURIDDU
+(a Lola)
+Ai vostri amori!
+(beve)
+
+LOLA
+(a Turiddu)
+Alla fortuna vostra!
+(beve)
+
+TURIDDU
+Beviam!
+
+CORO
+Beviam! Rinnovisi la giostra!
+
+PRIMO DEL CORO
+Un bicchiere!
+
+SECONDO DEL CORO
+Un bicchiere!
+
+PRIMO DEL CORO
+Un altro!
+
+PRIMO DEL CORO
+Un altro!
+
+PRIMO DEL CORO
+Al più felice!!
+
+TURIDDU
+Alla bella!
+
+LOLA
+Al più scaltro!
+
+Viva il vino spumeggiante... ecc., ecc.
+
+## Scena decima
+(Alfio e DETTI.)
+
+ALFIO
+A voi tutti salute!
+
+CORO
+Compar Alfio, salute.
+
+TURIDDU
+Benvenuto! con noi dovete bere:
+(empie un bicchiere)
+ecco, pieno è il bicchiere.
+
+ALFIO
+(respingendolo)
+Grazie. Ma il vostro vino io non l'accetto,
+diverrebbe veleno entro il mio petto.
+
+TURIDDU
+(getta il vino)
+A piacer vostro!
+
+LOLA
+Ahimè! che mai sarà?
+
+DONNE
+(a Lola)
+Comare Lola, andiamo via di qua.
+(tutte le donne escono conducendo Lola)
+
+TURIDDU
+Avete altro da dirmi?
+
+ALFIO
+Io nulla!
+
+TURIDDU
+Allora
+sono agli ordini vostri.
+
+ALFIO
+Or ora!
+
+TURIDDU
+Or ora!
+(Alfio e Turiddu si abbracciano. — Turiddu morde l'orecchio destro di Alfio.)
+
+ALFIO
+Compar Turiddu, avete morso a buono...
+con intenzione)
+c'intenderemo bene; a quel che pare!
+
+TURIDDU
+Compar Alfio, lo so che il torto è mio;
+e ve lo giuro nel nome di Dio
+che al par d'un cane mi farei sgozzar,
+ma... s'io non vivo, resta abbandonata...
+povera Santa!... lei che mi s'è data...
+vi saprò in core il ferro mio piantar!
+
+ALFIO
+(freddamente)
+Compare, fate come più vi piace;
+io v'aspetto qui fuori, dietro l'orto.
+(esce)
+
+## Scena undicesima
+(Lucia e DETTI meno Alfio.)
+
+TURIDDU
+Mamma, quel vino è generoso, e certo
+oggi troppi bicchier ne ho tracannato...
+vado fuori all'aperto...
+Ma prima voglio che mi benedite
+come quel giorno che partii soldato...
+e poi... mamma... sentite...
+s'io... non tornassi... voi dovrete fare
+da madre a Santa, ch'io le avea giurato
+di condurla all'altare.
+
+LUCIA
+Perchè parli così, figliuolo mio?
+
+TURIDDU
+Oh!! nulla!... È il vino che mi ha suggerito!
+Per me pregate Iddio!
+Un bacio, mamma... un altro bacio... addio!
+(l'abbraccia ed esce precipitosamente)
+
+## Scena dodicesima
+(Lucia, Santuzza e DETTI.)
+
+LUCIA
+(disperata correndo in fondo)
+Oh Turiddu?! che vuoi dire?
+(entra Santuzza)
+Santuzza!...
+
+SANTUZZA
+(getta le braccia al collo di Lucia)
+Oh! madre mia!...!...
+(si sente un mormorìo lontano)
+
+DONNE
+(correndo)
+Hanno ammazzato compare Turiddu!...
+(tutti gettano un grido)
+(cala precipitosamente il sipario.)

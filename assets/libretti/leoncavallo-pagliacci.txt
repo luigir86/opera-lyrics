@@ -1,0 +1,1057 @@
+title: Pagliacci
+composer: Ruggero Leoncavallo
+librettist: Ruggero Leoncavallo
+year: 1892
+source: https://www.loc.gov/item/2010656801/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Prologo
+
+TONIO
+(in costume da Taddeo come nella commedia, passando a traverso al telone.)
+Si può?...
+(poi salutando)
+Signore! Signori!... Scusatemi
+se solo mi presento. — Io sono il Prologo.
+Poichè in iscena ancor le antiche maschere
+mette l'autore, in parte ei vuol riprendere
+le vecchie usanze, e a voi di nuovo inviami.
+Ma non per dirvi come pria: " Le lagrime
+che noi versiam son false! Degli spasimi
+e dei nostri martir non allarmatevi! "
+No. L'autore ha cercato invece pingervi
+uno squarcio di vita. Egli ha per massima
+sol che l'artista è un uomo e che per gli uomini
+scrivere ei deve. — Ed al vero ispiravasi..
+Un nido di memorie in fondo a l'anima
+cantava un giorno, ed ei con vere lacrime
+scrisse, e i singhiozzi il tempo gli battevano!
+Dunque, vedrete amar sì come s'amano
+gli esseri umani; vedrete de l'odio
+i tristi frutti. Del dolor gli spasimi,
+urli di rabbia, udrete, e risa ciniche!
+
+E voi, piuttosto che le nostre povere
+gabbane d'istrioni, le nostr'anime
+considerate, poichè noi siam uomini
+di carne e d'ossa, e che di quest'orfano
+mondo al pari di voi spiriamo l'aere!
+Il concetto vi dissi. — Or ascoltate
+com'egli è svolto. Andiamo. Incominciate!
+(rientra e la tela si leva.)
+# Atto primo
+(La scena rappresenta un bivio di strada in campagna, all'entrata di un villaggio. villaggio. sinistra una strada che si perde, fra le quinte fa gomito nel centro della scena e continua in un viale circondato da alberi che va verso la destra in prospettiva. — In fondo al viale si scorgeranno, fra gli alberi, due o tre casette. — Al punto ove la strada fa gomito, sul terreno scosceso, un grosso albero; dietro di esso una scorciatoia, sentiero praticabile che parte dal viale verso le piante delle quinte viale sinistra. — Quasi dinanzi all'albero, sulla via, all'albero, piantata una rozza pertica, in cima alla quale sventola una bandiera, come si usa per le feste popolari; feste più in giù, in fondo al viale, si vedono due vedono tre file di lampioncini di carta colorata sospesi attraverso la via da un albero all'altro. La destra del teatro teatro quasi tutta occupata obliquamente da un teatro di fiera. Il sipario fiera. calato. — è su di uno dei lati della prospettiva prospettiva appiccicato un gran cartello sul quale quale scritto rozzamente imitando la stampa: Quest'ogi gran . Poi gran lettere cubitali: Pagliaccio, indi delle linee illeggibili. — Il sipario illeggibili. rozzamente attaccato sipario due alberi, che si trovan disposti obliquamente sul davanti. L'ingresso alle scene scene, dal lato destro in faccia allo spettatore, nascosto da una rozza tela. Indi un muretto che, partendo di dietro al teatro, si perde dietro la prima quinta la destra ed indica che il sentiero scoscende ancora, poichè si vedono al disopra di esso, le cime degli alberi di una fitta boscaglia.)
+
+## Scena prima
+(All'alzarsi della tela si sentono squilli di tromba stonata alternantisi con dei colpi di cassa, ed insieme risate, grida allegre, fischi di monelli e vociare che vanno appressandosi. Attirati dal suono e dal frastuono i contadini di ambo i sessi in abito da festa accorrono a frotte dal viale, mentre Tonio lo scemo va a guardare verso la strada a sinistra, poi, annojato dalla folla che arriva si sdraia, dinanzi al teatro. Son tre ore dopo mezzogiorno, il sole di agosto splende cocente.)
+
+CORO
+(arrivando poco a poco)
+Son quà!
+Ritornano...
+Pagliaccio è là.
+Tutti lo seguono
+grandi e ragazzi
+e ognuno applaude
+ai motti, ai lazzi.
+Ed egli serio
+saluta e passa
+e torna a battere
+su la gran cassa.
+In aria gittano
+i lor cappelli,
+fra strida e sibili,
+tutti i monelli.
+
+RAGAZZI
+(di dentro)
+Ehi, sferza l'asino,
+bravo Arlecchino!
+
+CANIO
+(di dentro)
+Itene al diavolo!
+
+PEPPE
+(di dentro)
+To, biricchino!
+(un gruppo di monelli entra, correndo, in iscena dalla sinistra)
+
+CORO
+Indietro, arrivano...
+Ecco il carretto...
+Che diavolerio
+Dio benedetto!
+(Arriva una pittoresca carretta dipinta a varii colori e tirata da un asino che Peppe, in abito da Arlecchino, guida a mano camminando, mentre collo scudiscio allontana i ragazzi. Sulla carretta sul davanti è sdrajata Nedda in un costume tra la zingara e l'acrobata. Dietro ad essa è piazzata la gran cassa. Sul di dietro della carretta è Canio in piedi, in costume di Pagliaccio, tenendo nella destra una tromba e nella sinistra la mazza della gran cassa. — I contadini e le contadine attorniano festosamente la carretta.)
+
+CORO
+Evviva! il principe
+sei dei pagliacci.
+Tu i guai discacci
+co'l lieto umor.
+Evviva!
+
+CANIO
+Grazie...
+
+CORO
+Bravo!
+
+CANIO
+Vorrei...
+
+CORO
+E lo spettacolo?
+
+CANIO
+(picchiando forte e ripetutamente sulla cassa per dominar le voci)
+Signori miei!
+
+CORO
+(scostandosi e turandosi le orecchie)
+Uh! ci assorda!... finiscila.
+
+CANIO
+(affettando cortesia e togliendosi il berretto con un gesto comico)
+Mi accordan di parlar?
+
+CORO
+(ridendo)
+Oh! con lui si dee cedere,
+tacere ed ascoltar.
+
+CANIO
+Un grande spettacolo
+a ventitrè ore
+prepara il vostr'umile
+e buon servitore.
+(riverenza)
+Vedrete le smanie
+del bravo Pagliaccio;
+e come ei si vendica
+e tende un bel laccio.
+Vedrete di Tonio
+tremar la carcassa,
+e quale matassa
+d'intrighi ordirà.
+Venite, onorateci!
+Signori e Signore.
+A ventitrè ore!
+A ventitrè ore!
+
+CORO
+Verremo, e tu serbaci
+il tuo buon umore.
+A ventitrè ore!
+A ventitrè ore!
+(Tonio si avanza per ajutar Nedda a discendere dal carretto, ma Canio, che è già saltato giù, gli dà un ceffone dicendo:)
+
+CANIO
+Via di lì!
+(poi prende fra le braccia Nedda e la depone a terra)
+
+CORO
+(ridendo, Tonio)
+Prendi questo, bel galante!
+
+RAGAZZI
+(fischiando)
+Con salute!
+(Tonio mostra il pugno ai monelli che scappano, poi si allontana brontolando e scompare sotto la tenda a destra del teatro.)
+
+TONIO
+(a parte)
+La pagherai!... brigante.
+(Intanto Peppe conduce l'asino col carretto dietro al teatro.)
+
+CORO
+(a Canio)
+Di', con noi vuo' tu bevere
+un buon bicchiere sulla crocevia?
+
+CANIO
+Con piacere.
+
+PEPPE
+(ricompare di dietro al teatro; gitta la frusta che ha ancora in mano dinanzi alla scena e dice)
+Aspettatemi...
+Anch'io ci sto!
+(poi entra dall'altro lato del teatro per cambiar costume)
+
+CANIO
+(gridando verso il fondo)
+Di' Tonio, vieni via?
+
+TONIO
+(di dentro)
+Io netto il somarello. Precedetemi.
+
+CORO
+(ridendo)
+Bada, Pagliaccio, ei solo vuol restare
+per far la corte a Nedda.
+
+CANIO
+(ghignando, ma con cipiglio)
+Eh! Eh! vi pare?
+
+CANIO
+(tra il serio e l'ironico)
+Un tal gioco, credetemi, è meglio non giocarlo
+con me, miei cari; e a Tonio... e un poco a tutti
+or parlo.
+Il teatro e la vita non son la stessa cosa;
+e se lassù Pagliaccio sorprende la sua sposa
+col bel galante in camera, fa un comico sermone,
+poi si calma od arrendesi ai colpi di bastone!...
+Ed il pubblico applaude, ridendo allegramente.
+Ma se Nedda sul serio sorprendessi... altramente
+finirebbe la storia, com'è ver che vi parlo...
+Un tal gioco, credetemi, è meglio non giocarlo.
+
+NEDDA
+(a parte)
+Confusa io son!...
+
+CORO
+Sul serio
+pigli dunque la cosa?
+
+CANIO
+(un po' commosso)
+Io?... Vi pare!... Scusatemi...
+Adoro la mia sposa!
+(Canio va a baciar Nedda in fronte. Un suono di cornamusa si fa sentire all'interno, tutti si precipitano verso la sinistra, guardando fra le quinte.)
+
+RAGAZZI
+(gridando)
+I zampognari!... I zampognari!...
+
+CORO
+Verso la chiesa vanno i compari.
+(le campane suonano a vespero da lontano)
+
+CORO
+Essi accompagnano la comitiva.
+che a coppie al vespero sen va giuliva.
+
+CORO
+Andiam. — La campana
+ci appella al signore.
+
+CANIO
+Ma poi... ricordatevi,
+A ventitrè ore.
+(I zampognari arrivano dalla sinistra in abito da festa, con nastri dai colori vivaci e fiori ai cappelli acuminati. Li seguono una frotta di contadini e contadine, anch'essi parati a festa. Il coro, che è sulla scena, scambia con questi saluti e sorrisi, poi tutti si dispongono a coppie ed a gruppi, si uniscono alla comitiva e si allontanano, cantando pel viale del fondo, dietro al teatro.)
+
+CORO
+Din, don, — suona vespero
+ragazze e garzon,
+a coppie affrettiamoci,
+al tempio — din, don!
+Il sol diggià i culmini,
+Din, don, vuol baciar;
+Le mamme ci adocchiano,
+attenti compar.
+Din, don. — Tutto irradiasi
+di luce, d'amor.
+Ma i vecchi sorvegliano,
+gli arditi amador.
+Din, don — suona vespero,
+ragazze e garzon.
+Le squille ci appellano
+al tempio — din, don!
+(Durante il coro, Canio entra dietro al teatro e va a lasciar la sua giubba da Pagliaccio, poi ritorna e dopo aver fatto, sorridendo, un cenno d'addio Nedda, parte con Peppe e cinque o sei contadini per la sinistra. — Nedda resta sola.)
+## Scena seconda
+(Nedda sola, poi Tonio.)
+
+NEDDA
+(pensierosa)
+Qual fiamma avea nel guardo!
+Gli occhi abbassai per tema ch'ei leggesse
+il mio pensier segreto.
+Oh! s'ei mi sorprendesse...
+brutale come egli è... Ma basti, orvia.
+Son questi sogni paurosi e fole!
+O che bel sole
+di mezz'agosto! Io son piena di vita,
+e, tutta illanguidita
+per arcano desio, non so che bramo!
+(guardando in cielo)
+Oh! che volo d'augelli, e quante strida!...
+Che chiedon? dove van? chissà!... La mamma
+mia, che la buona ventura annunciava,
+comprendeva il lor canto e a me bambina
+così cantava:
+Hui! stridono lassù, liberamente
+lanciati a vol come frecce, gli augel.
+Disfidano le nubi e 'l sol cocente,
+e vanno, e vanno per le vie del ciel.
+Lasciateli vagar per l'atmosfera
+questi assetati d'azzurro e splendor:
+seguono anch'essi un sogno, una chimera,
+e vanno, e vanno fra le nubi d'or.
+Che incalzi il vento e latri la tempesta,
+con l'ali aperte san tutto sfidar;
+la pioggia, i lampi, nulla mai li arresta,
+e vanno, e vanno, sugli abissi e i mar.
+Vanno laggiù verso un paese strano
+che sognan forse e che cercano invan.
+Ma i boëmi del ciel seguon l'arcano
+poter che li sospinge... e vanno... e van!
+(Tonio durante la canzone sarà uscito di dietro al teatro e sarà ito ad appoggiarsi all'albero, ascoltando beato. — Nedda, finito il canto, fa per rientrare e lo scorge.)
+
+NEDDA
+(bruscamente contrariata)
+Sei là? credea che te ne fossi andato.
+
+TONIO
+(ridiscendendo con dolcezza)
+È colpa del tuo canto. Affascinato
+io mi beava!
+
+NEDDA
+(ridendo con scherno)
+Oh! quanta poesia!...
+
+TONIO
+Non rider, Nedda...
+
+NEDDA
+Va, va all'osteria.
+
+TONIO
+So ben che difforme contorto son io;
+che desto soltanto lo scherno o l'orror.
+Eppure ha il pensiero un sogno, un desio,
+e un palpito il cor!
+Allor che sdegnosa mi passi d'accanto
+non sai tu che pianto mi spreme il dolor,
+perchè, mio malgrado, subito ho l'incanto,
+m'ha vinto l'amor!
+(appressandosi)
+Oh! lasciami, lasciami
+or dirti...
+
+NEDDA
+(interrompendolo e beffeggiandolo)
+che m'ami?
+Hai tempo a ridirmelo
+stasera, se il brami,
+facendo le smorfie
+colà, sulla scena.
+Intanto risparmiati
+per ora la pena.
+
+TONIO
+(delirante con impeto)
+No, è qui che voglio dirtelo,
+e tu m'ascolterai,
+che t'amo e ti desidero,
+e che tu mia sarai!
+
+NEDDA
+(seria ed insolente)
+Eh! dite, mastro Tonio!
+La schiena oggi vi prude, o una, tirata
+d'orecchi è necessaria)
+al vostro ardor?:
+
+TONIO
+Ti beffi? sciagurata!
+Per la croce di Dio, bada che puoi
+pagarla cara!...
+
+NEDDA
+Tu minacci?... Vuoi
+che vada a chiamar Canio?
+
+TONIO
+(movendo verso di lei)
+Non prima ch'io ti baci
+
+NEDDA
+(retrocedendo)
+Bada!
+
+TONIO
+(s'avanza ancora aprendo le braccia per ghermirla)
+Oh, tosto
+sarai mia!...
+
+NEDDA
+(sale retrocedendo verso il teatrino, vede la frusta lasciata da Peppe, l'afferra e dà un colpo in faccia a Tonio, dicendo)
+Miserabile!...
+
+TONIO
+(dà un urlo e retrocede)
+Ah! Per la vergin pia di mezz'agosto
+Nedda, lo giuro... me la pagherai!...
+(esce minacciando dalla sinistra)
+
+NEDDA
+(immobile guardandolo allontanarsi)
+Aspide! va. — Ti sei svelato ormai
+Tonio lo scemo! — Hai l'animo
+Siccome il corpo tuo difforme... lurido!...
+
+## Scena terza
+(Silvio, Nedda, e poi Tonio.)
+
+SILVIO
+(sporgendo la metà del corpo arrampicandosi dal muretto a destra, e chiama a bassa voce)
+Nedda!
+
+NEDDA
+(affrettandosi verso di lui)
+Silvio! a quest'ora... che imprudenza.
+
+SILVIO
+(saltando allegramente e venendo verso di lei)
+Ah bah! sapea che non rischiavo nulla.
+Canio e Peppe da lunge a la taverna
+ho scorto con gli amici!... Ma prudente
+per la macchia a me nota qui ne venni.
+
+NEDDA
+E ancora un poco in Tonio t'imbattevi.
+
+SILVIO
+(ridendo)
+Oh! Tonio il gobbo!
+
+NEDDA
+Il gobbo è da temersi.
+M'ama... Ora qui mel disse... e nel bestiale
+delirio suo, baci chiedendo, ardiva
+correr su me...
+
+SILVIO
+Per Dio!
+
+NEDDA
+Ma con la frusta
+del cane immondo la foga calmai.
+
+SILVIO
+E fra quest'ansie in eterno vivrai?
+Decidi il mio destin,
+Nedda, Nedda rimani!
+Tu il sai, la festa ha fin
+e parte ognun dimani.
+E quando tu di qui sarai partita
+che addiverrà di me... de la mia vita!...
+
+NEDDA
+(commossa)
+Silvio!
+
+SILVIO
+Nedda, rispondimi.
+Se è ver che Canio non amasti mai,
+se è vero che t'è in odio
+il ramingare e il mestier che tu fai,
+se l'immenso amor tuo fola non è
+questa notte partiam!... fuggi con me.
+
+NEDDA
+Non mi tentar!... Vuoi tu — perder la vita mia?
+Taci Silvio, non più... — È deliro... è follia!...
+Io mi confido a te — a te cui diedi il cor
+Non abusar di me — de' 'l mio febbrile amor!...
+Non mi tentar!... E poi... — Chissà! meglio è partir.
+Sta il destin contro noi. — È vano il nostro dir.
+Eppure da 'l mio cor — strapparti non poss'io,
+Vivrò sol de l'amor — ch'hai destato al cor mio.
+(Tonio appare dal fondo a sinistra.)
+
+SILVIO
+No, più non m'ami!
+
+TONIO
+(scorgendoli, a parte)
+T'ho colta, sgualdrina!
+(fugge dal sentiero minacciando)
+
+NEDDA
+Sì t'amo! t'amo!...
+
+SILVIO
+E parti domattina)...
+(amorosamente, cercando ammaliarla)
+E allor perchè, di', tu m'hai stregato
+se vuoi lasciarmi senza pietà?
+Quel bacio tuo perchè me l'hai dato
+fra spasimi ardenti di voluttà?
+Se tu scordasti l'ore fugaci
+io non lo posso, e voglio ancor
+que'spasmi ardenti, que'caldi baci
+che tanta febbre m'han messo in cor!
+
+NEDDA
+(vinta e smarrita)
+Nulla scordai — m'ha sconvolta e turbata
+questo amor che ne 'l guardo ti sfavilla.
+Viver voglio a te avvinta, affascinata
+una vita d'amor calma e tranquilla.
+A te mi dono; su me solo impera.
+Ed io ti prendo e m'abbandono intera.
+
+SILVIO
+(stringendola fra le braccia)
+
+NEDDA
+Sì. — Baciami!...
+
+SILVIO
+Tutto scordiamo...
+
+NEDDA
+Negli occhi guardami!
+
+SILVIO
+Sì, ti guardo e ti bacio, e t'amo... t'amo!
+## Scena quarta
+(I precedenti, Canio e poi Peppe. Mentre Silvio e Nedda s'avviano parlando verso il muricciuolo, arrivano, camminando furtivamente dalla scorciatoia, Canio e Tonio.)
+
+TONIO
+(ritenendo Canio)
+Cammina adagio e li sorprenderai
+(Canio s'avanza cautamente sempre ritenuto da Tonio, non potendo vedere, dal punto ove si trova, Silvio che scavalca il muricciuolo.)
+
+SILVIO
+(che ha già la metà del corpo dall'altro lato, ritenendosi al muro)
+Ad alta notte laggiù mi terrò.
+Cauta discendi e mi ritroverai.
+(Silvio scompare e Canio si appressa all'angolo del teatro.)
+
+NEDDA
+(a Silvio che sarà scomparso di sotto)
+A stanotte — e per sempre tua sarò!
+
+CANIO
+(che dal punto ove si trova ode queste parole, dà un urlo)
+
+NEDDA
+(si volge spaventata e grida verso il muro)
+Fuggi!...
+(D'un balzo Canio arriva anch'esso al muro; Nedda gli si para dinante ma dopo breve lotta egli la spinge da un canto, scavalca il muro e scompare. — Tonio resta a sinistra guardando Nedda che come inchiodata presso il muro cerca sentire se si ode rumore di lotta, mormorando:)
+
+NEDDA
+Aitalo...
+Signor!... Aitalo;
+
+TONIO
+(ridendo cinicamente)
+Ah. ah
+
+LA VOCE DI CANIO
+(di dentro)
+Vile! t'ascondi!
+
+NEDDA
+(al riso di Tonio si è voltata e dice con disprezzo, fissandolo)
+Bravo!
+Bravo il mio Tonio!
+
+TONIO
+Fo quel che posso!
+
+NEDDA
+È quello che pensavo!
+
+TONIO
+Ma di far assai meglio non dispero.
+
+NEDDA
+Mi fai schifo e ribrezzo.
+
+TONIO
+Oh, non sai come
+lieto ne sono!
+(Canio intanto scavalca di nuovo il muro e ritorna in iscena pallido, asciugando il sudore con un fazzoletto di colore oscuro.)
+
+CANIO
+(con rabbia concentrata)
+Derisione e scherno!
+Nulla! Ei ben lo conosce quel sentiero.
+Fa lo stesso; poichè del drudo il nome
+or mi dirai
+
+NEDDA
+(volgendosi turbata)
+Chi?
+
+CANIO
+(furente)
+Tu, pel padre eterno!...
+(cavando dalla cinta lo stiletto)
+E se in questo momento quì scannata
+non t'ho già, gli è perchè pria di lordarla
+nel tuo fetido sangue, o svergognata,
+codesta lama io vo' il suo nome. — Parla.
+
+NEDDA
+Vano è l'insulto. — È muto il labbro mio.
+
+CANIO
+(urlando)
+Il none, il nome, non tardare o donna!
+
+NEDDA
+No, nol dirò giammai...
+
+CANIO
+(slanciandosi furente col pugnale alzato)
+Per la madonna!...
+(Peppe che sarà entrato dalla sinistra, sulla risposta di Nedda corre a Canio e gli strappa il pugnale che gitta via tra gli alberi.)
+
+PEPPE
+Padron! che fate!... Per l'amor di Dio...
+La gente esce di chiesa e a lo spettacolo
+qui muove... andiamo Canio, via, calmatevi
+
+CANIO
+(dibattendosi)
+Lasciami Peppe. — Il nome, il nome!
+
+PEPPE
+Tonio
+vieni a tenerlo. Andiamo arriva il publico,
+(Tonio prende Canio per la mano mentre Peppe si volge a Nedda.)
+Vi spiegherete... — E voi di lì tiratevi.
+Andatevi a vestir. — Sapete, Canio
+è violento, ma buono...
+(spinge Nedda sotto la tenda e scompare con essa)
+
+CANIO
+(stringendo il capo fra le mani)
+Infamia! infamia!
+
+TONIO
+(piano a Canio, spingendolo sul davanti della scena)
+Calmatevi padrone. — È meglio fingere;
+il ganzo tornerà. — Di me fidatevi.
+(Canio ha un gesto disperato, ma Tonio spingendolo col gomito prosegue piano.)
+Io la sorveglio. — Ora facciam la recita.
+Chissà ch'egli non venga a lo spettacolo
+e si tradisca! Or via. — Bisogna fingere
+per riuscir...
+
+PEPPE
+(uscendo dalle scene)
+Andiamo, via, vestitevi
+padrone. — E tu batti la cassa, Tonio.
+(Tonio va di dietro al teatro e Peppe anch'esso ritorna all'interno, mentre Canio accasciato si avvia lentamente verso la cortina.)
+
+CANIO
+Recitar!... mentre preso dal delirio
+non so più quel che dico e quel che faccio!
+Eppur... è d'uopo... sforzati!
+Bah, se tu forse un uom? Tu se Pagliaccio!
+Vesti la giubba e la faccia infarina.
+La gente paga e rider vuole quà.
+E se Arlecchin t'invola Colombina,
+ridi, Pagliaccio... e ognuno applaudirà!
+Tramuta in lazzi lo spasmo ed il pianto;
+in una smorfia il singhiozzo e 'l dolor...
+Ridi Pagliaccio, sul tuo amore infranto!
+Ridi del duol che t'avvelena il cor!
+(entra commosso sotto la tenda, mentre la tela cade lentamente.)
+
+# Atto secondo
+(La stessa scena dell'atto primo.)
+
+## Scena prima
+(Tonio compare dall'altro lato del teatro colla gran cassa e va a piazzarsi sull'angolo sinistro del proscenio del teatrino. Intanto la gente arriva da tutte le parti per lo spettacolo e Peppe viene a mettere dei banchi per le donne.)
+
+CORO
+(arrivando)
+Presto, affrettiamoci
+svelto, compare,
+chè lo spettacolo
+dee cominciare.
+Cerchiam di metterci
+ben sul davanti.
+
+TONIO
+(picchiando la cassa)
+Si dà principio;
+avanti! avanti!
+Veh, come corrono
+le bricconcelle!
+Accomodatevi
+comari belle.
+O Dio, che correre
+per giunger tosto!
+(Silvio arriva dal fondo e va a pigliar posto sul davanti a sinistra, salutando gli amici.)
+Si dà principio
+pigliate posto!
+
+CORO
+(cercando sedersi, spingendosi)
+Ma non pigiatevi,
+fa caldo tanto!
+Su; Peppe ajutaci.
+V'è posto accanto!
+(Nedda esce vestita da Colombina col piatto per incassare i posti. — Peppe cerca di mettere a posto le donne. — Tonio rientra nel teatro portando via la gran cassa.)
+Questa commedia
+incominciate.
+Perchè tardate?
+Perchè indugiar?
+Facciamo strepito,
+facciam rumore,
+ventitrè ore
+suonaron già.
+Allo spettacolo
+ognuno anela!...
+(si ode una lunga e forte scampanellata)
+S'alza la tela!
+Silenzio. — Olà.
+(Le donne sono parte sedute sui banchi, situati obliquamente, volgendo la faccia alla scena del teatrino; parte in piedi formano gruppo cogli uomini sul rialzo di terra ov'è il grosso albero. Altri uomini in piedi lungo le prime quinte a sinistra. Silvio è innanzi ad essi.)
+
+## Scena seconda
+(La tela del teatrino si alza. — La scena, mal dipinta, rappresenta una stanzetta con due porte laterali ed una finestra praticabile in fondo. Un tavolo e due sedie rozze di paglia son sulla destra del teatrino. — Nedda in costume da Colombina passeggia ansiosa.)
+
+COLOMBINA
+Pagliaccio, mio marito,
+a tarda notte sol ritornerà.
+E quello scimunito
+di Taddeo perchè ancora non è quà?!
+(Si ode un pizzicar di chitarra all'interno; Colombina corre alla finestra e dà segni d'amorosa impazienza.)
+
+ARLECCHINO
+(Peppe, di dentro)
+O Colombina, il tenero
+fido Arlecchin
+è a te vicin!
+Ver te chiamando,
+e sospirando — aspetta il poverin!...
+La tua faccetta mostrami,
+ch'io vo' baciar
+senza tardar
+la tua boccuccia.
+Amor mi cruccia — e mi sta a tormentar!
+O Colombina schiudimi
+il finestrin,
+che a te vicin
+ver te chiamando
+e sospirando — è il povero Arlecchin!
+
+COLOMBINA
+(ritornando ansiosa sul davanti)
+Di fare il segno convenuto appressa
+l'istante, ed Arlecchino aspetta!...
+(Siede ansiosa volgendo le spalle alla porta di destra. Questa si apre e Tonio entra sotto le spoglie del servo Taddeo, con un paniere infilato al braccio sinistro. Egli si arresta a contemplare Nedda con aria esageratamente tragica, dicendo:)
+
+TADDEO
+È dessa!
+(poi levando bruscamente al cielo le mani ed il paniere)
+Dei, com'è bella!
+(Il pubblico sul teatro ride.)
+Se a la rubella
+io disvelassi
+l'amor mio che commuove sino i sassi!
+Lungi è lo sposo.
+Perchè non oso?
+Soli noi siamo
+e senza alcun sospetto! Orsù. Proviamo!
+(sospiro lungo, esagerato)
+Oh!...
+(Il pubblico ride)
+
+COLOMBINA
+(volgendosi)
+Sei tu, bestia?
+
+TADDEO
+(immobile)
+Quell'io sono, sì!
+
+COLOMBINA
+E Pagliaccio è partito?
+
+TADDEO
+(come sopra)
+Egli partì!
+
+COLOMBINA
+Che fai così impalato?
+Il pollo hai tu comprato?
+
+TADDEO
+Eccolo, vergin divina!
+(precipitandosi in ginocchio, offrendo colle due mani il paniere a Colombina che si appressa)
+Ed anzi eccoci entrambi ai piedi tuoi.
+Poichè l'ora è suonata o Colombina
+di svelarti il mio cor. Di', udirmi vuoi?
+Dal dì...
+(Colombina va alla finestra la schiude e fa un segno; poi va verso Taddeo.)
+
+COLOMBINA
+(strappandogli il paniere)
+Quanto spendesti dal trattore?
+
+TADDEO
+Una e cinquanta. Da quel dì il mio core...
+
+COLOMBINA
+(presso alla tavola)
+Non seccarmi Taddeo!
+(Arlecchino scavalca la finestra, depone a terra una bottiglia che ha sotto il braccio, e poi va verso Taddeo mentre questi finge non vederlo.)
+
+TADDEO
+(a Colombina, con intenzione)
+So che sei pura!
+E casta al par di neve! E ben che dura
+Ti mostri, ad obliarti non riesco!
+
+ARLECCHINO
+(lo piglia per l'orecchio dandogli un calcio e lo obbliga a levarsi)
+Va a pigliar fresco!...
+(Il pubblico ride.)
+
+TADDEO
+(retrocedendo comicamente verso la porta a destra)
+Numi! s'aman! m'arrendo ai detti tuoi.
+(ad Arlecchino)
+Vi benedico!... là... veglio su voi!...
+(Taddeo esce. Il pubblico ride ed applaude.)
+
+COLOMBINA
+Arlecchin!
+
+ARLECCHINO
+(con affetto esagerato)
+Colombina! Alfin s'arrenda
+Ai nostri prieghi amor!
+
+COLOMBINA
+Facciam merenda.
+(Colombina prende dal tiretto due posate e due coltelli. Arlecchino va a prender la bottiglia, poi entrambi siedono a tavola uno in faccia all'altro.)
+
+COLOMBINA
+Guarda, mio ben, che splendida
+cenetta preparai!
+
+ARLECCHINO
+Guarda, amor mio, che nettare
+divino t'apportai!
+(a due)
+L'amor ama gli effluvii
+del vin, de la cucina!
+
+ARLECCHINO
+Mia ghiotta Colombina!
+
+COLOMBINA
+Amabile beon!
+
+ARLECCHINO
+(prendendo un'ampolletta che ha nella tunica)
+Prendi questo narcotico,
+dallo a Pagliaccio pria che s'addormenti,
+e poi fuggiamo insiem.
+
+COLOMBINA
+Sì, porgi.
+
+TADDEO
+(spalanca la porta a destra e traversa la scena tremando esageratamente)
+Attenti!...
+Pagliaccio è là tutto stravolto... ed armi
+cerca! Ei sa tutto. Io corro a barricarmi!
+(entra precipitoso a sinistra e chiude la porta. Il pubblico ride)
+
+COLOMBINA
+(ad Arlecchino)
+Via!
+
+ARLECCHINO
+(scavalcando la finestra)
+Versa il filtro ne la tazza sua.
+(scompare)
+(Canio in costume da Pagliaccio compare sulla porta a destra.)
+
+COLOMBINA
+(alla finestra)
+A stanotte. — E per sempre sarò tua!
+
+CANIO
+(porta la mano al cuore e mormora a parte)
+Nome di Dio!... quelle stesse parole!...
+(avanzandosi per dir la sua parte)
+coraggio!
+(forte)
+Un uomo era con te.
+
+NEDDA
+Che fole!
+Sei briaco?
+
+CANIO
+(fissandola)
+Briaco! sì... da un'ora!...
+
+NEDDA
+(riprendendo la commedia)
+Tornasti presto.
+
+CANIO
+(con intenzione)
+Ma in tempo! T'accora
+dolce sposina
+(riprende la commedia)
+Ah! sola ti credea
+(mostrando la tavola)
+e due posti son là.
+
+NEDDA
+Con me sedea
+Taddeo che là si chiuse per paura
+(verso la porta a sinistra)
+Orsù, parla!...
+
+TONIO
+(di dentro fingendo tremare ma con intenzione)
+Credetela. Essa è pura!...
+E abborre dal mentir quel labbro pio!
+(Il pubblico ride forte.)
+
+CANIO
+(rabbioso al pubblico)
+Per la morte!
+(poi a Nedda sordamente)
+Smettiamo! Ho dritto
+anch'io
+d'agir come ogni altr'uomo. Il nome suo
+
+NEDDA
+(fredda e sorridente)
+Di chi?
+
+CANIO
+Vo' il nome de l'amante tuo,
+del drudo infame a cui ti desti in braccio
+O turpe donna!
+
+NEDDA
+(sempre recitando la commedia)
+Pagliaccio! Pagliaccio!
+
+CANIO
+No, Pagliaccio non son; se il viso è pallido
+è di vergogna, e smania di vendetta!
+L'uom riprende i suoi dritti, e il cor che sanguina
+vuol sangue a lavar l'onta, o maledetta!...
+No, Pagliaccio non son!... Son quei che stolido
+ti raccolse orfanella in su la via
+quasi morta di fame, e un nome offriati
+ed un amor ch'era febbre e follìa!...
+(cade come affranto sulla seggiola)
+
+CORO
+Comare, mi fa piangere!
+Par vera questa scena!
+Zitte laggiù. — Che diamine!
+
+SILVIO
+(a parte)
+Io mi ritengo appena!
+
+CANIO
+(riprendendosi ed animandosi a poco a poco)
+Sperai, tanto il delirio
+accecato m'aveva,
+se non amor, pietà... mercè!
+Ed ogni sacrifizio
+al cor, lieto, imponeva,
+e fidente credeva
+più che in Dio stesso, in te!
+Ma il vizio alberga sol ne l'alma tua negletta;
+tu viscere non hai... sol legge è 'l senso a te...
+Va, non merti il mio duol, o meretrice abbietta,
+vo' ne lo sprezzo mio schiacciarti sotto i piè!...
+
+CORO
+(entusiasta)
+Bravo!...
+
+NEDDA
+(fredda, ma seria)
+Ebben se mi giudichi
+Di te indegna, mi scaccia in questo istante.
+
+CANIO
+(sogghignando)
+Ah! ah! di meglio chiedere
+Non dèi che correr tosto al caro amante.
+Sei furba! — No, per Dio, tu resterai
+E 'l nome del tuo ganzo mi dirai.
+
+NEDDA
+(cercando riprendere la commedia sorridendo forzatamente)
+Suvvia, così terribile
+davver non ti credeo!
+Qui nulla v'ha di tragico.
+(verso la porta a sinistra)
+Vieni a dirgli o Taddeo
+che l'uom seduto or dianzi a me vicino
+era... il pauroso ed innocuo Arlecchino!
+(risa tosto represse dall'attitudine di Canio)
+
+CANIO
+(terribile)
+Ah! tu mi sfidi! E ancor non l'hai capita
+Ch'io non ti cedo? Il nome, o la tua vita!
+
+CANIO
+(urlando dà di piglio a un coltello sul tavolo)
+Il nome! Il nome!
+
+NEDDA
+(sfidandolo)
+No!
+
+SILVIO
+(snudando il pugnale)
+Santo diavolo!...
+Fa davvero...
+(Le donne che indietreggiano spaventate, rovesciano i banchi ed impediscono agli uomini di avanzare, ciò che obbliga Silvio a lottare per arrivare alla scena. Intanto Canio, al parosismo della collera, ha afferrata Nedda in un attimo e la colpisce per di dietro mentre essa cerca di correre verso il pubblico.)
+
+CANIO
+(a Nedda)
+Di morte negli spasimi
+Lo dirai!
+
+CORO E PEPPE
+(che cerca svincolarsi da Tonio)
+Ferma!
+
+CANIO
+A te!
+
+NEDDA
+(cadendo agonizzando)
+Soccorso... Silvio!
+
+SILVIO
+(che è quasi arrivato alla scena)
+Nedda!
+(Alla voce di Silvio, Canio si volge come una belva, balza presso di lui e in un attimo lo ferisce, dicendo:)
+
+CANIO
+Ah! sei tu? Ben venga!
+(Silvio cade come fulminato.)
+
+CORO
+Arresta! aita!
+
+CORO
+(urlando)
+Gesummaria!...
+
+CANIO
+(Mentre parecchi si precipitano verso Canio per disarmarlo ed arrestarlo, egli immobile istupidito lascia cadere il coltello dicendo:)
+La commedia è finita!...
+(La tela cade.)
