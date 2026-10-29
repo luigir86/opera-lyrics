@@ -1,0 +1,1605 @@
+title: Armida
+composer: Gioachino Rossini
+librettist: Giovanni Schmidt
+year: 1817
+source: https://www.loc.gov/item/2010660307/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Atto primo
+(Campo di battaglia. In distanza la città di Gerusalemme.)
+
+## Scena prima
+(Le trombe annunziano la presenza del supremo Duce, ed i Franchi, uscendo dalle respettive tende, si schierano, facendogli i militari onori. Comparisce GOFFREDO: dalla sua tenda, accompaguato da un numero di Paladini primarj.)
+
+CORO
+Lieto, ridente
+Oltre l'usato,
+In oriente
+Si mostra il dì.
+
+CORO
+Forse la gloria,
+Di pace allato,
+La tua vittoria
+Previen così.
+
+CORO
+La tua vittoria
+Previen così.
+
+GOFFREDO
+Ah! no: sia questo
+Di tregua il giorno;
+Dover funesto
+Si compirà.
+Arditi, all'ire
+Farem ritorno.
+Per or l'ardire
+Ceda a pietà.
+
+CORO
+Arditi, all'ire
+Farem ritorno.
+Per or l'ardire
+Ceda a pietà.
+
+GOFFREDO
+Sì, guerrieri, fian sacre
+All'estinto Dudon le nostre cure.
+Funebre pompa all'onorata salma
+la tomba dia. Laudi, sospiri
+tributo di pianto
+l'eroe, che sul finir di vita
+Il sentier di virtude agli altri addita.
+(Eustazio. I precedenti.)
+
+EUSTAZIO
+Germano, a te richiede
+Donna real, piangente,
+Or di venirti al piede
+Aita ad implorar.
+
+GOFFREDO
+Venga. Maggior conforto
+(Eustazio parte.)
+Che in sollevare un core
+Assorto — nel dolore,
+Alma non può trovar.
+
+CORO
+Suol di virtude in porto
+L'esempio tuo, signore,
+Ogni anima guidar.
+(Preceduta e seguita da molti guerrieri, fra' quali Eustazio, comparisce ARMIDA sopra un cocchio accompagnata da IDRAOTE sotto spoglie di privato, e da picciol seguito di Damasceni a cavallo.)
+(Ognuno se le affolla d'intorno.)
+
+CORO
+Quell'astro mattutino,
+Forier de' rai del giorno,
+Di tanta luce adorno
+Non si mostrò finor.
+Del volto peregrino
+L'angelica possanza
+Ogni splendore avanza,
+Offusca ogni splendor,
+(Armida scende, e guidata da Eustazio si presenta a Goffredo.)
+
+ARMIDA
+Signor, tanto il tuo nome ovunque suona,
+Che fino a' tuoi nemici
+Avvien che desti in petto
+Sensi di maraviglia e di rispetto.
+Del trono di Damasco in me l'erede
+(La cui sventura eccede
+Ogni più ria sventura) io ti presento.
+Il barbaro Idraote,
+Di sangue a me congiunto, il serto avito
+Non sol pensa involarmi
+Che insidia i giorni miei.
+Se magnanimo sei, che tal ti credo,
+Quanto sei valoroso,
+Da te sperar mi giova il mio riposo.
+
+GOFFREDO
+Principessa gentil, che far poss'io?
+Parla.
+
+ARMIDA
+La tua pietade
+Io reclamo. Fra tanti,
+Che qui ti fan corona, eccelsi eroi;
+La desolata Armida:
+Dieci eletti campioni a te richiede.
+Questi a ripormi in sede
+Bastanti son. Fedele il popol mio,
+Attende solo chi l'inciti all'armi;
+E se avvien ch'io mi mostri di Damasco
+Con tai prodi alle mura,
+Duce, la mia fortuna è appien sicura.
+(Abbassando gli occhi, con finta umiltà aspetta la risposta di Goffredo.)
+
+IDRAOTE
+(Che dirà?)
+
+EUSTAZIO
+(Quella voce, i mesti accenti
+Penetran l'alma mia.)
+
+GOFFREDO
+(dopo aver pensato.)
+Reina, senti.
+In servigio del cielo,
+Sangue e sudor da noi si spande. Rieda
+In libertà Sionne; sù quel monte
+Di nostra fede ondeggi
+Il venerato segno,
+E poi si pensi al tuo perduto regno.
+(Armida mostra di piangere, Idraote freme, Eustazio ed un numero di Paladini danno segni di rammarico.)
+
+ARMIDA
+Sventurata! or che mi resta
+Se pietà non trovo in te?
+Della morte, più funesta
+È la vita omai per me.
+
+GOFFREDO
+Calma il duolo; per te spenta
+La speranza ancor non è.
+La promessa mia rammenta:
+Prendi in pegno la mia fè.
+
+IDRAOTE
+(Non tradirmi amica speme;
+Non stancarti o mio furor.)
+
+EUSTAZIO E CORO
+(Non ha core chi non geme
+
+ARMIDA
+(Per me ognun sospira
+Al suo pianto, al suo dolor.
+Preda omai tanti, folle amor.
+
+ARMIDA
+Vieni.
+(A Idraote.)
+
+IDRAOTE
+Dove?
+
+ARMIDA
+Ove mi guida
+Il rigor d'avversa stella.
+
+EUSTAZIO
+Ferma...
+(Ad Armida.)
+
+IDRAOTE
+Ahi misera donzella:
+
+EUSTAZIO
+Deh! german, pietà d'Armida.
+
+CORO
+Deh! pietà di lei, signor.
+(A Goffredo.)
+
+GOFFREDO
+(Or che farò?
+Ceder dovrò?
+M'assisti, o ciel.)
+
+ARMIDA
+Speme non ho,
+Regger non so
+Fato crudel!
+
+IDRAOTE E EUSTAZIO
+(Chi può soffrir
+Il suo martir,
+Alma non ha.)
+
+CORO
+Veder languir
+Infra sospir
+Real beltà.
+
+EUSTAZIO E IDRAOTE
+(Oh crudeltà!)
+
+GERNANDO
+(M'assisti, o ciel.)
+
+ARMIDA
+Fato crudel!
+
+CORO
+Signor, pietà.
+
+EUSTAZIO
+German, se togli al campo
+Breve drappel di noi,
+Non fia che rechi inciampo
+De' Franchi al trionfar.
+All'oppugnate mura
+Restino i duci eroi;
+Guerrier noi di ventura,
+Possiam per lei pugnar.
+
+IDRAOTE
+Pietà, dover c'invita
+Gli oppressi a sollevar.
+
+CORO
+Gloria il sentier ci addita
+Che noi dobbiam calcar.
+
+GOFFREDO
+Cedo al comun desio:
+(Dopo breve pausa.)
+Fian paghi i voti suoi.
+
+ARMIDA
+E sarà ver?
+
+EUSTAZIO, IDRAOTE E ARMIDA
+(Cor mio
+Al fin potrai sperar.)
+
+ARMIDA
+Per te, propizio il fato,
+Rallenta il suo rigore.
+Armida, tuo bel core
+Comincia a respirar.
+
+GOFFREDO
+(Un moto inusitato,
+Un gelido timore,
+Presagio di dolore,
+Mi sento in sen destar.)
+
+GOFFREDO
+Cedei, guerrieri, è ver; però vogl'io
+Che dalla vostra schiera
+Si elegga un successor del duce spento.
+Ei scelga a suo talento
+Fra voi dieci campioni. Il chiesto dono
+Sappia ciascun che si concede a lei
+Da' vostri sì, non da' consigli miei.
+(Goffredo parte con seguito di guerrieri, e le schiere si ritirano. Frattanto un numero di Paladini va con Eustazio in disparte e parlano alquanto fra loro.)
+## Scena seconda
+(Eustazio, Armida, Idraote,)
+(Paladini ec.)
+
+EUSTAZIO
+(Avanzandosi.)
+Una è la scelta:
+Successor di Dudon Rinaldo sia.
+
+GERNANDO
+(Rinaldo: .. Il vero ascolto?.. Oh rabbia!)
+
+ARMIDA
+(Oh nome!
+Caro nome e fatal!)
+
+IDRAOTE
+(Sotto voce ad Armida.)
+Questi è l'oggetto
+In cui, prima d'ogni altro, oggi vorrei,
+Per antico desio,
+Sbramar lo sdegno.
+
+ARMIDA
+(Questi è l'idol mio.)
+
+EUSTAZIO
+Real donzella, il campo
+A te per or serva d'asilo. Accinto
+Ad obbedirti fia ciascuno.
+
+ARMIDA
+(Ho vinto.)
+(Accompagnata da Eustazio, Armida entra in una delle principali tende con Idraote, col seguito de' Damasceni e con parecchi Compagni, al suon di più festose grida.)
+
+EUSTAZIO
+Si proclami Rinaldo.
+(Parte col rimanente de' Paladini.)
+
+## Scena terza
+GERNANDO
+Oh sorte infida!
+Come! a Dudon costui succede? Il grado,
+Che vanto a me recar potea, fia suo?...
+Ti scuoti al fin Gernando;
+Un italo garzon soffrir potrai
+Che tanto a te sovrasti?.. Ah! non sia mai.
+Non soffrirò l'offesa,
+Per questa spada il giuro;
+Alma di gloria accesa
+L'ire frenar non sa.
+E questi son gli allori
+Dovuti a' miei sudori?
+Ahi quale, avverso il fato,
+Cruda mercè mi dà?
+
+CORO
+(In distanza.)
+Viva Rinaldo!
+
+GERNANDO
+Oh affanno!
+Decisa è la mia sorte.
+Fiero destin tiranno!
+
+CORO
+Viva Rinaldo, il forte,
+Splendor di nostra età.
+
+GERNANDO
+Ah! tutti v'unite
+Miei sdegni in quest'alma,
+Che, priva di speme,
+La calma perdè.
+Miei sdegni, venite:
+Vi bramo con bramo
+(Parte.)
+
+## Scena quarta
+(Idraote, Armida.)
+
+IDRAOTE
+Sorte ci arride. Ove celata stassi
+La fida schiera, i passi
+A diriger t'affretta.
+Dell'Asia la vendetta a che non posso
+Compiere appien...
+
+ARMIDA
+Fra' lacci,
+Dieci non sol; ma cento
+Fia che portino il piè. Nutre ciascuno,
+Di Goffredo a dispetto,
+Nell'anelante petto
+Di seguirmi il desir...
+
+IDRAOTE
+Ma di Rinaldo......
+
+ARMIDA
+Ah!
+
+IDRAOTE
+Sospiri! perchè?
+Facil ti credi
+
+ARMIDA
+Quell'anima domar?
+
+IDRAOTE
+La miglior preda
+Fia che manchi a Idraote?
+
+ARMIDA
+Eccolo... (Oh come
+Mi balza il cor!) Deh! vanne... (Ove son io!!)
+
+IDRAOTE
+Spera... a diletta?... addio.
+(Parte dal campo.)
+
+## Scena quinta
+(Rinaldo, Armida.)
+
+RINALDO
+Principessa, sei tu! Nel rivederti
+me!
+Quai gioja provo... e qual affanno insieme
+I tuoi disastri intesi, e il cor ne geme.
+Ah! perchè mai non cadde
+Sionne ancor! Forse al rapito soglio
+D'appianarti la strada
+Saria l'onor concesso a questa spada.
+Ma sdegnosa mi guardi, e non rispondi?
+
+ARMIDA
+Nello stato in cui sono,
+Opre, non vani detti, a me fan d'uopo.
+Oh quanto è mai diverso
+Dal tuo questo mio cor! Barbari noi
+Chiama la vostra Europa;
+Ma barbaro non è colui che vita
+Può dare a un'infelice, e non l'aita?
+
+RINALDO
+Senti: l'altrui favore
+Duce mi vuol di prode schiera... Vedi,
+Colpa non ho se fra' seguaci tuoi...
+
+ARMIDA
+Taci... non proseguir; schernirmi vuoi?
+
+RINALDO
+Io schernirti? T'inganni.
+Dal dì che ti mirai,
+Rispetto e... (quasi amor dicea) serbai.
+(Ah pur troppo l'adoro!)
+
+ARMIDA
+Va, spietato!
+
+RINALDO
+Di che m'accusi?
+
+ARMIDA
+Fingi
+Non comprender miei detti? o ti scordasti
+Quando in ermo sentiero
+Smarrito cavaliero, e in qual momento?...
+
+RINALDO
+Tutto, non dubitar, tutto rammento.
+Tua magica possanza
+Sottrasse i giorni miei
+De' nemici al furor. Grata quest'alma,
+Costante la memoria
+Ognor ne serberà.
+
+ARMIDA
+Ma in cupo obblio
+Riponesti però l'affetto mio.
+Sì, d'Armida l'affetto,
+Che la sua debolezza
+Ti fe' palese. E qual mai frutto ottenni?
+Un marcato disprezzo,
+Un crudele abbandon...
+Cessa, deh! cessa
+
+RINALDO
+Di trafiggermi, Armida.
+Se da te volsi il piè, bellica tromba
+Al campo m'invitò, bellico ardore,
+Desio di gloria.
+E me qui trasse amore
+
+RINALDO
+Amor... (Possente nome!
+Come risuoni, oh come
+Su quel suave labbro,
+Nel mio dolente cor.)
+
+ARMIDA
+Sì, amor... Se un alma fiera
+Ti diè natura in sorte,
+Recami pur la morte,
+E in me fia spento amor.
+
+RINALDO
+Armida... (Oh ciel!!)
+
+ARMIDA
+Che vuoi?
+
+RINALDO
+Chiede il destin...
+
+ARMIDA
+Che mai?
+
+RINALDO
+Ch'io fugga i tuoi bei rai:
+Dover mel comandò.
+
+ARMIDA
+Fuggirmi!.. Eppur gli eroi
+Sovente amor piagò.
+
+ARMIDA
+(Vacilla a questi accenti,
+Manca la sua costanza.
+Misero!! più speranza
+Di libertà non ho.)
+
+RINALDO
+(Vacilla a quegli accenti,
+Manca la mia costanza.
+La dolce mia speranza
+Perduta ancor non ho.)
+
+RINALDO
+Ah! non poss'io resistere...
+Sì, t'amerò costante.
+
+ARMIDA
+Oh inaspettato giubbilo!
+Oh fortunato istante!
+
+RINALDO
+Cara, anima
+
+ARMIDA
+Caro, per te quest'anima
+Prova soavi palpiti,
+(Partono.)
+Ch'esprimere non so.
+
+## Scena sesta
+(Gernando, alcuni Paladini.)
+
+GERNANDO
+Ecco il guerriero, il duce,
+(Accennando Rinaldo che va con Armida.)
+Il primier degli eroi,
+Quel Rinaldo a ragion scelto da voi.
+Oh quanti, oh quanti allori
+Mieter per lui dovrete!
+L'invincibil suo brando
+Di gloria al tempio già sospeso io miro.
+Eccovi di sue gesta un chiaro segno:
+Vincitor di donzelle, eroe ben degno!
+
+CORO
+Non proseguir; rispetta,
+Signor, la sua virtù.
+
+GERNANDO
+Virtù! s'inganna
+Chi trovarla in lui spera.
+Virtù in Rinaldo!
+
+(I precedenti.)
+
+RINALDO
+(nell'alto di traversare il campo si ferma.)
+(Il nome mio!)
+
+GERNANDO
+Costui
+Di che mai può vantarsi?
+Osa forse agguagliarsi a chi si pregia
+D'ampio dominio e popoli soggetti?
+Oh l'eroe si rispetti,
+Ch'altro non ha che sterile retaggio
+D'avi e scettri remoti.
+Bella, grande è la scelta
+Che in lui faceste; ei meritava il dono
+D'esservi duce, in ver; lieto ne sono.
+
+GERNANDO
+E l'accettò? Folle! ah, tant'osa
+Signor d'indegno stato,
+Signor, che nella serva Italia è nato!
+
+RINALDO
+(Io fremo.)
+
+GERNANDO
+E non pensaste
+Che l'ombra di Dudone,
+Mentre in questo superbo i lumi gira,
+Freme lassù nel ciel di nobil ira?
+
+CORO
+(Coro de' Paladini.)
+Prode è Rinaldo.
+
+GERNANDO
+Stolta
+Temerità, furore,
+Non già valor guerriero
+In lui chi mai non vede?
+
+RINALDO
+(avanzandosi.)
+Ah menzognero! Se pari agli accenti
+Hai l'anima audace,
+T'accingi, mendace,
+Quel brando a impugnar.
+(Snuda la spada.)
+
+GERNANDO
+Ch'io tema il tuo sdegno?
+Indegno, t'inganni.
+Son pronti a' tuoi danni
+La destra e l'acciar.
+(Fa lo stesso.)
+
+## Scena settima
+(Compariscono da tutt'i lati Paladini e guerrieri d'ogni rango. Armida. I precedenti.)
+
+CORO
+Fermate
+
+RINALDO
+Sgombrate...
+
+ARMIDA
+(Rinaldo in periglio!..)
+
+ARMIDA E CORO
+Ah! prodi, cessate...
+
+GERNANDO E RINALDO
+Non odo consiglio.
+Invan l'ira mia
+Si tenta frenar.
+(I due Paladini si azzuffano; Rinaldo incalza Gernando dietro alle tende.)
+
+## Scena ottava
+(I precedenti, fuorchè Gernando.)
+
+RINALDO
+(di dentro.)
+Muori...
+
+CORO
+Oh colpo!
+(Tutti verso la parte dove sono andati i due combattenti.)
+
+ARMIDA
+(andando incontro a Rin.)
+Che facesti!
+
+RINALDO
+(retroc.)
+Quell'indegno è già punito.
+Di Rinaldo fu schernito,
+Vendicato fu l'onor.
+
+CORO
+Oh sventura! Crudo scempio!
+Qual'esempio — di terror!
+
+ARMIDA
+Che terribile momento!
+Ah! m'opprime il mio dolor!
+
+CORO
+Sappia il duce il caso orrendo.
+(Partono tutti, fuorchè Rinaldo e Armida.)
+
+## Scena nona
+(Rinaldo.)
+
+ARMIDA
+Ah! paventa...
+
+RINALDO
+Qui l'attendo.
+
+ARMIDA
+Va, t'ascondi al suo rigor.
+Deh! se cara a te son io,
+Non espor sì bella vita.
+
+RINALDO
+Se non cedo al tuo desio,
+Il dover a ciò m'invita.
+
+ARMIDA
+Come, oh dio, mi trema il cor!
+
+RINALDO
+Idol mio, serena
+
+(Paladini amici di Gernando, Paladini amici di Rinaldo circondando Goffredo, guerrieri accorsi da ogni lato.)
+(I precedenti.)
+
+CORO
+Vieni o duce, punisci l'errore.
+
+ARMIDA
+Ah! mio ben...
+(A Rinaldo.)
+
+GOFFREDO
+Giusto ciel, che ascoltai?
+
+CORO
+Di Rinaldo fu leso l'onore:
+
+CORO
+Furibondo, ei l'acciaro impugnò
+
+CORO
+Provvocato, impugnò
+
+GOFFREDO
+Dove mai quest'iniquo s'aggira?
+
+RINALDO
+Tal non sono. Rinaldo rimira.
+
+GOFFREDO
+Empio! trema.
+
+RINALDO
+Delitti non ho.
+
+ARMIDA
+(Non tradirmi speranza fallace.)
+
+CORO
+La discordia coll'orrida face
+Vasto incendio nel campo arrecò.
+
+GOFFREDO
+Porgi a' lacci, ad esempio de' rei,
+Quella destra furente ed infida.
+
+RINALDO
+Questa mano alle palme, a' trofei,
+Non a' lacci finor s'avvezzò.
+
+ARMIDA
+Vanne: i passi precedi d'Armida;
+A momenti seguirti saprò.
+(Sotto voce a Rinaldo.)
+
+TUTTI
+(fuorchè Armida e Rinaldo.)
+Un astro di sangue
+Dall'etra s'affaccia;
+Ogni alma già langue,
+L'agghiaccia — il dolor.
+Caligin d'intorno
+Intorbida il giorno,
+E al campo minaccia
+Affanni, terror.
+
+RINALDO
+(M'invita la sorte,
+S'afferri il suo crine.
+Possenti, divine
+Ritorte — d'amor,
+In voi solo affida
+La speme il mio cor.)
+(Parte.)
+
+ARMIDA
+(Amica la sorte
+Mi porge il suo crine.
+Possenti, divine
+Ritorte — d'amor,
+Armida — vi affida
+La speme del cor.)
+
+# Atto secondo
+
+(Orrida selva. Framezzo ad alcune piante vedesi il mare in distanza.)
+
+## Scena prima
+(ASTAROTTE e coro di demoni, sorgendo di sotto terra.)
+
+CORO
+Alla voce d'Armida possente
+Acheronte varcammo e Cocito.
+Questo muto ed inospite lito
+Per nostr'opra animar si dovrà.
+
+ASTAROTTE
+(a parte del coro)
+Su, consorti, qui fermisi il piede,
+Qui spegnete — le orribili tede,
+Deponete — il vipereo flagello;
+Tanto impone chi legge ne dà.
+
+CORO
+Al prodigio — d'Armida novello
+Tutto ligio — l'inferno sarà.
+D'Idraote — la regia nipote
+Suol dell'ombre frenare il muggito
+Han possanza sue magiche note
+D'addoppiar l'ululato, il ruggito
+Dove meta il dolore non ha.
+Questo muto ed inospite lito
+Per nostr'opra animar si dovrà.
+
+ASTAROTTE
+Sovr'umano potere,
+Numi del tetro abisso, or qui ci chiama.
+D'ogn'intorno la fama
+Il nome spande di Rinaldo, il primo
+Fra' temuti campioni
+Di colui che su gli astri,
+Per nostra pena eterna,
+Il tutto a suo piacer move e governa.
+Pur d'amoroso laccio il guerrier forte
+Preda rimase; Armida osò rapirgli
+Senno, onor, libertà, per far che manchi
+Degli abborriti Franchi
+Il maggior brando al capitan supremo,
+E per toglier Sionne al fato estremo.
+Il secondarla, o numi,
+Non fia lieve per noi? Nell'opre nostre
+Il re dell'ombre affida;
+Per noi tremi Goffredo, esulti Armida.
+
+CORO
+Di ferro e fiamme cinti,
+Contra il celeste impero
+Là nel superno tetto
+Sai che pugnammo un dì.
+È ver, cademmo vinti;
+Ma del valor primiero
+Non anco a noi nel petto
+Il germe inaridì.
+(Comparisce dall'alto una nube.)
+
+ASTAROTTE
+Ebben, l'istante è giunto
+Da porre in opra e possa e ardir. Mirate,
+S'appressa Armida. Ascoso,
+Di sua magica verga ognun di voi
+Al sibilo sia presto;
+Del nostro maggior nume il cenno è questo.
+(Spariscono.)
+(Giunta a terra la nube si dilegua e presenta un carro tirato da due draghi, su cui ARMIDA e RINALDO.)
+(Armida converte il carro in un seggio di fiori. I draghi spariscono. Rinaldo è quasi fuori di sè dalla sorpresa.)
+
+RINALDO
+Dove sono!...
+
+ARMIDA
+Al fianco mio.
+
+RINALDO
+Oh me beato!
+
+ARMIDA
+Mio bel tesor!
+
+RINALDO
+Se tuo mi chiami...
+
+ARMIDA
+Caro, se m'ami,
+
+ARMIDA E RINALDO
+Sfido del fato
+Tutto il rigor.
+
+ARMIDA
+Mio ben, questa che premi
+Della Fortuna è l'isola nomata,
+Sol nota a me. Qui si deponga omai
+Ogni nostro rancore,
+E qui tutto respiri e pace e amore.
+Brama di rivederti,
+Speme di possederti; all'altrui voglie
+Ceder mi fe', non già crudel desio.
+Finsi col Franco duce
+Mio malgrado, e il tuo brando
+Le catene troncando
+A' miei seguaci amanti,
+D'Idraote e di me punì la trama.
+
+RINALDO
+Vedi il mio cor se t'ama:
+Tutto vada in obblio; solo Idraote
+Io colpevol estimo. Or non si pensi. —
+Che al nostro mutuo amor... Ma prigioniero
+Perchè guidarmi in orrida foresta?
+
+ARMIDA
+No; d'Amor la reggia è questa,
+Ecco il centro del piacer.
+(Al cenno d'Armida la scena si cangia nell'interno d'un magnifico palagio. Coro in sembianza di Genj, di Ninfe, d'Amorini e di Piaceri ingombrano la scena, formando varj gruppi.)
+
+CORO
+Sì, d'Amor la reggia è questa,
+Questo è il centro del piacer.
+
+RINALDO
+(Quest'alma tal portento
+
+ARMIDA
+A quell'
+
+RINALDO
+Sembra un sogno lusinghier.
+A sì strano e lieto evento
+Si confonde il suo pensier.)
+
+ARMIDA
+Sì, d'Amor la reggia è questa,
+Quest'è il centro del piacer.
+
+CORO
+Canzoni amorose,
+Carole festose,
+Cantate, formate,
+Seguaci d'Amor.
+Canzoni amorose;
+Carole festose,
+Cantiamo, formiamo,
+Seguaci d'Amor.
+(Succedono le danze, di quando in quando intrecciate col canto. Gli Amorini presentano a Rinaldo ghirlande di fiori.)
+
+ARMIDA
+D'Amore al dolce impero
+Natura ognor soggiace.
+Dov'è quell'alma audace
+Che non apprezzi Amor?
+Chi, misero, non sente
+La fiamma sua possente,
+Di smalto ha il core in petto,
+O mai non ebbe un cor.
+
+CORO
+Dov'è quell'alma audace
+Che non apprezzi amor?
+
+ARMIDA
+Gli augei tra fronde e fronde
+Spiegano amor col canto;
+Aman perfin dell'onde
+I muti abitator.
+Aman le crude belve
+Lì tra le ircane selve,
+Son per amor feconde
+Le stesse piante ancor.
+Che non apprezzi Amor?
+
+ARMIDA
+La fresca età sen fugge,
+È la beltade un lampo,
+Chè l'una e l'altra strugge
+Il tempo vorator.
+Dunque godete amanti
+De' vostri liet'istanti,
+Or che vi ride in volto
+Di giovinezza il fior.
+(Armida siede accanto a Rinaldo.)
+
+CORO
+Ah! sì, godete amanti
+De' vostri liet'istanti,
+Or che vi ride in volto
+Di giovinezza il fior.
+(Armida, onde estinguere nel cuore di Rinaldo ogni avanzo d'ardore di gloria, per vie più destarvi quello dell'amore, fa comparire una larva sotto le sembianze di giovine guerriero, circondato da più leggiadre ninfe, le quali a gara si accingono a sedurlo. Egli vuole schermirsi da' loro vezzi; ma la voluttà impossessandosi a grado a grado di lui, fa che finalmente si lasci togliere le sue guerriere insegne, sostituendo ad esse le ghirlande di fiori.)
+(Danza e coro generale.)
+Tutto spira d'Armida all'aspetto
+Pace, amore, diletto — amistà.
+Tutto al regno d'Armida è soggetto,
+Tutto cede ove impera beltà.
+# Atto terzo
+
+(Giardino incantato, in cui mostrasi in tutto il suo aspetto la semplice natura. Piante abbondanti di frutta, siepi e cespugli pieni d'ogni sorta di fiori; acque correnti, altre stagnanti sulle quali veggonsi in moto diversi augelli; altri augelli di vivaci colori svolazzano d'albero in albero; da un lato alcune spelonche coperte di musco; il prospetto è limitato da amene colline e valli ombrose adiacenti.)
+
+## Scena prima
+(UBALDO, CARLO.)
+
+UBALDO
+E l'aurette placide
+Spiran fra l'erbe e i fiori!
+
+CARLO
+Par che d'amor favellino
+Lieti gli augei canori
+A noi d'intorno.
+
+UBALDO
+E l'eco che risponde...
+
+CARLO
+E il mormorio dell'onde...
+Tutto a noi par che dica:
+Sacro a natura amica
+Ecco il soggiorno.
+Ma no: d'orribil arte
+Questi gl'inganni sono;
+Dell'empio averno è dono
+Ciò che natura appar.
+Qui l'atro crine anguifero
+Scuoton le tiere Eumenidi,
+Che di velen mortifero
+Van l'aure ad infettar.
+
+UBALDO
+Oh quanto, amico, d'Ascalona al saggio
+Tenuti siam! Lungo tragitto parve
+A noi breve cammino.
+Fu soccorso divino
+Quest'aurea verga e questo scritto.
+
+CARLO
+In fuga
+Il serpente custode ed ogni fera,
+Che ci contese il passo,
+Volger vedemmo. A compiere or ci resta
+Il desiato fin di nostra impresa.
+
+UBALDO
+Qui (lo scritto il palesa)
+Vedrem Rinaldo a un folle amore in preda.
+
+CARLO
+Ah! voglia il ciel ch'ei ceda
+Agl'inviti d'onor.
+
+UBALDO
+Solingo è il loco.
+
+CARLO
+T'inganni. A noi sen viene
+Stuol di ninfe leggiadre. Odi concento...
+(Lenta armonia, che a grado a grado s'avvicina e rinforza.)
+
+UBALDO
+Di fermezza e d'ardir quest'è il momento.
+
+## Scena seconda
+(Larve in sembianza di Ninfe, cantando e danzando. I precedenti.)
+
+CORO
+Qui tutto è calma,
+Delizia, amor;
+Qui trova un'alma
+Scampo al dolor.
+
+CORO
+Qui l'atri sfere
+Non han potere,
+L'avverso fato
+Non ha vigor.
+
+CORO
+Questo è il beato
+D'amor soggiorno;
+L'età dell'oro
+Qui fe' ritorno;
+Oh fortunato
+Chi vanta un cor!
+
+CORO
+Qui tutto è calma,
+Delizia, amor;
+Qui trova un'alma
+Scampo al dolor.
+
+UBALDO
+Fuggite infernei mostri; ite onde usciste.
+(Scuotendo la verga d'oro, le Larve spariscono.)
+
+## Scena terza
+(CARLO, UBALDO.)
+
+CARLO
+Nuovo portento!
+
+UBALDO
+Ah! possa
+Sgombrar così dal core
+Del misero Rinaldo un folle amore.
+
+CARLO
+Lo spero. Il ciel compirà l'opra.
+
+UBALDO
+Oh quanto
+Fia caro a Guelfo del nipote amato
+Il ritorno bramato!
+
+CARLO
+Al campo tutto,
+Allo stesso Goffredo,
+Che punirlo volea, ch'or gli perdona,
+Fia gioia il riveder cotanto eroe...
+
+UBALDO
+Taci... Se non m'inganno,
+quel sentiero lento calpestio
+armi sentir.
+
+CARLO
+Sì.
+
+UBALDO
+Oh sorte!
+
+CARLO
+E' desso... Oh noi felici!
+E seco
+
+UBALDO
+Vien colei che lo asconde
+Prigioniero avvilito in queste sponde.
+
+CARLO
+S'incontri...
+
+UBALDO
+No. Per or meco ti cela
+Colà fra quelle piante.
+
+CARLO
+Ma di mostrarci a lui...
+
+UBALDO
+Non è l'istante.
+(Si nascondono in una boscaglia.)
+
+ARMIDA E RINALDO
+(tenendosi per mano.)
+Soavi catene,
+Se amore v'ordì,
+Per sempre al mio bene
+Mi unite così.
+
+ARMIDA
+O mio Rinaldo, ammira
+Quest'ameno soggiorno. Or, benchè ardente
+Sirio si mostri in ciel, per opra mia
+La fiorita stagione
+E il pomifero autunno
+Si porgono le destre
+questo fortunato asil campestre.
+
+RINALDO
+Tutto questo mi fa beato,
+Ma più di tutto Armida,
+Purch'io viva sicuro
+Di sua costanza...
+
+ARMIDA
+E che! dubiteresti...
+
+RINALDO
+Così rara beltà, che far potria
+Un monarca felice...
+Real donzella... lungi
+Per mia cagion dal regno suo natio...
+
+ARMIDA
+Sul tuo cor non ho regno, e tu sul mio?
+E ciò non basta? Amor me vinse.
+
+RINALDO
+E seco,
+Armida, gareggiasti
+Quando co' vaghi rai m'imprigionasti.
+Anzi, maggiore è il tuo
+Del trionfo d'Amor; tutto potea
+Ei nume: tu mortal... Ma che favello?
+Mortal non è chi d'ogni cor può farsi
+Assoluta reina,
+Chi tanta in sè contien beltà divina.
+O pupille adorate,
+Mentre avvincite un cor, voi lo beate.
+Va superbo questo core
+De' felici lacci suoi
+Nel provar, bei lumi, in voi
+Qual d'Amore — è la virtù.
+E l'antica libertade
+In obblio per voi ripone,
+Se vuol farne il paragone
+Con sì bella servitù.
+
+ARMIDA
+Resta, mio ben. Degg'io per poch istanti
+Lungi da te...
+
+RINALDO
+Come!...
+
+ARMIDA
+Non lieve cura
+Mi chiama altrove. Addio.
+In breve al fianco tuo mi rivedrai.
+(Parte.)
+
+## Scena quarta
+RINALDO
+Lo splendor di que' rai
+Se un sol istante io perdo;
+Parmi perder la pace...
+Ma qual altro splendor m'abbaglia il ciglio!...
+Armi son quelle... ed armi Franche!.. A stento
+A' proprj sguardi io credo...
+## Scena quinta
+UBALDO
+Amico, inoltra il piè.
+(A Carlo.)
+Cielo!.. chi vedo!
+
+UBALDO
+Avvilito guerrier, schiavo d'amore,
+Ubaldo e Carlo in noi rimira. Osserva
+Qual ci veste le membra
+Onorevole incarco. E mentre il ferro
+Noi cinge, e mentre il brando
+Ci pende al fianco, adorno
+Veder dobbiam di rose e in bianchi lini
+Il più forte tra i Franchi e tra i Latini?
+
+RINALDO
+(Oh rimprovero amaro!)
+
+CARLO
+Il campo tutto
+Impaziente aspira
+A innalzar di Siòn sull'alte mura
+L'augusto suo vessillo.
+Desta di tromba squillo
+Ogni soldato, anche il men forte; e solo
+Rinaldo, il pro Rinaldo,
+L'indomito guerriero,
+Sconosciuto sen vive e prigioniero?
+
+RINALDO
+Deh! amici... È ver, son io... Sono infelice!..
+Ma voi come qui tratti,
+Se quest'ermo sentier...
+
+UBALDO
+Virtù celeste,
+Non arte stigia, a noi servì di guida.
+
+CARLO
+Ceda l'iniqua Armida
+Al poter di quel Dio che al tutto impera.
+
+RINALDO
+Armida!... ella è il mio ben...
+
+CARLO
+Sogni?
+
+UBALDO
+Deliri!
+In questo scudo espresso
+Mira di tua viltà tutto l'eccesso.
+(Scuopre uno scudo adamantino.)
+
+RINALDO
+In quale aspetto imbelle
+Io me ravviso, oh stelle!...
+Qual di viltade oggetto!...
+Oh immenso mio rossor!
+(Rimane immobile e quasi fuori di sè.)
+
+CARLO
+(Langue.)
+
+UBALDO
+(Sospira.)
+
+CARLO
+(Geme.)
+
+UBALDO E CARLO
+(Sente d'onor già i moti.
+O Nume! i nostri voti
+Secondi il tuo favor.)
+
+UBALDO
+Vedi qual reo governo
+(A Rinaldo.)
+Di te fa un empio affetto.
+
+CARLO
+S'hai cor bastante in petto,
+Resisti a tant'orror.
+
+RINALDO
+Qual di viltade oggetto!...
+(Seguitando a guardarsi nello scudo.)
+Oh immenso mio rossor!
+
+CARLO
+Il tuo dover ti chiama.
+
+UBALDO
+Gloria a pugnar t'invita.
+
+UBALDO E CARLO
+La tromba della fama
+Ridesti il tuo valor.
+
+RINALDO
+Cessate... oimè, cessate...
+Che barbaro tormento!
+Io vile?... No: rammento
+Che son Rinaldo ancor.
+(Si squarcia e getta ogni fregio di mollezza.)
+
+UBALDO E CARLO
+Or sì, che in te ritrovo
+L'eroe qual fosti ognor.
+
+RINALDO
+(Ah! qual contrasto io provo
+Di duol, di gloria e amor!)
+
+UBALDO E CARLO
+Vieni.
+
+RINALDO
+Vi seguo... (Oh dio!
+Lasciarla mai poss'io!)
+
+CARLO
+A che t'arresti?
+
+RINALDO
+Armida!
+Per te mi manca il cor...
+
+UBALDO E CARLO
+Severa omai ti sgrida
+La voce dell'onor.
+(Breve pausa.)
+
+RINALDO
+Unitevi a gara
+Virtude, valore,
+Per vincere amore
+Che affanno mi dà.
+(Breve pausa. Frattanto Rinaldo alza gli occhi al cielo in atto d'implorarlo.)
+Ma un raggio improvviso
+Quest'alma rischiara...
+Ah! sì, ti ravviso
+Celeste bontà.
+
+UBALDO E CARLO
+Splendor degli eroi;
+T'invola con noi;
+Del ciel si dichiara
+Per te la pietà.
+(Partono.)
+
+ARMIDA
+(Frettolosa e sbigottita.)
+Ov'è?... dove si cela?.. Eppur poc'anzi
+Qui lo lasciai... Son fuor di me... Sen giace
+Là sulla soglia il fier custode estinto...
+Oh stelle! il mio poter fia dunque vinto?
+Vadasi... Ma che vedo!
+Due guerrier di Goffredo!... Oimè! Rinaldo
+Segue i lor passi... Fermati... L'affanno
+Mi tronca i detti... Senti...
+Perfido! non m'ascolta... Ebben, d'averno
+La possanza s'invochi. Furie, udite:
+(Scuote la verga magica.)
+Per la tremenda Dite, a me si guidi
+Quel traditor.
+(Pausa.)
+Ma voce non risponde
+Dalle infernali sponde.
+Che fo?... Seguiam l'infido... Oh fier tormento!
+(Parte veloce.)
+
+## Scena sesta
+(Esterno del d'Armida.)
+
+UBALDO
+Sia lode al ciel, da quelle inique mura
+Uscimmo al fin.
+
+CARLO
+Breve cammin ci resta;
+Vadasi al palischermo.
+
+RINALDO
+Amici, ah! voi,
+Per pietà, rinfrancate
+Questo debole cor. Solo non basto
+Me stesso a superar.
+
+CARLO
+Veloce al lido,
+Vieni, volgasi il piè.
+
+ARMIDA
+(Da lontano.)
+T'arresta, infido!
+
+RINALDO
+È dessa... Oh dio!.. l'udiste?
+
+CARLO
+Di coraggio,
+Amico, armar ti dei.
+
+RINALDO
+Oimè!
+
+UBALDO
+Ti giovi l'ascoltar costei.
+Se resisti a' suoi vezzi,
+Alle lagrime sue,
+Il più grande a ragion sei degli eroi.
+## Scena settima
+(ARMIDA frettolosa; i precedenti.)
+
+ARMIDA
+È pur vero?... e abbandonarmi vuoi?
+Crudel!
+
+RINALDO
+Vuole il destino
+Ch'io da te volga il piè... Gloria m'invita
+Al campo dell'onore...
+
+ARMIDA
+E gloria fia
+Tradir l'amor, la fè?
+
+RINALDO
+Dolce memoria
+Per me sempre sarai... Rimanti in pace...
+(Ah! mi si spezza il core.)
+(Partendo.)
+
+ARMIDA
+Pace! e pace trovar può il mio dolore?
+(Trattenendolo.)
+
+UBALDO
+Resisti.
+(Sotto voce a Rinaldo.)
+
+CARLO
+A lei nascondi
+L'affanno, il duol.
+(come sopra.)
+
+ARMIDA
+Parti, se vuoi; sol chiedo
+I tuoi passi seguir...,
+(Rinaldo leggermente la respinge, voltando il viso per celarle il suo turbamento, ed è in atto di partire.)
+
+ARMIDA
+(Seguitandolo.)
+Qual più ti piace
+Di me dispor potrai; se pur ti è grato,
+Ancella umìl raccorcerò la chioma,
+Or che a te fatta è vile.
+In aspetto servile
+Te seguirò dove l'ardor guerriero
+Fia che più ferva. Sento
+Per condurti i destrieri e portar l'armi
+In me vigor bastante;
+Mi avrai fedel seguace e non amante..
+
+RINALDO
+Oimè! quai detti!
+(Sotto voce a' due compagni.)
+
+UBALDO
+Inganni.
+(c. s. a Rinaldo.)
+
+CARLO
+Insidie.
+(Come sopra.)
+
+ARMIDA
+Sì, qual più vuoi, sarò scudiero o scudo.
+Forse guerrier sì crudo
+Non vi sarà che, per ferirti, voglia
+Passarmi il sen... Ma parla.
+
+RINALDO
+Armida, è tempo
+Che pongansi in obblio
+I miei, gli errori tuoi. Resta...
+(Partendo.)
+
+ARMIDA
+Deh! ferma...
+E non gemi?
+
+RINALDO
+(Che pena!)
+
+ARMIDA
+E asciutto il ciglio
+ancora, spietato?
+hai cor di lasciarmi in questo stato?
+Se al mio crudel tormento
+Segno di duol non dai,
+Tu non avesti mai
+Scintilla di pietà.
+Barbara tigre ircana
+A te donò la vita,
+E l'alma tua nutrita
+Fu ognor di crudeltà.
+
+RINALDO
+Cangiar non puoi tua sorte:
+(Sospirando e partendo.)
+Non la poss'io cangiar.
+
+ARMIDA
+Ah! dammi almen la morte:
+(Trattenendolo.)
+Da fine al mio penar.
+
+UBALDO
+Resisti omai da forte.
+(A Rinaldo.)
+
+CARLO
+Risolvi.
+Al mar.
+
+RINALDO
+Addio...
+
+ARMIDA
+Senti, idol mio!...
+Un sol istante io chieggo..
+
+UBALDO
+Non più.
+
+CARLO
+Partir conviene.
+(Trascinando Rinaldo.)
+
+ARMIDA
+Vacilla... il piè... non reggo.
+Mi sento... oh dio!.. mancar..
+(Cade priva di sensi. Rinaldo, che si sarà allontanato, retrocede in fretta.)
+
+RINALDO
+Armida!... amato bene!...
+Deh si soccorra...
+
+UBALDO E CARLO
+Al mar.
+(Lo conducono a forza.)
+
+ARMIDA
+(Allontanato Rinaldo, ella insensibilmente rinviene, quindi si alza, guarda intorno e dice:)
+Dove son io!... Fuggi!
+Lasciarmi, oimè! così
+Potè l'ingrato?
+E vivo ancora?... e palpiti
+Mio desolato core?...
+(Si aggira incerta.)
+Che fo?... Vendetta... Amore...
+Di voi chi udir dovrò?...
+Del mio trovar si può
+Più atroce stato!
+(Rimane concentrata ne' suoi pensieri. Frattanto sorge una Larva in sembianza della Vendetta.)
+Vendetta... Ah! sì, ti miro:
+(Scuotendosi.)
+Te sola invoco: vieni...
+(Mentre vuole avvicinarsi alla Larva suddetta, sorge altra Larva sotto le forme dell'Amore sospiroso e piangente.)
+Amor... con quel sospiro
+Perchè il mio sdegno affreni?...
+Forse spietato sei,
+Sebben tu piangi, Amor.
+Forse pietade è in lei,
+(Verso la Vendetta.)
+Cinta benchè d'orror.
+(Pensa alquanto, poi corre alla prima Larva.)
+È ver... gode quest'anima
+In te, fatal Vendetta.
+Da me repente involati
+Perfido Amor, t'affretta.
+(Sparisce la Larva dell'Amore.)
+Se al mio poter voi Furie
+Sorde non siete ancor,
+Ad inseguir traetemi
+Un empio, un traditor.
+
+## Scena ottava
+(Coro di demoni, recando il carro d'Armida tirato da' draghi.)
+
+CORO
+Paga sarai.
+
+ARMIDA
+Distrutto
+Tutto qui resti, tutto.
+(I demoni, armati di faci, eseguiscono, e la scena ritorna nel primo orrore.)
+
+ARMIDA
+S'altro non può, l'Averno
+T'ispiri il suo furor.
+(Armida ascende il carro e s'innalza a volo tra i globi di fiamme e di fumo. — Cala il sipario.)
