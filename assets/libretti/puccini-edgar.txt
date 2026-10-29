@@ -1,0 +1,1415 @@
+title: Edgar
+composer: Giacomo Puccini
+librettist: Ferdinando Fontana
+year: 1889
+source: https://www.loc.gov/item/2010666572/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Atto primo
+(Villaggio presso Courtray.)
+(destra, sul davanti, la casa di Edgar; presso la porta della casa un sedile di pietra; più in là una chiesuola. - A sinistra, sul davanti, una taverna con pergolato sotto al quale un tavolo e panche; più in là gruppo di - Subito dietro la chiesa un poggio poco alto attraversa tutta la scena e va a perdersi dietro il gruppo d'alberi a sinistra; a metà del poggio un alberello di mandorlo in fiore, presso al quale un sentiero scende sulla piazza. - Sfondo di paesaggio ridentissimo, aperto, sul dinanzi del quale, in modo che appaiano poco lontani, alcuni tetti del villaggio. - Alba pura primissima.)
+
+## Scena prima
+(Edgar, poi Fidelia. Cori interni di Contadini e Contadine.)
+(All'alzarsi della tela Edgar dorme seduto dinanzi alla taverna — Rintocchi d'Angelus alla chiesuola. — Contadini e pastori attraversano la scena venendo da diverse parti; poi si allontanano salutandosi, come muovessero ai lavori della giornata)
+
+CORO
+(lontanissimi)
+Qual voce lontana
+Squillò la campana
+E l'ultima stella
+Fulgor più non ha!
+
+FIDELIA
+(dalla destra, sul poggio)
+O fior del giorno, salve alba serena!
+Speranza ed esultanza!... Inno gentil!
+Di celestial profumo è l'aura piena...
+O fior dell'anno, salve alba d'april!
+(scorgendo Edgar addormentato e chiamandolo)
+Edgar...
+
+EDGAR
+Sei tu, fanciulla?
+
+FIDELIA
+Buon di!
+
+EDGAR
+Buon di...
+
+FIDELIA
+Non ha dunque riposo
+Per te la notte, se qui il sol ti ha côlto
+Ancor vinto dal sonno...
+
+EDGAR
+Io non son lieto
+Come sempre sei tu...
+
+FIDELIA
+Lieta non sono
+Se ti veggo così.
+
+EDGAR
+Va!... Ti saluto,
+O Fidelia gentil...
+
+FIDELIA
+Senti lo strano
+Pensier ch'io feci quando mi svegliai:
+Già il mandorlo vicino
+Dei primi fior si ornò;
+Se sovra il mio cammino
+Edgar incontrerò,
+Troncar ne voglio un ramo
+E a lui lo vo' gettar...
+Il mattinal saluto
+Così gli voglio dar!
+(tronca un ramoscello dal mandorlo, poi scende verso il proscenio)
+Or ben sul mio cammino,
+Edgar, io t'incontrai...
+Bel ramo, ramo candido,
+Io ti potei troncar...
+O profumata stella,
+Che leggi nel mio cuor,
+A lui di me favella!...
+Addio, candido fior!
+(getta il fiore a Edgar)
+Eccolo!
+
+EDGAR
+(raccogliendo il ramoscello)
+Grazie!
+
+FIDELIA
+(dopo aver guardato a destra, come se avesse veduto avvicinarsi alcuno, fuggendo per la sinistra in)
+Addio...
+
+EDGAR
+(correndole dietro)
+Fèrmati!...
+
+CORO
+(interno, più vicino)
+O fior del giorno, salve alba serena!
+Speranza ed esultanza!... Inno gentil!
+Di celestial profumo è l'aura piena...
+O fior dell'anno, salve alba d'april!
+
+## Scena seconda
+(Tigrana, poi di nuovo Edgar.)
+(Tigrana, al cessar del Coro, entra in scena dalla destra, Ha un dembal (specie di liuto) ad armacollo e va verso la e d'onde è uscito Edgar spiando i suoi passi; poi indietreggia verso la destra, come v lo tornare, e si ritrae fondo. Rientra Edgar dalla sinistra, non si accorge di Tigrana e si avanza verso il proscenio tenendo nella destra il ramoscello di mandorlo, che egli contempla con tenerezza)
+
+TIGRANA
+(avvicinandosi, alle spalle di Edgar, sghignazzando)
+Ah!...!... Ah!......
+
+EDGAR
+(volgendosi, riponendo in seno il ramoscello)
+Tu qui?...?...
+
+TIGRANA
+(ironica)
+Tenera scena
+Dunque venni a turbar...
+Fuggir di balzo
+La colombella io feci!... Io non credea
+Che a te piacesse il miele
+Di pastorali amori!...
+
+EDGAR
+(con sprezzo, andando a sedere pensieroso sulla porta di casa sua)
+Evvia!...!... Mi lascia!
+
+## Scena terza
+(Contadini, Contadine, Gualtiero - Detti.)
+(L'organo preludia a una preghiera. - Donne, vecchi, fanciulli vengono da diverse parti alla spicciolata, si avviano alla chiesa e vi entrano durante tutta la scena che segue. Anche Gualtiero, venendo dalla destra sul poggio con alcuni vecchi, ne scende con loro e con loro entra nella chiesa.)
+(Organo.)
+
+TIGRANA
+(avvicinandosi a Edgar con piglio di scherno e di tentazione)
+Tu voluttà di fuoco, - ardenti baci,
+Sognavi un dì... non pastorali amor!...
+Era un desio febbril d'orgia e di gioco,
+Era un desio febbril di vizio e d'òr.
+
+EDGAR
+(come resistendo, ma scosso, alzandosi)
+Taci, demonio!... Taci!
+
+TIGRANA
+(con ironia crescente)
+Fûr vani sogni, Edgar! - Sogni fugaci
+Di chi nacque per gemere e tacer...
+Nella chiesa tu pur dovresti entrar,
+Non ha d'aquila i voli il tuo pensier!
+
+EDGAR
+(sempre più agitato, poi, come ribellandosi, entrando bruscamente in casa)
+Taci, demonio!... Taci!
+
+TIGRANA
+(guarda ili e in una risata; poi, col; si avvia verso la taverna cantando)
+Tu il cuor mi strazii...... Io muoio!
+Che feci a te, crudel?
+Belava all'avoltoio
+Nell'agonia l'agnel...
+(Quando Tigrana è giunta presso la taverna, Frank, sopravvenendo dal passaggio vicino ad essa, le sbarra la strada)
+
+## Scena quarta
+(Frank, Tigrana, Contadini e Contadine.)
+
+FRANK
+(sbarrando il passo a Tigrana)
+Ove fosti stanotte?
+
+TIGRANA
+(come cercando di evitarlo)
+A te che importa?
+
+FRANK
+(prendendole una mano, con passione e mestizia conducendola verso il proscenio)
+Io t'attesi iersera...
+
+TIGRANA
+(con sprezzo)
+Ed io non venni!!
+
+FRANK
+(con ira)
+Tigrana!...
+
+TIGRANA
+(con alterigia)
+Evvia!...!... Non ho di te paura!
+Il tuo amor mi dà noia...
+Tigrana ama la gioia - ed il piacer...
+(Alcuni contadini passando sul fondo per recarsi alla chiesa sostano additandosi l'un l'altro Frank e Tigrana)
+
+FRANK
+(fra sè, con grande amarezza)
+Deriso io son!... O mio
+Dolor!...!... Strazio crudele!
+(gli sfugge ed entra nella taverna)
+
+FRANK
+(con impeto di disperazione, fra sè, seguendola collo sguardo)
+O mia sventura!... Io l'amo!...
+(siede su una panca della taverna col volto fra le mani. I contadini entrano nella chiesa)
+## Scena quinta
+(Frank, solo.)
+
+FRANK
+Chi detto a me l'avrebbe mai che un giorno
+Costei sarebbe stata
+L'affanno più crudel della mia vita?...
+Son quindici anni d'Ungari e Morischi
+Un'errabonda schiera
+Nel villaggio passò, qui una bambina
+Tigrana!... Crebbe
+Figlia di tutti... Aimè, sul nostro seno
+La vipera scaldammo!
+(alzandosi)
+Questo amor, vergogna mia,
+Io spezzar, scordar vorrei;
+Ma d'un'orrida malia
+Sono schiavi i sensi miei...
+Mille volte al ciel giurai
+Di fuggirla!... E a lei tornai!
+Ella ride del mio pianto,
+Del mio sdegno si fa scherno;
+Ed io, vil, col cuore infranto,
+Ai suoi piedi mi prosterno...
+E lei sola io sogno, io bramo!
+Ah sventura!... Io l'amo!... Io l'amo!
+(esce per la sinistra in fondo)
+
+(Contadini e Contadine, poi Tigrana.)
+(Appena Frank è uscito, entrano da diverse parti, più frettolosi e più numerosi di prima, dei gruppi di Contadini e di Contadine. Come non trovassero più posto nella chiesa essi si inginocchiano fuori sotto il portico. - L'organo riprende - Il Coro attacca la preghiera, Tigrana durante questa preghiera rientra in scena dalla taverna guardandosi sospettosamente intorno come temesse di incontrare nuovamente Frank. Non vedendolo, inoltra; e dopo aver guardato con aria sprezzante verso la chiesa, siede con piglio insolente e sguaiato sul tavolo)
+
+CORO
+(uscendo processionalmente dalla chiesuola e avanzandosi con pio entusiasmo)
+Iddio non benedice
+Che gli umili quaggiù...
+Viver può sol felice
+Chi segue la virtù...
+Signor, noi non affanna
+Brama di gloria e d'òr,
+Ma fa che ogni capanna
+Abbia un raggio d'amor!!
+Signor!... - Non gloria ed òr
+ti chiediam! - Ma pace e amor!!
+
+TIGRANA
+(accompagnandosi col dembal)
+Tu il cuor mi strazii...... Io muoio!
+Che feci a te, crudel?
+Belava all'avoltoio
+Ghignando il re dei venti
+Disse al morente allor:
+Oh, stupidi lamenti!
+Così volle il Signor!
+Agnellin, - fai pietà!
+(ride)
+Perchè l'orrenda mano
+Su me aggravar così?
+Diceva all'uragano
+Il fiorellino un di...
+Rispose l'uragano
+Al moribondo fior:
+Così volle il Signor!...
+Fiorellin, - fai pietà!...
+(ride)
+
+CORO
+(a Tigrana, con indignazione)
+Dal bieco canto cessa!
+
+TIGRANA
+(arrogante)
+
+CORO
+(minacciosi, avanzandosi)
+Lontana
+Di qui ten va!
+
+TIGRANA
+Tigrana
+Di voi timor non ha!
+Sia per voi l'orazion,
+per me la canzon!
+Vo' cantar, vo' trillar!
+Chi non vuole ascoltar
+Torni in chiesa a pregar!
+
+CORO
+Vanne, sciagurata! - Serpe, t'allontana!!
+Va, scomunicata! - Vile cortigiana!
+Torna nell'inferno - d'onde uscisti un di!
+Vanne, cortigiana! - Vattene di qui!
+Non vogliam la canzon
+Che lo scherno ha nel suon!...
+Non trillar, non cantar
+Dove, chini all'altar,
+Noi veniamo a pregar!...
+D'ogni sozzura simbolo,
+Fra noi perchè - torva la sorte
+fatal così giunger ti fe'?
+Dei tuoi sorrisi il fascino
+Sol può recar - sciagura e morte!...
+Pietà, perdon da noi non puoi sperar!
+
+TIGRANA
+L'ira vostra o il perdon
+Io del par sprezzerò!
+L'abborrita canzon
+Sempre qui canterò!
+Vo' cantar... Vo' trillar!
+Chi non vuole ascoltar
+Torni in chiesa a pregar!
+(Il Coro si scaglia minaccioso su Tigrana, la quale indietreggia fino alla casa di Edgar, vedendosi perduta con un movimento di disperazione, afferra il battente e bussa.)
+
+## Scena sesta
+(Edgar - Detti.)
+
+CORO
+(a Edgar, indicando Tigrana)
+Col canto suo le nostre preci
+osava schernir...
+(a Tigrana, con nuovo impeto)
+Vattene!...
+
+EDGAR
+(frapponendosi, ai Contadini e alle Contadine)
+Indietro... - turba idiota!!
+
+CORO
+(con stupore a Edgar)
+Tu la difendi?...
+
+EDGAR
+(toccando l'elsa del pugnale)
+Se alla devota
+Nenia non torni, - di questo acciar
+te la lama - farò provar...
+
+CORO
+(con stupore crescente)
+impazzi!...
+
+EDGAR
+Non or... ma da quel giorno,
+nella fronte mi balzò un pensier
+di qui, per non far più ritorno,
+Io non andai... da allor fui pazzo inver!
+O valle-uggiosa,
+Vita incresciosa,
+Stolta famiglia umana
+Che, al suon d'una campana,
+Chini la fronte al suol...
+Da te quest'oggi io spicco il vol!
+(volgendosi verso la propria casa)
+O maledetto
+Paterno tetto,
+Da cui la noia
+Bandì ogni gioia;
+Su te, fra poco,
+Ruggendo, il fuoco
+Per mano mia
+Divamperà!
+(rientra nella casa)
+
+CORO
+Terror!... Sventura!...!... Al fuoco!
+(Alcuni entrano nella casa d'Edgar come per impedire l'incendio, ma, dopo pochi momenti, vengono respinti in scena da Edgar che compare sulla porta con un tizzone acceso nella destra)
+
+EDGAR
+Fuori di qui!... Nessuno queste soglie
+Osi varcar!... Nessuno
+D'imporsi a me pretenda!
+mia la casa... ed ardere dovrà!
+(getta il tizzone nella casa, poi a Tigrana)
+Tigrana, vieni!...
+Noi pure accenda
+Di nuova vita
+La voluttà!
+(Edgar prende Tigrana per mano e fa per uscire con lei dalla sinistra in fondo. - Gl'astanti fanno loro largo inorriditi. - Frank compare a sinistra in fondo)
+(Frank - Detti.)
+T'arresta!
+Frank!
+
+EDGAR
+(a Frank)
+Sgombrami il passo!
+
+FRANK
+(indicando Tigrana)
+Teco
+Costei non dee partir!
+
+EDGAR
+(con disprezzo)
+Di riso è degna
+La tua parola!
+
+FRANK
+(toccando l'elsa del pugnale e avanzandosi verso il proscenio a sinistra)
+Questa lama a te
+L'apprenderà!
+
+EDGAR
+(venendo anch'egli verso il proscenio a destra e facendo atto di metter mano al pugnale)
+## Scena settima
+(Fidelia, Gualtiero. - Detti,)
+
+GUALTIERO
+(accorrendo a Frank)
+Mio figlio!
+
+FIDELIA
+(accorrendo a Edgar)
+Edgar!
+
+GUALTIERO
+Giù l'armi!...!... La voce - d'un vecchio ascoltate!
+Del giovane sangue - lo sdegno frenate!
+
+EDGAR
+D'un vecchio che prega - la voce tremante
+Quai tristi memorie - nel cuor mi destò !!
+O della mia vita - terribile istante...
+Di colpe novelle - macchiarmi non vo'!.!
+
+FIDELIA
+D'entrambi nel sangue - qual nembo veloce
+Il cieco delirio - dell'ira scoppiò!
+Ma, a un tratto, l'insania - dell'impeto atroce
+D'un vecchio la voce - a vincer bastò...
+
+FRANK
+D'un padre la voce - mi supplica invano,
+Placar del mio sdegno - la fiamma non può!
+
+TIGRANA
+(guardando Frank ed Edgar ironica)
+Al suolo d'entrambi - si chinan gli sguardi,
+La mano dell'arme - già l'elsa lasciò...
+A spegner dell'ira - la fiamma, o codardi,
+La tremula voce - d'un vecchio bastò!...
+
+CORO
+Giù l'armi!...!... D'un vecchio la voce ascoltate!
+Del giovane sangue lo sdegno frenate!
+Il cielo un soave - mestissimo incanto
+D'un padre alla voce - che implora donò!
+O vecchio, ogni ciglio - bagnato è di pianto...
+O padre, ogni cuore - con te palpitò !!
+
+EDGAR
+(riprendendo per mano Tigrana in atto di condurla seco)
+Or dunque, addio!
+
+FRANK
+(brandendo il pugnale e sbarrando loro)
+No... Tu non passerai !!
+
+EDGAR
+(volgendosi a Gualtiero e sguainando anch'egli, indicando Frank)
+Egli lo vuole!
+
+GUALTIERO E FIDELIA
+(cercando di frenarli nuovamente)
+Frank!
+Edgar!
+
+EDGAR E FRANK
+Parli il pugnale!
+(si battono)
+
+CORO
+Per pietà!
+
+FIDELIA
+Ferma, Edgar!
+
+CORO
+No!... No!
+
+GUALTIERO
+Cessate!
+
+CORO
+Oh terror!
+
+CORO
+Fermi!... olà!
+
+GUALTIERO
+(a Frank)
+Figlio!
+
+FIDELIA
+(a Frank)
+Fratello!
+
+CORO
+Giù il pugnal!
+
+TIGRANA
+(come aizzando Edgar)
+Su!... Ferisci !
+Qual demonio vi spinge?
+
+TIGRANA
+(come sopra)
+
+CORO
+(a Tigrana)
+Ah... crudel!... Taci, tu!
+
+CORO
+Via!... Non più!... - Che tardiam?
+L'armi a lor, su, strappiam!
+(il pugnale di Edgar striscia sul petto di Frank)
+
+EDGAR
+(a Frank, ritraendosi)
+Sei ferito!...
+
+FIDELIA
+Dio!... Perchè mai
+Oggi piombò su noi tanta sventura
+
+TIGRANA
+(a Edgar)
+Vieni... Fuggiam... Ferito
+Egli è... Perchè restar?
+
+FRANK
+Deve un di noi
+Lasciar la vita qui!...
+(fa per rimettersi in guardia ma vacilla)
+
+GUALTIERO
+(lanciandosi su Frank, strappandogli l'arme, mentre alcuni afferrano Frank e altri vanno a Edgar)
+Per Dio, quell'arme
+A me!...
+
+TIGRANA
+Partiamo !!
+
+FRANK
+(facendo come uno sforzo supremo per seguirla, ma trattenuto)
+Abbietta creatura,
+Maledizione a te!
+
+CORO
+(meno Fidelia)
+(ai due fuggenti)
+Maledizione!
+(Frank cade fra le braccia di Gualtiero; tutti lo circondano; Fidelia accorre a lui - L'incendio divampa.)
+# Atto secondo
+
+(Giardino elegante. Una lunga balaustrata di marmo traversa la scena da sinistra a destra nel fondo. Al di là paesaggio di campagna. Obliquamente, sul davanti a sinistra, la facciata del castello. La sala terrena di esso, che s'intravvede dal pubblico, sarà splendidamente illuminata. Una larga scalinata conduce dalla sala terrena nel giardino. È notte.)
+
+## Scena prima
+EDGAR
+(venendo dalla destra sul davanti del proscenio)
+Orgia, chimera - dall'occhio vitreo,
+Dal soffio ardente - che i sensi incendia,
+A me, dell'alta - notte nel glauco;
+Mister silente, - tu torni ancor...
+Ma invan ritorni! - Non più l'oblio,
+Gioia dei reprobi, - nel petto mio
+Versar tu puoi! - Non più dai tuoi
+Sguardi ammaliato - sarà il mio cor!
+O soave vision - di quell'alba d'april,
+O vision gentil - d'amore e di splendor!
+Fu Iddio che ti mandò - quel dì sul mio cammin......
+Ma al raggio tuo divin, - aimè, fui cieco allor!
+Nell'abisso fatal, - dov'io caduto or son,
+Rimpianta vision,
+Te il mio pensiero evòca sempre ancor!
+(come rammentando)
+Sovra un sereno ciel - si disegna il profil,
+Purissimo, infantil, - dell'angiol che mi amò...
+Ma il fior ch'ella mi diè, - come pegno d'amor,
+In simbol di dolor - quest'oggi si mutò!
+(si allontana lentamente, pensieroso, a destra)
+(Tigrana, Convitati, Cortigiane, uscendo tumultuosamente da sala del banchetto, colle coppe nelle mani, mentre alcuni Valletti sostano in fondo.)
+
+CORO
+(brandendo le coppe)
+Evviva!... Le coppe colmate!
+
+TIGRANA
+A me la mia coppa!... Versate!
+(i valletti eseguiscono)
+
+CORO
+Da bere versate!... Versate!!
+
+TIGRANA
+La coppa è immagin della vita...
+Essa all'ebbrezza, al gaudio invita!
+Ecco, la stringe già la man...
+Ecco, non è il labbro lontan!!
+
+CORO
+Beviam!... Godiam!
+
+TIGRANA
+Ma sta il destino in mezzo a lor;
+E forse pria che nel licor
+Si bagni il labbro, quella man
+Coglie di morte il gelo arcan!
+
+CORO
+La coppa è immagin della vita!...
+Essa all'ebbrezza, al gaudio invita!
+Godiam!... Beviam!
+
+TIGRANA
+Pallida morte, bieca sorte,
+Fantasmi orrendi del dolor,
+Stringendo in man la coppa d'or,
+Voi non ci fate più terror!
+Pallida morte, - fantasmi orrendi,
+Noi vi sfidiam!
+Al varco, o sorte - tu invan ci attendi.
+Non ti temiam!
+(indicando la coppa)
+Per te l'anima è forte!
+Per te la vita - ferve nel cuor!
+Con te nel pugno - venga la morte!
+
+CORO
+Alle procaci - labbra tu insegni
+Languori e baci!
+
+TIGRANA
+O coppa, o simbol della vita,
+Nell'aria breve... ed infinita,
+Che il labbro mio sparte da te,
+Dimmi: il destin che serba a me?
+Fors'ei per me creando sta
+Ignote gioie e voluttà
+Quali nessun quaggiù provò?...
+Fors'ei la morte a me serbò!...
+
+CORO
+Coppa, risponder tu non puoi!...
+Dell'avvenir che importa a noi?!
+Dell'avvenir più non chiediam
+Se a te libar oggi possiam!
+Suvvia!... Godiam!... Beviam!
+L'avvenire sfidiam!
+
+TIGRANA
+Al gioco!
+
+CORO
+Al gioco!... Al gioco!
+(rientrano tumultuosamente nelle sale del castello. - Edgar compare a destra in fondo)
+
+## Scena seconda
+(Tigrana - Edgar.)
+
+TIGRANA
+(andando ad Edgar)
+Edgar, sulla tua fronte
+Erran tetri pensieri...
+Essi son neri
+Come l'abisso immondo
+Ove scesi con te!...
+
+TIGRANA
+Tu più non m'ami...
+
+EDGAR
+La parola d'amor non profanar!
+
+TIGRANA
+Quel che sognavi un di - d'orgie e di baci
+Sogno febbril, donarlo io seppi a te...
+Per sempre, intendi, il fato ora ci uni...
+Un mendico sarai lungi da me!
+
+EDGAR
+Taci, demonio!... Taci!...
+
+TIGRANA
+Dalla valle natia perchè fuggir,
+E la casa paterna incendiar?
+Tutto perdesti... Or la tua sorte è mia...
+In me soltanto, Edgar, tu puoi sperar!
+(avvicinandosi ad Edgar, e fissandolo voluttuosamente)
+Dal labbro mio - suggi l'obblio
+E a te il doman - sorriderà...
+Nuovi deliri - il bacio mio
+A te darà - di voluttà.
+
+EDGAR
+Nè un raggio a me - brillar vedrò,
+Un raggio sol - di speme ancor?...
+Nè mai da te - fuggir potrò?...
+Da questo abisso - d'onta e d'orror?
+
+TIGRANA
+Contro il tuo fato Edgar vano è lottar!
+Ogni velen - tu eredi l'in sen
+No, dall'infamia Iddio mi toglierà!
+Baci per te il mio labbro più non ha...
+Sol maledirti ei può!...
+Morrò di stenti... ma fuggir io vo'
+(suoni di tamburo e trombe poco lontani)
+
+CORO
+(nell'interno)
+Uno squillo marzial!...
+
+CORO
+(nell'interno)
+Passa una schiera
+Di soldati alla porta del castello!
+
+CORO
+Come sfavillan l'armi
+Al raggio della luna!
+
+EDGAR
+(fra sè)
+Ah!... Qual pensiero!
+A me lo manda Iddio!
+(correndo verso il fondo)
+Olà, soldati,
+Sostate!
+
+CORO
+(fuori del castello)
+Che vuoi tu?
+
+EDGAR
+Nel mio castello entrate...
+Una coppa di vino
+D'accettar vi degnate,
+Prodi guerrier!
+
+CORO
+Evviva!... Evviva!
+
+TIGRANA
+(sospettosa, avvicinandosi a Edgar)
+Or bene,
+Che intendi far?
+
+EDGAR
+Mi lascia!
+(Frank, Soldati - Detti)
+
+CORO E FRANK
+(col morione calato, avanzandosi)
+Colla fronte lieta e altera
+Il guerrier combatte e muor
+Se dei giusti la bandiera
+Dio confida al suo valor!
+
+CORO
+(ritornando in scena e andando incontro ai soldati)
+Sempre arrida, o balda schiera,
+La fortuna al tuo valor!
+All'invitta tua bandiera
+Noi daremo lauri e fior!
+
+FRANK
+(con sorpresa, riconoscendoli, fra sè)
+Tigrana!... Edgar!...
+
+EDGAR
+(porgendo a Frank una coppa ricolma di vino mentre alcuni valletti mescono ai soldati)
+Capitan, questa coppa
+Degna gradir!... Te l'offre
+Un soldato novello!
+
+CORO
+Che mai dicesti?
+
+EDGAR
+Si... Stanco son io
+Di questa molle vita!
+
+FRANK
+(fra sè)
+O immensa gioia!
+Dunque perduto egli non è!
+
+EDGAR
+(a Frank)
+Partire,
+partir con te voglio!
+
+FRANK
+(a Edgar, sollevando il morione)
+Il mio volto rammenti?
+
+EDGAR E TIGRANA
+(riconoscendolo)
+Ah!... Frank!...
+
+CORO
+Che avvenne mai?
+
+EDGAR
+(con improvvisa risoluzione volgendosi ai soldati)
+A me una spada!
+
+TIGRANA
+(avvicinandosi a Frank)
+Deh, se è ver che un giorno
+Mi amasti, a me non toglierlo!
+
+FRANK
+Ti disprezzo!...
+(fa per allontanarsi, Tigrana lo afferra per un braccio)
+
+TIGRANA
+A temermi
+T'insegnerò!... M'ascolta: ei m'appartiene!
+Guai s'ei non torna a me!... Non v'ha delitto
+Che compir non saprà la mia vendetta!
+
+EDGAR
+(avanzandosi colla spada nel pugno)
+Dio ti ringrazio!... Giorno di battaglia
+Sarà il domani!... Io pugnerò con voi!
+Di Filippo di Francia sotto il giogo
+Fiandra non passerà!
+
+CORO
+(sguainando le spade)
+Della Fiandra alla gloria, alla vittoria!
+Della Fiandra alla santa libertà!
+
+CORO
+A pugnar con voi verrà
+Chi codardo il cor non ha!
+(Le trombe squillano. - Edgar, Frank e i soldati muovono verso il fondo. - Alcuni Convitati si uniscono a loro. - Tigrana vorrebbe trattenere Edgar, è respinta e va a cadere sulla gradinata, facendo un gesto di minaccia, mentre i Convitati rimasti e le Cortigiane escono seguendo i soldati)
+
+TIGRANA
+(alzandosi, correndo verso il fondo)
+Ah... maledetto!... Egli mi sfugge... ed io
+Che lo sprezzava, or, disprezzata, l'amo!
+(avanzandosi)
+Ma se la schiava io sono
+D'uno strano demonio,
+Degna, o inferno, di te sarà Tigrana!
+Edgar, lo giuro, a me tornar dovrai!
+O della morte o mio,
+Tu soltanto sarai!
+(stende la destra minacciosa verso il fondo)
+
+# Atto terzo
+
+(Vasta spianata presso Courtray. Un accampamento in fondo. - Colline e un villaggio a destra, in lontananza. - sinistra una piccola chiesa, innanzi alla quale, su una breve gradinata, un catafalco funebre. - È il tramonto. - Il cielo fiammeggiante è solcato da negre strisce di nubi.)
+
+## Scena prima
+(Alcuni Popolani - Alcuni Soldati.)
+
+CORO
+È dunque ver?... Peri?
+
+CORO
+Sì... pugnando morì...
+
+CORO
+(guardando a sinistra)
+Il corteggio qui vien.
+
+## Scena seconda
+(Detti. Corteggio funebre, cioè: Fanciulli, Soldati, Popolo, ecc.; alcuni soldati portano a spalle una barella su cui sta un cavaliere morto, in perfetta armatura; sulla barella e sul cadavere fiori e rami d'alloro; seguono la barella un Frate e Frank; il Frate ha il cappuccio che gli scende sul volto; Frank la visiera calata a mezzo; dietro al Frate e a Frank parecchi Monaci, poi, col popolo, Fidelia e Gualtiero.)
+
+CORO
+(popolo e fanciulli entrando in scena)
+Requiem æternam!
+(mentre la barella vien deposta dai soldati sul catafalco)
+In pace factus est locus ejus!
+
+CORO
+Et in Sion abitatio ejus!
+
+CORO
+Del Signor la pupilla
+Veglia nell'ombre eterne...
+Il bene e il mal discerne...
+Ei vede il giusto e il reo...
+
+CORO
+Ora pro eo...
+
+CORO
+Entra nel cielo il buon che cade
+Sotto le inique spade!
+
+FIDELIA
+(fra sè)
+Non basta il pianto al mio dolor,
+O Edgar, mio solo amor!
+
+CORO
+Riposa in pace, o pio guerriero...
+Salva è la tua patria diletta!...
+In noi non vive che un pensiero;
+Quel di compir la tua vendetta!
+
+CORO
+Deus, in virtute tua judica me!
+
+CORO
+Deus, in virtute tua judica me!
+
+CORO
+Deus, exaudi orationem meam!
+
+CORO
+Deus, exaudi orationem meam!
+
+CORO
+Noi nel tuo nome, - pel patrio suol,
+Il sangue nostro - saprem versar...
+Iddio la Fiandra - schiava non vuol.
+Per te e la patria - morremo, Edgar!
+
+FIDELIA
+Addio, mio dolce amore...
+Nell'ombra ove discendi,
+Solenne ed infinita
+Anch'io verrò... M'attendi!
+O fredda salma - del mio signore,
+Quest'oggi è spento - con te il mio cuor.
+Dove tu solo - regni, o dolore,
+La giovinezza - non ha più fior!
+O Edgar, la tua memoria
+Sarà il mio sol pensiero!
+Lassù, nella tua gloria,
+M'attendi, Edgar, lassù!
+
+CORO
+O Edgar, o pio guerriero,
+A te in eterno gloria!
+La sacra tua memoria
+Non perirà mai più!
+
+CORO
+(benedicendo gli astanti e il cadavere)
+In pace factus est locus ejus, et in Sion abitatio ejus.
+(Frank sale presso il catafalco in atto di voler pronunziare l'orazione funebre)
+
+FRANK
+Del prode Edgar, del nostro capitano
+Glorioso il nome suoni!
+Fu brezza per i buoni,
+Per gli empi fu uragano...
+Nel suo nobil cuor
+Due nomi eran scolpiti: Patria e onor!
+
+IL FRATE
+(avanzandosi ad alcuni soldati e popolani)
+D'Edgar l'onor io contestar non vo'...
+Ma la casa paterna egli incendiò
+E l'orgia amò... - Voi forse l'ignorate,
+Ma sincero è il mio dir...
+
+CORO
+Silenzio, frate!
+
+FRANK
+(continuando l'orazione funebre)
+Alto l'acciar, dove batteva il cuore
+Della battaglia, egli era
+Per noi viva bandiera,
+Pei nemici terrore...
+Il nome suo vivrà
+Perchè il suo nome suona: libertà!
+
+IL FRATE
+Fu prode, è ver... - ma d'un avventurier
+Fu il suo valor... Tutto ei perduto avea
+E tutto osar potea... - Non rammentate
+Di tal genia l'ardir?
+
+FRANK
+Silenzio, Frate!
+
+CORO
+(a Frank)
+No... lascialo parlar!
+
+IL FRATE
+Edgar mi impose
+Di rivelar le colpe sue morendo,
+Di penitenza e insiem d'esempio in segno,
+Ogni inganno a bandir!
+
+CORO
+(avvicinandosi al Frate e facendo segno ad altri di imitarli)
+Udite!...
+
+CORO
+Parla!
+
+IL FRATE
+V'è alcun fra voi del suo villaggio?
+
+CORO
+Noi!
+
+IL FRATE
+Sta bene!... Or dunque rispondete: È ver
+Ch'ei la sua casa un dì incendiò?... Che a voi
+Scherni ed insulti osò scagliar?
+
+CORO
+Sì... è ver!
+
+IL FRATE
+È ver che Frank ferì?... Che con Tigrana,
+La cortigiana - allor fuggì?
+
+CORO
+Sì... è ver!
+
+IL FRATE
+Or, se gioco non son le umane leggi,
+E le divine, un empio ei fu!
+
+CORO
+Sì... è ver!
+
+FIDELIA
+(fra sè)
+Orror!... Sulla sua bara
+Egli accusarlo osò!
+
+GUALTIERO
+(piano a Fidelia)
+O figlia mia, partiamo...
+Il sol già tramontò!
+
+IL FRATE
+(sempre incalzando e traendo intorno a sè tutto il popolo e tutti i soldati)
+Ei tutto nell'orgia - nel gioco perdea...
+Ma cari i suoi baci - Tigrana vendea...
+Ei visse dell'òr
+Che dà il disonor!
+
+CORO
+Vergogna!...
+
+IL FRATE
+(cupamente, come chi insinua l'accusa più terribile dopo aver preparati gli animi)
+Al suo castello - era un bosco vicino
+E più d'un viandante - ivi perì...
+
+CORO
+(inorriditi)
+Assassino!
+
+CORO
+(colle destre tese verso il catafalco in atto d'imprecazione)
+Ai corvi il suo cadavere!
+Vergogna e orror - la sua memoria
+D'ogni fiammingo - desterà nel cuor!
+(fanno atto di slanciarsi verso il catafalco per strapparne il cadavere)
+
+FIDELIA
+(accorrendo, sale i gradini e fa schermo del proprio corpo al cadavere; poi con gran fermezza)
+Non più!... Fermate!
+(il popolo e i soldati si fermano e indietreggiano)
+
+IL FRATE
+(fra sè, guardando Fidelia con grande emozione)
+Angiolo santo!...
+Osò difenderlo
+Ella soltanto!
+
+FIDELIA
+(al Frate)
+La prece, o frate,
+Non l'anatèma,
+Nell'ora estrema,
+Presso un avel,
+Comanda il ciel!
+(fra sè)
+D'ogni dolor questo è il più gran dolor:
+Insultato veder chi si adorò!
+No, puro Edgar tu sei, mio solo amor...
+Puro tu sei... io ti difenderò!
+
+GUALTIERO
+(avvicinandosi a Fidelia, come se temesse per lei)
+Figlia!...
+
+CORO
+(fissando Fidelia, fra loro)
+Bella e gentile ell'è davver!
+
+FIDELIA
+Nel villaggio d'Edgar son nata anch'io...
+E lo conobbi... Errò... Che importa!... Pio
+Era il suo cuor, se ardente il suo pensier...
+E della giovinezza il breve error
+Col suo sangue scontò... col suo valor!
+
+CORO
+Brava fanciulla!...
+
+FIDELIA
+Al vostro capitano
+V'inchinate, o soldati!
+(indicando la chiesa)
+Or là attender io vo' che spunti il giorno...
+Con me al villaggio ancor ei tornerà!...
+Nel nostro cimiter riposerà,
+Finchè con lui nell'ideal soggiorno
+A me la pace eterna il ciel darà!
+(I soldati s'inginocchiano innanzi al feretro, poi tutti si allontanano lentamente. - Il Frate va ad inginocchiarsi presso il catafalco a destra in fondo. - Frank è ancora in piedi alla sinistra. - Gualtiero si avvicina a Fidelia come facendole dolce violenza per allontanarla)
+
+FIDELIA
+(dopo aver fatto cenno al padre di concederle un ultimo istante, si avvicina al catafalco, ne toglie un ramoscello d'alloro, lo bacia, se lo pone in seno)
+Addio, mio dolce amor!
+Nell'ombra ove discendi,
+Solenne ed infinita
+Anch'io verrò... M'attendi!
+(Entra in chiesa con Gualtiero rivolgendo spesso il volto, come se non volesse mai staccare lo sguardo dal catafalco. - Intanto Frank discende dalla gradinata, il Frate si alza; entrambi guardano Fidelia e Gualtiero finchè sono scomparsi, poi si avanzano parlando sommessamente fra loro)
+# Atto quarto
+
+## Scena prima
+(Tigrana, Frank, Tigrana, Frate.)
+
+TIGRANA
+(internamente a destra)
+Voglio passar...
+
+IL FRATE
+(a Frank)
+La voce di Tigrana!
+Nella mia coppa rimanea la feccia!
+
+TIGRANA
+(venendo dalla destra a malgrado che una sentinella tenti impedirle il passo)
+Il passo mi sgombrate!
+(avanzandosi, al frate)
+A me concesso, o frate,
+Sia di vegliar pregando
+Del capitano Edgar presso la salma.
+
+IL FRATE
+(indicandogliela)
+Eccola!...
+
+TIGRANA
+(sospirando, guardandola)
+Aimè!
+(poi fra sè)
+Finite son le esequie...
+Nessun vedrà il mio lutto!
+(va a lenti passi verso la bara)
+
+IL FRATE
+(fra sè)
+In lei tanta pietà?... Menzogna è questa
+Al par dell'altre sue!... Ma sia l'estrema!
+(a Frank, che fa per andarsene)
+No...... con me resta... Ascolta!
+(Il Frate indica Tigrana a Frank e continua a parlargli sommessamente)
+
+TIGRANA
+(accorgendosi d'essere osservata, fra sè, perplessa)
+Io che pregar non seppi mai,
+Come pregar ora saprò?
+(con tono enfatico avvicinandosi alla bara)
+Edgar, Edgar, quant'io t'amai
+Umano labbra dir non può!
+(sempre più enfatica)
+T'amai siccome il fior
+Il raggio ama del sol!
+O mio perduto amor!
+O palpito mio sol!
+
+IL FRATE
+(a Frank)
+Pregare, amar non seppe mai
+Chi visse sol di voluttà;
+Del suo dolor, tu lo vedrai,
+Solo a far pompa ella qui sta!
+Ma il suo mentito amor
+Io smascherar saprò...
+Nel perfido suo cuor
+Fra poco io leggerò.
+
+FRANK
+Sempre ignorò preghiera e amore
+Chi visse sol di voluttà...
+Ma spesso il ciel redime un cuore
+Con un istante di pietà.
+Se mente il suo dolor
+Con te saper io vo'...
+Interroga il suo cuor,
+Io ti seconderò!!
+(Tigrana va ad inginocchiarsi presso il catafalco - Frank fa atto d'aver compreso un desiderio espressogli dal Frate e di prestarsi ad eseguirlo)
+
+IL FRATE
+(andando presso Tigrana con galanteria)
+Bella signora, il pianto sciupa gli occhi;
+Avvizzano i sospiri un bianco sen;
+Io vi chieggo pietà per quei ginocchi
+Che voi dannate ai morsi del terren!
+Lasciatemi pregar... V'allontanate!!
+(il Frate s'allontana)
+
+FRANK
+(avvicinandosi a Tigrana, alla sua volta)
+Bella signora, il morto esser vorrei,
+Chè il vostro lutto avrei, - dama gentil!
+Del vostro pianto - una perla soltanto
+Le mille perle val d'ogni monil!
+(mostra a Tigrana una collana di perle)
+
+TIGRANA
+(scossa alla vista della collana, poi rimettendosi, severamente)
+Va!... Non tentarmi!
+(Frank s'allontana)
+
+IL FRATE
+(avvicinandosi di nuovo a Tigrana e mostrandole un anello)
+Guarda!
+
+TIGRANA
+(scossa, alzandosi, guardando l'anello)
+O meraviglia!
+
+IL FRATE
+(incalzando, seguendola fino al proscenio, alla sua destra)
+Un detto della tua bocca vermiglia
+E quest'anello è tuo!
+
+TIGRANA
+(fra sè)
+Un detto?!
+
+FRANK
+(avvicinandosi al Frate, indicandogli Tigrana)
+Come
+Da fiamma maliarda affascinata,
+Osserva, ell'è di già!
+(passando alla sinistra di Tigrana e mostrandole un nuovo gioiello)
+Prezzo non ha,
+Signora, questo vezzo!
+
+TIGRANA
+(contemplando il nuovo gioiello mostratole da Frank)
+Qual baglior!
+
+IL FRATE
+(prendendo il gioiello che Frank sta mostrando a Tigrana, guardandolo come volesse giudicare del suo valore, poi restituendoglielo con atto sprezzante)
+Capitan, la tenti invan!
+(le mostra un monile ricchissimo)
+Un detto, un detto solo!!
+Guarda...... Guarda!...!....
+
+TIGRANA
+Oh portento!
+(fra sè)
+Perchè mai
+Così mi tenta?...
+
+IL FRATE
+(incalzando, con piglio misterioso)
+Queste gemme avrai
+Se all'odio mio oggi servir vorrai!!
+
+TIGRANA
+All'odio tuo?
+
+IL FRATE
+Sì!
+
+TIGRANA
+Strane parole!
+
+IL FRATE
+(come tentandola satanicamente, dandole il monile)
+Guarda!... Guarda!... risplende al par del sole!
+Or ben?...
+
+TIGRANA
+(dopo qualche esitazione e dopo aver fissato ancora il monile)
+Vincesti!
+
+FRANK E CORO
+(riprendendo il monile a Tigrana, andando verso il fondo)
+Squilli la tromba!
+(squillo di tromba interno, seguito da altri squilli)
+
+CORO
+All'armi!...
+
+TIGRANA
+(scossa, al Frate)
+Or quale - mistero?
+
+IL FRATE
+(a Tigrana)
+Attendi!
+
+## Scena seconda
+(Soldati - Detti.)
+
+CORO
+(accorrendo da tutte le parti)
+Che fu?...
+
+IL FRATE
+Venite!... - Io d'una tomba
+L'onor, soldati, - contesi a Edgar......
+M'han detto: - Tu i morti offendi!
+Alla mia voce - fè non prestàr!!
+(indicando Tigrana)
+Or dunque a voi risponda
+Costei... d'Edgar l'amante!
+
+CORO
+Ella?!...
+
+IL FRATE
+Sì!
+(a Tigrana)
+Parla:
+È ver che Edgar, per sete d'ôr, volea
+Tradir la patria?...
+
+FRANK, TIGRANA E CORO
+Ciel!!
+
+IL FRATE
+(piano a Tigrana)
+Lo afferma... e tuo
+Sarà il monil!
+(mostrandole ancora il monile)
+Guarda!
+
+FRANK E CORO
+(a Tigrana)
+Rispondi...
+
+IL FRATE
+(piano a Tigrana che esita)
+Avrai,
+Se affermi, mille gemme al par di queste...
+Io t'amo !...!... Edgar tu amasti... Io l'odio !!
+
+FRANK E CORO
+(a Tigrana incalzando)
+Parla!
+Rispondi!
+
+TIGRANA
+(dopo una pausa, prendendo il monile dalle mani del Frate)
+È ver!...
+Maledizione a lui!
+Ai corvi il suo cadavere!
+(i soldati vanno verso la bara, afferrano il corpo che vi giace, ma nelle loro mani non restano che dei pezzi di armatura)
+
+CORO
+(lasciando cadere i pezzi d'armatura con terrore)
+Gran Dio!...
+
+IL FRATE
+(ironico)
+Che fu?...
+
+CORO
+Non vedi?... Vuota è l'armatura!!
+
+IL FRATE
+(buttando via la veste da monaco e comparendo nel costume di guerriero)
+Sì... poichè vive Edgar!...
+
+CORO
+(ritraendosi)
+Onta su noi!
+
+EDGAR
+(con impeto terribile a Tigrana che indietreggia)
+O lebbra, o sozzura del mondo...
+O fronte di bronzo e di fango...
+Tortura e gingillo giocondo...
+Va... fuggi! Va... fuggi... o t'infrango!
+(fa per afferrarla. - Tigrana gli sfugge e si ritrae verso i soldati, presso la bara)
+
+TIGRANA
+(ai soldati)
+Oh... il vil!... Mi difendete!
+
+FRANK E CORO
+Va... t'allontana... abbietta cortigiana!
+(i soldati fanno timidamente qualche passo verso Edgar come per chiedergli perdono)
+
+EDGAR
+(ai soldati)
+Maledizione a voi!... Redento io son!
+Per voi morto son io!
+O gloria, o voluttà, bieche illusion,
+Addio per sempre... Addio!
+(Edgar strappa alcuni rami d'alloro alla bara, li sfronda, li butta a terra e li calpesta gettandone altri sdegnosamente ai soldati. - Tigrana, fra gli insulti di costoro, si ritrae presso i gradini della chiesa, sulla soglia della quale compariscono Gualtiero e Fidelia)
+## Scena terza
+(Fidelia vedendo Edgar ha un grido di sorpresa e di gioia, poi corre verso di lui; anche Edgar si slancia verso di lei. Allora Tigrana, rapidamente, si avvicina a Fidelia e la colpisce col pugnale al cuore. - Fidelia cade fulminata nelle braccia di Edgar e di Gualtiero mentre Frank insegue Tigrana che tenta di fuggire e con parecchi soldati l'afferra. Tigrana cerca invano di svincolarsi. Frank le strappa il pugnale e lo getta alcuni passi lontano. Edgar a questo punto si volge; la vista di Tigrana fa tacere in lui per un momento l'angoscia per la morte di Fidelia; raccogliendo il pugnale, egli ghermisce Tigrana, la trascina ai piedi del catafalco, ve la fa inginocchiare e alza l'arme su di lei per ucciderla. - Ma Frank accorre e gli ferma il braccio)
+
+FRANK
+No!... Alla mannaia!
+
+CORO
+Orror!... Alla mannaia!
+(Edgar si abbandona sul corpo di Fidelia singhiozzando, mentre Gualtiero si getta nelle braccia di Frank; alcuni soldati trascinano via Tigrana)
+(Quadro. - Cala rapidamente la tela)
