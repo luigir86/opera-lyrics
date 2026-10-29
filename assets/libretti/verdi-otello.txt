@@ -1,0 +1,2692 @@
+title: Otello
+composer: Giuseppe Verdi
+librettist: Arrigo Boito
+year: 1887
+source: https://www.loc.gov/item/2010656966/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Atto primo
+
+(Una taverna con pergolato. Gli spaldi nel fondo e il mare. È sera. Lampi, tuoni, uragano.)
+
+## Scena prima
+(Jago, Roderigo, Cassio, Montàno, più tardi Otello. Cipriotti e Soldati veneti.)
+
+CORO
+Una vela!
+
+CORO
+Una vela!
+Un vessillo!
+Un vessillo!
+
+MONTÀNO
+È l'alato Leon!
+
+CORO
+la folgor lo svela.
+(che sopraggiungono)
+Uno squillo!
+(che sopraggiungono)
+Uno squillo!
+
+TUTTI
+Ha tuonato il cannon.
+
+CASSIO
+È la nave del Duce.
+
+MONTÀNO
+Or s'affonda,
+Or s'inciela...
+
+CASSIO
+Erge il rostro dall'onda.
+
+CORO
+Nelle nubi si cela e nel mar,
+E alla luce dei lampi ne appar.
+
+TUTTI
+Lampi! tuoni! gorghi! turbi tempestosi e fulmini!
+Treman l'onde, treman l'aure, treman basi e culmini.
+Fende l'etra un torvo e cieco spirto di vertigine,
+Iddio scuote il cielo bieco, come un tetro vel.
+Tutto è fumo! tutto è fuoco! l'orrida caligine
+Si fa incendio, poi si spegne più funesta, spasima
+L'universo, accorre a valchi l'aquilon fantasima,
+I titanici oricalchi squillano nel ciel.
+(entrano dal fondo molte donne del popolo)
+
+TUTTI
+(con gesti di spavento e di supplicazione e rivolti verso lo spaldo)
+Dio, fulgor della bufera!
+Dio, sorriso della duna!
+Salva l'arca e la bandiera
+Della veneta fortuna!
+Tu, che reggi gli astri e il Fato!
+Tu, che imperi al mondo e al ciel!
+Fa che in fondo al mar placato
+Posi l'àncora fedel.
+È infranto l'artimon!
+
+RODERIGO
+Il rostro piomba
+Su quello scoglio!
+
+CORO
+Aita! aita!
+
+JAGO
+(a parte)
+(L'alvo
+Frenetico del mar sia la sua tomba!)
+È salvo! salvo!
+
+CORO
+Gittate i palischermi!
+Mano alle funi! Fermi!
+Forza ai remi!
+(scendono la scala dello spaldo)
+Alla riva!...
+
+CORO
+All'approdo! allo sbarco!
+
+CORO
+Evviva! Evviva!
+
+OTELLO
+(dalla scala della spiaggia salendo sullo spaldo con seguito di marinai e di soldati)
+Esultate! L'orgoglio musulmano
+Sepolto è in mar, nostra e del cielo è gloria!
+Dopo l'armi lo vinse l'uragano.
+
+TUTTI
+Evviva Otello! - Vittoria! vittoria!!
+(Otello entra nella rôcca, seguito da Cassio, da Montàno e dai soldati)
+
+CORO
+Vittoria! Sterminio!
+Dispersi, distrutti,
+Sepolti nell'orrido
+Tumulto piombàr.
+
+EMILIA
+Avranno per requie
+La sferza dei flutti,
+
+LODOVICO
+La ridda dei turbini,
+
+EMILIA
+L'abisso del mar.
+
+CORO
+Dio
+Si calma la bufera.
+
+JAGO
+(in disparte a Roderigo)
+Roderigo,
+Ebben, che pensi?
+
+RODERIGO
+D'affogarmi...
+
+JAGO
+Stolto
+È chi s'affoga per amor di donna.
+
+RODERIGO
+Vincer nol so.
+
+RODERIGO
+(alcuni del popolo formano da un lato una catasta di legna: la folla s'accalca intorno turbolenta e curiosa)
+
+JAGO
+Suvvia, fa senno, aspetta
+L'opra del tempo. A Desdemona bella,
+Che nel segreto de' tuoi sogni adori,
+Presto in uggia verranno i foschi baci
+Di quel selvaggio dalle gonfie labbra.
+Buon Roderigo, amico tuo sincero
+Mi ti professo, nè in più forte ambascia
+Soccorrerti potrei. Se un fragil voto
+Di femmina non è tropp'arduo nodo
+Pel genio mio nè per l'inferno, giuro
+Che quella donna sarà tua. M'ascolta,
+Bench'io finga d'amarlo, odio quel Moro...
+(Entra Cassio: poi s'unisce a un crocchio di soldati)
+(Jago sempre in disparte a Roderigo)
+È una cagion dell'ira, eccola, guarda.
+(indicando Cassio)
+Quell'azzimato capitano usurpa
+Il grado mio, il grado mio che in cento
+pugnate battaglie ho meritato;
+Tal fu il voler d'Otello, ed io rimango
+Di sua Moresca signoria l'alfiere!
+(dalla catasta incominciano ad alzarsi dei globi di fumo sempre più denso)
+Ma, come è ver che tu Rodrigo sei,
+Così è pur certo che se il Moro io fossi
+Vedermi non vorrei d'attorno un Jago.
+Se tu m'ascolti...
+(Jago conduce Rodrigo verso il fondo)
+(il fuoco divampa. I soldati s'affollano intorno alle tavole della taverna)
+
+CORO
+(mentre dura il canto intorno al fuoco di gioia, i tavernieri appenderanno al pergolato dell'osteria delle lanterne veneziane a varî colori che illumineranno gaiamente la scena, I soldati si saranno adunati intorno alle tavole, parte seduti, parte in piedi, ciarlando e bevendo)
+Fuoco di gioia! - l'ilare vampa
+Fuga la notte - col suo splendor,
+Guizza, sfavilla - crepita, avvampa
+Fulgido incendio - che invade il cor.
+Dal raggio attratti - vaghi sembianti
+Movono intorno - mutando stuol,
+E son fanciulle - dai lieti canti,
+E son farfalle - dall'igneo vol.
+Arde la palma - col sicomoro,
+Canta la sposa - col suo fedel,
+Sull'aurea fiamma - sul gaio coro
+Soffia l'ardente - spiro del ciel.
+Fuoco di gioia - rapido brilla!
+Rapido passa - fuoco d'amor!
+Splende, s'oscura - palpita, oscilla,
+L'ultimo guizzo - lampeggia e muor.
+(il fuoco si spegne a poco a poco: la bufera è cessata)
+(Jago, Roderigo, Cassio e parecchi altri uomini d'arme intorno a un tavolo dove c'è del vino: parte in piedi, parte seduti).
+
+JAGO
+Roderigo, beviam! qua la tazza,
+Capitano.
+
+CASSIO
+Non bevo più.
+
+JAGO
+(avvicinando il boccale alla tazza di Cassio)
+Ingoia
+Questo sorso.
+
+CASSIO
+(ritirando il bicchiere)
+No.
+
+JAGO
+Guarda! oggi impazza
+Tutta Cipro! è una notte di gioia,
+Dunque...
+
+CASSIO
+Cessa. Già m'arde il cervello
+Per un nappo vuotato.
+
+JAGO
+Sì, ancora
+Ber tu devi. Alle nozze d'Otello
+E Desdemona!
+
+TUTTI
+(tranne Roderigo)
+Evviva!
+
+CASSIO
+(alzando il bicchiere e bevendo un poco)
+Essa infiora
+Questo lido.
+
+JAGO
+(sottovoce a Roderigo)
+(Lo ascolta.)
+
+CASSIO
+Col vago
+Suo raggiar chiama i cuori a raccolta.
+
+RODERIGO
+Pur modesta essa è tanto.
+
+CASSIO
+Tu, Jago,
+Canterai le sue lodi!
+
+JAGO
+(a Roderigo)
+(Lo ascolta.)
+(forte a Cassio)
+Io non sono che un critico.
+
+CASSIO
+Ed ella
+D'ogni lode è più bella.
+
+JAGO
+(come sopra, a Roderigo, a parte)
+(Ti guarda
+Da quel Cassio.
+
+RODERIGO
+Che temi?
+
+JAGO
+(sempre più incalzante)
+Ei favella
+Già con troppo bollor, la gagliarda
+Giovinezza lo sprona, è un astuto
+Seduttor che t'ingombra il cammino.
+Bada...
+
+RODERIGO
+Ebben?
+
+JAGO
+S'ei s'innebbria è perduto!
+Fallo ber.)
+(ai tavernieri)
+Qua, ragazzi, del vino!
+(Jago riempie tre bicchieri: uno per sè, uno per Roderigo, uno per Cassio. I tavernieri circolano colle anfore)
+(Jago a Cassio col bicchiere in mano: la folla gli si avvicina e lo guarda curiosamente)
+Inaffia l'ugola!
+Trinca, tracanna!
+Prima che svampino
+Canto e bicchier.
+
+CASSIO
+(a Jago, col bicchiere in mano)
+Questa del pampino
+Verace manna
+Di vaghe annugola
+Nebbie il pensier.
+
+JAGO
+(a tutti)
+Chi all'esca ha morso
+Del ditirambo
+Spavaldo e strambo
+Beva con me.
+
+CORO
+Chi all'esca ha morso
+Del ditirambo
+Spavaldo e strambo
+Beve con te.
+
+JAGO
+(piano a Roderigo indicando Cassio)
+(Un altro sorso
+È brillo egli è.)
+(ad alta voce)
+Il mondo palpita
+Quand'io son brillo!
+Sfido l'ironico
+Nume e il destin!
+
+CASSIO
+(bevendo ancora)
+Come un armonico
+Liuto oscillo;
+La gioia scalpita
+Sul mio cammin!
+
+JAGO
+(come sopra)
+Chi all'esca ha morso
+Del ditirambo
+Spavaldo e strambo
+Beva con me!
+
+TUTTI
+Chi all'esca ha morso
+Del ditirambo
+Spavaldo e strambo
+Beve con te!
+
+JAGO
+(a Roderigo)
+(Un altro sorso
+Ed ebbro egli è.)
+(ad alta voce)
+Fuggan dal vivido
+Nappo i codardi
+Che in cor nascondono
+Frodi e mister.
+
+CASSIO
+(alzando il bicchiere, al colmo dell'esaltazione)
+In fondo all'anima
+Ciascun mi guardi!
+(beve)
+Non temo il ver...
+(barcollando)
+Non temo il ver... - e bevo...
+
+TUTTI
+(ridendo)
+Ah! Ah!
+
+CASSIO
+Del calice
+Gli orli s'imporporino!...
+
+JAGO
+(a Roderigo, in disparte mentre gli altri ridono di Cassio)
+(Egli è briaco fradicio. Ti scuoti.
+trascina a contesa; è pronto all'ira,
+T'offenderà... ne seguirà tumulto!
+Pensa che puoi così del lieto Otello
+Turbar la prima vigilia d'amore!
+
+RODERIGO
+(risoluto)
+Ed è ciò che mi spinge.)
+
+MONTÀNO
+(entrando e rivolgendosi a Cassio)
+Capitano,
+V'attende la fazione ai baluardi.
+
+CASSIO
+(barcollando)
+Andiam!
+
+MONTÀNO
+Che vedo?!
+
+JAGO
+(a Montàno)
+(Ogni notte in tal guisa
+Cassio preludia al sonno.
+
+MONTÀNO
+Otello il sappia.)
+
+CASSIO
+(come sopra)
+Andiamo ai baluardi...
+
+RODERIGO
+(poi TUTTI)
+Ah! ah!
+
+CASSIO
+Chi ride?
+
+RODERIGO
+(provocandolo)
+d'un ebro...
+
+CASSIO
+(scagliandosi contro Roderigo)
+Bada alle tue spalle!
+Furfante!
+
+RODERIGO
+(difendendosi)
+Briaco ribaldo!
+
+CASSIO
+Marrano!
+più ti salva.
+
+MONTÀNO
+(separandoli a forza e dirigendosi a Cassio)
+Frenate la mano,
+ve ne prego.
+
+CASSIO
+(a Montàno)
+Ti spacco il cerèbro
+qui t'interponi.
+
+MONTÀNO
+Parole d'un ebro...
+
+CASSIO
+D'un ebro?!
+(Cassio sguaina la spada. Montàno s'arma anch'esso. Assalto furibondo. La folla si ritrae)
+
+JAGO
+(a parte a Roderigo, rapidamente)
+Va al porto, con quanta più possa
+resta, gridando: sommossa! sommossa!
+Va! spargi il tumulto, l'orror. Le campane
+a stormo.)
+(Roderigo esce correndo)
+(Jago ai combattenti, esclamando)
+Fratelli! l'immane
+cessate!
+
+CORO
+(fuggendo)
+Fuggiam!
+
+JAGO
+Ciel! già gronda
+Di sangue Montàno! - Tenzon furibonda!
+
+CORO
+Fuggiam.
+
+JAGO
+Tregua!
+
+TUTTI
+Tregua!
+(fuggendo)
+S'uccidono!
+
+JAGO
+(ai combattenti)
+Pace!
+(agli astanti)
+Nessun più raffrena quell'ira pugnace!
+Si gridi l'allarme! Satàna li invade!!
+
+CORO
+(in scena e dentro)
+All'armi!!
+(campane a stormo)
+
+TUTTI
+Soccorso!!
+
+## Scena seconda
+(Otello, Jago, Cassio, Montàno, Popolo, Soldati: più tardi Desdemona.)
+
+OTELLO
+(seguito da genti con fiaccole)
+Abbasso le spade!
+(i combattenti s'arrestano, Montàno s'appoggia a un soldato)
+(le nubi si diradano a poco a poco)
+Olà! che avvien? son io fra i Saraceni?
+O la turchesca rabbia è in voi trasfusa
+Per sbranarvi l'un l'altro?... Onesto Jago,
+Per quell'amor che tu mi porti, parla.
+
+JAGO
+Non so... qui tutti eran cortesi amici,
+Dianzi, e giocondi... ma ad un tratto, come
+Se un pianeta maligno avesse a quelli
+Smagato il senno, sguainando l'arme
+S'avventano furenti... avess’ io prima
+Stroncati i piè che qui m'addusser!
+
+OTELLO
+Cassio,
+Come obliasti te stesso a tal segno...
+
+CASSIO
+Grazia... perdon... parlar non so...
+
+OTELLO
+Montàno...
+
+MONTÀNO
+(sostenuto da un soldato)
+Io son ferito...
+
+OTELLO
+Ferito!... pel cielo
+Già il sangue mio ribolle. Ah! l'ira volge
+L'angelo nostro tutelare in fuga!
+(entra Desdemona; Otello accorre ad essa)
+Che?... la mia dolce Desdemona anch'essa
+Per voi distolta da' suoi sogni?! - Cassio,
+Non sei più capitano.
+(Cassio lascia cadere la spada che è raccolta da Jago)
+
+JAGO
+(porgendo la spada di Cassio a un ufficiale)
+(Oh! mio trionfo!)
+
+OTELLO
+Jago, tu va nella città sgomenta
+Con quella squadra a ricompor la pace.
+(Jago esce)
+Si soccorra Montàno.
+(Montàno è accompagnato nel castello)
+Al proprio tetto
+Ritorni ognun.
+(a tutti, imperiosamente)
+Io da qui non mi parto
+Se pria non vedo deserti gli spaldi.
+(la scena si vuota)
+
+## Scena terza
+(Otello e Desdemona.)
+
+OTELLO
+Già nella notte densa
+S'estingue ogni clamor.
+Già il mio cor fremebondo
+S'ammansa in quest'amplesso e si risensa.
+Tuoni la guerra e s'inabissi il mondo
+Se dopo l'ira immensa
+Vien questo immenso amor!
+
+DESDEMONA
+Mio superbo guerrier! quanti tormenti,
+Quanti mesti sospiri e quanta speme
+Ci condusse ai soavi abbracciamenti!
+Oh! com'è dolce il mormorare insieme:
+Te ne rammenti!
+Quando narravi l'esule tua vita
+E i fieri eventi e i lunghi tuoi dolor,
+Ed io t’ udia coll'anima rapita
+In quei spaventi e coll'estasi in cor.
+
+OTELLO
+Pingea dell'armi il fremito, la pugna
+E il vol gagliardo alla breccia mortal,
+L'assalto, orribil edera, coll'ugna
+Al baluardo e il sibilante stral.
+
+DESDEMONA
+Poi mi guidavi ai fulgidi deserti,
+All'arse arene, al tuo materno suol,
+Narravi allor gli spasimi sofferti
+E le catene e dello schiavo il duol.
+
+OTELLO
+Ingentilia di lagrime l'istoria
+Il tuo bel viso e il labbro di sospir;
+Scendean sulle mie tenebre la gloria,
+Il paradiso e gli astri a benedir.
+
+DESDEMONA
+Ed io vedea fra le tue tempie oscure
+Splender del genio l'eterea beltà.
+
+OTELLO
+E tu m'amavi per le mie sventure
+Ed io t'amavo per la tua pietà.
+
+OTELLO
+Venga la morte! mi colga nell'estasi
+Di quest'amplesso
+Il momento supremo!
+(il cielo si sarà rasserenato)
+Tale è il gaudio dell'anima che temo,
+Temo che più non mi sarà concesso
+Quest'attimo divino
+Nell'ignoto avvenir del mio destino.
+
+DESDEMONA
+Disperda il ciel gli affanni
+
+EMILIA
+Amor non muti col mutar degli anni.
+
+OTELLO
+A questa tua preghiera
+Amen risponda la celeste schiera.
+
+DESDEMONA
+Amen risponda.
+
+OTELLO
+(appoggiandosi ad un rialzo degli spaldi)
+Ah! la gioia m'innonda
+Sì fieramente... che ansante mi giacio...
+Un bacio...
+
+DESDEMONA
+Otello!...
+
+OTELLO
+Un bacio... ancora un bacio.
+(fissando una plaga del cielo stellato)
+Già la pleiade ardente al mar discende.
+
+DESDEMONA
+Tarda è la notte.
+
+OTELLO
+Vien... Venere splende.
+(s'avviano abbracciati verso il castello).
+# Atto secondo
+(Una sala terrena nel castello.)
+(Due vasti veroni ai lati: una porta nel mezzo che dà sul giardino.)
+
+## Scena prima
+(Jago al di qua del verone. Cassio al di là.)
+
+JAGO
+Non ti crucciar. Se credi a me, tra poco,
+Farai ritorno ai folleggianti amori
+Di Monna Bianca, altiero capitano,
+Coll'elsa d'oro e col balteo fregiato.
+
+CASSIO
+Non lusingarmi...
+
+JAGO
+Attendi a ciò ch'io dico.
+Tu déi saper che Desdemona è il Duce
+Del nostro Duce, sol per essa ei vive.
+Pregala tu, quell'anima cortese
+Per te interceda e il tuo perdono è certo.
+
+CASSIO
+Ma come favellarle?
+È suo costume
+Girsene a meriggiar fra quelle fronde
+Colla consorte mia. Quivi l'aspetta.
+Or t'è aperta la via di salvazione;
+(Cassio s'allontana)
+
+## Scena seconda
+(Jago solo.)
+
+JAGO
+(seguendo coll'occhio Cassio)
+Vanne; la tua meta già vedo.
+Ti spinge il tuo dimone,
+E il tuo dimon son io,
+E me trascina il mio, nel quale io credo
+Inesorato Iddio:
+(allontanandosi dal verone senza più guardar Cassio che sarà scomparso fra gli alberi)
+Credo in un Dio crudel che m'ha creato
+Simile a sè, e che nell'ira io nomo.
+Dalla viltà d'un germe o d'un atòmo
+Vile son nato.
+Son scellerato
+Perchè son uomo;
+E sento il fango originario in me.
+Si! questa è la mia fè!
+Credo con fermo cuor, siccome crede
+La vedovella al tempio,
+Che il mal ch'io penso e che da me procede
+Per mio destino adempio.
+Credo che il giusto è un istrion beffardo
+E nel viso e nel cuor,
+Che tutto è in lui bugiardo:
+Lagrima, bacio, sguardo,
+Sacrificio ed onor.
+E credo l'uom gioco d'iniqua sorte
+Dal germe della culla
+Al verme dell'avel.
+Vien dopo tanta irrision la Morte.
+E poi? - La Morte è il Nulla
+E vecchia fola il Ciel.
+(Dal verone di sinistra si vede passare nel giardino Desdemona con Emilia. Jago si slancia al verone, al di là del quale si sarà appostato Cassio)
+
+JAGO
+(parlando a Cassio)
+Eccola... - Cassio... a te... Questo è il momento.
+Ti scuoti... vien Desdemona.
+(Cassio va verso Desdemona, la saluta, le s'accosta)
+S'è mosso; la saluta
+E s'avvicina.
+Or qui si tragga Otello!... aiuta, aiuta
+Sàtana il mio cimento!...
+(sempre al verone, osservando, ma un poco discosto)
+(si vedono ripassare nel giardino Cassio e Desdemona)
+Già conversano insieme... ed essa inclina,
+Sorridendo, il bel viso.
+Mi basta un lampo sol di quel sorriso
+Per trascinare Otello alla ruina.
+Andiam...
+(fa per avviarsi rapido all'uscio del lato destro, ma s'arresta subitamente)
+Ma il caso in mio favor s'adopra.
+Eccolo... al posto, all'opra.
+(si colloca immoto al verone di sinistra, guardando fissamente verso il giardino, dove stanno Cassio e Desdemona)
+
+## Scena terza
+JAGO
+(simulando di non aver visto Otello il quale gli si sarà avvicinato)
+(fingendo di parlare fra sè)
+Ciò m'accora...
+
+OTELLO
+Che parli?
+
+EMILIA
+Nulla... voi qui? una vana
+Voce m'uscì dal labbro...
+
+OTELLO
+Colui che s'allontana
+Dalla mia sposa, è Cassio?
+(e l'uno e l'altro si staccano dal verone)
+
+EMILIA
+Cassio? no... quei si scosse
+Come un reo nel vedervi.
+
+OTELLO
+Credo che Cassio ei fosse.
+Mio signore...
+
+OTELLO
+Che brami?...
+
+JAGO
+Cassio, nei primi di
+Del vostro amor, Desdemona non conosceva?
+
+EMILIA
+Perchè fai tale inchiesta?
+
+JAGO
+Il mio pensiero è vago
+D'ubbie, non di malizia.
+
+OTELLO
+Di' il tuo pensiero, Jago.
+
+JAGO
+Vi confidaste a Cassio?
+
+OTELLO
+Spesso un mio dono o un cenno
+Portava alla mia sposa.
+
+JAGO
+Dassenno?
+
+OTELLO
+Sì, dassenno.
+Nol credi onesto?
+
+JAGO
+Onesto?
+
+OTELLO
+Che ascondi nel tuo core?
+
+JAGO
+Che ascondo in cor, signore?
+
+OTELLO
+Pel cielo! tu sei l'eco dei detti miei, nel chiostro
+Dell'anima ricetti qualche terribil mostro.
+Sì, ben t'udii poc'anzi mormorar: ciò m'accora.
+Ma di che t'accoravi? nomini Cassio e allora
+Tu corrughi la fronte. Suvvia, parla se m'ami.
+
+JAGO
+Voi sapete ch'io v'amo.
+
+OTELLO
+Dunque senza velami;
+T'esprimi e senza ambagi. T'esca fuor dalla gola
+Il tuo più rio pensiero colla più ria parola!
+
+JAGO
+S'anco teneste in mano tutta l'anima mia
+Nol sapreste.
+
+JAGO
+(avvicinandosi molto ad Otello e sottovoce)
+Temete, signor, la gelosia!
+
+JAGO
+È un'idra fosca, livida, cieca, col suo veleno
+Sè stessa attosca, vivida piaga le squarcia il seno.
+
+JAGO
+Miseria mia!! - No! il vano sospettar nulla giova.
+
+EMILIA
+Pria del dubbio l'indagine, dopo il dubbio la prova,
+Dopo la prova (Otello ha sue leggi supreme,)
+Amore e gelosia vadan dispersi insieme!
+(con piglio più ardito)
+Un tal proposto spezza di mie labbra il suggello.
+Non parlo ancor di prova; pur, generoso Otello,
+Vigilate, soventi le oneste e ben create
+Coscienze non vedono la frode: vigilate.
+Scrutate le parole di Desdemona, un detto
+Può ricondur la fede, può affermare il sospetto...
+Eccola; vigilate...
+(si vede ricomparire Desdemona nel giardino, dalla vasta apertura del fondo: è circondata da Donne, da Fanciulli, da Marinai cipriotti e albanesi, che si avanzano e le offrono fiori ed altri doni. Alcuni s'accompagnano, cantando, sulla guzla, altri su delle piccole arpe)
+
+CORO
+(nel giardino)
+Dove guardi splendono
+Raggi, avvampan cuori,
+Dove passi scendono
+Nuvole di fiori.
+Qui fra gigli e rose
+Come a un casto altar,
+Padri, bimbi, spose
+Vengono a cantar.
+
+CORO
+(spargendo al suolo fiori di giglio)
+T'offriamo il giglio
+Soave stel
+Che in man degli angeli
+Fu assunto in ciel,
+Che abbella il fulgido
+Manto e la gonna
+Della Madonna
+
+DESDEMONA
+E il santo vel.
+
+CORO
+Mentre all'aura vola
+Lieta la canzon,
+L'agile mandòla
+Ne accompagna il suon.
+
+CORO
+(offrendo a Desdemona dei monili di corallo e di perle)
+A te le porpore,
+perle e gli ostri,
+Nella voragine
+Côlti del mar.
+Vogliam Desdemona
+Coi doni nostri
+Come un'imagine
+Sacra adornar.
+
+CORO
+Mentre all'aura vola
+Lieta la canzon,
+L'agile mandòla
+Ne accompagna il suon.
+
+CORO
+(spargendo fronde e fiori)
+A te la florida
+Messe dai grembi
+A nembi, a nembi,
+Spargiamo al suol.
+L'April circonda
+La sposa bionda
+D'un'etra rorida
+Che vibra al Sol.
+
+CORO
+Mentre all'aura vola
+Lieta la canzon,
+L'agile mandòla
+Ne accompagna il suon.
+
+TUTTI
+Dove guardi splendono
+Raggi, avvampan cuori,
+Dove passi scendono
+Nuvole di fiori.
+Qui fra gigli e rose,
+Come a un casto altar;
+Padri, bimbi, spose
+Vengono a cantar.
+
+DESDEMONA
+Splende il cielo, danza
+L'aura, olezza il fiore.
+Gioia, amor, speranza
+Cantan nel mio core.
+
+CORO
+Vivi felice! Addio. Qui regna Amore.
+(durante il Coro, Otello osserva con Jago)
+
+OTELLO
+(soavemente commosso)
+Quel canto mi conquide.
+No, no, s'ella m'inganna, il ciel sè stesso irride!
+
+JAGO
+In letizia, in dolce inno concordi!
+I vostri infrangerò soavi accordi.)
+
+## Scena quarta
+(Finito il Coro, Desdemona bacia la testa d'alcuni tra i fanciulli, e alcune donne le baciano il lembo della veste, ed essa porge una borsa ai marinai. — Il Coro s'allontana: Desdemona, seguìta poi da Emilia, entra nella sala e s'avanza verso Otello.)
+
+DESDEMONA
+D'un uom che geme sotto il tuo disdegno
+La preghiera ti porto.
+
+OTELLO
+Chi è costui?
+
+DESDEMONA
+Cassio.
+
+OTELLO
+Era lui
+Che ti parlava sotto quelle fronde?
+
+DESDEMONA
+Lui stesso, e il suo dolor che in me s'infonde
+Tanto è verace che di grazia è degno.
+Intercedo per lui, per lui ti prego.
+Tu gli perdona.
+
+OTELLO
+Non ora.
+
+DESDEMONA
+Non oppormi il tuo diniego.
+Gli perdona.
+
+OTELLO
+Non ora.
+
+DESDEMONA
+Perchè torbida suona
+La voce tua? qual pena t'addolora?
+
+OTELLO
+M'ardon le tempie...
+
+DESDEMONA
+(spiegando il suo fazzoletto come per fasciare la fronte d'Otello)
+Quell'ardor molesto
+Svanirà, se con questo
+Morbido lino la mia man ti fascia.
+
+OTELLO
+(getta il fazzoletto a terra)
+Non ho d'uopo di ciò.
+
+DESDEMONA
+Tu sei crucciato
+
+OTELLO
+Mi lascia!
+(Emilia raccoglie il fazzoletto dal suolo)
+
+DESDEMONA
+Se inconscia, contro te, sposo, ho peccato
+Dammi la dolce e lieta
+Parola del perdono.
+La tua fanciulla io sono
+Umile e mansueta;
+Ma il labbro tuo sospira,
+Hai l'occhio fiso al suol.
+Guardami in volto e mira
+Come favella amore.
+Vien ch'io t'allieti il core,
+Ch'io ti lenisca il duol.
+
+JAGO
+(a Emilia sottovoce)
+(Quel vel mi porgi
+Ch'or hai raccolto.
+
+EMILIA
+(sottovoce a Jago)
+Qual frode scorgi?
+Ti leggo in volto.
+
+JAGO
+T'opponi vôto
+Quand'io comando..
+
+EMILIA
+Il tuo nefando
+Livor m'è noto.
+
+JAGO
+Sospetto insano!
+
+EMILIA
+Guardia fedel
+È questa mano.
+
+JAGO
+Dammi quel vel!
+(Jago afferra violentemente il braccio di Emilia)
+
+JAGO
+Su te l'irosa
+Mia man s'aggrava!
+
+EMILIA
+Son la tua sposa,
+Non la tua schiava.
+
+JAGO
+La schiava impura
+Tu sei di Jago.
+
+EMILIA
+Ho il cor presago
+D'una sventura.
+Nè mi paventi?
+Uomo crudel!
+
+OTELLO
+(a parte)
+(Forse perchè gli inganni
+D'arguto amor non tendo,
+Forse perchè discendo
+Nella valle degli anni,
+Forse perchè ho sul viso
+Quest'atro tenebror,
+Conquido, ed ora
+Ella è perduta e irriso
+Io sono e il cor m'infrango,
+E ruinar nel fango
+Vedo il mio sogno d'ór.)
+
+JAGO
+A me…...
+Che tenti
+A me quel vel!)
+(con un colpo di mano Jago ha carpito il fazzoletto ad Emilia)
+(Già la mia brama
+Su questa trama
+lavora artigli
+Truci e codardi.
+Dio dai perigli
+Sempre ci guardi.)
+
+OTELLO
+Escite! - Solo vo' restar.
+
+JAGO
+(sottovoce ad Emilia che sta per escire)
+(Ti giova
+Tacere. Intendi?)
+(Desdemona ed Emilia escono. Jago finge d'escire dalla porta del fondo, ma giuntovi s'arresta)
+
+## Scena quinta
+(Otello: Jago nel fondo.)
+
+OTELLO
+(accasciato, su d'un sedile)
+Desdemona rea!
+
+JAGO
+(nel fondo guardando di nascosto il fazzoletto, poi riponendolo con cura nel giustacuore)
+Con questi fili tramerò la prova
+nel peccato d'amor. Nella dimora
+Di Cassio ciò s'asconda.)
+
+OTELLO
+Atroce idea!
+
+JAGO
+(fra sè, fissando Otello)
+(Il mio velen lavora.)
+
+OTELLO
+Rea contro me! - contro me!!!
+
+JAGO
+(Soffri e ruggi!)
+
+OTELLO
+Atroce!!!... atroce!!!...
+
+JAGO
+(dopo essersi portato accanto ad Otello - bonariamente)
+Non pensateci più.
+
+OTELLO
+(balzando)
+Tu?! Indietro! fuggi!!
+M'hai legato alla croce!...
+Ahimè!... Più orrendo d'ogni orrenda ingiuria
+Dell'ingiuria è il sospetto.
+Nell'ore arcane della sua lussuria
+(E a me furate!) m'agitava il petto
+Forse un presagio? Ero baldo, giulivo...
+Nulla sapevo ancor; io non sentivo
+Sul suo corpo divin che m'innamora
+E sui labbri mendaci
+Gli ardenti baci
+Di Cassio! - Ed ora!... ed ora...
+Ora e per sempre addio sante memorie,
+Addio sublimi incanti del pensier!
+Addio schiere fulgenti, addio vittorie,
+Dardi volanti e volanti corsier!
+Addio vessillo trionfale e pio!
+E diane squillanti in sul mattin!
+Clamori e canti di battaglia, addio!...
+Della gloria d'Otello è questo il fin.
+
+JAGO
+Pace, signor.
+
+OTELLO
+Sciagurato! mi trova
+Una prova secura
+Cento Desdemona è impura...
+Non sfuggir! non sfuggir! nulla ti giova!
+Vo' una secura, una visibil prova!
+(afferrando Jago alla gola e atterrandolo)
+O sulla tua testa
+S'accenda e precipiti il fulmine
+Del mio spaventoso furor che si desta!
+
+JAGO
+(rialzandosi)
+Divina grazia difendimi! - Il cielo
+Vi protegga. Non son più vostro alfiere.
+Voglio che il mondo testimon mi sia
+Che l'onestà è periglio.
+(fa per andarsene)
+
+OTELLO
+No... rimani.
+Forse onesto tu sei.
+
+JAGO
+(sulla soglia fingendo d'andarsene)
+Meglio varrebbe
+Ch'io fossi un ciurmador.
+
+OTELLO
+Per l'universo!
+Credo leale Desdemona e credo
+Che non lo sia; te credo onesto e credo
+Disleale...... - La prova io voglio! voglio
+La certezza!!
+
+JAGO
+(ritornando verso Otello)
+Signor, frenate l'ansie.
+E qual certezza v'abbisogna? - Avvinti
+Vederli forse?
+
+OTELLO
+Ah! Morte e dannazione!!
+
+JAGO
+Ardua impresa sarebbe; e qual certezza
+Sognate voi se quell'immondo fatto
+Sempre vi sfuggirà?... - Ma pur se guida la ragione al vero, una sì forte
+Congettura riserbo che per poco
+Alla certezza vi conduce. Udite:
+(avvicinandosi molto ad Otello e sottovoce)
+Era la notte, Cassio dormia, gli stavo accanto.
+Con interrotte voci tradia l'intimo incanto.
+Le labbra lente, lente, movea, nell'abbandono
+Del sogno ardente; e allor dicea, con flebil suono:
+Desdemona soave! Il nostro amor s'asconda.
+Cauti vegliamo! l'estasi del ciel tutto m'innonda.
+Seguia più vago l'incubo blando; con molle angoscia,
+L'interna imago quasi baciando, ei disse poscia:
+Il rio destino impreco che al Moro ti donò.
+E allora il sogno in cieco letargo si mutò.
+
+OTELLO
+Oh! mostruosa colpa!
+
+JAGO
+Io non narrai
+Che un sogno.
+
+OTELLO
+Un sogno che rivela un fatto.
+Un sogno che può dar forma di prova
+Ad altro indizio.
+
+OTELLO
+E qual?
+
+JAGO
+Talor vedeste
+In mano di Desdemona un tessuto
+Trapunto a fiori e più sottil d'un velo?
+
+OTELLO
+È il fazzoletto ch'io le diedi, pegno
+Primo d'amor.
+
+JAGO
+Quel fazzoletto ieri
+(Certo ne son) lo vidi in man di Cassio.
+
+OTELLO
+Ah! mille vite gli donasse Iddio!
+Una è povera preda al furor mio!!
+Jago, ho il cuore di gelo.
+Lungi da me le pietose larve!
+Tutto il mio vano amor esalo al cielo,
+Guardami, - ei sparve.
+Nelle sue spire d'angue
+L'idra m'avvince! Ah! sangue! sangue! sangue!!
+(s'inginocchia)
+Sì, pel ciel marmoreo giuro! Per le attorte folgori!
+Per la Morte e per l'oscuro mar sterminator!
+D'ira e d'impeto tremendo presto fia che sfolgori
+Questa man ch'io levo e stendo!
+(levando la mano al cielo)
+(Otello fa per alzarsi, Jago lo trattiene inginocchiato e s'inginocchia anch'esso)
+Non v'alzate ancor!
+Testimon è il Sol ch'io miro, che m'irradia e inanima,
+L'ampia terra e il vasto spiro del Creato inter,
+Che ad Otello io sacro ardenti, core, braccio ed anima
+S'anco ad opere cruenti s'armi il suo voler!
+
+JAGO E OTELLO
+(insieme, alzando le mani al cielo come chi giura)
+Sì, pel ciel marmoreo giuro! per le attorte folgori!
+Per la Morte e per l'oscuro mar sterminator!
+D'ira e d'impeto tremendo presto fia che sfolgori
+Questa man ch'io levo e stendo. Dio vendicator!
+
+(A destra un vasto peristilio a colonne. Questo peristilio è annesso ad una sala di minori proporzioni; nel fondo della sala un verone.)
+
+# Atto terzo
+
+## Scena prima
+(Otello. Jago. L'Araldo.)
+
+ARALDO
+(dal peristilio, a Otello che sarà con Jago nella sala)
+La vedetta del porto ha segnalato
+La veneta galea che a Cipro adduce
+Gli ambasciatori.
+
+OTELLO
+(all'Araldo, facendogli cenno di allontanarsi)
+Bene sta.
+(l'Araldo esce)
+
+OTELLO
+(a Jago)
+Continua.
+
+JAGO
+Qui trarrò Cassio e con astute inchieste
+Lo adescherò a ciarlar. Voi là nascosto
+(indicando il vano del verone)
+Scrutate i modi suoi, le sue parole,
+I lazzi, i gesti. Paziente siate
+O la prova vi sfugge. Ecco Desdemona.
+Finger conviene... io vado.
+(s'allontana come per escire, poi s'arresta e si riavvicina ad Otello)
+Il fazzoletto...
+
+OTELLO
+Va! volentieri obliato l'avrei.
+(Jago esce)
+
+## Scena seconda
+(Otello. Desdemona dalla porta di sinistra.)
+
+DESDEMONA
+(ancora presso alla soglia)
+Dio ti giocondi, o sposo dell'alma mia sovrano.
+
+OTELLO
+(andando incontro a Desdemona e prendendole la mano)
+Grazie, madonna, datemi la vostra eburnea mano.
+Caldo mador ne irrora la morbida beltà.
+
+DESDEMONA
+Essa ancor l'orme ignora del duolo e dell'età.
+
+OTELLO
+Eppur qui annida il demone gentil del mal consiglio,
+il vago avorio allumina del piccioletto artiglio.
+Mollemente alla prece s'atteggia e al pio fervore...
+
+DESDEMONA
+Eppur con questa mano io v'ho donato il core.
+a riparlar vi debbo di Cassio.
+
+OTELLO
+Ancor l'ambascia
+Del mio morbo m'assale; tu la fronte mi fascia.
+
+DESDEMONA
+(porgendogli un fazzoletto)
+A te.
+
+OTELLO
+No; il fazzoletto voglio ch'io ti donai.
+
+DESDEMONA
+Non l'ho meco.
+
+OTELLO
+Desdemona, guai se lo perdi! guai!
+Una possente maga ne ordia lo stame arcano:
+Ivi è riposta l'alta malia d'un talismano.
+Bada! smarrirlo, oppur donarlo, è ria sventura!
+
+DESDEMONA
+Il vero parli?
+
+OTELLO
+Il vero parlo.
+
+DESDEMONA
+Mi fai paura!...
+
+OTELLO
+Che!? l'hai perduto forse?
+
+DESDEMONA
+No...
+
+OTELLO
+Lo cerca.
+
+DESDEMONA
+Fra poco...
+Lo cercherò...
+No, tosto!
+
+DESDEMONA
+Tu di me ti fai gioco,
+Storni così l'inchiesta di Cassio; astuzia è questa
+Del tuo pensier.
+
+OTELLO
+Pel cielo! l'anima mia si desta!
+Il fazzoletto...
+
+DESDEMONA
+È Cassio l'amico tuo diletto.
+
+OTELLO
+Il fazzoletto!!
+
+DESDEMONA
+A Cassio perdona...
+
+OTELLO
+Il fazzoletto!!!
+
+DESDEMONA
+Gran Dio! nella tua voce v'è un grido di minaccia!
+
+OTELLO
+Alza quegli occhi!
+(prendendola a forza sotto il mento e alla spalla e obbligandola a guardarlo)
+
+DESDEMONA
+Atroce idea!
+
+OTELLO
+Guardami in faccia!
+Dimmi chi sei!
+
+DESDEMONA
+La sposa fedel d'Otello.
+
+OTELLO
+Giura!
+Giura e ti danna...
+
+DESDEMONA
+Otello fedel mi crede.
+
+OTELLO
+Ti credo.
+
+DESDEMONA
+Iddio m'aiuti!
+
+OTELLO
+Corri alla tua condanna,
+Di' che sei casta.
+
+DESDEMONA
+(fissandolo)
+Casta... io son...
+
+OTELLO
+Giura e ti danna!!!
+
+DESDEMONA
+Esterrefatta fisso lo sguardo tuo tremendo,
+In te parla una Furia, la sento e non l'intendo.
+Mi guarda! il volto e l'anima ti svelo; il core infranto
+Mi scruta... io prego il cielo per te con questo pianto.
+Per te con queste stille cocenti aspergo il suol.
+Guarda le prime lagrime che da me spreme il duol.
+
+OTELLO
+S'or ti scorge il tuo dèmone un angelo ti crede
+E non t'afferra.
+
+DESDEMONA
+Vede l'Eterno la mia fede!
+
+OTELLO
+No! la vede l'inferno.
+
+DESDEMONA
+La tua giustizia impetro,
+Sposo mio!
+
+OTELLO
+Ah! Desdemona! - Indietro! indietro! indietro!!
+
+DESDEMONA
+Tu pur piangi?!... e gemendo freni del cor lo schianto
+E son io l'innocente cagion di tanto pianto!...
+Qual è il mio fallo?
+
+OTELLO
+E il chiedi?... Il più nero delitto
+Sovra il candido giglio della tua fronte è scritto.
+
+DESDEMONA
+Ahimè!
+
+OTELLO
+Che? non sei forse una vil cortigiana?
+
+DESDEMONA
+Ciel! No... no... pel battesmo della fede cristiana!...
+
+OTELLO
+Che?...
+
+DESDEMONA
+Non son ciò che esprime quella parola orrenda.
+(Otello prende Desdemona per mano e la conduce alla porta d'onde entrò)
+
+OTELLO
+Datemi ancor l'eburnea mano, vo' fare ammenda.
+Vi credea (perdonate se il mio pensiero è fello)
+Quella vil cortigiana che è la sposa d'Otello.
+(alle ultime parole, Otello che sarà sul limitare della porta di sinistra, sforza con una inflessione del braccio, Desdemona ad escire. — Poi ritorna verso il centro della scena nel massimo grado dell'abbattimento)
+
+## Scena terza
+OTELLO
+Dio! mi potevi scagliar tutti i mali
+Della miseria, - della vergogna,
+Far de' miei baldi trofei trionfali
+Una maceria, - una menzogna...
+E avrei portato la croce crudel
+D'angoscie e d'onte
+Con calma fronte
+E rassegnato al volere del ciel.
+Ma, o pianto, o duol! m'han rapito il miraggio
+Dov'io, giulivo, - l'anima acqueto.
+Spento è quel sol, quel sorriso, quel raggio
+Che mi fa vivo, - che mi fa lieto!
+Tu alfin, Clemenza, pio genio immortal
+Dal roseo riso,
+Copri il tuo viso
+Santo coll'orrida larva infernal!
+
+## Scena quarta
+(Otello, poi Jago.)
+
+OTELLO
+Ah! Dannazione!
+Pria confessi il delitto e poscia muoia!
+Confession! Confessione!...
+(entra Jago)
+La prova!...
+
+JAGO
+(accanto ad Otello e indicando l'ingresso)
+Cassio è là!
+
+OTELLO
+Là?! Cielo! gioia!!
+(poi con subito raccapriccio)
+Orror! - Supplizi immondi!!
+
+JAGO
+Ti frena! Ti nascondi.
+(conduce rapidamente Otello nel fondo a sinistra dove c'è il vano del verone corre verso il fondo del peristilio dove incontra Cassio che esita ad entrare)
+
+## Scena quinta
+(Otello nascosto. Jago e Cassio.)
+
+JAGO
+Vieni; l'aula è deserta.
+T'inoltra, Capitano.
+
+CASSIO
+Questo nome d'onor suona ancor vano
+Per me.
+
+JAGO
+Fa cor, la tua causa è in tal mano
+Che la vittoria è certa.
+
+CASSIO
+Io qui credea di ritrovar Desdemona.
+
+OTELLO
+(nascosto)
+(Ei la nomò.)
+
+CASSIO
+Vorrei parlarle ancora,
+Per saper se la mia grazia è profferta.
+
+JAGO
+(gaiamente)
+L'attendi; e intanto, giacchè non si stanca
+Mai la tua lingua nelle fole gaie,
+Narrami un po' di lei che t'innamora.
+(conducendo Cassio accanto alla prima colonna del peristilio)
+
+CASSIO
+Di chi?
+
+JAGO
+(sottovoce assai)
+Di Bianca.
+
+OTELLO
+(Sorride!)
+
+CASSIO
+Baie...
+
+JAGO
+Essa t'avvince
+Coi vaghi rai.
+
+CASSIO
+Rider mi fai.
+
+JAGO
+Ride chi vince.
+
+CASSIO
+(ridendo)
+In tai disfide - per verità,
+Vince chi ride - Ah! Ah!
+
+JAGO
+(come sopra)
+Ah! Ah!
+
+OTELLO
+(L'empio trionfa, il suo scherno m'uccide;
+Dio frena l'ansia che in core mi sta!)
+Sazio e di lai.
+
+JAGO
+Rider mi fai.
+
+CASSIO
+O amor fugaci!
+
+JAGO
+Vagheggi il regno - d'altra beltà.
+Colgo nel segno?
+
+CASSIO
+Ah! Ah!
+
+JAGO
+Ah! Ah!
+
+OTELLO
+(L'empio m'irride - il suo scherno m'uccide;
+Dio frena l'ansia che in core mi sta!)
+
+CASSIO
+Nel segno hai côlto.
+Sì, lo confesso.
+M'odi...
+
+JAGO
+(assai sottovoce)
+Sommesso
+Parla. T'ascolto.
+
+CASSIO
+(assai sottovoce, mentre Jago lo conduce in posto più lontano da Otello)
+(or sì, or no si senton le parole)
+Jago, t'è nota
+La mia dimora...
+(le parole si perdono)
+
+OTELLO
+(avvicinandosi un poco e cautamente per udir ciò che dicono)
+(Or gli racconta il modo,
+Il luogo e l'ora...)
+
+CASSIO
+(continuando il racconto sempre sottovoce)
+Da mano ignota...
+(le parole si perdono ancora)
+
+OTELLO
+(Le parole non odo...
+Lasso! udir le vorrei! Dove son giunto!!)
+
+CASSIO
+Un vel trapunto...
+(come sopra)
+
+JAGO
+È strano! è strano!
+
+OTELLO
+(D'avvicinarmi Jago mi fa cenno.)
+(passo passo con lenta cautela, Otello, nascondendosi dietro le colonne, arriverà più tardi vicino ai due)
+
+JAGO
+(sottovoce)
+Da ignota mano?
+(forte)
+Baie!
+
+CASSIO
+Da senno.
+(Jago gli fa cenno di parlar ancora sottovoce)
+Quanto mi tarda
+Saper chi sia...
+
+JAGO
+(guardando rapidamente dalla parte d'Otello - fra sè)
+(Otello spia.)
+(a Cassio ad alta voce)
+L'hai teco?
+
+CASSIO
+(estrae dal giustacuore il fazzoletto di Desdemona)
+
+JAGO
+(prendendo il fazzoletto)
+Qual meraviglia!
+(a parte)
+(Otello origlia.
+Ei s'avvicina
+Con mosse accorte.)
+(a Cassio inchinandosi scherzosamente e passando le mani dietro la schiena perchè Otello possa osservare il fazzoletto)
+Bel cavaliere - nel vostro ostel.
+Perdono gli angeli - l'aureola e il vel.
+
+OTELLO
+(avvicinandosi assai al fazzoletto, dietro le spalle di Jago e nascosto dalla prima colonna)
+(È quello! è quello!
+Ruina e Morte!)
+
+JAGO
+(Origlia Otello.)
+
+OTELLO
+(nascosto dietro la colonna e guardando di tratto in tratto il fazzoletto nelle mani di Cassio)
+(Tutto è spento! Amore e duol.
+L'alma mia nessun più smova
+Tradimento, la tua prova
+Spaventosa mostri al Sol.)
+
+JAGO
+(indicando il fazzoletto)
+Quest'è una ragna
+Dove il tuo cuor
+Casca, si lagna,
+S'impiglia e muor.
+Troppo l'ammiri;
+Troppo la guardi,
+Bada ai deliri
+Vani e bugiardi.
+Dove è una ragna
+Casca, si lagna
+S'impiglia e muor.
+
+CASSIO
+(guardando il fazzoletto che avrà ritolto a Jago)
+Miracolo vago
+Dell'aspo e dell'ago
+Che in raggi tramuta
+Le fila vel
+Più bianco, più lieve
+Che fiocco di neve,
+Che nube tessuta
+Dall'aure del ciel.
+
+JAGO
+(squillo di tromba interno, poi un colpo di cannone)
+(Otello sarà ritornato nel vano del verone)
+Quest'è il segnale che annuncia l'approdo
+Della trireme veneziana. Ascolta.
+(squilli da varie parti)
+Tutto il castel co' suoi squilli risponde.
+qui non vuoi con Otello scontrarti
+(Cassio esce velocemente dal fondo)
+## Scena sesta
+(Jago. Otello.)
+
+OTELLO
+(avvicinandosi a Jago)
+Come la ucciderò?
+
+JAGO
+Vedeste ben com'egli ha riso?
+
+OTELLO
+(di tanto in tanto salve di gioia e squilli che si avvicinano)
+
+JAGO
+E il fazzoletto?
+
+OTELLO
+Tutto vidi.
+
+CORO
+(dal di fuori, lontane)
+Evviva!
+
+CORO
+Allo sbarco!
+
+OTELLO
+È condannata.
+Fa ch'io m'abbia un velen per questa notte.
+
+CORO
+(più vicine)
+Evviva! Evviva il Leon di San Marco!
+Il tosco no, val meglio soffocarla,
+Là, nel suo letto, là, dove ha peccato.
+
+OTELLO
+Questa giustizia tua mi piace.
+(A Cassio)
+Jago provvederà.
+
+OTELLO
+Jago, fin d'ora
+Mio Capitano t'eleggo.
+Mio Duce,
+Grazie vi rendo.
+(il tumulto è sempre più vicino. Fanfare e grida)
+Ecco gli Ambasciatori.
+Li accogliete. Ma ad evitar sospetti
+Desdemona si mostri a quei Messeri.
+
+OTELLO
+Sì, qui l'adduci.
+(Jago esce dalla porta di sinistra: Otello s'avvia verso il fondo per ricevere gli Ambasciatori)
+
+## Scena settima
+(Otello, Lodovico, Roderigo, L'Araldo. — Dignitari della Repubblica Veneta — Gentiluomini e Dame — Soldati; Trombettieri, dal fondo — poi Jago con Desdemona ed Emilia, dalla sinistra.)
+
+LODOVICO
+(tenendo una pergamena)
+Il Doge ed il Senato;
+Salutano l'eroe trionfatore
+Di Cipro. Io reco nelle vostre mani
+messaggio dogale.
+
+OTELLO
+(prendendo il messaggio e baciando il suggello)
+Io bacio il segno
+Sovrana Maestà.
+(lo spiega e legge)
+
+LODOVICO
+(avvicinandosi a Desdemona)
+
+MONTÀNO
+V'abbia il cielo in sua guardia.
+
+DESDEMONA
+E il ciel v'ascolti.
+
+EMILIA
+(a Desdemona, a parte)
+(Come sei mesta.
+
+DESDEMONA
+(ad Emilia, a parte)
+Emilia! una gran nube
+
+TUTTI
+il senno d'Otello e il mio destino.)
+
+JAGO
+(andando da Lodovico)
+Messer, son lieto di vedervi.
+(Lodovico, Desdemona e Jago formano crocchio insieme)
+
+LODOVICO
+Jago,
+Quali nuove?... ma in mezzo a voi non trovo
+Cassio.
+Con lui crucciato è Otello.
+
+DESDEMONA
+Credo
+Che in grazia tornerà.
+
+OTELLO
+(a Desdemona rapidamente e sempre in atto di leggere)
+Ne siete certa?
+
+DESDEMONA
+Che dite?
+
+LODOVICO
+Ei legge, non vi parla.
+
+JAGO
+Forse
+Che in grazia tornerà.
+
+DESDEMONA
+Jago, lo spero;
+Sai se un verace affetto io porti a Cassio...
+
+OTELLO
+(sempre in atto di leggere e febbrilmente a Desdemona sottovoce)
+Frenate dunque le labbra loquaci...
+
+DESDEMONA
+Perdonate, signor...
+
+OTELLO
+(avventandosi contro Desdemona)
+Demonio taci!!
+
+EMILIA
+(arrestando il gesto d'Otello)
+Ferma!
+
+TUTTI
+Orrore!
+
+LODOVICO
+La mente mia non osa
+Pensar ch'io vidi il vero.
+
+OTELLO
+(repentinamente all'Araldo e con accento imperioso)
+A me Cassio!
+(l'Araldo esce)
+
+JAGO
+(passando rapido accanto ad Otello, e a bassa voce)
+(Che tenti?)
+
+OTELLO
+(a Jago a bassa voce)
+(Guardala mentr'ei giunge.)
+
+LODOVICO
+Ah! triste sposa!
+(a bassa voce avvicinandosi a Jago che si sarà un po' allontanato da Otello)
+Quest'è dunque l'eroe? quest'è il guerriero
+Dai sublimi ardimenti?
+
+JAGO
+(a Lodovico alzando le spalle)
+È quel ch'egli è.
+
+LODOVICO
+Palesa il tuo pensiero.
+
+JAGO
+Meglio è tener su ciò la lingua muta.
+
+## Scena ottava
+(Cassio seguito dall'Araldo, e detti.)
+
+OTELLO
+(che avrà sempre fissato la porta)
+(Eccolo! È lui!
+(avvicinandosi a Jago mentre Cassio è sulla soglia)
+Nell'animo lo scruta.)
+
+OTELLO
+(ad alta voce a tutti)
+Messeri! Il Doge...
+(ruvidamente ma sottovoce a Desdemona)
+(ben tu fingi il pianto)
+(a tutti ad alta voce)
+
+EMILIA
+richiama a Venezia.
+
+RODERIGO
+(Infida sorte!)
+
+OTELLO
+(continuando ad alta voce e dominandosi)
+E in Cipro elegge
+Mio successor colui che stava accanto
+Al mio vessillo, Cassio.
+
+JAGO
+(fieramente e sorpreso)
+(Inferno e morte!)
+
+OTELLO
+(continuando come sopra e mostrando la pergamena)
+
+EMILIA
+La parola Ducale è nostra legge.
+
+CASSIO
+(inchinandosi ad Otello)
+Obbedirò.
+
+OTELLO
+(rapidamente a Jago in segreto ed indicando Cassio)
+(Vedi? non par che esulti
+L'infame.
+
+JAGO
+No.)
+
+OTELLO
+(ad alta voce a tutti)
+La ciurma e la coorte
+(a Desdemona sottovoce e rapidissimo)
+(Continua i tuoi singulti...)
+(ad alta voce a tutti, senza più guardar Cassio)
+E le navi e il castello
+Lascio in poter del nuovo Duce.
+
+LODOVICO
+(a Otello, additando Desdemona che s'avvicina supplichevolmente)
+Otello,
+Per pietà la conforta o il cor le infrangi.
+
+OTELLO
+(a Lodovico e Desdemona)
+Noi salperem domani.
+(afferra Desdemona furiosamente)
+A terra!... e piangi!...
+(Desdemona cade. Emilia e Lodovico la raccolgono e la sollevano pietosamente)
+
+DESDEMONA
+A terra!... sì... nel livido
+Fango... percossa... io giacio...
+Piango... m'agghiaccia il brivido
+Dell'anima che muor.
+E un dì sul mio sorriso
+Fioria la speme e il bacio
+Ed or... l'angoscia in viso
+E l'agonia nel cor.
+Quel Sol sereno e vivido
+Che allieta il cielo e il mare
+Non può asciugar le amare
+Stille del mio dolor.
+
+EMILIA
+(Quella innocente un fremito
+D'odio non ha nè un gesto,
+Trattiene in petto il gemito
+Con doloroso fren.
+La lagrima si frange
+Muta sul volto mesto:
+No, chi per lei non piange
+Non ha pietade in sen.)
+
+RODERIGO
+(Per me s'oscura il mondo,
+S'annuvola il destin;
+L'angiol soave e biondo
+Scompar dal mio cammin.)
+
+CASSIO
+L'ora è fatal! un fulmine
+sul mio cammin l'addita.:
+Già di mia sorte il culmine
+S'offre all'inerte man.
+La fuga della vita.;
+È un'onda d'uragan.)
+
+LODOVICO
+(Egli la man funerea
+Scuote anelando d'ira,
+Essa la faccia eterea:
+Volge piangendo al ciel.
+Nel contemplar quel pianto
+La carità sospira,
+E un tenero compianto
+Stempra del core il gel.)
+
+JAGO
+(avvicinandosi a Otello che resterà accasciato su d'un sedile)
+(Una parola.
+
+OTELLO
+E che?
+
+JAGO
+T'affretta! Rapido
+Slancia la tua vendetta! Il tempo vola.
+
+OTELLO
+Ben parli.
+
+JAGO
+È l'ira inutil ciancia. Scuotiti!
+All'opra ergi tua mira! All'opra sola!
+Io penso a Cassio. Ei le sue trame espia.
+L'infame anima ria l'averno inghiotte
+
+OTELLO
+Chi gliela svelle?
+
+JAGO
+Io.
+
+OTELLO
+Tu?
+
+JAGO
+Giurai.
+
+OTELLO
+Tal sia.
+
+JAGO
+Tu avrai le sue novelle in questa notte...)
+
+RODERIGO
+(abbandona Otello e si dirige verso Roderigo)
+
+JAGO
+(ironicamente a Roderigo)
+(I sogni tuoi saranno in mar domani
+E tu sull'aspra terra!
+
+JAGO
+Ahi stolto!
+Stolto! Se vuoi tu puoi sperar; gli umani,
+Orsù! cimenti afferra, e m'odi..
+
+RODERIGO
+Ascolto.
+
+JAGO
+Col primo albor salpa il vascello. Or Cassio
+È il Duce. Eppur se avvien che a questi accada
+
+OTELLO
+(toccando la spada)
+Sventura... allor qui resta Otello.
+
+RODERIGO
+Lùgubre
+Luce d'atro balen!
+
+JAGO
+Mano alla spada!
+A notte folta io la sua traccia vigilo
+E il varco e l'ora scruto, il resto a te.
+Sarò tua scolta. A caccia! a caccia! Cingiti
+L'arco!
+
+RODERIGO
+Sì! t'ho venduto onore e fè.
+
+JAGO
+(Corri al miraggio! il fragile tuo senno
+Ha già confuso un sogno menzogner.
+Segui l'astuto ed agile mio cenno,
+Amante illuso, io seguo il mio pensier.)
+
+RODERIGO
+(Il dado è tratto! Impavido t'attendo
+Ultima sorte, occulto mio destin.
+Mi sprona amor, ma un avido, tremendo
+Astro di morte infesta il mio cammin.)
+(ergendosi e rivolto alla folla, terribilmente)
+
+TUTTI
+Ciel!
+
+OTELLO
+(slanciandosi contro la folla)
+Tutti fuggite Otello!
+(fanfara interna)
+(agli astanti)
+
+LODOVICO
+assale una malia
+d'ogni senso il priva.
+
+OTELLO
+(con forza)
+non si scosta è contro me rubello..
+
+LODOVICO
+(fa per trascinare lontano Desdemona)
+
+EMILIA
+segui...
+
+CORO
+(dal di fuori)
+Evviva!
+
+DESDEMONA
+(sciogliendosi da Lodovico e accorrendo verso Otello)
+sposo!
+
+OTELLO
+(a Desdemona)
+Anima mia
+
+TUTTI
+maledico!
+
+TUTTI
+(escono inorriditi)
+Orror!...
+(Desdemona, fra Emilia e Lodovico, esce)
+## Scena nona
+(Otello e Jago soli.)
+
+OTELLO
+(sempre più affannoso)
+Fuggirmi io sol non so!... Sangue! Ah! l'abbietto
+Pensiero!... ciò m'accora!
+(convulsivamente, delirando)
+Vederli insieme avvinti... il fazzoletto!...
+Ah!...!...
+(sviene)
+
+JAGO
+(Il mio velen lavora).
+
+CORO
+(dal di fuori, con fanfare)
+Viva Otello!
+
+JAGO
+(ascoltando le grida, poi osservando Otello disteso a terra tramortito)
+L'eco della vittoria
+Porge sua laude estrema.
+(dopo una pausa)
+Chi può vietar che questa fronte io prema
+Col mio tallone?
+
+CORO
+(esterne più vicine, con fanfare)
+Evviva Otello! Gloria
+Al Legn di Venezia!
+
+JAGO
+(ritto e con gesto d'orrendo trionfo, indicando il corpo inerte d'Otello)
+Ecco il Leone!...
+# Atto quarto
+(LA CAMERA DI DESDEMONA. Letto, inginocchiatoio, tavolo, specchio, sedie. Una lampada arde appesa davanti all'immagine della Madonna che sta al di sopra dell'inginocchiatoio. Porta a destra. È notte. Un lume acceso sul tavolo.)
+
+## Scena prima
+(Desdemona. Emilia.)
+
+EMILIA
+Era più calmo?
+
+DESDEMONA
+Mi parea.. M'ingiunse
+Di coricarmi e d'attenderlo. Emilia,
+Te ne prego, distendi sul mio letto
+La mia candida veste nuziale.
+M'odi. Se pria di te morir dovessi
+Mi seppellisci con un di quei veli.
+
+EMILIA
+Scacciate queste idee.
+
+DESDEMONA
+(sedendo macchinalmente davanti allo specchio)
+Son mesta tanto.
+Mia madre aveva una povera ancella
+Innamorata e bella;
+Era il suo nome
+Barbara. Amava
+Un uom che poi l'abbandonò, cantava
+Una canzone: la canzon del Salice.
+(a Emilia)
+Mi disciogli le chiome —
+Io questa sera ho la memoria piena
+Di quella cantilena:
+Piangea cantando
+Nell'erma landa,
+Piangea la mesta.
+O Salce !! Salce !! Salce !!
+Sedea chinando
+Sul sen la testa!
+O Salce! Salce! Salce!
+Cantiamo! il Salce funebre
+Sarà la mia ghirlanda.
+Affrettati; fra poco giunge Otello. —
+Scorreano i rivi fra le zolle in fior,
+Gemea quel core affranto,
+E dalle ciglia le sgorgava il cor
+L'amara onda del pianto.
+O Salce! Salce! Salce!
+Cantiam la nenia blanda.
+Cantiamo! il Salce funebre
+Sarà la mia ghirlanda.
+Scendean gli augelli a vol dai rami cupi
+Verso quel dolce canto.
+E gli occhi suoi piangevan tanto, tanto,
+Da impietosir le rupi.
+(a Emilia levandosi un anello dal dito)
+Riponi questo anello. —
+Povera Barbara! - Solea la storia
+Con questo semplice - suono finir:
+Egli era nato - per la sua gloria,
+(interrompendo)
+Ascolta. Odo un lamento.
+(Emilia fa qualche passo)
+
+TUTTI
+Chi batte a quella porta?...
+
+EMILIA
+È il vento.
+
+DESDEMONA
+Io per amarlo e per morir.
+Emilia, addio. Come m'ardon le ciglia!
+presagio di pianto.
+(abbraccia Emilia che esce)
+Buona notte.
+
+## Scena seconda
+(Desdemona sola.)
+
+DESDEMONA
+(va all'inginocchiatoio)
+Ave Maria piena di grazia, eletta
+Fra le spose e le vergini sei tu,
+Sia benedetto il frutto, o benedetta,
+Di tue materne viscere, Gesù.
+Prega per chi adorando a te si prostra,
+Prega pel peccator, per l'innocente
+E pel debole oppresso e pel possente,
+Misero anch'esso, tua pietà dimostra.
+Prega per chi sotto l'oltraggio piega
+La fronte e sotto la malvagia sorte;
+Per noi tu prega
+Sempre e nell'ora della morte nostra.
+(resta ancora inginocchiata ed appoggia la fronte sull'inginocchiatoio come chi ripeta mentalmente una orazione. Non s'odono che le prime e le ultime parole della preghiera)
+nell'ora della morte.
+(s'alza e va a coricarsi)
+
+## Scena terza
+(Desdemona. Otello.)
+(Otello entra da una porta segreta, depone una scimitarra sul tavolo, s'arresta davanti alla face, titubante se spegnerla o no. Guarda Desdemona. Spegne la face. La scena resta rischiarata dal solo lume dell'inginocchiatoio. Otello, spinto da un impeto di furore, s'avvicina al letto; ma là s'arresta. Contempla lungamente Desdemona che dorme. La bacia tre volte. All'ultimo bacio Desdemona si desta)
+
+DESDEMONA
+Otello?
+
+OTELLO
+Si. Diceste questa sera
+Le vostre preci?
+
+OTELLO
+Se vi sovviene
+Di qualche colpa commessa che attenda
+Grazia dal ciel, imploratela tosto.
+
+DESDEMONA
+Perchè?
+
+OTELLO
+T'affretta. Uccidere non voglio
+L'anima tua.
+
+DESDEMONA
+D'uccider parli?
+
+DESDEMONA
+Pietà di me, mio Dio.
+E abbiate
+Pietà voi pure.
+
+OTELLO
+Pensa ai tuoi peccati.
+
+DESDEMONA
+Mio peccato è l'amor.
+
+OTELLO
+Perciò tu muori.
+
+DESDEMONA
+E perchè t'amo m'uccidi?...
+
+OTELLO
+Ami Cassio.
+
+DESDEMONA
+No! sull'anima mia!!
+
+OTELLO
+Quel fazzoletto
+Ch'io ti donai gli desti.
+
+DESDEMONA
+Non è vero!
+
+OTELLO
+Nella sua man lo vidi.
+
+DESDEMONA
+Io rea non sono!
+
+OTELLO
+Confessa!
+
+DESDEMONA
+Giuro!
+
+OTELLO
+Bada allo spergiuro...
+Pensa che sei sul tuo letto di morte.
+
+DESDEMONA
+Non per morir.
+
+OTELLO
+Per morir tosto.
+
+DESDEMONA
+Aita!
+Cassio non amo... ch'ei qui venga... ei parli.
+
+OTELLO
+Muto è per sempre.
+
+DESDEMONA
+Cielo! Morto?
+Son perduta!... ei tradito!
+
+OTELLO
+E pianger l'osi?
+
+DESDEMONA
+Otello... non uccidermi...
+
+OTELLO
+Tu invano
+Ti difendi.
+
+DESDEMONA
+Ch'io viva ancor...
+
+OTELLO
+Giù! cadi,
+Prostituta!...
+
+DESDEMONA
+Pietà!
+
+OTELLO
+Muori !!!!
+
+DESDEMONA
+Ch'io viva
+Questa notte...
+
+OTELLO
+No
+
+DESDEMONA
+Un'ora...
+
+OTELLO
+No
+
+DESDEMONA
+Un istante.
+
+OTELLO
+No
+
+DESDEMONA
+Sol ch'io dica un'Ave.
+
+OTELLO
+È tardi!! È tardi!...!...
+(la soffoca. Un grido di Desdemona)
+(s'ode bussare alla porta)
+
+OTELLO
+(contemplando il corpo inerte di Desdemona)
+Calma come la tomba.
+
+EMILIA
+(dal di fuori)
+Aprite! Aprite!
+
+OTELLO
+(trabalzando)
+Chi è là!! - Chi batte!
+
+EMILIA
+(come sopra)
+Signor mio... ven prego,
+Lasciate ch'io vi parli... Aprite!
+
+DESDEMONA
+Non per morir.
+
+OTELLO
+Per morir tosto.
+
+DESDEMONA
+Aita!
+Cassio non amo... ch'ei qui venga... ei parli,
+
+OTELLO
+Muto è per sempre.
+
+DESDEMONA
+Cielo! Morto?
+Son perduta!... ei tradito!
+
+OTELLO
+E pianger l'osi?
+
+DESDEMONA
+Otello... non uccidermi...
+
+OTELLO
+Tu invano
+Ti difendi.
+
+DESDEMONA
+Ch'io viva ancor...
+
+OTELLO
+Giù! cadi,
+Prostituta!...
+
+DESDEMONA
+Pietà!
+
+OTELLO
+Muori!!
+
+DESDEMONA
+Questa notte...
+
+OTELLO
+No!
+
+DESDEMONA
+Un'ora...
+
+OTELLO
+No!
+
+DESDEMONA
+Un istante.
+
+OTELLO
+No!
+
+DESDEMONA
+Sol ch'io dica un'Ave.
+
+OTELLO
+È tardi! È tardi!...
+(la soffoca. Un grido di Desdemona)
+(s'ode bussare alla porta)
+
+OTELLO
+(contemplando il corpo inerte di Desdemona)
+Calma come la tomba.
+
+EMILIA
+(dal di fuori)
+Aprite! Aprite!
+
+OTELLO
+(trabalzando)
+Chi è là! - Chi batte!
+
+EMILIA
+(come sopra)
+Signor mio... ven prego,
+Lasciate ch'io vi parli... Aprite!
+(aprendo)
+Che avvenne?
+
+EMILIA
+(entrando)
+Un gran delitto! Cassio uccise
+Rodrigo.
+
+OTELLO
+E Cassio?
+
+OTELLO
+Cassio vive!!
+
+DESDEMONA
+(dal letto)
+Ingiustamente... uccisa ingiustamente...
+
+EMILIA
+(accorrendo al letto)
+Chi geme là?... Orror!
+
+DESDEMONA
+Muoio innocente...
+
+EMILIA
+Gran Dio!... Chi fu?
+
+DESDEMONA
+Nessuno... io stessa... al mio
+Signor mi raccomanda... Emilia... Addio...
+(muore)
+
+OTELLO
+O mentitrice! io l'uccisi.
+
+EMILIA
+Assassino!
+
+OTELLO
+Fu di Cassio la druda. A Jago il chiedi.
+
+EMILIA
+Jago?!
+
+OTELLO
+A Jago.
+
+EMILIA
+Stolto!! e tu il credesti?...
+
+OTELLO
+Negarlo ardisci?!
+(fa per avventarsi contro Emilia)
+
+EMILIA
+Non ti temo.
+
+OTELLO
+(la afferra)
+Bada!
+
+EMILIA
+(si svincola e corre verso la porta gridando disperatamente)
+Olà! Soccorso! Aiuto! Otello uccise
+Desdemona!
+
+## Scena quarta
+(Otello. Emilia. Lodovico. Cassio. Jago. Poi Montàno con gente armata.)
+
+TUTTI
+(tranne Otello ed Emilia)
+Quai grida! Orrore! Orrore!
+
+JAGO
+smentisci quel vile assassino.
+tu creduto Desdemona infida?
+Parla!
+Tal la credea.
+
+OTELLO
+Quel fazzoletto
+un di le diedi, a Cassio essa donava.
+O potenza divina!
+
+JAGO
+(ad Emilia)
+
+EMILIA
+No,
+Tutto rivelo!
+
+EMILIA
+No! Costui
+Dalla mia man quel fazzoletto svelse
+A viva forza.
+
+CASSIO
+E nella mia dimora
+Trovai quel vel.
+
+MONTÀNO
+(entrando ed indicando Jago)
+Rodrigo morente
+Mi svelò di quest'uom l'arti nefande.
+
+OTELLO
+(a Jago)
+Ah! discolpati!!
+
+JAGO
+(fuggendo)
+No!
+
+MONTÀNO
+S'insegua.
+(alcuni escono inseguendo Jago)
+
+TUTTI
+Afferratelo!
+
+OTELLO
+(slanciandosi per afferrar la spada)
+E il ciel non ha più fulmini?!...
+
+LODOVICO
+La spada a me!
+
+OTELLO
+Tant'osi?! - Niun mi tema
+S'anco armato mi vede. Ecco la fine
+Del mio cammin... Oh! Gloria! Otello fu.
+(lascia cadere la spada)
+(va presso al letto e contempla Desdemona)
+E tu... come sei pallida! e stanca, e muta, e bella,
+Pia crëatura nata sotto maligna stella.
+Fredda come la casta tua vita, e in cielo assorta.
+Desdemona! Desdemona!... Ah!... morta!... morta!... morta!...
+(estraendo furtivamente dalle vesti un pugnale)
+Ho un'arma ancor!
+(si ferisce)
+
+CASSIO
+Ah! Ferma!
+
+TUTTI
+Sciagurato!
+
+OTELLO
+Pria d'ucciderti... sposa... ti baciai.
+Or morendo... nell'ombra... ov'io mi giacio...
+Un bacio... un bacio ancora... un altro bacio...
+(muore)

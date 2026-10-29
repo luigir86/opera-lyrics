@@ -1,0 +1,1597 @@
+title: Otello
+composer: Gioachino Rossini
+librettist: Francesco Berio di Salsa
+year: 1816
+source: https://www.loc.gov/item/2010660388/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Atto primo
+
+## Scena prima
+(scena rappresenta la sala del Senato, in fondo della quale fra alcuni archi vedesi il lido coperto di popolo, che attende festoso lo sbarco di Otello.)
+(Navi in distanza.)
+(Doge, Elmiro, Senatori seduti, indi Otello, Jago, Rodrigo, e Lucio seguiti dalle schiere.)
+
+CORO
+Viva Otello, viva il prode
+Delle schiere invitto duce!
+Or per lui di nuova luce
+Torna l'Adria a sfolgorar.
+Lui guidò virtà fra l'armi,
+Militò con lui fortuna,
+Si oscurò l'Odrisia luna
+Del suo brando al fulminar.
+(Sbarcato Otello, si avanza verso del Doge al suono d'una marcia militare, seguito da Jago, da Rodrigo, e da Lucio.)
+
+OTELLO
+Vincemmo, o Padri. I perfidi nemici
+Caddero estinti. Al lor furor ritolsi
+Sicura omai d'ogni futura offesa
+Cipro, di questo suol forza e difesa.
+Null'altro a oprar mi resta, Ecco vi rendo,
+L'acciar temuto; e delle vinte schiere
+Depongo al vostro piede armi e' bandiere.
+
+DOGE
+Ah! di qual premio mai...
+
+OTELLO
+Mi compensaste assai
+Nell'affidarvi in me. D'Affrica figlio,
+Quì straniero son io. Ma se ancor serbo
+Un cuor degno di voi, se questo suolo
+Più che patria rispetto, ammiro, ed amo,
+M'abbia l'Adria qual figlio: altro non bramo.
+
+JAGO
+(Che superba richiesta!)
+
+RODRIGO
+(A' voti del mio cor fatale è questa.)
+
+DOGE
+Tu d'ogni gloria il segno
+Vincitor trascorresti. Il brando invitto
+Riponi al fianco, e già dell'Adria figlio
+Vieni tra i plausi a coronarti il crine
+Del meritato alloro.
+
+RODRIGO
+(Dunque perder dovrò colei, che adoro?)
+(a Jago.)
+
+JAGO
+(Taci, non disperar.)
+(a Rodrigo.)
+
+OTELLO
+Confuso io sono
+A tante prove e tante
+D'un generoso amor. Ma meritarle
+Poss'io, che nacqui sotto ingrato cielo,
+D'aspetto, e di costumi
+Sì diverso da voi?
+
+DOGE
+Nascon per tutto, e rispettiam gli Eroi,
+
+OTELLO
+Ah sì per voi già sento
+Nuovo valor nel petto:
+Per voi d'un nuovo affetto
+Sento infiammarsi il cor.
+(tra se.)
+(Premio maggior di questo
+Da me sperar non lice:
+Ma allor sarò felice
+Quando il coroni Amor.)
+
+CORO
+Non indugiar, t'affretta:
+Deh vieni a trionfar.
+(Rodrigo nel massimo dispetto si vorrebbe scagliare su di Otello: Jago lo trattiene.)
+
+JAGO
+(T'affrena, la vendetta
+Cauti dobbiam celar.)
+
+OTELLO
+(Deh! Amor, dirada il nembo
+Cagion di tanti affanni,
+Comincia co' tuoi vanni
+La speme a ravvivar.)
+
+CORO
+Non indugiar, t'affretta
+Deh vieni a trionfar.
+(Parte Otello seguito da Senatori, e dal Popolo, Elmiro rimane.)
+(Elmiro, Jago, Rodrigo.)
+
+ELMIRO
+Rodrigo!!...
+
+RODRIGO
+Elmiro! ah padre mio! deh! lascia
+un tal nome ti dia se al mio tesoro
+vita sì cara.
+che fa mai Desdémona?... che dice?...
+ricorda di me?... sarò felice?
+
+ELMIRO
+Sospira, piange, e la cagion mi cela
+Dell'occulto suo duol.
+
+RODRIGO
+Ma in parte almeno...
+
+ELMIRO
+Arrestarmi non posso: odi lo squillo
+Delle trombe guerriere:
+Alla pubblica pompa ora degg'io
+Volgere il piè: ci rivedremo: addio.
+
+(Jago, Rodrigo.)
+
+RODRIGO
+Dunque abbagliato Elmiro.
+Dalla gloria fallace
+Dell'Afro insultator, potrebbe ei forse,
+Degenere dagli avi, a un nodo indegno
+Sagrificar l'unica figlia...
+
+JAGO
+Ah frena,
+Frena gl'impeti alfin. Jago conosci,
+E diffidi così? Tutti ho presenti
+I miei torti, ed i tuoi: ma sol fingendo
+Vendicarci potrem. Se quell'indegno
+Dell'Africa rifiuto
+Or qui tant'alto ascese,
+E pel tuo ben s'accese,
+Oppormi a lui saprò. Sol questo foglio
+Basta a domare il suo crudele orgoglio.
+(gli porge un foglio.)
+
+RODRIGO
+Che leggo! e come mai...
+
+JAGO
+Per or ti accheta,
+saprai; ogni ritardo or puote
+Rendèr vana l'impresa.
+
+RODRIGO
+Ondeggia il core
+la speme, lo sdegno ed il timore.
+
+JAGO
+No, non temer: serena
+L'addolorato ciglio:
+Prevenni il tuo periglio;
+Fidati all'amistà.
+
+RODRIGO
+Calma sù i labbri tuoi
+Trova quest'alma oppressa,
+Ed una sorte istessa
+Con te dividerà.
+
+JAGO E RODRIGO
+(a 2.)
+Se uniti negli affanni
+Noi fummo un tempo insieme,
+Or una dolce speme
+Più stretti ci unirà.
+
+RODRIGO
+Nel seno già sento
+Risorger l'ardire.
+
+JAGO
+Vicino il contento
+Mi pinge il pensier.
+A un alma, che pena,
+Si rende più grato,
+Quanto è più bramato,
+Atteso piacer.
+(partono.)
+## Scena seconda
+(Stanza nel palazzo di Elmiro. Desdémona, Emilia.)
+
+EMILIA
+Inutil è quel pianto. Il lungo affanno
+Si trasformi in piacer; carco di allori
+A noi riede il tuo bene. Odi d'intorno
+Come l'Adria festeggia un sì bel giorno.
+
+DESDEMONA
+Emilia, ah tu ben sai
+Quanto finor penai: come quest'alma
+Al racconto fedel del suo periglio
+Si pingea palpitante in sul mio ciglio;
+E fra i palpiti miei, fra le mie pene
+Quante volte dicea, perchè non viene?
+Ed or ch'è a me vicino
+Mi veggo in preda a più crudel destino!
+Ah perchè mai questa sua gloria accresce
+In me per lui l'affetto,
+E 'l dispetto?
+Come nel padre mio odio, a tema
+
+EMILIA
+Sicura del suo core, ogni altr
+Inutile si rende.
+
+DESDEMONA
+Ah! ch'io pavento
+Ch'ei sospetti di me. Ben ti sovviene
+Quando parte tu stessa
+Ah che ad Otello
+Del mio crin recidesti.
+unse: il padre
+Dono sì caro allor non gi
+Sorprese il foglio, ch'io con man tremante
+A lui vergava. Al suo Rodrigo invece
+Diretto il crede: io secondai l'errore:
+Ma il labbro il disse, e lo smentiva il core.
+Fin da quel dì dell'Idol mio le usate
+Note più non rividi... un dubbio atroce
+M'agita, mi confonde...
+Chi sà? conobbe ei forse
+Pegno sì dolce in mano altrui? me infida
+Crede dunque?...
+
+EMILIA
+Che dici?..
+Timido è amore, e spesso si figura
+Un mal, che non esiste, o che non dura.
+
+DESDEMONA
+Vorrei, che il tuo pensiero
+A me dicesse il ver.
+
+EMILIA
+Sempre è con te sincero:
+che non dei temer..
+
+DESDEMONA
+Ma l'amistà sovente
+Ciocchè desìa si finge.
+
+EMILIA
+Ma un anima languente
+Sempre il dolor si pinge..
+
+DESDEMONA
+Ah crederti vorrei,
+Ma a te s'oppone il cor.
+
+EMILIA
+Credere a me tu dei,
+E non fidarti al cor.
+Quanto son fieri i palpiti
+Che desta in noi l'amor!
+Dura un momento il giubilo,
+Eterno è il suo dolor.
+
+DESDEMONA
+Ma che miro: ecco a noi che incerto i passi
+Muove il perfido Jago:
+Fuggiam, si eviti: ei rintracciar potria
+Sul mio volto l'amor, la pena mia.
+(partono.)
+(Jago, indi Rodrigo.)
+
+JAGO
+Fuggi. Sprezzami pur: più non mi curo
+Della tua destra.... un tempo a' voti miei
+Utile la credei.... Tu mi sprezzasti
+Per un vile Africano, e ciò ti basti.
+Ti pentirai, lo giuro;
+Tutti servir dovranno a' miei disegni
+Gli involati d'amor furtivi pegni
+Ma Rodrigo a me riede;
+Che mai dirmi dovrà?
+
+RODRIGO
+Sai del mio bene
+Il genitor dov'è?
+
+JAGO
+Miralo, ei viene.
+(Elmiro, e detti.)
+
+ELMIRO
+È, Rodrigo, il fortunato istante,
+In cui dovrai di sposo
+Dar la destra a mia figlia.
+L'amistà mel consiglia,
+Il mio dover; la tua virtude, e il fero
+Odio, che in petto io serbo
+Per l'African superbo. Insiem congiunti
+Per sangue, e per amor, facil ne fia
+Opporci al suo poter. Ma tu procura
+Al padre tuo, che invitto e amato siede
+In su l'Adriaco soglio,
+Svelar le trame, e il suo nascosto orgoglio.
+
+RODRIGO
+Ah sì tutto farò.
+
+ELMIRO
+Jago, t'affretta
+A compir l'Imeneo. A parte sei
+Delle mie brame, e de' disegni miei.
+
+RODRIGO
+Ah di qual gioja sento acceso il petto!
+Ma sarò sì felice?
+
+ELMIRO
+Io tel prometto.
+(partono.)
+
+## Scena terza
+(Elmiro solo.)
+
+ELMIRO
+Vendicarmi dovrò; nè più si vegga,
+Che un barbaro stranier con modi indegni
+Ad ubbidirlo, ed a servir ne insegni.
+(Desdémona, ed Elmiro.)
+figlia a' voti miei
+Opportuna qui giugne.
+
+DESDEMONA
+Ah padre, lascia,
+Che rispettosa io baci,
+
+ELMIRO
+Amata figlia,
+Vieni al mio seno,
+In questo fausto giorno
+Dividere vò teco il mio contento,
+
+DESDEMONA
+Che mai dirmi potrà? Spero, e pavento!
+(a parte.)
+
+ELMIRO
+Dal sen scaccia ogni duolo,
+Un premio or t'offro,
+Che a grato sarà.
+
+DESDEMONA
+(Forse d'Otello
+O Lalmaio i trionfi?)
+
+RODRIGO
+In vaga pompa
+Signore or or tu dei
+Tra i plausi popolari i passi miei.
+(parte.)
+
+## Scena quarta
+(Desdémona sola.)
+
+DESDEMONA
+Qual enigma è mai questo! Io nol comprendo,
+
+## Scena quinta
+(Emilia, e detta)
+
+DESDEMONA
+Emilia, in quai tumulti
+Sento il misero cor!
+
+EMILIA
+Che avvenne?
+
+DESDEMONA
+Il padre
+Un premio m'offre, e vuole,
+Che, il seno e il crin pomposamente adorno,
+Festeggi insiem con lui sì fausto giorno.
+Tra la speme, e il timor che mi consigli?
+
+EMILIA
+Fingon gli amanti ognor nuovi perigli,
+tu non paventar. Chi sà!.. d'un padre
+L'amore in lui parlò. Forse d'Otello
+Alla gloria egli cede, e l'odio antico
+Cangiò in amore, e gli divenne amico,
+Vieni, non indugiar.
+
+DESDEMONA
+Ti sieguo. Oh Dio!
+Palpita intanto il povero cor mio.
+(Pubblica sala magnificamente adorna, Coro di Damigelle. Coro degli amici, e confidenti d'Elmiro.)
+
+CORO
+Santo Imen! te guidi Amore
+Due bell'alme ad annodar.
+(Coro delle Damigelle.)
+Dell'amore il dolce ardore
+Tu procura di eternar.
+(Parte del Coro.)
+Senza lui divien tiranno
+Il tuo nobile poter.
+(Altra parte,)
+Senza te cagion di affanno
+È d'amore ogni piacer.
+
+CORO
+Qual momento di contento!
+Tra l'amore, ed il valore
+Resta attonito il pensier
+(Elmiro, Desdémona, Emilia, Rodrigo con suo seguito)
+
+DESDEMONA
+Dove son! Che mai veggio!
+Il cuor non mi tradì!
+
+ELMIRO
+Tutta or riponi
+La tua fiducia in me. Padre a te sono:
+Ingannarti non posso. Eterna fede
+Giura a Rodrigo: egli la merta; ei solo
+Può renderti felice.
+
+RODRIGO
+Che mai dirà?....
+
+EMILIA
+Qual cenno!
+
+DESDEMONA
+Oh me infelice!
+
+ELMIRO
+Appaga i voti miei, in te riposo.
+
+DESDEMONA
+Oh natura! oh dover! oh legge! oh sposo!
+
+ELMIRO
+Nel cuor d'un padre amante
+Riposa amata figlia,
+È Amor, che mi consiglia
+La tua felicità.
+
+RODRIGO
+Confusa è l'alma mia
+Tra tanti dubbi e tanti,
+Solo in sì fieri istanti
+Reggermi Amor potrà.
+
+DESDEMONA
+Padre.... tu brami.... oh Dio!
+Che la sua mano accetti?
+(A' miei tiranni affetti
+Chi mai resisterà?)
+Si arresta!... aimè!... sospira!
+Che mai temer degg'io?
+Tanto soffrir, ben mio?
+Tanto il mio cuor dovrà?
+Deh taci!
+Che veggo!
+Mi sprezza!
+Resiste?
+Oh ciel! da te chieggo
+Soccorso, pietà.
+Deh giura.
+Che chiedi?
+Ah vieni...
+Che pena!
+Se al padre non cedi,
+Punirti saprà.
+Ti parli l'amore:
+Non essermi infida:
+Quest'alma a te fida
+Più pace non ha.
+
+ELMIRO
+D'un padre l'amore
+Ti serva di guida:
+Al padre t'affida,
+Che pace non ha,
+
+DESDEMONA
+Del fato il rigore
+A pianger mi guida:
+Quest'alma a lui fida
+Più pace non ha.
+(Otello nel fondo del Teatro seguito da alcuni suoi compagni, e detti)
+
+OTELLO
+L'ingrata, aimè che miro!
+Al mio rivale accanto!...
+Taci!
+Ti muova il pianto,
+
+RODRIGO
+Ti muova il mio dolor.
+
+ELMIRO
+Risolvi...
+Io non resisto!
+
+ELMIRO
+Ingrata figlia!
+
+RODRIGO
+Oh Dio! chi mi consiglia?
+Chi mi dà forza al cor!
+
+CORO
+Al rio destin rubello
+Chi mai sottrarla può?
+
+ELMIRO
+Deh giura...
+
+OTELLO
+Ah ferma...
+
+CORO
+Otello!...
+Il cuore in sen gelò
+
+ELMIRO
+Che brami?
+
+OTELLO
+Il suo core...
+Amore mel diede,
+E Amore lo chiede,
+Elmiro, da te.
+
+ELMIRO
+Che ardire!
+
+DESDEMONA
+Che affanno!
+
+RODRIGO
+Qual'alma superba!
+
+DESDEMONA
+Rammenta... mi serba
+Intatta la fè.
+
+RODRIGO
+E qual diritto mai
+Perfido! su quel core
+Vantar con me potrai,
+Per renderlo infedel!
+
+OTELLO
+Virtù, costanza, amore,
+Il dato giuramento...
+
+ELMIRO
+Misero me! che sento?
+Giurasti?
+
+DESDEMONA
+È ver: giurai...
+
+ELMIRO
+Per me non hai più fulmini
+
+RODRIGO
+Inesorabil ciel!
+
+OTELLO
+T'arresta!
+
+RODRIGO
+Invano
+L'avrai tu mio nemico...
+
+ELMIRO
+Empia!.. ti maledico...
+
+CORO
+Ah!.. che giorno d'orror!..
+Incerta l'anima
+Vacilla e geme,
+La dolce speme
+Fuggì dal cor.
+
+RODRIGO
+Parti crudel.
+
+OTELLO
+Ti sprezzo.
+(Elmiro la prende, e protetto da suoi, la conduce via. Ella rimirando con dolcezza Otello, s'allontana da lui)
+
+ELMIRO
+Non v'è perdono.
+
+RODRIGO
+Or or vedrai chi sono:
+
+OTELLO
+Paventa il mio furor!
+
+CORO
+Smanio, deliro, e fremo...
+
+DESDEMONA
+Smanio, deliro, e tremo
+No, non fu mai più fiero
+D'un rio destin severo
+Il barbaro tenor!
+
+# Atto secondo
+
+(Stanza di Elmiro. Rodrigo, e Desdémona.)
+
+DESDEMONA
+Lasciami
+
+RODRIGO
+È dunque vano
+Il mio dolor, l'ira del padre?
+
+DESDEMONA
+Ah vanne...
+Io sol per te sono infelice.
+
+RODRIGO
+Oh Dio!
+Non dir così... se mai per me sereni
+Io vegga scintillar quegli occhi tuoi,
+Farò, bell'idol mio, ciò che tu vuoi.
+
+DESDEMONA
+Placami dunque il padre,
+Rendimi l'amor suo: mostra nel petto
+Qual grand'alma rinchiudi, e generosa
+
+RODRIGO
+Ma Otello; Otello adori!
+
+DESDEMONA
+Io gli son sposa.
+
+RODRIGO
+Che ascolto! aimè! che dici!
+Ah come mai non senti
+Pietà de' miei tormenti
+Del mio tradito amor?
+Ma se costante sei
+Nel tuo rigor crudele,
+Se sprezzi i prieghi miei,
+Le giuste mie querele,
+Saprò con questo braccio
+Spezzar l'occulto laccio,
+Punire il traditor.
+(parte.)
+
+DESDEMONA
+(Desdémona sola.)
+Abbandonò!.. disparve!.. Oh me infelice !
+Che mai farò?.. restar degg'io?.. seguirlo !...
+Terribile incertezza! Ah! chi mi aita?
+Chi mi consiglia?
+
+(Emilia, e detta.)
+
+DESDEMONA
+Ah vieni, Emilia, vieni,
+Soccorrimi, previeni
+L'ultima mia rovina.
+
+EMILIA
+Che avvenne? oh ciel perchè così tremante ?
+
+DESDEMONA
+Io perderò; per sempre il caro amante.
+
+EMILIA
+Chi tel rapisce?
+
+DESDEMONA
+Il suo rival Rodrigo:
+A lui svelai, che sposa...
+
+EMILIA
+Ahi ! che facesti?
+
+DESDEMONA
+È tardi il pentimento:
+In sì fatal momento
+Sol m'addita un cammino, onde sicura
+Possa giungere a lui.
+
+EMILIA
+Ma se sorpresa sei, se il genitore...
+
+DESDEMONA
+Più riguardi non ho, non ho più tema,
+Presente è il suo periglio al mio pensiere.
+Salvisi... a lui mi chiama il mio dovere.
+(parte)
+
+EMILIA
+(Emilia sola.)
+Ell'a perdersi va. Seguirla io deggio...
+Sola... che fò ! se giugne il padre?.. Ah prima
+Le mie compagne, le sue fide amiche
+Avvertire si denno; alcun soccorso
+Posso almeno sperar... in qual cimento
+È questo core in sì fatal momento!
+
+(Giardino nella casa di Otello.)
+(Otello assiso nella massima costernazione.)
+
+OTELLO
+Che feci!.. ove mi trasse
+Un disperato amor! io gli posposi
+La gloria, l'onor mio !
+Ma che!... mia non è forse?.. in faccia al cielo
+Fede non mi giurò? Non diemmi in pegno
+La sua destra, il suo cor?.. Potrò lasciarla?
+Potrò soffrire;
+Vederla in braccio ad altri, e non morire?
+
+## Scena prima
+(Jago, e detto.)
+
+JAGO
+Perchè mesto così?... scuotiti, Ah mostra,
+Che Otello alfin tu sei.
+
+OTELLO
+Lasciami in preda
+Al mio crudo destin.
+
+JAGO
+Del suo rigore
+Hai ragion di lagnarti:
+Ma tu non dei, benchè nemico il fato,
+Cader, per nostro scorno, invendicato.
+
+OTELLO
+Che mai far deggio?
+
+JAGO
+Ascoltami... che pensi?...
+In te stesso ritorna... i tuoi trionfi
+Di difesa ti son... sono bastanti
+I tuoi nemici ad atterrir... a farti
+Sprezzare ogni altro affetto.
+
+OTELLO
+Quai terribili accenti!
+L'interrotto parlare, i dubbj tuoi,
+L'irresoluto volto
+In quanti affanni involto
+Hanno il mio cor! Spiegati. Ah! non tenermi
+In sì fiera incertezza.
+
+JAGO
+Altro dirti non sò: dal labbro mio
+Altro chieder non dei.
+
+OTELLO
+Chieder non deggio?.. oh Dio! quanto s'accresce
+Il mio timor dal tuo silenzio!.. Ah forse
+
+JAGO
+E perchè cerchi
+Nuova cagion d'affanni?
+
+OTELLO
+Tu m'uccidi così. Meno infelice
+Sarei, se il vero io conoscessi.
+
+JAGO
+Ebbene
+Il vuoi?.. ti appagherò... che dico?.. io gelo!
+
+OTELLO
+Parla una volta.
+
+JAGO
+Oh quale arcano io svelo?
+Ma l'amistà lo chiede,
+Io cedo all'amistà. Deh sappi...
+
+OTELLO
+Ah taci!..
+Aimè! tutto compresi.
+
+JAGO
+E che farai?
+
+OTELLO
+Vendicarmi, e morir.
+
+JAGO
+Morir non dei,
+E in disprezzarla avrai vendetta intera.
+
+OTELLO
+Ma non tremenda e fiera,
+Qual'io la bramo, quale Amor la chiede..
+E sicuro son io del suo delitto?..
+(con incertezza.)
+Ah se tal fusse... qual in me... Tu Jago
+Tu mi comprendi, ed il tradirmi or fora
+Delitto ancora in te.
+
+JAGO
+Che mai tu pensi?
+Confuso io son... ti parli
+Questo foglio per me.
+
+OTELLO
+Che miro! oh Dio!
+Sì! di sua man son queste
+Le crudeli d'amor cifre funeste.
+Non m'inganno; al mio rivale
+L'infedel vergato ha il foglio;
+Più non reggo al mio cordoglio!
+Io mi sento lacerar!
+
+JAGO
+(Già la fiera gelosia
+Versò tutto il suo veleno,
+Tutto già gl'inonda il seno,
+E mi guida a trionfar.)
+
+OTELLO
+(legge)
+Caro bene... e ardisci ingrata?..
+
+JAGO
+(Nel suo ciglio il cor gli veggo -)
+
+OTELLO
+Ti son fida... Ahimè! che leggo!
+Quali smanie io sento al cor!
+
+JAGO
+(Quanta gioja io sento al cor!)
+
+OTELLO
+Di mia chioma un pegno. Oh cielo!
+
+JAGO
+(Cresce in lui l'atroce sdegno.)
+
+OTELLO
+Dov'è mai l'offerto pegno
+
+JAGO
+Ecco... il cedo con orror!
+
+OTELLO
+Nò, più crudele un anima...
+
+JAGO
+(Nò più contenta un anima...
+
+OTELLO E JAGO
+Nò, che giammai si vide!
+
+OTELLO
+Il cuor mi si divide
+Per tanta crudeltà.
+Propizio il Ciel n'arride;
+L'indegna ah! sì cadrà.)
+
+OTELLO
+Che far degg'io?
+
+JAGO
+Ti calma.
+
+OTELLO
+Lo speri invan.
+
+JAGO
+Che dici?
+
+OTELLO
+Spinto da furie ultrici
+Punirla alfin saprò.
+
+JAGO
+Ed oserai?..
+
+OTELLO
+Lo giuro.
+
+OTELLO
+Io più nol curo.
+
+JAGO
+affida, i tuoi nemici
+Or dunque abbatterò.
+
+OTELLO
+L'ira d'avverso fato
+Io più non temerò:
+Morrò, ma vendicato
+Sì... dopo lei morrò.
+
+JAGO
+(L'ira d'avverso fato
+Temer più non dovrò:
+Son io già vendicato,
+Di lui trionferò.)
+(parte.)
+
+## Scena seconda
+(Otello solo.)
+
+OTELLO
+a tanto giugner puote
+ingannevol cor!.. Ma chi s'avanza?
+
+(Rodrigo e detto.)
+
+OTELLO
+Rodrigo.. e che mai brami?..
+
+RODRIGO
+A te ne vengo
+nemico, se il vuoi:
+al mio voler se cedi,
+Tuo amico, e difensor.
+
+OTELLO
+Uso non sono
+A mentire, a tradir. Io ti disprezzo
+Nemico, o difensor.
+
+RODRIGO
+Oh che baldanza!
+(a parte.)
+Non mi conosci ancor
+
+OTELLO
+Si ti conosco,
+Perciò non ti pavento;
+Sol disprezzo, il ripeto, io per te sento.
+
+RODRIGO
+Ah vieni, nel tuo sangue
+Vendicherò le offese:
+Se un vano amor ti accese,
+Distruggerlo saprò.
+
+OTELLO
+Or or vedrai qual chiudo
+Giusto furor nel seno:
+Sì, vendicarmi appieno
+Di lei, di te dovrò.
+
+OTELLO E RODRIGO
+Qual gioja! all'armi! all'armi!
+Il traditor già parmi
+Veder trafitto al suol.
+
+## Scena terza
+(Desdémona giunge, e detti.)
+
+DESDEMONA
+Ahimè: fermate, udite.
+(arrestandoli.)
+Solo il mio cor ferite
+Cagion di tanto duol.
+Che fiero punto è questo!
+
+OTELLO
+L'indegna a me d'innante!
+
+DESDEMONA
+L'ingrato a me d'innante!
+
+RODRIGO
+Pinta ha sul reo sembiante
+Tutta l'infedeltà.
+
+DESDEMONA
+Non cangia di sembiante!
+Misera! che sarà?
+
+OTELLO
+Deh sieguimi.
+
+RODRIGO
+Ti sieguo.
+Son pago alfin.
+
+DESDEMONA
+T'arresta.
+
+OTELLO
+Vanne.
+
+DESDEMONA
+Che pena è questa!
+Che fiera crudeltà!
+Perchè da te mi scacci?...
+Qual barbaro furore
+Così ti accende il core,
+Che vaneggiar ti fa?
+
+OTELLO
+Ah perfida! ed ardisci....
+
+RODRIGO
+T'affretta.
+
+DESDEMONA
+Che mai sento!
+
+OTELLO, DESDÉMONA E RODRIGO
+Più barbaro tormento
+Di questo non si dà.
+
+DESDEMONA
+Ah per pietà!
+
+OTELLO
+Mi lascia.
+
+DESDEMONA
+Ma che ti feci io mai?
+
+OTELLO
+Or ora lo vedrai...
+Finge l'indegna ancor!
+(fra se.)
+
+OTELLO, DESDÉMONA E RODRIGO
+Tra tante smanie, e tante
+Quest'alma mia delira,
+Vinto è l'amor dall'ira,
+Spira vendetta il cor.
+(partono.)
+
+DESDEMONA
+Quest'alma che delira
+Sù i labbri miei già spira:
+Sento mancarmi il cor!
+L'ingrato mi lasciò! misera! io moro,
+(sviene.)
+
+## Scena quarta
+(Emilia, e detta.)
+
+EMILIA
+che veggo! Al suol giacente...
+Pallor di morte le ricopre il volto...
+Oh ciel!.. chi mi soccorre!
+Quale ajuto recarle?..
+O tu dell'alma mia parte più cara
+Ascoltami, deh riedi a questo seno...
+La tua amica ti chiama... Ah! non risponde!
+Gelo è il petto e la man... Chi me l'invola?
+Quel barbaro dov'è?.. vorrei...che miro?..
+Apre i languidi lumi... alfin respiro:
+
+DESDEMONA
+Chi sei?..
+
+EMILIA
+Non mi conosci?
+
+DESDEMONA
+Emilia!
+
+EMILIA
+Ah quella
+Quell'appunto son io. Siegui i miei passi,
+Salvati per pietà.
+
+DESDEMONA
+Ma potrò mai
+Rivederlo?.. abbracciarlo!.. Ah se nol sai
+Vanne, cerca, procura...
+
+EMILIA
+E che mai chiedi?
+Intenderti chi può?
+
+DESDEMONA
+Confusa, oppressa
+me non so più ritrovar me stessa!
+Che smania? aimè! che affanno?
+Chi mi soccorre, oh Dio
+Per sempre ahi l'idol mio
+Perder così dovrò!
+Barbaro ciel tiranno!
+Da me se lo dividi,
+Salvalo almen: me uccidi:
+Contenta io morirò.
+(Coro di Damigelle; indi coro di confidenti poi Elmira.)
+
+DESDEMONA
+Qui nuova a me recate?..
+Men fiero, se parlate,
+Si rende il mio dolor,
+
+CORO
+Trema il mio cuore e tace.
+
+DESDEMONA
+De' detti ah! più loquace
+È quel silenzio ancor!
+(Si avanza il coro di confidenti.)
+
+DESDEMONA
+Ah ditemi almen voi...
+
+CORO
+Che mai saper tu vuoi?
+
+DESDEMONA
+Se vive il mio tesor,
+
+CORO
+Vive, serena il ciglio...
+
+DESDEMONA
+Salvo dal suo periglio?..
+Altro non chiede il cor.
+
+DESDEMONA
+Il Genitore!
+
+ELMIRO
+Del mio tradito onore
+Come non hai rossor?
+
+CORO
+Oh ciel! qual nuovo orror!
+
+DESDEMONA
+L'error d'un infelice
+Pietoso in me perdona,
+Se il padre m'abbandona,
+Da chi sperar pietà?
+
+ELMIRO
+No, che pietà non merti.
+Vedrai fra poco, ingrata!
+Qual pena è riserbata
+Per chi virtà non ha.
+
+DESDEMONA
+Palpita il cuor nel petto,
+A quel severo aspetto
+Più reggere non sà!
+
+ELMIRO
+Odio, furor, dispetto
+Han la pietà nel petto
+Cangiata in crudeltà.
+
+DESDEMONA
+Come cangiar nel petto
+Può il suo paterno affetto
+In tanta crudeltà?
+
+CORO
+Se nutre nel suo petto
+Un impudico affetto,
+Giusta è la crudeltà.
+
+# Atto terzo
+
+## Scena prima
+(La scena rappresenta una stanza da letto. Emilia, Desdémona in semplicissime vesti abbandonata su di una sedia, ed immersa nel più fiero dolore.)
+
+EMILIA
+Dagli affanni oppressa
+Parmi fuor di se stessa.
+Che mai farò?... chi mi consiglia? oh cielo!..
+Perchè tanto ti mostri a noi severo?
+
+DESDEMONA
+(fra sè)
+Ah no; di rivederlo io più non spero!
+
+EMILIA
+(facendosi coraggio, ed avvicinandosi a lei.)
+Rincorati, m'ascolta.... in me tu versa
+Tutto il tuo duol. Nell'amistà soltanto
+Puoi ritrovare alcun conforto. Ah! parla...
+
+DESDEMONA
+Che mai dirti poss io?..
+Ti parli il mio dolore, il pianto mio.
+
+EMILIA
+Quanto mi fai pietà!... Ma almen procura
+Da saggia che tu sei,
+Di dar tregua per poco alle tue pene.
+
+DESDEMONA
+Che dici?... che mai pensi?... In odio al Cielo
+Al mio padre, a me stessa... in duro esiglio
+Condannato per sempre il caro sposo...
+Come trovar poss'io tregua, o riposo?
+(Sentesi da lungi il Gondoliero, che scioglie all'aura un dolce canto.)
+Nessun maggior dolore
+Che ricordarsi del tempo felice
+Nella miseria,
+(Desdémona a quel canto si scuote.)
+
+DESDEMONA
+Oh come infino al cuore
+Giungon quei dolci accenti!
+(Alzasi, e con trasporto si avvicina alla finestra.)
+Chi sei che così canti?... Ah tu rammenti
+Lo stato mio crudele!
+
+EMILIA
+È il Gondoliero, che cantando inganna
+Il cammin sulla placida laguna
+Pensando a' figli, mentre il ciel s'imbruna.
+
+DESDEMONA
+Oh lui felice? ah! se potessi anch'io
+Sperar... vana lusinga!.. a inutil pianto
+Sol mi serbasti ingiusto Amor!..
+
+EMILIA
+Che veggio!
+S'accresce il suo dolor...
+
+DESDEMONA
+Isaura!.. Isaura!
+
+EMILIA
+Essa l'amica appella,
+Che all'Africa involata, se vicina
+Quì crebbe e qui morìo...
+
+DESDEMONA
+Infelice ancor fosti
+Al par di me Ma or tu riposi in pace...
+
+EMILIA
+O quanto è che ratti a un cuore oppresso
+Si riuniscon gli affanni!
+
+DESDEMONA
+O tu del mio dolor dolce istrumento?
+pegno d'Amor, che sol m'avanzi,
+te riprendo ancora;
+unisco al mesto canto
+sospiri d'Isaura, ed il mio pianto.
+Assisa a piè d'un salice,
+Immersa nel dolore
+Gemea trafitta Isaura
+Dal più crudele amore,
+L'aura tra i rami flebile
+Ne ripeteva il suon.
+I ruscelletti limpidi
+A' caldi suoi sospiri
+Il mormorio mesceano
+De' lor diversi giri:
+L'aura fra i rami flebile;
+Ne ripeteva il suon.
+Salce, d'amor delizia!
+Ombra pietosa appresta
+(Di mie sciagure immemore)
+All'urna mia funesta,
+Nè più ripeta l'aura.
+De' miei lamenti il suon.
+
+DESDEMONA
+dissi!.. Ah m'ingannai!.. è del canto
+Questo il lugubre fin. M'ascolta... oh Dio!
+(Un colpo di vento spezza alcuni vetri della finestra.)
+mai strepito è questo!..
+presagio funesto!
+
+EMILIA
+Non paventar: rimira.
+Impetuoso vento è quel, che spira.
+
+DESDEMONA
+Io credeva che alcuno... oh come il Cielo
+S'unisce a' miei lamenti!..
+Ascolta il fin de' dolorosi accenti.
+Ma stanca alfin di spargere
+Mesti sospiri, e pianto,
+Morì l'afflitta vergine
+Ahi! di quel salce accanto!
+Morì... che duol! l'ingrato...
+Potè... ma il pianto Oh Dio!
+Proseguir non mi fa. Parti, ricevi
+labbri dell'amica il bacio estremo.
+
+EMILIA
+Ah che dici!... ubbidisco... oh come io tremo!
+
+DESDEMONA
+(Desdémona nel massimo dolore dirige al cielo la seguente preghiera.)
+Dà calma, o Ciel, nel sonno
+Per poco le mie pene,
+Fa, che l'amato bene
+Mi venga a consolar.
+Se poi son vani i prieghi,
+Di, mia breve urna in seno
+Venga di pianto almeno
+Il cenere a bagnar.
+(Ella cala la tendina, e si getta sul letto.)
+
+## Scena seconda
+(Otello s'introduce nella stanza di Desdémona per una secreta porta, tenendo in mano una accesa fiaccola ed un pugnale.)
+
+OTELLO
+Eccomi giunto inosservato, è solo
+Nella stanza fatal... Jago involommi
+Al mio vicin periglio. Egli i miei passi
+Dirigere quì seppe.
+(Ei rimane per un momento attonito, indi attento guarda in giro.)
+Il silenzio m'addita,
+Ch'ella di mia partenza omai sicura
+Sogna il rivale, e più di me non cura.
+(Riguardando verso la tendina del letto.)
+Quanto t'inganni! ora egli al suol trafitto...
+Che dissi!.. ah sol tu colpi al mio delitto!
+(Pian piano si avvicina al letto, ed apre le tendine nel massimo tumulto del cuore.)
+Che miro! aimè!... quegli occhi abbenchè chiusi
+Pur mi parlano al cor! Quel volto, in cui
+Natura impresse i più bei pregi sui,
+Mi colpisce, m'arresta.
+(Confuso s'allontana dal letto.)
+Ma se più mio non è... perchè serbarlo?
+Struggasi.... E chi mai puote
+(Avvicinandosi di nuovo a lei.)
+Riprodurne l'egual!
+(Indi si allontana da lei pieno di perplessità.)
+È sua la colpa,
+Se il mio temuto aspetto
+L'allontana da me? Perchè un sembiante
+Barbaro ciel non darmi, in cui scolpito
+Si vedesse il mio cor?.. Forse... che allora..
+Che dico!.. E il tradimento
+Non merta il mio rigor? Mora l'indegna!
+(Avvicinandosi di nuovo al letto.)
+Ahi trema il braccio ancor! crudele indugio!
+(Rimirando la face.)
+Eccone la cagion... Tolgasi... O notte
+(Spegne la face gittandola a terra.)
+Che mi siedi sul ciglio, eternamente
+Colle tenebre tue copri l'orrore
+Di questo infausto giorno.
+
+DESDEMONA
+(in sonno)
+Amato ben.
+
+OTELLO
+Che sento!.. A chi quel nome?
+Sogna, o è pur desta?
+(Un lampo, che passa a traverso della finestra gli mostra ch'ella dorme.)
+Ah che tra i lampi il cielo
+A me più chiaro il suo delitto addita,
+E a compir la vendetta il ciel m'invita.
+(Un forte tuono si ascolta. Desdémona si desta, e tra frequenti lampi riconosce Otello.)
+
+OTELLO
+Iniqua!!
+
+DESDEMONA
+Aimè!.. che veggo!..
+Come mai quì giungesti?..
+Come tu puoi?.. ma no... contenta io t'offro
+Inerme il petto mio
+Se più quell'alma tua pietà non sente...
+
+OTELLO
+La tradisti crudel!
+
+DESDEMONA
+Sono innocente.
+
+OTELLO
+Ed osi ancor, spergiura!..
+Più frenarmi non so. Rabbia, dispetto
+Mi trafiggono a gara!!
+
+DESDEMONA
+Ah padre! Ah che mai feci!
+È sol colpa la mia d'averti amato,
+Uccidimi se vuoi, perfido! ingrato!
+Non arrestare il colpo...
+Vibralo a questo core,
+Sfoga il tuo reo furore,
+Intrepida morrò.
+
+OTELLO
+Ma sappi pria che mori
+Per tuo maggior tormento,
+Che già il tuo bene è spento,
+Che Jago il trucidò..!
+
+DESDEMONA
+Jago! che ascolto!.. oh Dio!!
+Barbaro!! che facesti?
+Fidarti a lui potesti?
+A un vile traditor?
+
+OTELLO
+Vile!!... ah sì ben comprendo
+Perchè così ti adiri;
+Ma inutili i sospiri
+Or partono dal cor.
+(I lampi continuano.)
+
+DESDEMONA
+Ah crudel!
+
+OTELLO
+Oh rabbia!! io fremo!
+
+DESDEMONA
+Oh qual giorno!
+
+OTELLO
+Il giorno estremo...
+
+DESDEMONA
+Che mai dici?
+
+OTELLO
+A te sarà.
+Ah!! quel volto, a mio dispetto,
+Di furor disarma il petto,
+In me desta ancor pietà.
+
+DESDEMONA
+Per lui sento ancor nel petto,
+Benchè ingiusto, un dolce affetto,
+Per lui sento ancor pietà.
+(Comincia il temporale.)
+
+OTELLO
+Notte per me funesta!
+Fiera crudel tempesta!
+Accresci co' tuoi fulmini,
+Col tuo fragore orribile
+Accresci il mio furor!
+
+DESDEMONA
+Notte per me funesta!
+Fiera crudel tempesta!
+Tu accresci in me co' fulmini,
+Col tuo fragore orribile
+I palpiti, e l'orror.
+(Il temporale cresce, i tuoni si succedono con gran fragore.)
+
+DESDEMONA
+O ciel! se me punisci
+È giusto il tuo rigor.
+(I tuoni cessano, ma i lampi continuano.)
+
+OTELLO
+Tu d'insultarmi ardisci!
+Ed io m'arresto ancor?
+
+DESDEMONA
+Uccidimi... ti affretta,
+Saziati alfin crudel!
+
+OTELLO
+Si compia la vendetta.
+(La prende, la spinge sul letto, e nell'impugnare il ferro Desdemona sviene, Egli vibra il colpo.)
+
+DESDEMONA
+Aimè...
+
+OTELLO
+Mori infedel!
+(Otello si allontana dal letto nel massimo disordine, e spavento, cerca di occultare il suo delitto, e l'oggetto del suo dolore con tirare le tendine del letto.)
+(Dopo un breve silenzio)
+Che sento!.. Chi batte?...
+
+LUCIO
+Otello!
+(di fuori.)
+
+OTELLO
+Qual voce!..
+Occultati atroce
+Rimorso nel cor!
+(Otello apre la porta.)
+
+## Scena terza
+(Lucio, e detto.)
+
+OTELLO
+Rodrigo?
+
+LUCIO
+Egli è salvo.
+
+OTELLO
+E Jago?
+
+LUCIO
+Perisce.
+
+OTELLO
+Ah chi lo punisce?
+
+LUCIO
+Il cielo, l'Amor.
+
+OTELLO
+Che dici?.. e tu credi?..
+
+LUCIO
+Ei stesso le trame,
+Le perfide brame
+Sorpreso svelò,
+
+OTELLO
+Che ascolto!...
+
+LUCIO
+Ah già tutti
+Deh mira contenti,
+
+OTELLO
+A tanti tormenti
+Più regger non so!
+
+## Scena quarta
+(Doge, Elmiro, Rodrigo con seguito e detti.)
+
+DESDEMONA
+Per me la tua colpa
+Perdona il Senato.
+
+ELMIRO
+Già riedo placato
+Qual padre al tuo seno;
+
+RODRIGO
+Il perfido Jago
+Cangiò nel mio petto
+Lo sdegno in affetto.
+Ti cedo il tuo ben.
+
+OTELLO
+Che pena!...
+
+CORO
+Che gioja!
+
+DOGE
+Accogli nel core
+Il pubblico amore,
+La nostra amistà.
+
+ELMIRO
+La man di mia figlia...
+
+OTELLO
+La man di tua figlia!...
+(con sorpresa)
+Sì... unirmi a lei deggio...
+Rimira...
+(scuopre la tendina.)
+
+ELMIRO
+Che veggio!..
+
+OTELLO
+Punito m'avrà...
+(si uccide)
+
+CORO
+Ah!..
