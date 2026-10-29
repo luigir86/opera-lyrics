@@ -1,0 +1,2493 @@
+title: La Gioconda
+composer: Amilcare Ponchielli
+librettist: Arrigo Boito
+year: 1876
+source: https://www.loc.gov/item/2010662511/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Atto primo
+(La bocca dei Leoni. Il cortile del Palazzo Ducale parato a festa. Nel fondo la Scala dei Giganti e il Portico della Carta colla porta che adduce nell'interno della chiesa di S. Marco. A sinistra lo scrittoio d'uno scrivano pubblico.)
+(Sopra una parete del cortile si vedrà una fra le storiche bocche dei leoni colla seguente scritta incisa sul marmo a caratteri neri:)
+(È uno splendido meriggio di primavera. La scena è ingombra di popolo festante. BARNABOTTI, ARSENALOTTI, MARINAI, maschere d'ogni sorta, ARLECCHINI, PANTALONI, BAUTTE, e in mezzo a questa turba vivace alcuni DALMATI ed alcuni Mori. BARNABA, addossato ad una colonna, sta osservando il popolo; ha una piccola chitarra ad armacollo.)
+
+## Scena prima
+(Marinai, Popolo e Barnaba.)
+
+CORO
+Feste e pane! la Repubblica
+Domerà le schiatte umane
+Finchè avran le ciurme e i popoli
+Feste e pane.
+L'allegria disarma i fulmini
+Ed infrange le ritorte.
+Noi cantiam! chi canta è libero,
+Noi ridiam! chi ride è forte.
+Quel sereno Iddio lo vuol
+Che allegrò questa laguna
+Coll'argento della luna
+E la porpora del sol.
+(campane a distesa, squilli di trombe)
+Feste e pane! a gioia suonano
+Di San Marco le campane.
+Viva il Doge e la Repubblica!
+Feste e pane!
+
+BARNABA
+(si muove dal posto. Dominando il frastuono festosamente)
+Compari! già le trombe
+V'annuncian la regata.
+
+CORO
+(correndo a sinistra)
+Alla regata!
+Alla regata!
+(gridando e saltando, il popolo esce dal cortile. Il tumulto s'allontana)
+(Barnaba solo.)
+
+BARNABA
+(accennando gli spiragli delle prigioni sotterranee)
+E danzan su lor tombe!
+E la morte li guata!
+(cupamente)
+E mentre s'erge il ceppo o la cuccagna,
+Fra due colonne tesse la sua ragna,
+Barnaba, il cantastorie; e le sue file
+(guarda e tocca la sua chitarra)
+Sono le corde di questo apparecchio.
+Con lavorìo sottile
+E di mano e d'orecchio
+Colgo i tafàni al volo
+Per conto dello Stato. E mai non falla
+L'udito mio. Coglier potessi solo
+Per le mie brame e tosto
+Una certa vaghissima farfalla!...
+
+## Scena seconda
+(La Gioconda colla Cieca, entrando da destra, e detto. La vecchia ha il volto coperto fin sotto gli occhi da un povero zendado.)
+
+GIOCONDA
+(conducendo per mano la madre e avviandosi alla chiesa lentamente)
+Madre adorata, vieni.
+
+BARNABA
+(scorge la Gioconda e si ritrae accanto alla colonna)
+(Eccola! al posto).
+
+LA CIECA
+Figlia, che reggi il tremulo
+Piè che all'avel già piega,
+Beata è questa tenebra
+Che alla tua man mi lega.
+Tu canti agli uomini
+Le tue canzoni,
+Io canto agli angeli
+Le mie orazioni,
+Benedicendo
+L'ora e il destin,
+E sorridendo
+Sul mio cammin.
+Io per la tua bell'anima
+Prego chinata al suol,
+E tu per me coi vividi
+Sguardi contempli il sol.
+Vien! per securo tramite
+Da me tu sei guidata.
+Vien! ricomincia il placido
+Corso la tua giornata.
+Tu canti agli angeli
+Le tue orazioni,
+Io canto agli uomini
+Le mie canzoni,
+Benedicendo
+L'ora e il destin,
+E sorridendo
+Sul mio cammin.
+Ed io pel tuo dimane
+A te guadagno il pane;
+Tu col pregar fedel
+A me guadagni il ciel.
+
+BARNABA
+(in disparte)
+(Sovr'essa stendere
+La man grifagna!
+Amarla e coglierla
+Nella mia ragna!
+Terribil estasi
+Dell'alma mia!
+Sta in guardia! l'agile
+Farfalla spia!)
+
+GIOCONDA
+L'ora non giunse ancor del vespro santo;
+Qui ti riposa appiè del tempio; intanto
+Io vado a rintracciar l'angelo mio.
+
+BARNABA
+(Derision!)
+
+GIOCONDA
+Torno con Enzo.
+
+LA CIECA
+Iddio
+Ti benedica.
+
+GIOCONDA
+Taciturna ed erma
+Pace qui spira.
+
+LA CIECA
+(strae da tasca un rosario)
+Addio, figliuola.
+
+BARNABA
+(sbucando e sbarrando la via a Gioconda, che fa per escire da destra)
+
+GIOCONDA
+Che?
+
+BARNABA
+Un uom che t'ama, e che la via ti sbarra.
+
+GIOCONDA
+Al diavol vanne colla tua chitarra!
+(vivacemente)
+Già l'altra volta tel dissi: funesta
+M'è la tua faccia da mistero.
+(per andarsene)
+
+BARNABA
+(rattenendola e ironicamente)
+Enzo attender potrà.
+
+GIOCONDA
+Va, ti disprezzo.
+
+BARNABA
+(incalzando)
+Ancor m'ascolterai..
+
+GIOCONDA
+Mi fai ribrezzo!
+
+BARNABA
+Resta... t'adoro, o vaga creatura.
+
+GIOCONDA
+Vanne!
+
+BARNABA
+Non fuggirai!
+(slanciandosi su essa)
+
+GIOCONDA
+Mi fai paura!
+Ah!!
+(fugge)
+
+LA CIECA
+(alzandosi spaventata)
+Qual grido! mia figlia! Aita! aita!
+La voce sua!
+
+BARNABA
+(La farfalla è sparita...)
+
+LA CIECA
+(brancolando)
+Figliuola! o raggio della mia pupilla,
+Dove sei? dove sei?
+
+BARNABA
+(ridendo)
+(La Cieca strilla;
+Lasciamola strillar.)
+
+LA CIECA
+(lentamente e protendendo le palme ritorna a sedersi sui gradini)
+Tenèbre orrende!
+
+BARNABA
+(osservandola pensieroso)
+(Pur quella larva che la man protende,
+Potrebbe agevolar la meta mia...
+Se la madre è in mia man...
+
+LA CIECA
+(rigirando con fervore le ave marie del suo rosario)
+Ave Maria...
+
+BARNABA
+(sempre meditando)
+Tengo il cor della figlia incatenato...
+
+LA CIECA
+Ave Maria...
+
+BARNABA
+con laccio inesorato..
+L'angiol m'aiuti dell'amor materno,
+E la Gioconda è mia! Giuro all'Averno!)
+## Scena terza
+(Barnaba, La Cieca, Isèpo, Zuàne, Coro. Indi sei sgherri. La Gioconda, Enzo, più tardi Laura, Alvise. Il Popolo porta in trionfo il il quale tien alto il pallio verde (la bandiera) del premio). — Donne, Marinai, Fanciulli con fiori e ghirlande, Zuàne triste in disparte.)
+
+CORO
+(al vincitore)
+Polso di cerro!
+
+BARNABA
+(idem)
+Occhio di lince!
+
+CORO
+Remo di ferro!
+Gagliardo cor!
+Gloria a chi vince
+Il pallio verde!
+(guardando Zuàne)
+Beffe a chi perde!
+Lieta brigata,
+Per lieto calle
+Portiamo a spalle
+Il vincitor
+Della regata,
+Fra canti e fior.
+Gli sguardi avvince,
+I flutti ei sperde!
+Gloria a chi vince!
+Beffe a chi perde!
+(quasi tutti affluiscono verso la Scala dei Giganti, ove depongono il vincitore)
+
+BARNABA
+(che già da qualche tempo avrà osservato Zuàne, lo arresta)
+(Questi è l'uomo ch'io cerco. Non m'inganno).
+Patron Zuàne, hai faccia da malanno,
+Si direbbe davver che alla regata
+Non hai fatto bandiera.
+
+ZUANE
+T'inforchi Satanasso!
+
+BARNABA
+E se la vera
+Cagione io ti dicessi del tuo danno?
+
+ZUANE
+Lo so, la prora ho greve ed arrembata..
+
+BARNABA
+Baje!
+
+ZUANE
+E che dunque?
+
+BARNABA
+(con mistero)
+(T'avvicina. — O lasso!
+(sottovoce)
+Hai la barca stregata.
+
+ZUANE
+(inorridito)
+Vergine santa!
+
+BARNABA
+Una malìa bïeca
+Sta sul tuo capo. Osserva quella cieca...)
+
+CORO
+(accanto alla Scala dei Giganti)
+Dadi e bambàra!
+Cuccagne e corse!
+
+BARNABA
+Giuochiamo a zara
+Le nostre borse!
+
+CORO
+Tentiam la mobile
+Fortuna a gara.
+Giuochiamo a zara.
+(alcuni estraggono dei dadi, molti si siedono sui gradini, e intavolano un giuoco di zara)
+
+BARNABA
+(continuando e sempre facendo fissare la Cieca a Zuàne)
+(La vidi stamani gittar sul tuo legno
+Un segno maliardo, un magico segno.
+La tua barca sarà la tua bara,
+Sta in guardia, fratello!)
+
+CORO
+Sei!
+
+BARNABA
+Cinque!
+
+CORO
+Tre!
+Zara!
+
+LA CIECA
+(pregando)
+Turris churnca...
+Mistica rosa...
+
+BARNABA
+(a Zuàne)
+La vidi tre volte scagliar su tuoi remi
+Parole tremende - lugùbri anatèmi.
+
+ZUANE E ISEPO
+(Isèpo sarà mosso verso Barnaba e ascolterà curiose)
+Gran Dio!
+
+BARNABA
+La tua barca sarà la tua bara.
+Sta in guardia, fratello...
+
+CORO
+Sette!
+
+BARNABA
+Otto!
+
+CORO
+Tre!
+Zara!
+
+LA CIECA
+(come sopra)
+Turris Davidica...
+Mater gloriosa...
+
+BARNABA
+(come sopra)
+Suo covo è un tugurio - laggiù alla Giudeca,
+Tien sempre quell'orrido zendado, ed è cieca...
+Ha vuote le occhiaie - ma pure (e chi il crede?!)
+La Cieca ci guarda - la Cieca ci vede!
+
+CORO
+(che si saranno aggiunti al gruppo)
+Ci vede!
+Oh spavento!
+(aggiunti anch'essi al gruppo)
+Che avvenne?.
+
+ZUANE
+Oh maliarda!
+
+CORO
+Che avvenne? che mormori?..,
+
+BARNABA
+(Zuàne, Isèpo)
+La Cieca ci guarda!
+(il gruppo si fa sempre più numeroso)
+
+CORO
+Addosso! accoppiamola!
+Coraggio...
+
+ZUANE
+(per avventarsi alla Cieca, poi retrocede)
+Ho paura...
+
+BARNABA
+Badate, può cogliervi la sua jettatura.
+
+CORO
+Al rogo l'eretica!
+
+ZUANE
+Davver, più l'addocchio,
+Più i rai le balenano.
+
+BARNABA
+(ridendo)
+La Cieca ha il mal occhio.
+
+CORO
+Ah! ah! qual facezia!
+
+ZUANE
+(ad Isèpo che si sarà avvicinato pianamente alla Cieca, che gira sempre il rosario)
+Che brontola?
+
+CORO
+Addosso alla strega!
+(si scagliano sulla Cieca)
+Addosso alla strega!
+
+BARNABA
+(Già l'aure s'annuvolano,
+Già i nembi s'accumulano.
+Ah! ah! greggie umana!
+Scagliato ho il mio ciottolo,
+Or fuggo la frana!)
+
+LA CIECA
+(afferrata dal popolo e trascinata in mezzo al palco)
+Aiuto!
+
+CORO
+Mandràgora!
+
+LA CIECA
+Ah! chi mi trascina!
+Son cieca!
+
+CORO
+Vediamola salir la berlina
+Ai piombi!
+
+LA CIECA
+Soccorso! soccorso!
+
+CORO
+Ai marrani!
+Ai pozzi!
+
+BARNABA
+Fra Todero e Marco!
+(ad una pattuglia di sgherri in disparte)
+Sgherrani,
+Sia tratta nel carcere.
+
+CORO
+Al rogo!
+Alla pira!
+(sghignazzando)
+Ah!! ah!
+
+LA CIECA
+Santa Vergine!
+
+CORO
+Martira!
+Martira!
+
+BARNABA
+(Ho in man la mia vittima, ho in man due destini).
+
+CORO
+A morte la strega!
+
+GIOCONDA
+(rientrando e slanciandosi)
+Mia madre!
+
+ENZO
+(vestito da marinaio dalmato, rompendo la calca con uno scoppio d'ira)
+Assassini!!
+Assassini! quel crin venerando
+Rispettate! o ch'io snudo il mio brando.
+Contro un'egra rejetta dal sole
+Generosa è la vostra tenzon!
+Vituperio! è cresciuta una prole
+Di codardi all'alato leon!
+
+CORO
+Iddio vuol ciò che il popolo vuole;
+No, la strega non merta perdon.
+
+LA CIECA
+Ah! su me si scatena l'averno!
+
+GIOCONDA
+Niun mi tolga all'amplesso materno!!
+
+LA CIECA
+Figlia...
+
+CORO
+A morte!
+
+ENZO
+(con impeto fa per togliere i ceppi alla Cieca, ma è impedito dal popolo)
+Quel ceppo la strazia.
+Sciolta sia.
+
+CORO
+La vogliam giudicare.
+Spenta sia!
+
+ENZO
+(correndo all'ingresso della riva furiosamente ed esce)
+Su, fratelli del mare!
+Alla lotta!
+
+CORO
+Al patibolo!
+(intanto sull'alto della scala saranno apparsi Alvise e Laura, che avranno assistito al tumulto)
+
+LAURA
+(dall'alto della scala, scendendo. Il lembo della sua veste sarà sostenuto da due paggi. Ha una maschera di velluto nero sul volto)
+Grazia!
+## Scena quarta
+(La Cieca, Gioconda, Alvise, Laura, Barnaba Coro, poi Enzo.)
+
+ALVISE
+(alteramente e con gravità)
+Ribellion! che? la plebe or qui si arroga
+Fra le ducali mure
+I dritti della toga
+E della scure?
+(movimento di rispetto nella folla)
+Parla, o captiva!
+Perchè stai china là fra quelle squadre?
+
+CORO
+È una strega!
+
+GIOCONDA
+È mia madre!
+
+LAURA
+(la Cieca alza la testa)
+È cieca! o mio signor! fa ch'essa viva!
+
+ALVISE
+(freddamente a Barnaba)
+Barnaba! è rea costei?
+
+BARNABA
+(assai sottovoce all'orecchio d'Alvise)
+Di malefizio.
+
+GIOCONDA
+(a Barnaba)
+T'ho udito!... menti!
+
+ALVISE
+Sia tratta in giudizio.
+
+GIOCONDA
+(gettasi ai piedi di Alvise)
+Pietà... ch'io parli attendete... ora infrango
+Il gel che m'impietrava... e sgorga l'onda
+Del cor... Costei della mia infanzia bionda
+L'angelo fu... Sempre ho sorriso... or piango.
+Mi chiaman... chiaman... Gioconda.
+Viviam cantando ed io
+Canto a chi vuol le mie liete canzoni,
+Ed essa canta a Dio
+Le sue sante orazioni...
+
+ENZO
+(che sarà ritornato da qualche tempo seguito dai marinai dalmati)
+Salviamo l'innocente.
+
+LAURA
+(scorgendo Enzo)
+(Qual volto!)
+
+GIOCONDA
+(alzandosi e trattenendo Enzo)
+Ah! no! ti ferma! Quel possente
+La salverà!
+
+BARNABA
+(Osservando Laura, poi Enzo)
+(Come lo guarda fiso!)
+
+LAURA
+(ad Alvise in disparte)
+(Concedi, o mio signor, se non ti duole,
+Ch'io mi levi la maschera dal viso.
+
+ALVISE
+No, madonna, nemmen l'occhio del sole
+Non dee mirarti.)
+
+LAURA
+(ad Alvise)
+Dalle tue parole
+La vita attendo.
+
+BARNABA
+(ad Alvise sottovoce)
+(È una strega, il nefario
+Suo silenzio tel dica.)
+
+LAURA
+Essa ha un rosario!
+No, l'inferno non è con quella pia.
+
+ENZO
+(Qual voce!)
+
+BARNABA
+Muoia!
+
+LAURA
+(ad Alvise supplichevole)
+La salva!!
+
+ALVISE
+E salva sia.
+
+BARNABA
+(Furore!!)
+
+GIOCONDA
+Gioia!!
+
+LA CIECA
+(liberata da Laura che l'allontana dagli Sgherri)
+Voce di donna o d'angelo
+Le mie catene ha sciolto;
+Mi vietan le mie tenebre
+Di quella santa il volto,
+Pure da me non partasi
+Senza un pietoso don:
+(si toglie il rosario dalla cintola)
+A te questo rosario
+Che le preghiere aduna.
+Io te lo porgo, accettalo,
+Ti porterà fortuna;
+Sulla tua testa vigili
+La mia benedizion.
+
+ALVISE
+(a Barnaba rapidamente mentre canta la Cieca)
+(Barnaba!
+
+BARNABA
+Mio padron.
+
+ALVISE
+Facesti buona caccia
+Quest'oggi?
+
+BARNABA
+Sulla traccia
+Cammino d'un leon).
+
+LAURA E ENZO
+Ascolti il detto pio
+L'onnipossente Iddio!
+
+GIOCONDA
+O madre mia, ti guarda
+Un angelo fedel.
+
+CORO
+Protegge la vegliarda
+Visibilmente il ciel!
+(Laura s'avvicina alla Cieca e prende il rosario, la Cieca stende le mani come per benedirla, Laura fa per inginocchiarsi, Alvise vede e afferra il braccio di Laura, sforzandola a rialzarsi.)
+
+ALVISE
+(a Laura)
+Che fai? vaneggi?
+(gettando una borsa a Gioconda)
+Bella cantatrice,
+Quest'oro a te.
+
+GIOCONDA
+(raccoglie e s'inchina)
+Sia grazia a voi, Messere.
+(a Laura)
+Acciò ch'io l'abbia nelle mie preghiere
+Dimmi il tuo nome, o ignota salvatrice.
+
+LAURA
+(guardando Enzo)
+Laura
+
+ENZO
+(colpito)
+(È dessa!)
+
+ALVISE
+(a Laura assorta)
+Ti scuoti! al tempio andiamo!
+
+GIOCONDA
+Madre! — Enzo adorato! Ah! come t'amo!
+(Tutti si dirigono al tempio. Alvise e Laura primi, i due paggi dopo, indi tutto il Coro, Gioconda fra la madre ed Enzo. Giunto alla porta della chiesa, Enzo s'arresta, rimane indietro assorto profondamente ne' suoi pensieri. Barnaba lo sta fissando. La scena si vuota)
+
+## Scena quinta
+(Enzo e Barnaba)
+
+BARNABA
+(avvicinandosi ad Enzo)
+Enzo Grimaldo, Principe di Santafior, che pensi?
+
+ENZO
+(Scoperto son.)
+
+BARNABA
+Qual magico stupor t'invade i sensi?
+Pensi a Madonna Laura d'Alvise Badoèro.
+
+ENZO
+(scosso)
+Chi sei?
+
+BARNABA
+So tutto: e penetro in fondo al tuo pensiero.
+Avesti culla in Genova...
+
+ENZO
+Prence non son, sui flutti
+Guido un vascel, son dalmato: Enzo Giordan...
+
+BARNABA
+Per tutti
+Ma non per me. Venezia t'ha proscritto, ma un forte
+Disio qui ancor ti trasse ad affrontar la morte.
+Amasti un dì una vergine - là, sul tuo mar beato,
+A estranio imene vittima - la condannava il fato.
+
+ENZO
+Giurai fede a Gioconda.
+
+BARNABA
+(sorridendo)
+La cantatrice errante
+Ami come sorella, e Laura come amante.
+Già disperavi in terra di riveder quel volto,
+E l'amor di Gioconda hai per pietà raccolto,
+Ed or, sotto la maschera l'angelo tuo t'apparve...
+Ti riconobbe...
+
+ENZO
+(Oh giubilo!)
+
+BARNABA
+L'amor passa le larve.
+Sulla sua sposa vigila con cuor geloso, il tetro
+Inquisitor, nell'aurea prigione io sol penètro,
+E spesso fra le lagrime io la sorpresi, e muto
+Lo sguardo suo mestissimo al ciel chiedeva aiuto.
+Badoér questa notte - veglia al dogale ostello
+Col gran Consiglio. Laura sarà sul tuo vascello.
+
+ENZO
+Dio di pietà!
+
+BARNABA
+Le angosce dell'amor tuo soccorro.
+
+ENZO
+(O grido di quest'anima, scoppia dal gonfio core!
+Ho ritrovato l'angelo del mio celeste amore.)
+Ma alfin chi sei? mio lugubre benefattor?
+
+BARNABA
+(apre il suo mantello e la giubba e mostra sul giustacuore queste lettere in argento C. X.)
+Sono il possente démone del Consiglio dei Dieci.
+
+ENZO
+Infamia.
+
+BARNABA
+Al supplizio trarti potea, nol feci.
+Gioconda amo, essa m'odia... giurai schiantarle il cor.
+Enzo morto era poco - ti volli traditor.
+
+ENZO
+O sàtana furente, lordo di sangue e fiel,
+Coll'ira tua demente tu m'hai scagliato in ciel.
+(Gran Dio! la togli all'orrida condanna di dolor,
+L'idolatrata Laura a me ridona ancor.)
+
+BARNABA
+Va: corri al tuo desio: spiega le vele in mar,
+Tutto il trionfo mio negli occhi tuoi m'appar.
+Ebbene?
+
+ENZO
+A notte bruna sul brigantino aspetto Laura
+
+BARNABA
+(inchinandosi e sogghignando)
+Buona fortuna!
+
+ENZO
+(sul limitare della scena)
+E tu sia maledetto!
+(esce)
+
+## Scena sesta
+(Barnaba, poscia Isèpo indi per un istante La Gioconda e La Cieca.)
+
+BARNABA
+Maledici? sta ben... l'amor t'accieca..
+Compiam l'opra bieca,
+L'idolo di Gioconda sia distrutto...
+S'annienti tutto.
+(va nel fondo, apre una porta accanto le prigioni)
+Isèpo!
+
+ISEPO
+(escendo)
+Padron Barnaba...
+
+BARNABA
+Scrivano,
+L'anima m'hai venduto e la cotenna
+Fin che tu vivi;
+(lo conduce al banco)
+Io son la mano
+E tu la penna.
+Scrivi.
+(dettando)
+Al Capo occulto dell'Inquisizione..
+(Isepo scrive. Intanto alla porta del tempio appariscono Gioconda e la Cieca)
+
+GIOCONDA
+(alla madre ritraendola e sta spiando nascosta dal pilastro)
+Ti nascondi, c'è Barnaba.
+
+BARNABA
+La tua sposa con Enzo il Marinar
+
+GIOCONDA
+Oh ciel!
+
+BARNABA
+Sta notte in mar
+Ti fuggirà sul brigantino dalmato.
+
+GIOCONDA
+(disperatamente e scompare in chiesa)
+Ah!!
+
+BARNABA
+Più sotto: La bocca del Leone.
+Qua, porgi, taci, vanne.
+(prende il foglio, Isèpo esce).
+
+## Scena settima
+(Barnaba solo col piego in mano contemplando la scena)
+
+BARNABA
+O monumento!
+Regia e bolgia dogale! Atro portento!!
+Gloria di questa e delle età future;
+Ergi fra due torture
+Il porfido cruento.
+Tua base i possi, tuo fastigio i piombi,
+Sulla tua fronte il volo dei palombi,
+I marmi e l'òr..
+on vece occulta,
+Gioia tu alterni e orror
+Quivi un popolo esulta,
+Quivi un popolo muor.
+Là il Doge, un muto scheletro
+Coll'acidaro in testa,
+Sovr'esso il Gran Consiglio,
+La Signoria funesta;
+Sovra la Signoria
+un re: la spia.
+Più possente di tutti,
+O monumento! Apri le tue latèbre,,
+(vicino alla bocca del leone)
+Spalanca la tua fauce di tenèbre,
+S'anco il sangue giungesse a soffocarla!
+Io son l'orecchio e tu la bocca: Parla!
+(getta il piego nella bocca del leone ed esce)
+
+## Scena ottava
+(Entra nel cortile una Mascherata; segue il popolo cantando e danzando. Poscia un Barnabotto, Gioconda e La Cieca.)
+
+CORO
+Viva il Doge e la Repubblica!
+La baldoria e il carnevale!
+Baccanale!! Baccanale!!!!
+Gaia turba popolana
+Su! correte al torneamento!
+Su! danzate la furlana
+Chiome al sol! zendadi al vento!
+Fate un chiasso da demóni
+Colle palme e coi talloni!
+Tuoni il portico ducale
+Sovra il pazzo baccanale!
+(si odono alcuni tocchi di campana)
+
+CORO
+(dalla chiesa)
+Angelus Domini...
+(cessa la danza)
+(schiudendo la tenda che copre la porta della basilica)
+
+CORO
+Tramonta il sol.
+Udite il canto
+Del vespro santo
+Prostrati al suol.
+(tutti si prostrano rivolti verso il fondo)
+(la Gioconda e la Cieca attraversano la folla inginocchiata mentre dura l'orazione)
+
+GIOCONDA
+(con passo vacillantissimo, appoggiandosi alla Cieca)
+Tradita!...!.., Ahimè...... soccombo... il fianco mio
+Vacilla... o madre... mi sorreggi. O Dio!!
+Cuore! dono funesto!
+Retaggio di dolor!
+Il mio destino è questo:
+O Morte o Amor!
+
+LA CIECA
+Dimmi dov'è il tuo cor! la man vi guida...
+Ch'io lo posi sul mio!
+Vieni e tacciamo un sol di due dolor!
+
+GIOCONDA
+(prendendo la mano della Cieca e portandosela al cuore)
+Ah sì! la mano tua sovra il mio cor!
+Senti e comprendi, o madre, il mio dolor!
+(sì slancia fra le braccia della Cieca)
+
+CORO
+Angelus Domini...
+
+CORO
+(inginocchiata)
+Gloria al Signor
+E pace agli uomini!
+(cala lentamente la tela)
+
+# Atto secondo
+(Il Rosario. Notte. — Un brigantino visto di fianco. — Sul davanti una riva deserta d'isola disabitata nelle acque di Fusina. Nell'estremo fondo il cielo in qualche parte stellato, e la laguna; a destra la luna tramonta dietro una nube. Sul davanti un altarino della Vergine con una lampada rossa accesa. — HÈCATE TE, il nome del brigantino, sta scritto brigantino prua.)
+(Alcune lanterne sul ponte.)
+(All'alzarsi della tela alcuni Marinai sono seduti sulla tolda, altri in piedi aggruppati; tutti hanno un portavoce in mano; molti Mozzi sono arrampicati, o seduti, o sospesi alle sartie degli alberi e stanno cantando una marinaresca.)
+
+CORO
+(a destra sul ponte, cantando attraverso il portavoce)
+Ha! He! Ha! He!
+Fissa il timone!
+
+CORO
+(a sinistra col portavoce)
+Fissa!
+Ha! He! Ha! He!
+Issa artimone!
+
+CORO
+Issa!
+La ciurma ov'è?
+
+CORO
+Ha! He! Ha! He
+
+CORO
+(ragazzi sulle antenne)
+Siam qui sui culmini,
+Siam sulla borda,
+Siam sulle tremule
+Scale di corda.
+Guardate gli agili
+Mozzi saltar;
+Noi gli scoiattoli
+Siamo del mar.
+
+CORO
+(sotto la tolda, nel cassero)
+Siam nel fondo più profondo
+Della nave, della cala,
+Dove il vento furibondo
+Spreca i fischi e infrange l'ala.
+Siam nel fondo più profondo
+Della nave, della cala.
+
+CORO
+(sul ponte)
+Ha! Ho! Ha! Ho!
+Vele a babordo!
+
+CORO
+Issa!
+Ha! Ho! Ha! Ho!
+Remi a tribordo!
+
+CORO
+Issa!
+Il ciel tuonò!
+Ha! Ho! Ha! Ho!
+
+CORO
+(sulle antenne)
+In mezzo ai fulmini
+Della tempesta,
+Noi tra le nuvole
+Tuffiam la testa.
+Come sugli alberi
+D'una foresta,
+Osiam le pendule
+Sartie scalar.
+Noi gli scoiattoli
+Siamo del mar.
+
+CORO
+(sotto il ponte)
+Sotto prora, sotto poppa
+È una placida dimora,
+Qui vuotiam l'ardente coppa
+Del liquor che inganna l'ora.
+Sotto poppa, sotto prora.
+
+CORO
+(sulle antenne)
+Il mar mugghiante,
+Il ciel furente,
+Greco a Levante,
+Bora a Ponente,
+Scïoni e turbini
+Sappiam sfidar.
+Noi gli scoiattoli
+Siamo del mar!
+
+CORO
+(di dentro)
+Pescator, affonda l'esca,
+E sia l'onda a te fedel,
+Lieta sera e buona pesca
+Ti promette il mare e il ciel.
+
+(Coro, Barnaba, Isèpo.)
+(Barnaba è vestito da pescatore con una rete in mano.)
+
+CORO
+Chi va là?
+
+BARNABA
+La canzon ve lo dicea:
+Un pescator che attende la marea.
+Ho la barca laggiù nell'acqua bassa.
+È tempora domani, e si digiuna,
+(Per mia fortuna)
+La mensa magra il pescatore ingrassa.
+
+CORO
+(ridendo)
+Ha! Ha!
+
+BARNABA
+(ad Isèpo)
+(Siam salvi! Han riso. Sono ottanta
+Fra marinari e mozzi. Han tre decine
+Di remi e nulla più; due colubrine
+Di piccolo calibro. Or va, con quanta
+Lena ti resta, e disponi le scolte
+Colà dove le macchie son più folte.
+Io qui rimango a far l'ufficio mio.
+Vanne con Dio.)
+(Isèpo esce)
+
+BARNABA
+Pescator, affonda l'esca
+E sia l'onda a te fedel,
+Lieta sera e buona pesca
+Ti promette il mare e il ciel,
+Va, tranquilla cantilena,
+Per l'azzurra immensità;
+Questa notte una sirena
+Nella rete cascherà.
+
+CORO
+(ridendo)
+Ha! Ha! Ha! Ha!
+Questa notte una sirena
+Nella rete cascherà.
+
+BARNABA
+(tra sè)
+(Spia coi fulminei
+Tuoi sguardi accorti,
+E fra le tenebre
+Conta i tuoi morti.
+Sì, da quest'isola
+Deserta e bruna
+Or deve sorgere
+La tua fortuna.
+Sta in guardia! e il rapido
+Sospetto svia,
+E ridi e vigila
+E canta e spia.)
+(ripigliando la canzone)
+Pescator, propizio è il vento,
+Tenta il mare, o pescator.
+Là, fra l'alighe e l'argento,
+Guizzan pinne d'ambra e d'òr.
+Brilla Venere serena
+In un ciel di voluttà.
+Una fulgida sirena
+Nella rete cascherà.
+
+CORO
+(ripete ridendo)
+Ha! Ha! Ha! Ha!
+Una fulgida sirena
+Nella rete cascherà.
+(Barnaba esce all'entrare di Enzo)
+## Scena prima
+(Enzo, MARINAI e Mozzi. Il Nostromo, il Maestro delle vele, il Pilota)
+
+ENZO
+(esce da sotto-coperta con una lanterna in mano, avanzandosi gaiamente)
+(alla ciurma)
+Sia gloria ai canti
+Dei naviganti!
+Questa notte si salpa!
+
+CORO
+Evviva il nostro
+Principe e capitan!
+
+ENZO
+(esplorando il cielo)
+Soffia grecale,
+Vento buono per noi... nella carena
+(al Nostromo)
+Tu, Nostromo, raccogli la gomèna.
+Tu, Mastro delle vele, affiggi al rostro
+Del brigantino il dalmato segnale
+Che ci protesse in molte aspre fortune,
+E al maggior pino inalbera il fanale.
+
+CORO
+(ridendo)
+Ha! Ha!
+
+BARNABA
+(ad Isèpo)
+Siam salvi! Han riso. Sono ottanta
+Fra marinari e mozzi. Han tre decine
+Di remi e nulla più; due colubrine
+Di piccolo calibro. Or va, con quanta
+Lena ti resta, e disponi le scolte
+Colà dove le macchie son più folte.
+Io qui rimango a far l'ufficio mio.
+Vanne con Dio.
+(Isèpo esce)
+
+BARNABA
+Pescator, affonda l'esca
+E sia l'onda a te fedel,
+Lieta sera e buona pesca
+Ti promette il mare e il ciel.
+Va, tranquilla cantilena,
+Per l'azzurra immensità;
+Questa notte una sirena
+Nella rete cascherà.
+
+CORO
+Ha! Ha! Ha! Ha!
+Questa notte una sirena
+Nella rete cascherà.
+
+BARNABA
+(tra sè)
+Spia coi fulminei
+Tuoi sguardi accorti,
+E fra le tenebre
+Conta i tuoi morti.
+Sì, da quest'isola
+Deserta e bruna
+Or deve sorgere
+La tua fortuna.
+Sta in guardia! e il rapido
+Sospetto svia,
+E ridi e vigila
+E canta e spia.
+(ripigliando la canzone)
+Pescator, propizio è il vento,
+Tenta il mare, o pescator.
+Là, fra l'alighe e l'argento,
+Guizzan pinne d'ambra e d'òr.
+Brilla Venere serena
+In un ciel di voluttà.
+Una fulgida sirena
+Nella rete cascherà.
+
+CORO
+(ripete ridendo)
+Ha! Ha! Ha! Ha!
+Una fulgida sirena
+Nella rete cascherà.
+(Barnaba esce all'entrare di Enzo)
+
+(Enzo, MARINAI e Mozzi. Il Nostromo, il Maestro delle vele, il Pilota,)
+
+ENZO
+(esce da sotto-coperta con una lanterna in mano, avanzandosi gaiamente)
+(alla ciurma)
+Sia gloria ai canti
+Dei naviganti!
+Questa notte si salpa!
+
+CORO
+Evviva il nostro
+Principe e capitan!
+
+ENZO
+(esplorando il cielo)
+Soffia grecale,
+Vento buono per noi... nella carena
+(al Nostromo)
+Tu, Nostromo, raccogli la gomèna.
+Tu, Mastro delle vele, affiggi al rostro
+Del brigantino il dalmato segnale
+Che ci protesse in molte aspre fortune,
+E al maggior pino inalbera il fanale.
+(ai Mozzi)
+Voi siate pronti a distaccar la fune
+D'amarra a un cenno mio. -- Quest'erme dune.
+Più non vedremo all'ora mattutina.
+Nocchier, l'abbrivio è verso Palestrina.
+(alcuni uomini della ciurma eseguiscono gli ordini di Enzo; mentre gli altri ricantano la Marinaresca)
+(a tutti)
+Ed or scendete a riposarvi. Io vigilo
+Solo sul ponte le inimiche flotte.
+(guarda le stelle)
+È tardi.
+
+CORO
+Buona guardia.
+
+ENZO
+Buona notte.
+(la ciurma scende sotto il ponte)
+
+## Scena seconda
+(Enzo solo.)
+
+ENZO
+(guardando il mare)
+Cielo e mar! - l'etereo velo
+Splende come un santo altare.
+L'angiol mio verrà dal cielo?!
+L'angiol mio verrà dal mare?
+Qui l'attendo, ardente spira
+Oggi il vento dell'amor.
+Quel mortal che vi sospira
+Vi conquide, sogni sogni d'òr!
+Cielo e mar! - per l'aura fonda
+Non appar nè suol, nè monte,
+L'orizzonte bacia l'onda,
+L'onda bacia l'orizzonte!
+Qui nell'ombra giacio ov'io mi giacio
+Coll'anelito del cor,
+Vieni, bacio donna, vieni al bacio
+Della vita incantator.
+(fissando il mare)
+Ah!! chi è là? non è uno spetro
+Del pensier! quella è una barca.
+Odo già de' remi il metro,
+Verso me volando varca...
+
+BARNABA
+(dietro il brigantino)
+Capitano! a bordo!
+
+ENZO
+(sclamando verso la direzione della voce di Barnaba)
+Dio! sostieni ancor la piena
+Della gioia! O naviganti,
+Costeggiate la carena!
+(prende una fune e la getta al di là della sponda)
+Qua la fune... aggrappa... annoda
+Le tue mani... un passo ancor...
+Non cadere! approda! approda!...
+
+(Enzo, Laura.)
+
+LAURA
+(nelle braccia di Enzo)
+Enzo!
+
+ENZO
+Laura! Amore! Amor!
+
+BARNABA
+(sinistramente, allontanandosi)
+Buona fortuna!
+
+LAURA
+Oh! la sinistra voce!
+Fuggiam! fuggiam!
+
+ENZO
+S'ei fu che ti salvò!...
+
+LAURA
+Pur sorridea d'un infernal sorriso!
+
+ENZO
+È l'uomo che ci aperse il paradiso!
+Deh! non turbare - con ree paure
+Di questo istante - le ebbrezze pure;
+D'amor soltanto - con me ragiona,
+È il cielo, o cara - che schiudi a me!
+
+LAURA
+Ah! del tuo bacio - nel dolce incanto
+Celeste gioia - diventa il pianto,
+A umano strazio - Dio non perdona,
+Se perdonato - amor non è!
+
+ENZO
+Ma dimmi come, - angelo mio,
+Mi ravvisasti?
+
+LAURA
+Nel marinar
+Enzo conobbi. -
+
+ENZO
+Al pari anch'io
+Te al primo suono - della parola...
+
+LAURA
+Enzo adorato! - ma il tempo vola.
+All'erta!! all'erta!!
+
+ENZO
+Deh! non tremar!
+Siamo in un'isola - tutta deserta,
+Tra mare e cielo - tra cielo e mar!
+Vedrem pur ora tramontar la luna...
+Quando sarà corcata, all'aura bruna
+Noi salperem; cogli occhi al firmamento,
+Coi baci in fronte e colle vele al vento!
+(la luna bassa si svolve dalle nuvole, il suo disco s'asconderà dietro il vascello)
+Laggiù nelle nebbie remote,
+Laggiù nelle tenebre ignote,
+Sta il segno del nostro cammin.
+Nell'onde, nell'ombre, nei venti,
+Fidenti, ridenti, fuggenti,
+Gittiamo la vita e il destin.
+La luna discende, discende
+Ricinta di roride bende,
+Siccome una sposa all'altar.
+E asconde - la spenta - parvenza
+Nell'onde; - con lenta - cadenza,
+La luna è discesa nel mar!
+
+ENZO
+(staccandosi)
+E il tuo nocchiere
+Or la fuga t'appresta... - O amata donna,
+Tu qui resta.
+(scende sotto il ponte)
+## Scena terza
+(Laura sola, poi Gioconda.)
+
+LAURA
+Ho il cuor pieno di preghiere.
+Quel lume! Ah! una Madonna!
+(Davanti all'immagine della Madonna orando con passione; mentre ch'essa prega, Gioconda mascherata escirà da un nascondiglio sotto prora, e s'avanzerà lenta)
+Stella del marinar! Vergine Santa,
+Tu mi difendi in quest'ora suprema,
+Tu vedi quanta passione e quanta
+Fede mi trasse a tale audacia estrema!
+Sotto il tuo velo che i prostrati ammanta
+Ricovera costei che prega e trema,
+Scenda per questa fervida orazion
+Sul capo mio, Madonna del perdon,
+Una benedizion...
+
+GIOCONDA E LAURA
+(Gioconda e Laura.)
+È un anatèma!
+
+LAURA
+(inorridita alzandosi)
+Ah! chi sei?
+
+GIOCONDA
+Chi son tu chiami?
+Sono un'ombra che ti aspetta!
+Il mio nome è la Vendetta.
+Amo l'uomo che tu ami.
+
+LAURA
+Ciel!
+
+GIOCONDA
+(accennando a prora)
+Là attesi e il tempo colsi
+Come belva nella tana,
+Ah! la forza sovrumana,
+Del furor m'invade i polsi!
+Vuoi fuggir? d'amor ti struggi?
+Vuoi fuggir! lieta rivale?...
+Sì, l'antenna e il governale
+Pronti son, sta ben, va, fuggi!
+(ergendosi terribile)
+
+LAURA
+Furia orrenda!
+
+GIOCONDA
+Ah! mi paventi
+Ed ardisci amar d'amore
+Quell'eroe?
+
+LAURA
+Sfido il tuo core,
+O rival!
+
+GIOCONDA
+Bestemmi!
+
+LAURA
+Menti!
+L'amo come il fulgor del creato!
+E l'amo
+Come l'aura che avviva il respir!
+Come il sogno celeste e beato
+Da cui venne il mio primo sospir.
+
+GIOCONDA
+Ed io l'amo siccome il leone
+Ama il sangue, ed il turbine il vol
+E la folgor le vette, e l'alcione
+Le voragini, e l'aquila il sol!
+
+LAURA
+Pel suo bacio soave disfido
+Della pallida morte l'orror!
+
+GIOCONDA
+Pel suo bacio soave t'uccido,
+(ghermendo un pugnale)
+Son più forte, più forte è il mio amor!
+(afferrandola)
+Il mio braccio t'afferra!
+Vien ch'io ti scorga in viso! a terra! a terra!
+Presso a quel lume... o i lagrimosi rai...
+Or più scampo non hai!
+Questo pugnale...
+Ma no... tu avrai per sorte
+Un fulmin più fatale...
+In quella barca bruna...
+
+LAURA
+O ciel!
+
+GIOCONDA
+Là è il tuo consorte!
+
+LAURA
+Perduta io son!
+
+GIOCONDA
+La morte
+Voga sulla laguna.
+Ecco! oramai nè un nume nè un santuario
+Salvar ti può.
+
+LAURA
+(alzando il rosario)
+M'aita!
+
+GIOCONDA
+Ah! quel rosario!
+Esso è per te benedizione e schermo.
+(la trascina verso la riva)
+
+LAURA
+Che fai?
+
+GIOCONDA
+Ti salvo! Olà, il mio palischermo!
+(appariscono due marinai con una barca)
+Fuggi!... a te... questa maschera ti asconda!
+(stacca la maschera e la pone sul volto a Laura)
+
+LAURA
+Ma mi dirai chi sei?
+
+GIOCONDA
+Son la Gioconda!
+(Gioconda spinge quasi a forza Laura nella barca che si allontana rapidamente. Gioconda - scomparisce un istante dietro al brigantino, come per assicurarsi della fuga di Laura)
+
+BARNABA
+(dalla riva, osservando i movimenti della barca che porta Laura e scorgendo in distanza la gondola d'Alvise)
+Maledizione! Ha preso il vol! Padron!
+Nel canal morto... là... forza di remi!...
+(scomparisce)
+
+GIOCONDA
+È salva! O madre mia, quanto mi costi!...
+(È Gioconda, Enzo.)
+
+ENZO
+(scendendo dal ponte)
+A Laura, Laura! ove sei?
+
+GIOCONDA
+(avanzandosi verso Enzo fieramente)
+Laura è scomparsa!
+
+ENZO
+Gioconda! ò ciel! che avvenne?
+
+GIOCONDA
+Invano a' rei
+Baci sognati il tuo sospir la chiama...
+
+ENZO
+Menti, menti, o crudel!
+No! più non t'amo!
+
+GIOCONDA
+(trascinandolo verso la riva)
+Vedi là, nel canal morto,
+Un navil che forza il corso?
+Essa fugge! il suo rimorso
+Fu più forte dell'amor!
+Questo lido è a lei funesto,
+Chè la morte intorno sta...
+Essa fugge ed io qui resto!...
+Chi di noi più amato avrà?
+
+ENZO
+Taci! ahimè! da che t'ho scôrto,
+Sospettai nefando agguato,
+Non mi dir d'avermi amato,
+Odio sol tu porti in cor!
+Ma al suo barbaro consorte
+L'angiol mio saprò strappar!...
+
+GIOCONDA
+Là è la vita!
+(slanciandosi verso la riva)
+Là è la morte!
+
+ENZO
+Che di' tu?
+
+GIOCONDA
+Riguarda al mar!
+Tu sei tradito! Un infame, un crudele
+Al gran Consiglio il tuo nome svelò...
+Rompi gli indugi, - fa forza di vele,
+Il cielo ancora salvare ti può!
+
+ENZO
+Taci! è un insulto dei vili il consiglio,
+Dove è la morte, là impavido io sto!
+Noto m'è il rombo del fiero naviglio,
+Fuga od arresa che sieno non so!
+(si ode un colpo di cannone. - Alcuni marinai dell'Hècate sbucano dal ponte, altri irrompono dalla scena, alcuni con fiaccole in mano)
+
+CORO
+Le galèe! le galèe! Salvi chi può!
+
+ENZO
+(strappando la fiaccola ad uno dei marinai)
+Sin ch'io sia vivo, no!
+Al nemico darem cenere e brage!
+Incendio!
+(dà fuoco all'Hècate. La nave arde)
+
+CORO
+Incendio! guerra! morte! strage
+Fuggiam! fuggiam! più speranza non v'ha!
+
+ENZO
+(dalla tolda slanciandosi in mare)
+O Laura, addio!
+
+GIOCONDA
+(dalla riva)
+E sempre Laura! oh almeno con te morir poss'io!
+(la nave si sprofonda. Cade la tela)
+# Atto terzo
+(Cà d'Oro. Una camera nella Cà d'Oro. Sera; lampada accesa. — Da un lato un'armatura antica.)
+
+## Scena prima
+ALVISE
+(entrando in preda a violenta agitazione)
+Morir ella de'! Sul nome mio
+Scritta l'infamia impunemente avrà?
+Chi un Badoer tradì
+Non può sperar pietà!...
+Se ier non la ghermì
+Nell'isola fatal questa mia mano,
+L'espiazion non fia tremenda meno!
+Ieri un pugnal le avria squarciato il seno,
+Oggi... un ferro non è... sarà un veleno!
+(accennando alle sale contigue)
+Là turbini e farnetichi
+La gaia baraonda,
+Dell'agonia col gemito
+Qui l'orgia si confonda
+Ombre di mia prosapia
+Non arrossite ancor!
+Tutto la morte vendica,
+Anche il tradito amor!
+Là del patrizio veneto
+Si compia il largo invito,
+Quivi il feral marito
+Provveda al proprio onor!
+Fremete, o danze, o cantici
+È una infedel che muor!
+
+## Scena seconda
+(Laura, Alvise.)
+
+LAURA
+(entra in ricca veste da ballo, con perle e gemme)
+(ad Alvise)
+Qui chiamata m'avete?
+
+ALVISE
+(con affettata cortesia)
+Pur che vi piaccia...
+
+LAURA
+Mio signor...
+
+ALVISE
+Sedete!
+(siedono ai due lati di un ampio tavolo)
+Bella così, madonna, - io non v'ho mai veduta;
+Pur il sorriso è languido; - perchè ristarvi muta?
+Dite: un gentil mistero - v'è grave a me svelar,
+O un qualche velo nero - dovrò da me strappar?
+
+LAURA
+Dal vostro accento insolito - cruda ironia traspira,
+Il labro a grazia atteggiasi - e fuor ne scoppia l'ira...
+Mio nobile consorte, - non vi comprendo ancora!
+
+ALVISE
+(concitato)
+Pur d'abbassar la maschera, - madonna, è giunta l'ora.
+(alzandosi con violenza)
+Giunta è l'ora! - ad altr'uomo rivolto,
+Donna impura, è il tuo primo sospir...
+
+LAURA
+Ad altr'uomo? Che dite? Che ascolto!
+(fra sè)
+(Cielo! orrendo m'imponi martir.)
+
+ALVISE
+Ieri quasi t'ho côlta in peccato,
+Pur potesti salvarti e fuggir...
+Col mio guanto t'ho oggi afferrato,
+Più non fuggi, - ti è d'uopo morir!
+(la atterra violentemente. Laura getta un grido)
+
+LAURA
+(a' piedi di Alvise)
+Morir! è troppo orribile!
+Aver davanti il ciel...
+E scender nelle tenebre
+D'un desolato avel!
+Senti! di sangue tiepido
+In sen mi scorre un rivo...
+Perchè, se piango e vivo,
+Dirmi: tu déi morir?
+La morte è pena infame
+Anche a più gran fallir!
+
+ALVISE
+Invan tu piangi - invan tu speri,
+Dio non ti può esaudir!
+In lui raccogli - i tuoi pensieri;
+Preparati a morir!
+Un confessore ivi t'attende!
+
+LAURA
+Ahimè!
+Ove m'adduci?
+
+ALVISE
+(con forza sollevando la drapperia della camera attigua e indicando un catafalco. Si vedrà il riverbero dei ceri)
+Vieni!
+Questo è il talamo tuo!
+
+LAURA
+(inorridita)
+Ah! orribil cosa!
+
+CORO
+(sulla laguna)
+Ten va, serenata,
+Per l'aura serena,
+Ten va, cantilena,
+Per l'onda incantata.
+Udite le blande
+Canzoni vagar,
+Il remo ci scande
+Gli accordi sul mar.
+(entra Gioconda e s'appiatta in fondo. La serenata cessa per un momento)
+
+ALVISE
+(estraendo una fiala)
+Prendi questo velen; e già che forte
+Tanto mi sembri ne' tuoi detti audaci,
+Con quelle labbra che succhiaro i baci,
+Suggi la morte.
+La tua condanna confido a te stessa;
+Non far che mal securo
+Voler t'arresti la mano perplessa,
+Non far che il mio pugnale ti percota
+E insozzi i lari del tuo sangue impuro.
+Scampo non hai,
+Odi questa canzon? Morir dovrai
+Pria ch'essa giunga all'ultima sua nota.
+(esce)
+
+CORO
+(Serenata interna.)
+La gaia canzon
+Fa l'eco languir,
+E l'ilare suon
+Si muta in sospir.
+Con vago miraggio
+Riflette la luna
+
+## Scena terza
+(Laura e Gioconda.)
+
+CORO
+L'argenteo suo raggio
+Sull'ampia laguna
+E in quel si sublima
+Riverbero pio,
+Patetica rima
+Creata da Dio.
+
+GIOCONDA
+(accorrendo verso Laura, afferra il veleno che Laura ha tra le mani e le porge un'ampolla)
+A me quel filtro! a te codesto! bevi!
+
+LAURA
+Gioconda, qui?
+
+GIOCONDA
+Previdi la tua sorte,
+Per salvarti mi armai, ti rassicura.
+Quel narcotico è tal, che della morte
+Finge il letargo... Angosciosi, brevi
+Sono gl'istanti... bevi... a me la cura
+Lascia dell'opra. - Or via!
+
+LAURA
+Mi fai paura!
+
+GIOCONDA
+S'ei qui torna t'uccide.
+
+LAURA
+Atra agonia!
+
+GIOCONDA
+Prega per te quaggiù la madre mia,
+Nell'oratorio, i miei fidi cantori
+Son presso... ascolta.
+
+CORO
+Ten va, cantilena,
+Per l'aura serena,
+Ten va, serenata,
+Per l'onda incantata.
+Udite le blande
+Canzoni vagar.
+Il remo ci scande
+Gli accordi sul mar,
+Ten va, serenata,
+
+LAURA
+Già la canzone muor!
+
+CORO
+Il canto è la vita,
+Di sogni si pasce,
+Ai sogni c'invita,
+Dai sogni rinasce,
+
+GIOCONDA
+Con essa muori!
+La condanna t'è nota:
+Pria ch'essa giunga all'ultima sua nota
+
+LAURA
+Porgi! ho bevuto.
+(prende la fiala dalle mani di Gioconda, poi scompare dietro le cortine della camera mortuaria)
+
+CORO
+D'un'anima ignota
+È l'eco fedel,
+L'estrema sua nota
+Si perde nel ciel,
+
+GIOCONDA
+La fiala a me! oh gran Dio!
+(travasa il veleno d'Alvise nella fiala del sonnifero e lascia l'ampolla del veleno vuota sul tavolo. Esce precipitosa)
+## Scena quarta
+(Alvise solo, mentre la cadenza della serenata è alle ultime sue note, osserva l'ampolla vuota sul tavolo.)
+
+ALVISE
+Tutto è compiuto!
+Vuoto è il cristal...
+(entra nella cella funeraria, vi rimane un momento e torna in scena)
+Vola su lei la morte.
+La morte è il nulla e vecchia fola è il ciel!
+(esce lentamente)
+
+## Scena quinta
+(Gioconda sola.)
+(Gioconda ricomparisce dal lato opposto a quello donde è uscito Alvise. Si guarda intorno, solleva la cortina della cella, poi, vistasi sola, esclama:)
+
+GIOCONDA
+O madre mia, nell'isola fatale
+Frenai per te la sanguinaria brama
+Di rejetta rival. Or più tremendo
+È il sacrifizio mio...
+Io la salvo per lui, per lui che l'ama!
+(esce precipitosamente)
+
+## Scena sesta
+(Suntuosissima sala attigua alla cella funeraria, splendidamente parata a festa. Ampio portone nel fondo a sinistra, un consimile a destra, ma questo tutto chiuso da una drapperia. Una terza porta nella parete a sinistra. Entrano CAVALIERI, DAME, MASCHERE. Alvise moverà loro incontro ricevendo e complimentando chi entra. Il Paggio gli sta accanto Gioconda.)
+
+ALVISE
+Benvenuti messeri! Andrea Sagredo!
+Erizzo, Loredan! Venier! Chi vedo?
+Isèpo Barbarigo, a noi tornato
+Dalla pallida China! e il ben amato
+Cugino mio Partecipazio! O quanti
+Bei cavalieri!... Belle dame! Avanti,
+Avanti! e voi, vispi cantori e maschere,
+Presto sciogliete le carole e i canti.
+
+CORO
+S'inneggi alla Cà d'Oro
+Che intreccia in rami d'ór
+Della virtù l'alloro
+Col mirto dell'amor.
+
+ALVISE
+Grazie vi rendo per le vostre laudi,
+Cortesi amici. A più leggiadri gaudi
+Ora v'invito. Ecco una mascherata
+Di vaghe danzatrici. - Ognuna è ornata
+Di bellezza e fulgore
+E tutte in cerchio rappresentan l'ore.
+(Incomincia la danza.)
+(Le Ore del Mattino - del Giorno - della Sera - della Notte.)
+
+## Scena settima
+(I precedenti, Barnaba, la Cieca, Enzo.)
+
+BARNABA
+(trascinando la Cieca, che invano cerca svincolarsi dalle sue strette)
+Vieni!
+
+LA CIECA
+Lasciami! Ahimè!
+
+CORO E ALVISE
+La Cieca!
+
+GIOCONDA
+(accorrendo)
+O madre!
+
+ALVISE
+(alla Cieca)
+Qui che fai tu?
+
+BARNABA
+Nelle vietate stanze
+Io la sorpresi al maleficio intenta!
+
+LA CIECA
+Pregavo per chi muor!
+
+CORO
+Per chi muor? che di' tu?
+(si odono i lenti rintocchi della campana degli agonizzanti)
+Qual suon funèbre!
+
+ENZO
+(a Barnaba)
+Un'agonia! per chi?
+
+BARNABA
+(sottovoce ad Enzo)
+Per Laura!
+
+ENZO
+Orror!
+Che più mi resta se quell'angiol muor?
+
+ALVISE
+(avanzandosi tra la folla atterrita e confusa)
+E che? la gioia sparve!
+Se gaio è Badoero,
+Chi ha fra gli ospiti suoi dritto al dolor?
+
+ENZO
+Io l'ho più ch'altri..
+
+ALVISE
+Tu? ma tu chi sei?
+
+ENZO
+(gettando la maschera)
+Il tuo proscritto io sono, Enzo Grimaldo,
+Prence di Santafior! Patria ed amore
+Tu m'hai rubato un dì...
+Or compi il tuo delitto!
+
+CORO
+Audacia!
+
+LA CIECA E GIOCONDA
+Orror!
+
+ALVISE
+Sul capo tuo rispondi,
+Barnaba, del codardo insultator!
+
+CORO
+D'un vampiro fatal - l'ala fredda passò
+E in teda funeral - ogni face mutò.
+Un sinistro baglior - le fronti illuminò,
+Più la gioia regnar - nella festa non può!
+
+ENZO
+(fra sè)
+O mia stella d'amor, - o mio Nume fedel,
+Se rapita a me sei, - ti raggiungo nel ciel!
+
+GIOCONDA
+(fra sè)
+Oh tortura crudel! - inaudito martir!
+Quanto ei l'ama! è per lei - qui venuto a morir!
+
+LA CIECA
+(a Barnaba)
+O fatal delator, - se trafitto alcun fu,
+Riconosco la man, - l'assassino sei tu!
+
+BARNABA
+(alla Cieca)
+Giuro al cielo, se ier - quella rea ti salvò,
+La vendetta oggimai - più sfuggirmi non può!
+
+ENZO
+(fra sè)
+Già ti vedo immota e smorta
+Tutta avvolta in bianco vel,
+Tu sei morta, tu sei morta,
+Angiol mio dolce e fedel!
+Su di me piombi la scure,
+S'apra il baratro fatal,
+E mi guidin le torture
+All'imene celestial.
+
+GIOCONDA
+Scorre il pianto a stilla a stilla
+Nel silenzio del dolor.
+Piangi, o turgida pupilla,
+Mentre sanguina il mio cor.
+
+BARNABA
+(a Gioconda)
+Cedi alfin, della mia mano
+Vedi qui l'opra fatal.
+Mi paventa! un genio arcano
+Mi trascina verso il mal.
+
+GIOCONDA
+(sottovoce, a Barnaba)
+Se lo salvi e adduci al lido,
+Laggiù presso al Redentor,
+Il mio corpo t'abbandono,
+O terribile cantor.
+
+BARNABA
+(come sopra, a Gioconda)
+Disperato è questo dono,
+Pur lo accetta il tuo cantor.
+Al destin spietato irrido,
+Pur d'averti sul mio cor.
+
+LA CIECA
+(a Gioconda)
+Le tue lagrime, o Gioconda,
+Che non versi sul mio cor?
+Un'amor non ti circonda
+Che sia pari a questo amor!
+
+ALVISE
+(cupamente guardando Enzo)
+Nel fulgor di questa festa
+Mal venisti, o cavalier,
+Par che sia per te funesta
+L'allegria dei Badoer!
+Ma già appresto a' tuoi sgomenti
+Nuova scena di terror!
+Tu saprai, se invan si attenti
+Del mio nome al puro onor!
+
+CORO
+Tristi eventi! Audacie orrende!
+Spaventevole festin!
+Come rapida discende
+La valanga del destin!
+
+ALVISE
+(avanzandosi in mezzo della scena, con atto di suprema dignità)
+Or tutti a me! La donna che fu mia
+L'estremo oltraggio al nome mio recò!
+(va verso la Cella funeraria ed alza le cortine. Laura apparisce vestita di bianco suo letto di morte. La cella è rischiarata da molti doppieri)
+Miratela! Son io che spenta l'ho!
+
+ENZO
+(si slancia, brandendo il pugnale, ma è trattenuto dalle guardie)
+Carnefice!
+
+GIOCONDA E LA CIECA
+Sventura!
+
+CORO
+Orror! orror!
+(Gioconda corre verso Enzo che viene trascinato dalle guardie. Barnaba afferra per la mano la Cieca e, giovandosi della confusione, la spinge entro una porta segreta. Alvise resta immobile presso la cella funeraria, additando il cadavere di Laura. Gli invitati si atteggiano ad espressioni di raccapriccio, di sdegno e di pietà. Quadro. Cala la tela.)
+# Atto quarto
+(Il Canal Orfano.)
+(L'atrio di un palazzo diroccato nell'isola della Giudecca. Nell'angolo di destra un paravento disteso, dietro il quale sta un letto. — Un gran portone di riva nel fondo da cui si vedrà la laguna e la piazzetta di San Marco illuminata a festa. — Una immagine della Madonna ed una croce appesa al muro. — Un tavolo, un canapè, sul tavolo una lucerna ed una lanterna accese, un'ampolla di veleno, un pugnale. — Sul canapè varii adornamenti scenici di Gioconda. — A destra della scena una lunga e buia calle.)
+
+## Scena prima
+(Gioconda sola, cupamente assorta ne' suoi pensieri. Intanto dal fondo della calle si avanzano due uomini che portano in braccio Laura avvolta in un mantello nero. Battono all'uscio. Gioconda si scuote e va ad aprire. Entrano.)
+
+CANTORE
+Nessuno.
+
+GIOCONDA
+Sul letto
+La deponete.
+(Gioconda va al paravento. Laura è deposta sul letto)
+
+CANTORE
+Ad un'occulta riva
+Sbarcati siam per evitar gl'incontri.
+
+GIOCONDA
+Sta ben. E quando fu sepolta?
+
+CANTORE
+A vespro.
+
+GIOCONDA
+E quanto tempo giacque?
+
+CANTORE
+In circa un'ora.
+
+GIOCONDA
+Era vasto l'avel?
+
+CANTORE
+Vasto,
+
+GIOCONDA
+I compagni
+Verranno questa notte?
+
+GIOCONDA
+Ecco l'oro
+Che vi promisi.
+
+CANTORE
+Nol vogliam... gli amici
+Prestan opra da amici.
+
+GIOCONDA
+(mutando accento e supplicando)
+O pietosi,
+Per quell'amor che v'ha creati, un'altra
+Grazia vi chiedo. Nella scorsa notte
+Mi scompariva la mia cieca madre,
+Già disperata la cercai, ma invano.
+Deh! scorrete le vie, le piazze, e l'orme
+Della mia vecchierella Iddio v'insegni.
+Doman, se la trovate, a Canareggio
+V'aspetterò. Quest'antro di Giudecca
+Fra brev'ora abbandono.
+
+CANTORE
+A noi t'affida.
+(Gioconda stringe ad essi la mano; escono da dove sono entrati)
+
+## Scena seconda
+(Gioconda sola presso il tavolo guarda il pugnale, lo tocca, poi prende l'ampolla dal veleno.)
+
+GIOCONDA
+Suicidio!... in questi
+Fieri momenti
+Tu sol mi resti,
+Tu sol mi tenti.
+Ultima voce
+Del mio destin,
+Ultima croce
+Del mio cammin.
+E un dì leggiadre
+Volavan l'ore;
+Smarrii la madre,
+Perdei l'amore,
+Vinsi l'infausta
+Gelosa febre!
+Or piombo esausta
+Fra le tenebre!...
+Tocco alla mèta...
+Domando al ciel
+Di dormir queta
+Dentro l'avel.
+(guardando ancora l'ampolla)
+Ecco, il velen di Laura, a un'altra vittima
+Era serbato! io lo berrò! - Quand'esso
+Questa notte qui giunga, io non vedrò
+Il loro immenso amplesso;
+Ma chi provvede alla lor fuga? ah! no!
+(getta il veleno sul tavolo)
+No, tentator, lungi da me! conforta,
+Anima mia, le tue divine posse!
+Laura è là... là sul letto... viva... morta...
+Nol so... se spenta fosse!!!
+Io salvarla volea, mio Dio lo sai!
+Pur, s'ella è spenta!?... un indistinto raggio
+Mi balena nel cor... vediam... coraggio.
+(prende la lanterna, fa per avviarsi al letto e poi si pente)
+No... no... giammai, giammai!
+No, non mi sfugga questo dubbio arcano!
+Ma s'ella vive? ebben... Laura è in mia mano...
+(biecamente)
+Siam soli - È notte - Nè persona alcuna
+Saper potrìa... profonda è la laguna...
+
+CORO
+Ehi! dalla gondola,
+Che nuove porti?
+
+CORO
+Nel Canal Orfano
+Ci son de' morti.
+
+GIOCONDA
+Orrore! orrore!! orrore!!!
+Sinistre voci! illuminata a festa
+Splende Venezia nel lontano... in core
+Già si ridesta
+La mia tempesta
+Immane! furibonda!
+O amore! amore!!
+Enzo! pietà!...
+(al culmine della disperazione si getta accanto al tavolo)
+(Intanto si vedrà Enzo venir dalla calle, trova la porta socchiusa, entra.)
+
+ENZO
+Gioconda!
+
+GIOCONDA
+Enzo!... sei tu!
+
+ENZO
+M'hai tratto; e i miei legami
+Sciogliesti, e armato e libero
+Qui son. Da me che brami?...
+
+GIOCONDA
+(con accento d'esaltazione straziante)
+Da te che bramo? ahi! misera!
+Ridarti il sol, la vita!
+La libertà infinita!
+La gioia e l'avvenir!
+L'estatico sorriso,
+L'estatico sospir!
+L'amor... il paradiso!!
+(Gran Dio! fammi morir!)
+
+ENZO
+Donna! col tuo delirio
+Tu irridi a un moribondo,
+Per me non ha più balsami
+L'amor, nè raggi il mondo.
+Addio...
+
+GIOCONDA
+Che fai?
+
+ENZO
+Non chiedere.
+
+GIOCONDA
+(afferrandolo)
+Resta... M'ascolta.
+(svincolandosi)
+
+GIOCONDA
+Tu vuoi morir per essa!
+
+ENZO
+sul suo santo avel
+Baciare anco una volta
+La povera sepolta.
+
+GIOCONDA
+(con possente ironia)
+Ebben, corri al tuo voto,
+Eroe mesto e fedel!
+L'avel di Laura è vuoto;
+Io l'ho rapita!
+
+ENZO
+O ciel!
+(con un grido)
+No, menti, menti...
+
+GIOCONDA
+(accennando alla croce appesa al muro)
+Giuro,
+Giuro su quella croce.
+
+ENZO
+No: la bestemmia atroce
+Tergi dal labbro impuro!
+Di' che hai mentito!
+
+GIOCONDA
+(con fierezza, poi supplichevole)
+Il vero
+Dissi! il furor... deh! frena
+
+ENZO
+O furibonda jena
+Che frughi il cimitero!
+O maledetta Eumenide,
+Gelosa della morte,
+Dimmi ove celi l'angelo
+Mio dalle guance smorte.
+Parla! o in quest'ora lùgubre
+Convien che qui tu muoia...
+Vedi! già brilla il fulmine
+Del mio pugnal...
+(sguainando il suo pugnale e afferrando Gioconda)
+
+GIOCONDA
+M'uccide
+
+ENZO
+I tenebrori
+Del tuo mister saprò.
+Parla...
+
+ENZO
+Ebben... infame... muori!
+(per ferirla)
+## Scena terza
+(Laura, Gioconda, Enzo.)
+
+LAURA
+(dall'alcova)
+Enzo!
+
+ENZO
+Chi è là!
+
+GIOCONDA
+(atterrita)
+Mio Dio!
+
+LAURA
+(comparendo)
+Enzo! amor mio!
+Ah!! il cor mi si ravviva...
+Respiro all'aura......
+(Enzo, immobile, trasognato)
+Enzo, vieni... sei tu, vieni... son viva !!
+
+ENZO
+(slanciandosi, abbracciando Laura)
+Laura! ciel! non deliro! Ah! Laura! Laura!
+
+GIOCONDA
+(avviluppandosi la testa nel suo manto)
+(Nascondili, o tenebra!)
+
+LAURA
+(guardando verso Gioconda)
+Ahimè! quell'ombra
+È Alvise... fuggi...
+
+ENZO
+No, il terror disgombra..
+
+LAURA
+(avvicinandosi riconosce Gioconda che si sarà scoperta)
+Sei tu?! costei salvò la vita a me.
+
+ENZO
+Fanciulla santa!
+Ch'io mi ti prostri ai piè!
+(Laura ed Enzo cadono in ginocchio davanti a Gioconda — Quadro)
+
+CORO
+Ten va, serenata,
+Per l'aura serena,
+Ten va, cantilena,
+Per l'onda incantata,
+Udite le blande
+Canzoni vagar,
+Il remo ci scande
+Gli accordi sul mar,
+Il canto è la vita,
+Di sogni si pasce,
+Ai sogni c'invita,
+Nei sogni rinasce,
+D'un'anima ignota
+È l'eco fedel,
+L'estrema sua nota
+Si perde nel ciel,
+
+GIOCONDA
+(con calma dolcissima)
+Questa canzone ti rammenti, o Laura?
+la canzone della tua fortuna.
+Essa viene vêr noi. Attenti udite,
+Fratelli miei, quei rematori in salvo
+V'addurran questa notte. Per la fuga
+Tutto provvidi cautamente. Alzate
+Le vostre fronti, ch'io veda il sorriso
+Ch'io vi creai. No, d'attristar Gioconda
+Più non temete... amatevi...
+Ho il cuore rassegnato.
+Nessuno è qui colpevole,
+So che l'amore è un fato!
+
+ENZO E LAURA
+(al colmo della commozione)
+Oh! benedetta!
+
+GIOCONDA
+(sempre con maggior fretta)
+Basta! il tempo fugge!
+La barca s'avvicina... i miei compagni
+Vi condurran prima dell'alba al lido
+Dei Tre Porti... ed appena giunti a terra
+Domanderete due corsieri e lesti.
+Verso Aquileja drizzerete il volo,
+E di là poco lunge il sol d'Illiria
+Vi splenderà liberamente in viso.
+(a Laura)
+Tu per lenir il trepido viaggio
+Gli narrerai la tua ventura. Addio...
+Ecco la barca... il mio mantel t'asconda.
+(si vede la barca dei cantori che s'arresta alla riva. Gioconda si toglie il mantello di dosso e copre Laura; poi scorge al collo di Laura il rosario)
+Che vedo là! Il rosario! oh sommo Dio
+Così dicea la profezia profonda:
+A te questo rosario
+Che le preghiere aduna,
+Io te lo porgo, accettalo,
+Ti porterà fortuna...
+E così sia! quest'ultimo
+Bacio che il pianto innonda
+V'abbiate in fronte, è il povero
+Bacio del labbro mio.
+Talor nei vostri memori
+Pensieri alla Gioconda
+Date un ricordo. Amatevi...
+Lieti vivete... Addio!
+
+ENZO E LAURA
+Sulle tue mani l'anima
+Tutta stempriamo in pianto,
+No, mai su queste lagrime
+Non scenderà l'oblio.
+Ricorderem la vittima
+Del sacrificio santo.
+Ti benedican gli angeli.
+Addio... Gioconda. - Addio.
+(sull'ultimo verso Laura ed Enzo avranno già un piede sulla barca. — Quadro, — Partono. — Pausa)
+
+## Scena quarta
+(Gioconda sola, poi Barnaba nella calle.)
+
+GIOCONDA
+(afferra l'ampolla del veleno)
+Ora posso morir. Tutto è compiuto.
+Ah no! mia madre! aiuto!
+Aiuto, o santa Vergine!
+Troppi dolori sovra un solo cuore!
+Vo' ricercar mia madre!... Oh! mio terrore!
+(côlta da un pensiero improvviso)
+Il patto or mi rammento! Ah! la paura
+Di Barnaba m'agghiaccia!
+Qui riveder l'orribile sua faccia!
+(corre all'immagine della Madonna e si prostra)
+Vergine Santa, allontana il Demonio!!!
+
+BARNABA
+(viene dalla calle, si ferma alla porta socchiusa e sta spiando)
+Il ciel s'oscura.
+(scompare la luna)
+Prega! ed essa non sa qual testimonio
+Dell'orazion la guarda.
+
+GIOCONDA
+Vergine Santa, allontana il Demonio...
+Ebben, perchè son così affranta e tarda,
+La fuga è il mio riscatto!
+
+BARNABA
+(Ah! vuol fuggir...)
+(mentre Gioconda fa per fuggire s'incontra con Barnaba che spalanca l'uscio ed entra)
+
+## Scena quinta
+(Gioconda e Barnaba.)
+
+BARNABA
+(terribilmente)
+Così mantieni il patto?
+
+GIOCONDA
+(prima atterrita, poi con coraggio supremo sino alla fine)
+Sì, il patto mantengo - lo abbiamo giurato,
+Gioconda non deve - quel giuro tradir.
+Che Iddio mi perdoni - l'immenso peccato
+Che sto per compir!
+
+BARNABA
+(fra sè)
+Ebbrezza! delirio! Mio sogno supremo!
+Ti colgo e repente quest'arido cuor
+S'innonda di gioia! già palpito e tremo
+Ai rai dell'amor!
+
+GIOCONDA
+(a Barnaba che fa per avvicinarsi)
+Raffrena il selvaggio delirio! t'arresta.
+Vo' farmi più gaia, più fulgida ancor.
+Per te voglio ornare la bionda mia testa
+Di porpora e d'òr!
+(va ad ornarsi)
+Con tutti gli orpelli sacrati alla scena
+Dei pazzi teatri coperta già son.
+Ascolta di questa sapiente sirena
+L'ardente canzon.
+T'arresta, che temi? mantengo il mio detto,
+Non mento, non fuggo, tradirti non vo'.
+Volesti il mio corpo, dimon maledetto?
+Il corpo ti do!
+(si trafigge nel cuore col pugnale che avrà raccolto furtivamente nelle vesti adornandosi e piomba a terra come fulminata)
+
+BARNABA
+Ah! ferma! irrision!... ebben... or tu...
+M'odi... e muori dannata:
+(curvandosi sul cadavere di Gioconda e gridandogli all'orecchio con voce furibonda)
+Ier tua madre m'ha offeso! Io l'ho affogata!
+Non ode più!!
+(esce precipitosamente e scompare nelle tenebre della calle)
+(Cade la tela)
