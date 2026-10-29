@@ -105,13 +105,15 @@ def main():
                 u = {'errore': str(e)[:200]}
             if nuovo is not None:
                 break
-        if nuovo is None:
+        fallito = nuovo is None
+        if fallito:
             nuovo = vecchio
         nuove = parole_nuove(vecchio, nuovo)
         info.append({'blocco': i, 'righe': len(b), 'costo': costo, 'parole_nuove': nuove,
                      'ingresso': u.get('input_tokens'), 'uscita': u.get('output_tokens')})
         os.makedirs(os.path.dirname(parte), exist_ok=True)
-        json.dump({'info': info[-1], 'testo': nuovo}, open(parte, 'w'), ensure_ascii=False)
+        if not fallito:  # un blocco fallito si riprova alla prossima esecuzione
+            json.dump({'info': info[-1], 'testo': nuovo}, open(parte, 'w'), ensure_ascii=False)
         uscita += nuovo.split('\n')
         prec = nuovo.split('\n')
         print(f'{os.path.basename(cartella)} {modello} blocco {i + 1}/{len(bl)} ${costo:.3f} nuove={len(nuove)}', flush=True)

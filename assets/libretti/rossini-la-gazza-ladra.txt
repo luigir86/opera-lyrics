@@ -1,0 +1,3249 @@
+title: La gazza ladra
+composer: Gioachino Rossini
+librettist: Giuseppe Gherardini
+year: 1817
+source: https://www.loc.gov/item/2010660309/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Atto primo
+
+## Scena prima
+(Ampio cortile della casa di Fabrizio. Sul dinanzi domina un portico rustico con pergolato; ad un pilastro è appesa una gabbia aperta, dentro della quale si vede una gazza. Nel fondo e verso il mezzo è collocata una porta con cancello, per cui si entra nel cortile. Al di là la scena rappresenta alcune collinette. Diversi abitanti del villaggio; alcuni famigli recanti le cose necessarie per apparecchiare una mensa subito Pippo; indi Lucia con un canestro di biancherie; finalmente Fabrizio ed altri servi con bottiglie di vino.)
+
+CORO
+Oh che giorno fortunato!
+Oh che gioja si godrà!
+
+PIPPO
+Dopo tanti e tanti mesi
+Spesi in guerra e fra gli stenti,
+Oggi alfine a suoi parenti
+Il padron ritornerà.
+
+PIPPO E CORO
+Vieni, vieni, o padroncino;
+
+CORO
+Vieni a noi, Giannetto amato.
+Oh che giorno fortunato
+Oh che gioja si godrà
+
+LA GAZZA
+Pippo? Pippo?
+
+PIPPO
+Chi ha chiamato?
+
+CORO
+Non, so niente. Ah ah ahà!
+(essendosi accorti della gazza, e deridendo Pippo)
+
+LA GAZZA
+Pippo?
+
+PIPPO
+Ancora?
+
+CORO
+Ve' chi è stato.
+(additandogli la gazza)
+
+PIPPO
+Brutta gazza maledetta,
+Che ti colga la saetta!
+
+LA GAZZA
+Pippo? Pippo? Pippo
+
+PIPPO
+Taci là.
+
+CORO
+Pippo? Pippo? Ah ah ahà!
+(deridendo Pippo)
+
+LUCIA
+Marmotte, che fate?
+Così m'obbedite?
+Movetevi, andate;
+La mensa allestite
+Là sotto alla pergola
+Che invita a mangiar.
+Che flemma! sbrigatevi:
+Pigliate, stendete.
+Mio figlio, il sapete,
+Dee tosto arrivar.
+
+PIPPO E CORO
+Che giorno beato
+Dobbiamo passar!
+
+LUCIA
+Alfine cessato
+Avrò di tremar.
+Ehi, Ninetta?.. Quando io chiamo,
+Tutti perdono l'udito.
+E colui di mio marito
+Dove adesso se ne sta?
+
+FABRIZIO
+Tuo marito qua.
+
+PIPPO E CORO
+Ser Fabrizio eccolo là.
+
+FABRIZIO
+Egli viene, o mia Lucia,
+Come Bacco, trionfante;
+Egli reca l'allegria,
+Reca il nèttare spumante
+Che mantiene nelle vene
+Il vigor, la sanità.
+
+CORO
+Viva Bacco e la cantina,
+Medicina d'ogni età.
+
+LUCIA
+Ah col suo congedo alfine
+(a Fabrizio)
+Oggi arriva il figlio amato!
+
+FABRIZIO
+Certamente; ed ammogliato
+Lo vorrei, ben mio, veder.
+
+LUCIA
+A me tocca il dargli moglie;
+Questo affare a me si aspetta.
+Egli dee sposar...
+
+LA GAZZA
+Ninetta.
+
+FABRIZIO
+Ah! la gazza ha indovinato.
+
+LUCIA
+Insensato!
+
+FABRIZIO
+Si vedrà. Brava, brava! Ahi, ahi!
+(si avvicina alla gazza, l'accarezza, e ne resta beccato)
+
+LUCIA
+Ch'è stato?
+
+FABRIZIO
+M'ha beccato.
+
+LUCIA
+E ben ti sta.
+
+FABRIZIO
+Ma la gazza ha indovinato.
+
+LUCIA
+Insensato
+
+FABRIZIO
+Si vedrà.
+
+CORO
+La gazza ha indovinato,
+Ogni core esulterà.
+
+CORO
+Là seduto l'amato Giannetto
+(additando la mensa)
+A suo padre, alla sposa vicino,
+A sua madre, alla sposa
+
+LUCIA
+Alla cara sua madre
+
+CORO
+Noi l'udremo narrar con diletto
+Le battaglie, le stragi, il bottino;
+Or d'orgoglio brillar lo vedremo,
+Or di bella pietà sospirar
+E fra i brindisi intanto faremo
+I bicchieri ricolmi sonar.
+(partono gli abitanti del villaggio)
+
+FABRIZIO
+Oh cospetto l'undici ore già passate.
+(guardando l'orivolo)
+E Giannetto ne scrive
+Che sarà qui sul mezzogiorno.
+
+LUCIA
+Oh diavolo,
+Già così tardi! E la Ninetta ancora
+Non veggo. Ov'è costei? Pippo, rispondi.
+
+PIPPO
+Per la col.collina, io credo,
+A cogliere le fragole.
+
+LUCIA
+Ah Fabrizio,
+Da qualche tempo son molto scontenta
+Di questa tua Ninetta. Pippo, Ignazio,
+Antonio, andate tutti
+A preparare il resto. Ah se la colgo,
+(Pippo e gli altri famigli si ritirano)
+Quella smorfietta!...
+
+FABRIZIO
+Eh via, cessa una volta!
+Tu sempre la rimbrotti, e sempre torto.
+
+LUCIA
+A meraviglia! È quando
+Ridendo e civettando ella mi perde
+Le forchette d'argento, dimmi, allora
+Se mi viene la bile, ho torto ancora?
+
+FABRIZIO
+Gran cosa! Finalmente;
+È una forchetta sola
+Che si smarrì per caso; e chi sa forse
+Che un dì non si ritrovi! Orsù, Lucia,
+Bada a trattare con maggior dolcezza
+Quella fanciulla.
+
+LUCIA
+Ah, ahà!
+(in aria di sprezzo)
+
+FABRIZIO
+Rispetta in lei
+Le sue sventure. Sai
+Ch'ella è pur figlia di quel bravo e onesto
+Fernando Villabella
+Che fra le schiere incanutisce; e s'ella,
+Orfana della madre, e senza doni
+Della fortuna, colle sue fatiche
+Qui si procaccia una meschina vita,
+Non debb'esser perciò da noi schernita.
+
+LUCIA
+E chi dice il contrario? Ma finiamola.
+Il tempo vola: io corro
+Un momento in cucina; e poi, se credi,
+Andremo insieme ad incontrar Giannetto.
+(via)
+
+FABRIZIO
+Dici ben; vo nell'orto, e là ti aspetto.
+(via)
+## Scena seconda
+(Ninetta con un panierino di fragole, che scende dalla collina ed entra nel cortile; poscia Fabrizio; e finalmente la Lucia col canestro delle posate.)
+
+NINETTA
+Di piacer mi balza il cor;
+Ah bramar di più non so:
+E l'amante e il genitor
+Finalmente io rivedrò.
+L'uno al sen mi stringerà;
+L'altro, ... l'altro... ah che farà?
+Dio d'amor, confido in te;
+Deh tu premia la mia fè
+Tutto sorridere
+Mi veggo intorno;
+Più lieto giorno
+Brillar non può.
+Ah già dimentico
+I miei tormenti:
+Quanti contenti
+Alfin godrò!
+(va a deporre il suo panierino sulla mensa)
+
+FABRIZIO
+Oh come il mio Giannetto
+(uscendo dall'orto con alcune pere che va a deporre sulla mensa)
+Gradirà queste pere
+
+NINETTA
+Addio; buon giorno!
+(a Fabrizio)
+
+FABRIZIO
+Alfin sei giunta, amabile Ninetta.
+Hai raccolte le fragole?
+
+NINETTA
+Un intero
+Panierin n'ho ricolmo. -- Eccole.
+
+FABRIZIO
+Oh belle,
+E fresche al par di tè -- Senti, mia cara;
+Quest'oggi vo che tutto
+Spiri dintorno a noi gioja, letizia,
+E amore.
+
+NINETTA
+Oh: sì, lo spero. Vostro figlio...
+
+FABRIZIO
+Ah, ahà! mio figlio, il so, ti piace... Basta...
+
+NINETTA
+Come! che dite?
+
+FABRIZIO
+Già da un pezzo io leggo
+In quegli occhi, in quel core.
+
+NINETTA
+(Oh Dio!)
+
+FABRIZIO
+Sta lieta;
+Non t'arrossire. Al padre suo Giannetto
+Non v'è cosa che asconda: ei t'ama; ed io
+Questo amor non condanno.
+Oh me felice!
+Taci, chè vien Lucia.
+
+NINETTA
+Caro Fabrizio!
+(gli bacia la mano; ed egli le fa una carezza)
+
+LUCIA
+Ma brava! -- E tu, quando farai giudizio? -- Prendi queste posate, e bada bene
+(alla Ninetta)
+Che non si perda nulla.
+
+NINETTA
+Ah no! vorrei
+In pria morir, che ancora
+Mancar dovesse...
+
+LUCIA
+Solite proteste.
+Ma intanto la forchetta se n'è ita.
+
+NINETTA
+Io non ci ho colpa!
+
+LUCIA
+Ma però...
+
+FABRIZIO
+Che vita! -- Andiamo.
+(prende la Lucia per un braccio, mostrandosi alquanto adirato)
+
+LUCIA
+Andiamo pure.
+
+FABRIZIO
+Addio, Ninetta.
+(si stacca dalla Lucia, e va a parlare nell'orecchio alla Ninetta)
+
+LUCIA
+Eh quante tenerezze! Ad una serva
+Non bisogna dar tanta confidenza.
+(tirando a sè Fabrizio)
+
+FABRIZIO
+Non pianger, mia fanciulla; abbi pazienza.
+(Lucia e Fabrizio escono, e prendono la via della collina. Ninetta chiude il cancello, e poi rientra nell'abitazione.)
+
+## Scena terza
+(Isacco, prima di dentro, e poscia affacciandosi al cancello, colla sua cassa di merci; e subito Pippo, arrecando qualche cosa per la mensa.)
+
+ISACCO
+Stringhe e ferri da calzette,
+Temperini e forbicette,
+Aghi, pettini, coltelli,
+Esca, pietre e zolfanelli.
+Avanti, avanti
+Chi vuol comprar,
+E chi vuol vendere
+O barattar.
+
+PIPPO
+Oh, senti il vecchio Isacco.
+Andate, galantuomo; risparmiate
+Una voce sì bella:
+Quest'oggi abbiamo vuota la scarsella.
+
+ISACCO
+Io compro, se volete;
+Baratto, se vi piace:
+Guardate che bei capi,
+Che belle mercanzie
+Tutte di moda e più che mai perfette.
+
+PIPPO
+Andate, vi ripeto.
+
+ISACCO
+Salutatemi
+La signora: Ninetta: se per sorte
+Ella bisogno avesse
+De' fatti miei, ditele ch'io mi trovo
+Fino a dimani nell'Albergo nuovo.
+(parte)
+
+PIPPO
+Tutto il paese, con zampogne e pifferi,
+E cornamuse, è andato
+A ricever Giannetto a piè del colle:
+Oh perchè non poss io
+Salutar, pria degli altri, il padron mio!
+
+## Scena quarta
+NINETTA
+(a Pippo)
+Mi par d'avere udito
+La voce di quel vecchio merciajuolo
+Che suole tutti gli anni
+Passar di qua.
+
+PIPPO
+Non v'ingannaste: è desso;
+E mi chiamò di voi,
+
+NINETTA
+Gli son tenuta assai.
+
+PIPPO
+Un usurajo egual non vidi mai.
+(s'ode dietro alla collina una sinfonia campestre)
+
+NINETTA
+Ma qual suono!
+
+CORO
+(da lontano)
+Viva, viva!
+
+NINETTA
+Ma quai grida
+
+CORO
+(come sopra)
+Ben tornato
+
+PIPPO
+È Giannetto!
+(saltando per gioja)
+
+NINETTA
+Oggetto amato,
+Deh mi vieni a consolar!
+Oh momento fortunato
+Oh che dolce palpitar!
+
+PIPPO
+Fuori, fuori
+È ritornato:
+Deh venitelo a mirar!
+(correndo sulla soglia dell'abitazione, chiamando i famigli)
+## Scena quinta
+(Ninetta, Pippo, Giannetto, Fabrizio, Lucia; contadini e contadine che si veggono discendere dalla collina, ed i famigli di Fabrizio che escono nel cortile.)
+(Giannetto, vedendo la Ninetta, si spicca dalla comitiva, corre, e trovasi alla porta che dalla strada mette al cortile, nel momento che vi giugne la Ninetta per riceverlo.)
+
+CORO
+Bravo bravo
+Ben tornato!
+Qui dovete ognor restar.
+
+GIANNETTO
+Vieni fra queste braccia...
+(alla Nin.)
+Mi balza il cor nel sen!
+D'un vero amor, mio ben,
+Questo è il linguaggio.
+Anche al nemico in faccia
+M'eri presente ognor:
+Tu m'inspiravi allor
+Forza e coraggio.
+Ma quel piacer che adesso,
+O mia Ninetta, io provo,
+È così dolce e nuovo
+Che non si può spiegar.
+
+FABRIZIO
+Mi sembrano due tortore:
+
+CORO
+Mi fanno giubilar.
+(tutti fanno festa a Giannetto. Ad un cenno di Lucia, Pip. e gli altri famigli rientrano in casa)
+
+CORO
+Questo è giorno d'allegria,
+Di piacere, di pazzia;
+Questo è giorno da goder.
+Su, balliamo; discacciamo
+(cominciano le danze)
+Ogni torbido pensier.
+
+CORO
+Alla mensa; andiamo, andiamo:
+Che delizia! che piacer!
+
+LUCIA
+Sediamo.
+(Lucia, Fab., Giann., ed alcuni contadini più distinti, e convitati, si assidono. I famigli arrecano le vivande)
+
+FABRIZIO
+Qui, Ninetta..
+
+NINETTA
+Oh troppo onore!
+(si asside tra Fab. e Gian.)
+
+LUCIA
+Ah Fabrizio, Fabrizio - Ma, Dio buono!
+(in atto di rimprovero)
+Dove avevo la testa! e il Podestà?
+Aspettarlo bisogna.
+
+FABRIZIO
+Ei mi fe' dire
+Che non era sicuro di venire.
+
+LUCIA
+E ben, pranziamo noi. - Ma la Ninetta
+(distribuendo la minestra)
+Che dice? questo è un torto.. Ah, ah! sappiate
+Ch'ei le fa l'occhiolino.
+
+NINETTA
+Eh! voi scherzate.
+(Alcuni famigli portano fuori delle sottocoppe coperte di bicchieri, e mescono ai contadini. Pip. esce con un nappo in mano, si mette in mezzo alla festosa turba, e fa il seguente brindisi:)
+
+PIPPO
+Tocchiamo, beviamo
+A gara, a vicenda:
+Il petto s'accenda
+Di dolce furor.
+
+CORO
+Tocchiamo; e discenda
+La gioja nel cor.
+
+PIPPO
+Se il nappo zampilla,
+Se spuma, se brilla,
+E ricchi e pitocchi
+Esultano allor.
+
+CORO
+Beviamo; e trabocchi
+Di gioja ogni cor.
+
+PIPPO
+Il nappo è di Pippo
+La pipa e la poppa:
+Il pecchero accoppa
+Le pene del cor.
+(finiscono le danze, e tutti si levano da tavola)
+
+FABRIZIO
+Miei cari amici, spero
+(ai contadini)
+Che presto, e per cagione
+Non men felice e bella,
+Qui tornerete, con il vostro brio
+E con le danze, a ricrearne, Addio.
+(i contadini escono)
+
+GIANNETTO
+O madre, ancor non mi diceste nulla
+Del caro zio. Che fa?
+
+LUCIA
+Sempre trafitto
+Dalla sua gotta.
+
+GIANNETTO
+Ah voglio
+Vederlo ed abbracciarlo.
+
+FABRIZIO
+E ben, possiamo
+Or tutti in compagnia
+Andar da lui: - che te ne par, Lucia?
+
+LUCIA
+Andiamci pur. - Ninetta,
+Tien l'occhio a tutto. - Pippo?...
+
+PIPPO
+Signora...
+(uscendo subito)
+
+LUCIA
+Là in cucina
+Raccogli la mia gente,
+E mangiate e bevete allegramente.
+
+PIPPO
+Oh vi faremo onore
+(rientra in casa)
+
+GIANNETTO
+A rivederci,
+(alla Nin.)
+Mia cara!
+
+NINETTA
+Sì; ma ritornate presto.
+
+LUCIA
+Povera bestiolina,
+(alla gazza)
+Vien qua; bacia la mano: addio, carina.
+(Fabrizio, Lucia e Giannetto escono dalla porta che mette alla strada. Intanto ch'essi dilungansi al basso, Fernando compare sulla collina, e ne discende guardandosi sempre d'intorno in aria di sospetto)
+(Ninetta, e subito Fernando.)
+
+NINETTA
+Idolo mio!... Contiamo
+Queste posate. - Oh come,
+Come sento ch'io l'amo!
+
+FERNANDO
+No, non m'inganno.
+(riconoscendo la casa di Fab.)
+
+NINETTA
+Il conto è giusto.
+
+FERNANDO
+Oh Dio!
+Quella certo è mia figlia!... Ahi di qual colpo
+A ferire ti vengo!
+
+NINETTA
+Oh cielo! un uomo:
+Par ch'egli pianga. - Dite, in che poss'io?..
+(se gli accosta timidamente)
+
+FERNANDO
+Adorata mia figlia
+(scoprendosi, e con dolore)
+
+NINETTA
+Oh padre mio!
+(con trasporto, e gettandosi fra le braccia di suo padre)
+
+FERNANDO
+Zitto! non mi scoprir.
+
+NINETTA
+Come! che dite?
+
+FERNANDO
+Ascolta, e trema. - Jeri,
+Sul tramontar del sole,
+Giunse a Parigi la mia squadra. Io tosto
+Dal capitano imploro
+Di vederti il favor. Bieco e crudele
+Ei me lo niega. Con ardir, con fuoco,
+A' detti suoi rispondo. Sciagurato!
+Ei grida; e colla spada
+Già già m'è sopra. Agli occhi
+Mi fa un velo il furor; la sciabla impugno,
+M'avvento, e i nostri ferri
+Già suonano percossi;
+Quand'ecco a noi sen viene
+Pronto un soldato, e il braccio mio trattiene.
+
+NINETTA
+E allora, padre mio?
+
+FERNANDO
+Barbara sorte
+Fui disarmato, e condannato a morte.
+
+NINETTA
+Misera me!
+
+FERNANDO
+Gli amici procurâr la mia fuga,
+Il prode Ernesto
+Di questi cenci mi coperse; e scorta
+Mi fu sino al primiero
+Villaggio, dove entrambi
+Piangendo ci lasciammo. Amico mio, -
+Ei disse; e dir non mi poteva: Addio!
+
+NINETTA
+Come frenare il pianto!
+Io perdo il mio coraggio!...
+E pur di speme un raggio
+Ancor vegg'io brillar.
+
+FERNANDO
+Ah no, non v'è più speme;
+È certo il mio periglio:
+Solo un eterno esiglio,
+Oh Dio! mi può salvar.
+Per questo amplesso, o figlia...
+
+NINETTA
+Ah regger non poss'io!
+Chi vide mai del mio
+Più barbaro dolor!
+
+FERNANDO
+Deh! m'ascolta.
+
+NINETTA
+Sì, parlate.
+
+FERNANDO
+Fra l'orror di tante pene,
+Se sapessi...
+(si vede in questo momento arrivare dalla collina il Podestà)
+
+NINETTA
+Oh Dio, chi viene!
+
+FERNANDO
+Chi mai dunque?
+
+NINETTA
+Il Podestà.
+
+FERNANDO
+Ah, che dici! Son perduto.
+Come far?
+
+NINETTA
+Qui, qui sedete.
+(conducendolo verso la mensa)
+
+FERNANDO
+S'ei mi scopre....
+
+NINETTA
+Nascondete
+Quelle vesti.
+
+FERNANDO
+Ma se mai...
+Oh crudel fatalità!
+
+NINETTA
+Ah coraggio per pietà
+Io tremo, pavento:
+Che fiero tormento!
+Che barbara sorte
+
+NINETTA E FERNANDO
+Men cruda è la morte.
+Il nembo è vicino
+Tremendo destino,
+Mi sento gelar!
+(Fernando si ravviluppa nel suo gabbano, e si colloca all'angolo più lontano della tavola. - La Ninetta si occupa a sparecchiar la mensa.)
+(Il Podestà, Ninetta e Fernando.)
+
+IL PODESTÀ
+Ho visto dalla piazza
+(sulla porta del cortile)
+Passare la Lucia
+Con Fabrizio ed il figlio. Ah! non sì tardi;
+Cogliam questo momento.
+Deh! tu m'assisti, Amor; fammi contento.
+(Il Pod. avviandosi verso l'abitazione, dice quanto segue. - Frattanto la Nin. versa da bere a suo padre, e lo conforta in segreto.)
+Il mio piano è preparato,
+E fallire non potrà.
+Pria di tutto, con destrezza,
+Le solletico l'orgoglio
+No, non posso.. ohimè!.. non voglio,
+(contraffacendo la Ninetta)
+Deh partite, o Podestà!
+Ciance solite e ridicole;
+Formolario omai smaccato!
+Ma frattanto il cor piagato
+Un bel sì dicendo va.
+Il mio piano è preparato,
+E fallire non potrà.
+Sì, sì, Ninetta,
+Sola soletta
+Ti troverò.
+Quel caro viso
+Brillar d'un riso
+Io ti farò.
+E poi che in estasi
+Di dolce amor
+Ti vedrò stendere
+La mano al cor,
+Rinvigorito,
+Ringiovanito,
+Trionferò.
+Il mio progetto
+Fallir non può.
+
+NINETTA
+Un altro, un altro: questo darà forza a camminar.
+(versando a suo padre un altro bicchier di vino)
+
+IL PODESTÀ
+Buon giorno, fanciulla.
+(avendo udita la voce di Ninetta, e solo accorgendosi di lei in questo punto)
+
+NINETTA
+Vi son serva.
+
+IL PODESTÀ
+È quell'uomo?
+(a parte alla Nin.)
+
+NINETTA
+Un povero viandante mi chiedea soccorso.
+
+IL PODESTÀ
+E voi gli dèste bere. Oh brava, brava! Anch'io, mia cara,
+una gran sete...
+
+NINETTA
+Subito, vi servo.
+
+IL PODESTÀ
+No, no; per la mia sete
+(trattenendola)
+Non ci vuole del vin.
+
+NINETTA
+Dunque dell'acqua?
+
+IL PODESTÀ
+Tu non mi vuoi capir.
+(accarezzandole la mano)
+
+NINETTA
+Lasciate. -- E bene,
+(a suo padre)
+Come lo ritrovaste?
+(e poi sotto voce)
+Fingete di dormire. - Oh, voi saprete
+(ritornando verso il Podestà)
+Ch'è arrivato Giannetto.
+
+IL PODESTÀ
+Ed ero appunto
+Venuto a salutarlo.
+
+NINETTA
+Mi rincresce
+Che sono tutti usciti.
+
+IL PODESTÀ
+Eh non importa
+Ci siete voi, mi basta. Ma colui
+(accennando Fer., il quale finge di dormire, ma di tempo in tempo alza la testa per osservare che cosa succede)
+Perchè non se ne va?
+Cacciatelo.
+
+NINETTA
+Vedete, è tanto stanco
+Che già s'è addormentato.
+(Can che dorme
+Non dà molestia.)
+
+IL PODESTÀ
+Ah se sapeste, o cara,
+Da quanto tempo io cerco
+Di ritrovarvi sola.
+
+NINETTA
+Andate, andate;
+Non vi fate burlare.
+
+IL PODESTÀ
+Ah, mia Ninetta,
+Perchè così ritrosa?
+Rispondi, anima mia,
+
+## Scena sesta
+GIORGIO
+Questo piego pressante è a voi diretto.
+
+IL PODESTÀ
+Ah ah! -- Chi l'ha recato?
+
+GIORGIO
+Un birro.
+
+NINETTA E FERNANDO
+Un birro!
+(a parte e con ispavento)
+
+IL PODESTÀ
+Giorgio, dammi una sedia. -- Vediamo che cos'è. -- Vattene pure.
+(Giorgio parte)
+
+## Scena settima
+(Il Podestà, Ninetta e Fernando. Il Podestà, assiso verso il mezzo della scena, si leva di tasca un portafogli, ne toglie le forbici onde tagliare il sigillo del piego; poi cerca gli occhiali, e, non trovandoli, s'impazientisce di non poter riuscire a leggere. Intanto succede in disparte fra Ninetta e suo padre il seguente dialogo, che viene a suo tempo interrotto dal Podestà.)
+
+NINETTA
+Ah! caro padre, udiste? Io tremo! Intanto
+Ch'ei legge, deh! fuggite.
+
+FERNANDO
+E come, o figlia?
+Sono senza denari.
+
+NINETTA
+Oh cielo! ed io
+Non ho più nulla.
+
+FERNANDO
+E bene,
+Prendi questa posata, unico avanzo
+Di quanto io possedea. Deh tu procura
+Di venderla dentr'oggi, -- ma in segreto
+Là dietro al colle io vidi
+Un gran castagno, a cui la lunga etade
+Scavato ha il sen.
+
+NINETTA
+Me ne sovvengo.
+
+FERNANDO
+Quivi
+Cela il denaro che potrai ritrarne.
+Nel folto della selva
+Io mi terrò nascoso: e come il cielo
+Imbruni, fa che in quel castagno io trovi
+Almen questo sussidio.
+
+NINETTA
+(Ah! se tornasse quel merciajuolo che pur dianzi...)
+O padre, farò di tutto. Andate...
+
+FERNANDO
+Figlia mia,
+
+IL PODESTÀ
+Ninetta?
+(alzandosi)
+
+NINETTA
+(Giusto cielo!)
+
+IL PODESTÀ
+Galantuomo, restate.
+(a Fer. che faceva per uscire)
+
+FERNANDO
+(Io tremo!)
+
+NINETTA
+(Io gelo!) - Traetevi in disparte.
+(piano a suo padre, il quale torna a sedersi, e finge ancora di dormire)
+
+IL PODESTÀ
+Son questi, almen suppongo, i contrassegni
+(a parte alla Nin.)
+D'un disertor. -- Fernando par che dica.
+
+NINETTA
+(Fernando!...)
+(volgendo un guardo a suo padre)
+
+FERNANDO
+(Oh reo destino!)
+
+IL PODESTÀ
+Ma il resto, senza occhiali,
+È impossibile a leggere. -- Mia cara,
+Fate il piacer, leggete voi.
+
+NINETTA
+(Gran Dio!
+(prendendo il foglio, trascorrendolo, e tremando)
+O m'uccidi, o mi salva il padre mio! --)
+M'affretto di mandarvi i contrassegni
+D'un mio soldato... condannato a morte,
+È fuggito pur or dalle ritorte.
+Ei chiamasi...
+
+IL PODESTÀ
+Su via.
+
+NINETTA
+Fer.... Fer.... Fernando...
+(Suggeritemi, o Dei,
+Qualche pietoso inganno!)
+
+IL PODESTÀ
+(Oh come il duolo
+La rende ancor più bella!)
+
+NINETTA
+Ei chiamasi Fernando Vi.. Vinella.
+(guardando a suo padre, come per indicargli la bugia ch'ella proferisce)
+
+IL PODESTÀ
+Continuate.
+
+NINETTA
+(Oh Dio! se leggo ancora,
+Tutto è perduto. -- Età: quarantott'anni;
+Statura: cinque piedi...)
+
+IL PODESTÀ
+E ben, che avete?
+Non sapete più leggere?
+
+FERNANDO
+(Infelice!)
+
+NINETTA
+È una mano diabolica!
+
+IL PODESTÀ
+Ah se avessi
+Gli occhiali!
+(in atto di toglierle il foglio, e cercando nelle sue tasche)
+
+NINETTA
+Permettete.
+(Il ciel m'inspira.)
+(ritenendo il foglio)
+Età: venticinqu'anni;
+Statura: cinque piedi, undici pollici.
+
+IL PODESTÀ
+Peccato! -- Andate avanti.
+
+NINETTA
+Capei biondi,
+Occhi neri, ampia fronte, e tondo il viso.
+
+IL PODESTÀ
+Cospetto! egli debb'essere un Narciso. -- E tondo il viso!.. E poi?
+
+NINETTA
+Divisa bianca
+(guardando di mano in mano a suo padre per nominar de' colori diversi da quelli di esso)
+Con mostre rosse; stivaletti gialli.
+Se mai costui passasse
+Sul vostro territorio, a dirittura
+Fatelo imprigionar...
+
+IL PODESTÀ
+Sarà mia cura
+(facendosi rendere il foglio dalla Nin., e riponendolo in tasca)
+Vediam se mai per caso... -- Olà, buon uomo?
+
+FERNANDO
+Signore.
+(fingendo di risvegliarsi)
+
+IL PODESTÀ
+Alzatevi: -- Cavatevi il cappello.
+
+NINETTA
+(Io muojo!)
+
+IL PODESTÀ
+Ah ah!
+(ridendo)
+Venticinqu'anni; è vero? -- capei biondi,
+(alla Nin.)
+Occhi neri, ampia fronte, e tondo il viso.
+No no, sì vago Adon qui non ravviso.
+
+NINETTA
+(Respiro.)
+
+IL PODESTÀ
+Mia cara
+(prendendo per mano la Nin.)
+
+FERNANDO
+Signora...
+(alla Nin. in atto di voler dirle qualche cosa)
+
+IL PODESTÀ
+Partite.
+(a Fer. con severità)
+
+NINETTA
+Buon uomo!
+(a Fer. con tenerezza)
+
+IL PODESTÀ
+Capite?
+(a Fer.)
+Uscite di qua.
+(Fer. esce, ma sta in agguato dietro ad un pilastro della porta; la Nin. lo accompagna collo sguardo)
+
+NINETTA E FERNANDO
+(Oh Nume benefico
+Che il giusto difendi,
+Propizio ti rendi;
+Soccorso, pietà!)
+
+IL PODESTÀ
+(L'istante è propizio!
+Amore, discendi;
+Se il core le accendi,
+Che gioja sarà!)
+Siamo soli: Amor seconda
+(dopo avere veduto uscire Fer.)
+Le mie fiamme, i voti miei;
+Ah! se barbara non sei,
+Fammi a parte del tuo cor.
+
+NINETTA
+Benchè sola, vi potrei
+Far gelare di spavento:
+Traditor! per voi non sento
+Che disprezzo e rabbia e orror.
+(Fer. è rientrato nel cortile)
+(Ah mi bolle nelle vene
+Il furore e la vendetta!
+Freme il nembo; e la saetta
+Già comincia a balenar.)
+(Ma frenarsi qui conviene;
+Colle buone vo' tentar.)
+(Ma frenarsi qui conviene:
+Ella sol mi fa tremar.)
+(l'uno accennando la figlia, e l'altra il padre)
+Via, deponi quel rigore;
+Vieni meco, e lascia far.
+Vituperio! Disonore!
+(avanzandosi con impeto)
+Abbastanza ho tollerato.
+Uom maturo, e magistrato,
+Vi dovreste vergognar.
+
+IL PODESTÀ
+Ah per Bacco!...
+(contro a Fer.)
+
+FERNANDO
+Rispettate
+(al Pod.)
+Il pudore e l'innocenza.
+
+NINETTA
+Caro padre, oh Dio! prudenza.
+(a parte a Fer.)
+
+IL PODESTÀ
+Temerario!
+(a Fer.)
+
+FERNANDO
+Non gridate.
+(con impeto)
+
+NINETTA
+Vi volete rovinar!
+(a parte a Fer.)
+
+IL PODESTÀ
+Vieni meco...
+(alla Nin.)
+
+NINETTA
+Sciagurato! respi
+
+FERNANDO
+Rispettate l'innocenza.
+(al P)
+
+IL PODESTÀ
+Cos'è questa impertinenza?
+(a Fer.)
+
+NINETTA
+Ah partite
+(a parte a Fer.)
+
+FERNANDO
+Sì, t'intendo
+(a parte alla Nin., e poi si ritira lentamente)
+
+IL PODESTÀ
+Brutto vecchio, se più tardi... -- E tu senti.
+(alla Nin. in atto di prenderla per mano)
+
+NINETTA
+Mostro orrendo!
+(respingendolo)
+
+IL PODESTÀ
+Trema, ingrata! Presto o tardi
+Te la voglio far pagar.
+
+NINETTA
+(Infelice! tu mi guardi,
+E ti debbo, oh Dio lasciar.)
+(Non so quel che farei;
+(A tre)
+Smanio, deliro e fremo.
+A questo passo estremo
+Mi sento il cor scoppiar.)
+(Intanto che esce il Podestà, e che la Ninetta protende le braccia a suo padre, il quale si vede salir la collina, la gazza scende sulla tavola, rapisce un cucchiajo, e se ne vola via. In questo momento cala la tela, e si cambia la scena come segue.)
+
+## Scena ottava
+(Stanza terrena in casa di Fabrizio: nel fondo una porta con finestre che guardano sulla strada. Pippo; quindi Ninetta che viene dal cortile col canestro delle posate; e in fine Isacco.)
+
+PIPPO
+O pancia mia, tu devi
+Quest'oggi esser contenta; e cibi e vino
+Io te ne diedi a così larga mano
+Che un ministro sembravo, anzi un sultano,
+
+ISACCO
+Stringhe e ferri da calzette, ecc.
+(dalla strada)
+
+PIPPO
+Vattene alla malora.
+
+NINETTA
+Il merciajuolo!
+(entrando in iscena)
+Come opportuno ei viene! -- Isacco, Isacco?
+(aprendo la porta che mette alla strada)
+
+ISACCO
+Son qua, mia cara signorina.
+(entra)
+
+NINETTA
+Pippo,
+Mi par che voglia piovere;
+(con imbarazzo)
+E però sarà bene
+Di ritirare in casa
+La gabbia della gazza. -- Orsù, vorrei
+(Pippo esce)
+(ad Isacco)
+Vender questa posata.
+(togliendosi da una tasca del grembiale la posata datale da suo padre)
+
+ISACCO
+Ed io la compro,
+
+NINETTA
+Quanto mi date?
+
+ISACCO
+È assai leggiere; pure
+Vi do due scudi.
+
+NINETTA
+Oh indegnità! nè meno
+Un terzo del valore.
+
+ISACCO
+Via, non andate in collera.
+Vi do un zecchino, perchè siete voi
+
+NINETTA
+Non basta.
+
+ISACCO
+E bene, voglio
+Fare uno sforzo. Questi son tre scudi.
+Siete alfine contenta?
+
+NINETTA
+Eh sì, per forza!
+
+ISACCO
+Uno... due... tre: tenete; ma ci perdo,
+(Ne vale più di quattro.)
+
+NINETTA
+andate, andate;
+E non dite a nessun...
+
+ISACCO
+Non dubitate.
+(via)
+
+## Scena nona
+NINETTA
+Oh povero mio padre!
+(mettendo il denaro in una tasca del grembiule)
+
+PIPPO
+Ecco la gabbia;
+Ma quella scellerata
+D'una gazza, chi sa dove n'è andata?
+(depone la gabbia al suo luogo solito)
+
+LA GAZZA
+Pippo?
+(sulla finestra)
+
+NINETTA
+Vedila là che ti canzona.
+
+PIPPO
+Mi vuol fare impazzir quella stregona.
+(la gazza dopo qualche istante vola nella sua gabbia)
+Ma perchè mai, se la domanda è lecita,
+Faceste entrar quel sordido avaraccio?
+
+NINETTA
+Avea bisogno di denaro; e quindi
+Gli ho venduto...
+
+PIPPO
+Ah! capisco:
+Qualche galanteria...
+
+NINETTA
+Sì, che per ora
+Non m'era necessaria.
+
+PIPPO
+Oh che sproposito!
+Perchè non dirlo a me? Cara signora,
+Voi dovete disporre in tutto e sempre
+Del mio salvadanajo.
+
+NINETTA
+Ti ringrazio.
+Ma lasciami; tu sai
+Che ho tante cose a fare...
+
+PIPPO
+Ed io, per Bacco,
+Ne ho da fare altrettante, e son già stracco.
+(via)
+
+## Scena decima
+(Ninetta; subito Giannetto, e poscia Fabrizio, ambedue dalla porta che mette alla strada.)
+
+NINETTA
+Andiam tosto a deporre entro il castagno
+questo denaro. Oh se potessi ancora
+Rivederti, o mio padre!... Ah!
+(incontrandosi in Giannetto, mentre fa per uscire)
+
+GIANNETTO
+Che vuol dire
+Questo grido, o mia cara?
+
+NINETTA
+La sorpresa,...
+L'agitato mio core... Addio.
+(in atto di partire)
+
+GIANNETTO
+T'arresta:
+Così mi lasci?
+
+NINETTA
+(Ohimè!) Tosto ritorno.
+(idem)
+
+FABRIZIO
+Dove corri? Vien qua.
+(incontrand. nella Ninetta)
+
+NINETTA
+(Che nuovo inciampo!)
+
+FABRIZIO
+Rasserena quel viso; ho stabilito
+Di darti...
+
+NINETTA
+Sì!... che cosa?
+
+FABRIZIO
+Un bel marito.
+(prendendo per mano i due amanti)
+
+GIANNETTO
+Oh noi felici!
+
+NINETTA
+E come mai spiegarvi
+Tutti gli affetti che nel seno io provo?
+(a Fabrizio)
+
+GIANNETTO
+Mia madre dov'è?
+(idem)
+
+FABRIZIO
+Là sulla piazza
+Con Isacco il merciajo,
+Col cancellier Gregorio,
+E con il Podestà.
+
+NINETTA
+(Questo è il momento.)
+(esce di soppiatto)
+
+FABRIZIO
+Subito ch'ella arrivi,
+Tu devi con Ninetta...
+Eh, dove sei? - Non c'è più? ma perchè?
+(a Giannetto)
+
+## Scena undicesima
+(Lucia che riconduce la Ninetta; il Podestà, il cancellier Gregorio, e detti; in fine Pippo.)
+
+LUCIA
+Brutta fraschetta,
+In casa, in casa. Se ti colgo ancora...
+
+NINETTA
+(Pazienza! è d'uopo rinunziar per ora.)
+
+LUCIA
+Eccovi, o miei signori, quel Giannetto
+(presentando suo figlio al Podestà ed al Cancelliere)
+Che si fe tanto onor.
+(la Lucia si fa recar dalla Ninetta il paniere delle posate, e si mette a contarle)
+
+IL PODESTÀ
+(a Giannetto)
+Me ne rallegro.
+Io lessi ne' giornali
+Più volte il vostro nome; e ben rammento
+E la bandiera che di man toglieste
+All'inimico, e i due cavalli uccisi
+Sotto di voi. Sì giovine, e sì prode....
+
+GIANNETTO
+Degno ancora non son di tanta lode.
+
+FABRIZIO
+Bravo! - Che ve ne pare?
+(al Podestà ed al Cancelliere)
+
+LUCIA
+E nove, e dieci,
+Ed undici. — Stordita! ecco qui manca
+Ora un cucchiajo.
+(alla Ninetta)
+
+NINETTA
+Come?
+
+LUCIA
+Sì, un cucchiajo.
+Conta pure tu stessa. - Eh! che ne dite?
+(la Ninetta si pone contar le posate)
+(rivolgendosi agli altri)
+Oggi manca un cucchiajo; l'altro giorno
+Si perse una forchetta. Ah questo è troppo!
+
+IL PODESTÀ
+È giusto il vostro sdegno:
+Qui ci sono de' ladri. Esaminiamo,
+Processiamo, -- Gregorio...
+
+FABRIZIO
+Eh, ch'io non voglio
+Processi in casa mia. -- Ninetta?
+
+NINETTA
+È vero;
+Uno adesso ne manca: e pur, credete,
+Poc'anzi c'eran tutti.
+(piange)
+
+FABRIZIO
+Eh via, non piangere!
+Lo troveremo.
+
+GIANNETTO
+Pippo?...
+(chiamando verso le quinte. Pippo accorre subito)
+Corri a veder se mai:
+Là sotto al pergolato
+Sia caduto un cucchiajo.
+(Pippo esce)
+
+LUCIA
+Io ci scommetto
+Che non si troverà.
+
+IL PODESTÀ
+Non dubitate;
+Lo troveremo noi. (Voglio che almeno
+Tremi l'indegna.) - Carta e calamajo.
+(alla Lucia)
+
+LUCIA
+Vi servo sul momento.
+
+FABRIZIO
+Vi ripeto
+(al Podestà)
+Ch'io non voglio processi.
+
+LUCIA
+Eh taci, sciocco!
+L'innocente è sicuro; e se v'è il reo,
+Giova scoprirlo e castigarlo.
+
+GIANNETTO
+Oh cielo!
+Per sì piccola cosa...
+
+IL PODESTÀ
+E pur la legge
+In questo è assai severa,
+Ed i ladri domestici condanna
+Alla morte.
+
+GIANNETTO
+Alla morte!
+
+## Scena dodicesima
+(Pippo e detti.)
+
+PIPPO
+E sopra e sotto
+Ho cercato e frugato,
+Ma nulla ho ritrovato.
+
+NINETTA
+(Oh me infelice!)
+
+PIPPO
+Io non so niente.
+
+NINETTA
+Anch'io
+Sono innocente.
+
+IL PODESTÀ
+Or si vedrà.
+(il Podestà ed il Cancelliere siedono ad un tavolino)
+
+FABRIZIO
+Ma quale
+Esser potrebbe mai
+La persona sospetta?
+
+GIANNETTO
+Un ladro in casa! e chi sarà?
+
+LA GAZZA
+Ninetta.
+
+NINETTA
+Crudel! tu pur m'accusi? --
+(volgendosi alla gazza)
+
+GIANNETTO
+Dio, tu piangi!
+(alla Ninetta)
+
+NINETTA
+Ma non l'avete udita?
+(additando la gazza)
+
+GIANNETTO
+Ah non temere!
+Nessun vi bada.
+(la gazza vola via)
+
+FABRIZIO
+In somma, vi scongiuro,
+(al Podestà)
+Lasciate, desistete,
+
+IL PODESTÀ
+Non posso.
+
+GIANNETTO
+Ma...
+(con risentimento al Podestà)
+
+IL PODESTÀ
+Silenzio! -- E voi scrivete.
+(al Cancelliere)
+In casa di Messere
+Fabrizio Vingradito
+È stato oggi rapito...
+
+GIANNETTO
+Rapito, no; smarrito.
+
+IL PODESTÀ
+Zitto! vuol dir lo stesso. -- Rapito. Avete messo?
+(al Cancelliere)
+Un cucchiajo d'argento
+Per uso di mangiar.
+
+NINETTA, GIANNETTO E FABRIZIO
+(Che bestia! che giumento
+Mi sento a rosicar)
+(additando il Podestà)
+(Che testa! che talento
+(idem)
+Mi fa trasecolar.)
+
+IL PODESTÀ
+(La rabbia ancor mi sento;
+Mi voglio vendicar.)
+(Pentita già mi sento:
+Colui mi fa tremar.)
+(idem)
+
+IL PODESTÀ
+Di tuo padre quale è il nome?
+(alla Ninetta)
+
+NINETTA
+Ferdinando Villabella.
+
+IL PODESTÀ
+Villabella! Come, come?
+Ora intendo, furfantella:
+Quel briccone era tuo padre.
+Ma paventa! le mie squadre
+Lo sapranno accalappiar.
+
+LUCIA
+Quale enigma
+
+IL PODESTÀ
+Eh! nulla, nulla.
+Questa semplice fanciulla
+Ne vuol tutti corbellar.
+
+NINETTA
+Più non resisto, oh Dio!
+(si leva dal grembiale il fazzoletto per asciugarsi le lagrime, e rovescia in terra il denaro ricevuto da Isacco)
+
+LUCIA
+Ma che denaro è questo?
+(con maraviglia)
+
+NINETTA
+È mio, signora; è mio.
+(raccogliendo affannosamente il denaro)
+
+LUCIA
+Eh! tu mentisci.
+
+IL PODESTÀ
+Presto,
+(al Cancelliere)
+
+NINETTA
+Ve lo giuro;
+È mio, è mio, signora.
+
+PIPPO
+È suo, ve l'assicuro:
+Isacco a lei lo diè.
+
+IL PODESTÀ, LUCIA, FABRIZIO E GIANNETTO
+Isacco
+(con istupore)
+
+IL PODESTÀ
+Ed a qual titolo?
+(a Pippo)
+
+PIPPO
+Per certe cianciafruscole
+Che a lui pur or vendè.
+
+IL PODESTÀ
+Per certe cianciafruscole!... Cioè?
+(ironicamente alla Ninetta)
+
+NINETTA
+Parlar non posso.
+
+IL PODESTÀ
+Caduta sei nel fosso.
+
+GIANNETTO
+Tacete.
+(con ira al Podestà)
+Scopri il vero.
+(con passione alla Ninetta)
+
+NINETTA
+Non posso!
+
+GIANNETTO
+Deh rispondi!
+(insistendo con viva passione)
+
+LUCIA
+Tu tremi; ti confondi.
+
+NINETTA
+Io, no, signora; ... io spero...
+
+IL PODESTÀ
+Inutile speranza!
+(si alza)
+Rimedio più non v'è.
+
+NINETTA
+(Io perdo la costanza;
+Che ne sarà di me!)
+
+GIANNETTO, FABRIZIO E LUCIA
+(Ah questa circostanza
+Mi porta fuor di me!)
+
+PIPPO
+(Oh fiera circostanza!
+Io sono fuor di me.)
+
+IL PODESTÀ
+(Omai più non t'avanza
+Che di venir con me.)
+(con visibile gioja)
+
+GIANNETTO
+Si chiami Isacco.
+(con impeto)
+
+PIPPO
+Subito.
+(in atto di partire)
+
+FABRIZIO
+In piazza il troverai.
+(a Pippo che parte immediatamente)
+
+LUCIA, FABRIZIO E GIANNETTO
+Possano tanti guai
+Alfine terminar!
+(intanto il Pod. esamina il processo)
+
+NINETTA
+(Oh padre! tu lo sai
+S'io posso favellar.)
+
+IL PODESTÀ
+Quel denaro a me porgete.
+(alla Nin.)
+
+NINETTA
+(Che pretende? O Numi, ajuto)
+(consegna il denaro al Pod.)
+
+IL PODESTÀ
+All'Ufficio è devoluto.
+
+ANTONIO
+(si pone in tasca il denaro)
+
+NINETTA
+Oh crudel;
+
+IL PODESTÀ
+(La superbia e l'ardimento
+(additando la Nin.)
+Ti farò ben io passar.
+Già vicino è il mio momento.
+Di godere e trionfar.)
+
+NINETTA
+(Padre mio, per te mi sento
+Questo core a lacerar;
+E, per mio maggior tormento,
+Non ti posso, oh Dio, giovar!)
+
+FABRIZIO
+(Quel pallor, quel turbamento
+(idem)
+
+LUCIA
+l'alma in sen tremar:
+Già spero, ed or pavento;
+Che mai deggio, oh Dio, pensar!)
+
+## Scena tredicesima
+(Pippo con Isacco, e detti.)
+
+ISACCO
+Isacco chiamaste.
+(con umiltà)
+
+IL PODESTÀ
+Che cosa compraste
+(ad Isac. additandogli la Nin.)
+Da lei poco fa?
+
+ISACCO
+Con una forchetta.
+(titubando)
+
+GIANNETTO
+Ninetta! Ninetta
+(coll'accento della disperazione)
+Tu dunque sei rea?
+(Ed io la credea
+L'istessa onestà)
+
+IL PODESTÀ, FABRIZIO E LUCIA
+Convinta è la rea;
+Più dubbio non v'ha.
+(ciascuno con diverso affetto)
+
+PIPPO
+Ah s'io prevedea...
+Ma come si fa
+
+NINETTA
+Ov'è la posata?
+(ad Isac. con risolutezza)
+Mostrate; e vedrete.
+(agli altri)
+
+ISACCO
+Che mai mi chiedete?
+Venduta l'ho già.
+
+NINETTA
+Destin terribile!
+
+IL PODESTÀ
+Ma fate presto.
+(al Cancell. dopo avergli parlato all'orecchio. Il Cancell parte subito)
+
+GIANNETTO
+Quai cifre v'erano?
+(con impeto ad Isacco)
+
+NINETTA
+(Ancora questo!
+(coll'accento della disperazione)
+Le stesse lettere!...
+Misera me!)
+
+ISACCO
+Eravi F
+(dopo aver alquanto pensato)
+d'un V insieme.
+
+CORO
+(fuorchè il Podestà ed Isacco)
+Mi sento opprimere;
+Non v'è più speme;
+Sorte più barbara,
+
+IL PODESTÀ
+Bene, benissimo!
+Non v'è più speme.
+(Tu stessa chiedermi
+Dovrai mercè.)
+
+CORO
+(fuorchè il Podestà)
+Ma qual romore!
+La forza armata!
+
+GIANNETTO E FABRIZIO
+Ah mio signore,
+(al Pod.)
+
+LUCIA E PIPPO
+Pietà, pietà!
+
+## Scena quattordicesima
+(suddetti; Gregorio alla testa della gente d'arme; molti abitatori del villaggio, e tutti i famigli di Fabrizio.)
+
+IL PODESTÀ
+In prigione costei sia condotta.
+(alla gente d'arme, accennando la Nin.)
+
+GIANNETTO
+Giuro al cielo! fermate, o temete...
+(opponendosi alle guardie)
+
+IL PODESTÀ
+Obbedite.
+(alla gente d'arme)
+
+NINETTA
+Gran Dio!...
+
+FABRIZIO, LUCIA E PIPPO
+Sospendete.
+(al Pod. supplicando)
+
+IL PODESTÀ
+Non lo posso. I miei cenni adempite.
+(alla gente d'arme)
+
+NINETTA, LUCIA, FABRIZIO, PIPPO, ISACCO E CORO
+Oh destin!
+(le guardie circondano la Nin)
+
+GIANNETTO
+Questo è troppo! Sentite
+(al P.)
+
+IL PODESTÀ
+Sono sordo.
+(Ora è mia; son contento.
+Ah sei giunto, felice momento!
+Lo spavento piegar la farà.)
+
+NINETTA
+Mille affetti nel petto mi sento;
+Lo spavento gelare mi fa.
+
+GIANNETTO, FABRIZIO, LUCIA, PIPPO E CORO
+Mille furie nel petto mi sento;
+(i suddetti ed Isacco)
+Lo spavento gelare mi fa.
+
+NINETTA
+Ah Giannetto!
+
+GIANNETTO
+Mio ben!...
+(i due amanti si abbracciano)
+
+IL PODESTÀ
+Separateli.
+(alla gente d'arme)
+
+NINETTA E GIANNETTO
+Oh crudeli!
+
+CORO
+(fuorchè il Pod.)
+Che orrore!
+
+IL PODESTÀ
+Legatela.
+(idem)
+
+GIANNETTO, FABRIZIO, LUCIA E PIPPO
+Ah signore!...
+(al Pod. supplicando)
+
+IL PODESTÀ
+Non più. Strascinatela.
+(alla gente d'arme)
+
+NINETTA
+Io vi lascio!
+(a Gian. Fab. e Luc.)
+
+GIANNETTO, FABRIZIO E LUCIA
+Ninetta!
+
+IL PODESTÀ
+Finiamola.
+(con impeto)
+
+CORO
+(fuorchè Nin. e il Pod.)
+Chi gli vibra un pugnale nel seno!
+(additando il Pod.)
+Vorrei far tutto a brani quel cor.
+
+NINETTA
+Ah di me ricordatevi almeno;
+(a Gian. Fab. e Luc.)
+Compiangete il mio povero cor!
+
+IL PODESTÀ
+(Ah la gioja mi brilla nel seno!
+Più non perdo sì dolce tesor.)
+(additando la Nin.)
+(Il Podestà ed il Cancelliere escono colle genti d'arme, le quali conducono via la Ninetta, attraversando la folla de' contadini. Lucia rimane immobile col viso nascosto nel suo grembiale. Fabrizio trattiene a forza suo figlio che vuol correr dietro alla Ninetta. Pippo e tutti gli altri famigli manifestano la loro costernazione; e su questo quadro cala il sipario.)
+
+# Atto secondo
+
+## Scena prima
+(Vestibolo delle prigioni nella Podesteria, Antonio, e subito Ninetta.)
+
+ANTONIO
+In quell'orrendo carcere rinchiusa
+(additando il carcere di Ninetta)
+Geme la poveretta! Ah chi potria
+Del misero suo stato
+Non sentire pietà? Cara fanciulla,
+Io vo' cercare almeno
+D'alleviare i tuoi strazj. -- Ehi, mia signora...
+(Ant. dice queste ultime parole aprendo la porta del carcere di Nin., e chiamandola dalla soglia.)
+
+NINETTA
+Ahimè!
+(di dentro)
+
+ANTONIO
+Deh! non temete:
+Sono Antonio; sorgete...
+(entrando nel carcere)
+Venite qui, -- venite
+(uscendo dal carcere colla Nin. per mano)
+A respirare, ed a godere almeno
+Un po' di luce.
+
+NINETTA
+Ah quanto vi son grata!
+
+ANTONIO
+mi duole che per poco spazio
+Qui lasciarvi potrò. Se mai frattanto
+Qualche cosa vi occorre,
+Io sono là; picchiate.
+(entra nella sua stanza)
+
+## Scena seconda
+NINETTA
+Oh caro padre!
+Che farà, che dirà, quando stamane
+Ancor non troverà dentro al castagno
+Il denaro promesso,
+E a lui sì necessario? E s'ei frattanto
+A risaper venisse
+Che sua figlia in prigione... Ah tolga il cielo
+Fuggi in prima, deh fuggi,
+O padre mio; nè giugner mai ti possa
+Sì barbara novella!
+Ma, privo di denaro, io spero invano
+(accorgendosi della croce che le adorna il petto)
+Ora sol me ne accorgo. E ben, sì venda.
+Ma come far? ma come a lui portarne
+Il valore?... Fabrizio?... Ah no!... Giannetto?..
+Neppur, neppure: essi vorrien sapere
+Quello che dir non posso. E se pregassi?...
+Sì lui, sì Pippo; ei solo
+Giovar mi può, Fedel; buono, discreto,
+Ei saprà rispettare il mio segreto.
+Si chiami il carcerier......
+(batte alla porta d'Ant.)
+
+ANTONIO
+Son qua, signora.
+
+NINETTA
+Conoscete voi Pippo?
+
+ANTONIO
+Il servo...
+
+NINETTA
+Appunto.
+poteste, di grazia,
+Farlo tosto avvertito
+Ch'io gli vorrei parlar?
+
+ANTONIO
+Uhm! non saprei...
+Vedrem... procureremo...
+Chi va là?
+(s'ode battere alla porta)
+
+GIANNETTO
+Apritemi.
+
+NINETTA
+Qual voce!
+
+ANTONIO
+Che volete?
+(osservando per lo sportello)
+Voi qui, signor Giannetto?
+
+GIANNETTO
+Vi scongiuro,
+Apritemi.
+
+ANTONIO
+Impossibile.
+
+NINETTA
+Ah mio benefattor!
+(prendendo affettuosamente per mano Ant.)
+
+ANTONIO
+(E chi potrebbe
+Resister mai?) Restate.
+(alla Nin. affettando serietà)
+(Infin che male c'è?) Signore, entrate.
+(apre a Gian.)
+(Giannetto e detti.)
+troppe grazie!
+(riceve da Gian. una moneta, e si ritira per la porta onde quegli è entrato)
+
+GIANNETTO
+Cara!
+(stringendola mano)
+
+NINETTA
+Ed è pur vero?
+Ah dunque ancora tu non m'hai del tutto
+Abbandonata!
+
+GIANNETTO
+Abbandonarti? Oh cielo!
+Tu sì m'abbandonavi allor... Che dico?
+No no, perdona... io non lo credo... E pure...
+Ah, se caro ti sono,
+Se veder non mi vuoi morir d'affanno,
+Ah togli i dubbi miei,
+M'apri il tuo cor; dimmi se rea tu sei.
+
+NINETTA
+Sono innocente.
+(con dignità)
+
+GIANNETTO
+Non ti discolpi perchè dunque, o cara,
+
+NINETTA
+Perchè nulla io posso
+Addurre in mia difesa:
+Tacer m'è forza, se tradir non voglio
+Chi già dall'empia sorte
+È percosso abbastanza.
+
+GIANNETTO
+Ma sperar non poss io?...
+
+NINETTA
+Vana speranza!
+
+GIANNETTO
+Tu non so che pensar! - Ah mia Ninetta,
+Tu sei perseguitata:
+Il Podestà crudele
+La tua sentenza affretta! Tu conosci
+Il rigor delle leggi Ah! se non parli,
+Se il tuo fatale arcano
+A nasconder ti ostini, ... io tremo! forse
+In questo giorno istesso... Oh giorno orrendo...
+
+NINETTA
+Condannata sarò... Non più! t'intendo,
+Forse un dì conoscerete
+La mia fede, il mio candore:
+Piangerete il vostro errore;
+a quel pianto io non vedrò:
+Là fra l'ombre allor sarò!
+
+GIANNETTO
+Taci, taci; tu mi fai
+L'alma in sen gelar d'orrore,
+No la colpa in sì bel core,
+o, ricetto aver non può.
+Ed io perderla dovrò!
+No che la morte istessa
+Tanto non fa penar
+Troppo è quest'alma oppressa;
+Non posso respirar.
+
+(Antonio frettoloso, e detti.)
+
+ANTONIO
+O mio signor, partite:
+(a Gian.)
+Il Podestà sen viene.
+
+GIANNETTO
+Idolo mio!
+(alla Nin.)
+
+NINETTA
+Mio bene!
+(a Gian.)
+
+ANTONIO
+E voi tornate al carcere.
+(alla Nin.)
+
+NINETTA E GIANNETTO
+Crudel necessità!
+
+GIANNETTO
+Parto; ma per salvarti
+Tutto farò, ben mio.
+Spera frattanto.
+
+NINETTA E GIANNETTO
+Addio!
+Che barbaro dolor!
+Più non resisto, o Dio!
+Sento mancarmi il cor.
+
+GIANNETTO
+O cielo, rendimi
+Il caro ben;
+
+NINETTA
+O cielo rendimi
+Al caro ben;
+
+GIANNETTO E NINETTA
+O scaglia un fulmine
+Che m'arda il sen.
+(Gian. esce; la Ninetta ritorna nel suo carcere.)
+## Scena terza
+(Antonio; subito il Podestà; poscia Ninetta, e in fine alcune guardie.)
+
+ANTONIO
+Ah destino crudel! Ma perchè mai
+Tanto rigore questa volta ostenta
+Il Podestà?... No, mormorar non voglio:
+Ma qui certo s'asconde un qualche imbroglio.
+
+IL PODESTÀ
+Antonio? -- Conducetemi
+La prigioniera. -- No, non fia mai vero
+Che a tollerare io m'abbia
+Sprezzi e rifiuti. -- Andate. --
+(ad Ant. che ha condotta la Nin.)
+All'arte. -- Orsù, mia povera Ninetta,
+T'accosta. A te mi guida
+Tenerezza e pietà. Più non rammento
+I tuoi torti con me: vorrei salvarti;
+Ma come mai, se tutto
+Rea ti condanna?
+
+NINETTA
+Io rea!
+E creder lo potete?
+
+IL PODESTÀ
+Ah sì, pur troppo
+
+NINETTA
+Tutto, è vero; congiura a danno mio;
+Ma, lo sanno gli Dei, rea non son io.
+
+IL PODESTÀ
+E bene, io spero ancor. Tutto tu puoi,
+Amabile Ninetta,
+Aspettarti da me. Sì, non temere;
+Voglio quest'oggi istesso
+Toglierti di prigione.
+
+NINETTA
+O mio signore,
+Se non mi promettete
+Che intero mi sarà reso l'onore,
+E innanzi agli occhi altrui
+Sciolta ritornerò d'ogni sospetto,
+Voglio qui rimaner.
+
+IL PODESTÀ
+Te lo prometto.
+Sì per voi, pupille amate,
+Tutto tutto far desto:
+Ma per me, tu pur, ben mio,
+Qualche cosa devi far.
+
+NINETTA
+Chi m'ajuta?
+
+IL PODESTÀ
+Sta tranquilla
+E t'affida a chi t'adora:
+Io salvar ti posso ancora,
+Se t'arrendi al mio pregar.
+
+NINETTA
+No giammai.
+
+IL PODESTÀ
+Paventa, ingrata!
+
+CORO
+(Coro di guardie, di fuori.)
+Ah Ninetta sventurata
+
+PIPPO
+Quali accenti! -- Un solo amplesso...
+(con trasporto)
+Radunato è il gran consesso;
+(a queste voci, esce fuori Ant. il qual si tiene in disparte)
+Manca solo il Podestà.
+
+IL PODESTÀ
+(Oh mia sorte maledetta!) -- Ho capito; vengo in fretta: --
+(alle guardie)
+Hai sentito? e ancora adesso...
+(alla Nin.)
+
+NINETTA
+Sì, vi replico lo stesso.
+
+IL PODESTÀ
+Ma la morte?
+
+NINETTA
+Non la temo.
+
+IL PODESTÀ
+Vanne, indegna; ci vedremo:
+Quell'orgoglio alfin cadrà.
+Udrai la sentenza,
+Perdon chiederai;
+Ma invan pregherai,
+Ma tardi sarà.
+
+ANTONIO
+(Oh ciel, che fia mai!
+Sospetto mi dà.)
+
+IL PODESTÀ
+In odio e furore
+Cangiato è l'amore;
+Pietà nel mio petto
+Più luogo non ha.
+(In questo punto s'ode da lontano il suono de' tamburi cui s'annunzia al Popolo che s'apre la sessione del Tribunale.)
+
+CORO
+Udiste?
+
+IL PODESTÀ
+Vi seguo.
+
+CORO
+È questo l'avviso.
+
+IL PODESTÀ
+E bene?
+(alla Nin.)
+
+NINETTA
+Ho deciso.
+
+IL PODESTÀ
+Qual sorte l'attenda
+L'ingrata non sa.
+(parte)
+
+ANTONIO
+Torbido aspetto
+Paura mi fa.
+(il Coro parte insieme col Pod.)
+
+NINETTA
+Ah, barbaro oggetto,
+T'invola di qua!
+
+## Scena quarta
+(Antonio, Ninetta, e subito Pippo.)
+
+ANTONIO
+Podestà, Podestà! tu me l'hai fatta.
+Le cose questa volta
+In regola non vanno. Ah piaccia al cielo!..
+
+PIPPO
+Chiamar voi mi faceste.
+(ad Ant.)
+-- Ah cara amica!
+(vedendo la Nin. e correndo verso lei)
+
+NINETTA
+Ho bisogno di te.
+(a Pippo)
+
+ANTONIO
+Poche parole,
+(a Nin.)
+Vedete: io vo frattanto
+A far la sentinella.
+(via)
+
+PIPPO
+In ciò che posso,
+Volentieri poco ch'io possiedo,
+Volentieri ve l'offro.
+
+NINETTA
+Ah no, mio Pippo,
+(togliendosi frattanto dal collo la croce)
+Abusarmi non voglio
+Del tuo buon cor! Solo ti chiedo in presto
+Tre scudi, che andrai tosto
+A portare là dove
+Or ti dirò. Questa mia croce in pegno...
+
+PIPPO
+Adagio, adagio. Dove
+Portar debbo il denaro?
+
+NINETTA
+Hai tu presente
+Quel gran castagno che si trova dietro
+Al vicin colle?...
+
+PIPPO
+E che scavato è in modo
+Che un uom vi si potrebbe
+Quasi quasi appiattar...
+
+NINETTA
+Sì, quello appunto.
+Là dentro ti scongiuro
+Di riporre il denaro innanzi sera.
+
+PIPPO
+Dentro il vecchio castagno!...
+(maravigliato)
+
+NINETTA
+Sì, sì; ma che niun ti vegga.
+
+PIPPO
+Siamo intesi.
+(in atto di partire)
+
+NINETTA
+Ma Pippo? e questa croce
+Che ti scordavi
+
+PIPPO
+Io non mi scordo nulla.
+Tenetela, vi prego.
+
+NINETTA
+Se la ricusi, non accetto anch'io
+L'offerta tua.
+
+PIPPO
+Vi sfido.
+Ora che so quello che fare io debbo,
+Nessun più mi trattiene.
+È pure un gran piacere il far del bene!
+(c. s.)
+
+NINETTA
+(trattenendolo)
+Deh pensa che domani,
+Oggi fors'anco, non sarà più mio
+Quest'ornamento!
+
+PIPPO
+Ohibò! non lo credete:
+Esser non può; mel dice il cor: ... tenete.
+
+NINETTA
+E ben, per mia memoria
+La serberai tu stesso:
+Non hai più scuse adesso
+Di rifiutarla ancor.
+
+PIPPO
+Pegno adorato, ah sempre
+Con Pippo tu starai:
+(baciando la croce)
+Compagno mio sarai
+Fin che mi batte il cor.
+(Mi cadono le lagrime
+M'opprime il suo dolor!
+
+PIPPO E NINETTA
+Un'anima sì tenera
+Mi fia presente ognor.)
+
+NINETTA
+A mio nome, deh consegna
+Questo anello al mio Giannetto.
+
+PIPPO
+Tanta fede, eguale affetto
+Ah vedute: mai non ho!
+
+NINETTA
+Digli insieme che lui solo
+Fino all'ultimo sospiro; ...
+Ma non dirgli che il mio duolo...
+Questo core... Ah ch'io deliro!
+Il mio ben più non vedrò.
+
+PIPPO
+Per carità, cessate
+Sì sì.... non dubitate....
+Tutto farò... dirò.
+(in atto di partire)
+
+NINETTA
+Non t'obbliar...
+
+PIPPO
+Che dite!
+(vivamente commosso)
+Sapete chi son io.
+
+NINETTA
+Povero Pippo, addio.
+
+PIPPO
+Addio!... (Se ancor qui resto,
+Mi scoppia in seno il cor.)
+L'ultimo istante è questo
+Che ci vediamo ancor.
+(Vedo in quegli occhi il pianto;
+Ma ve' che piango anch'io!)
+
+NINETTA
+(Vedo in quegli occhi il pianto,
+E la cagion son io.)
+(Dove si trova, oh Dio
+Un più sincero amor?)
+
+PIPPO E NINETTA
+Addio!... (Se ancor qui resto,
+Mi scoppia in seno il cor.)
+(Nin. entra nella sua carcere, e Pippo se ne parte)
+## Scena quinta
+(Stanza terrena in casa di Fabrizio, come nell'Atto primo.)
+(Lucia sola.)
+
+LUCIA
+Infelice Ninetta!... Ed è poi certo
+Ch'ella sia rea? Qual dubbio!... Il tempo, il luogo,
+Le prove, i testimoni,
+È ver, la colpa sua fanno evidente;
+Ma pure, chi sa mai? forse è innocente.
+Chi non conosce il lagrimevol caso
+Del veneto fornajo?
+Il luogo, il tempo, il ferro
+D'umano sangue intriso
+L'accusavano reo: pronta e severa
+Lo punì la giustizia, e reo non era.
+(Lucia e Fernando.)
+
+LUCIA
+Chi è? — Fernando! oh Dio!
+
+FERNANDO
+Mia cara amica,
+Che nessuno ci ascolti! -- Ov'è Ninetta?
+
+LUCIA
+Ninetta!... Deh fuggite!
+(piange)
+
+FERNANDO
+Ma che vuol dir quel pianto?
+
+LUCIA
+Ah non m'interrogate!
+
+FERNANDO
+Voi mi fate gelar!... (Entro il castagno
+Ancor non pose... Un nero
+Presentimento.. Che pensare?...) - E bene,
+Che fa? Deh rispondete!
+
+LUCIA
+Ah se sapeste!
+Accusata di furto...
+
+FERNANDO
+La mia figlia?
+
+LUCIA
+Sì dessa.
+
+FERNANDO
+Come?... Esser non può. Seguite.
+
+LUCIA
+Innanzi al tribunale
+Forse in questo momento
+È giudicata.
+
+FERNANDO
+Eterni Dei, che sento
+Accusata di furto...... oh rossore!
+Condannata, punita mia figlia?...
+Ah qual nube m'ingombra le ciglia!
+Freddo il sangue mi piomba sul cor.
+Condannata!... Ah sì vada, sì cerchi...
+Ma che fo?... Son confuso, perplesso
+Se mi scopro, oh Dio! perdo me stesso;
+Se più tardo, ella forse... Oh spavento!......
+e cimento! che fiero dolor
+Ah lungi il timore!
+(riscotendosi)
+Si tenti la sorte:
+Coraggio, mio core;
+Sì sprezzi la morte:
+La figlia diletta
+Sì corra a salvar.
+Coraggio, mio core;
+Vo' tutto arrischiar.
+(esce precipit.)
+
+LUCIA
+Sventurato Fernando!... Ed io pur sono
+Di tanto duolo la cagione! Ah possa
+A' voti miei secondo
+Allontanare il ciel sì ria tempesta!
+L'unica grazia ch'io domando, è questa,
+(parte)
+
+## Scena sesta
+(Sala del Tribunale nella Podesteria. Pretore, Giudici, un Usciere; il Podestà; Giannetto; Fabrizio; Popolo; Guardie alle porte.)
+(I Giudici sono assisi sui loro sedili; in mezzo essi è il Pretore, innanzi al quale è collocato un tavolino. -- Il Podestà, presente alla sessione, occupa una sedia a parte. -- Da un lato si vede il popolo spettatore, fra cui si distinguono Giannetto e Fabrizio. — All'alzarsi della tenda, si vede l'Usciere che va raccogliendo i voti nell'urna. Una musica tetra annunzia questo terribile momento. L'usciere, raccolti i voti, consegna l'urna al Pretore, il quale, trovato che tutte le palle sono nere, esclama:)
+
+IL PODESTÀ
+A pieni voti è condannata.
+
+GIANNETTO
+Oh cielo,
+E tu lo soffri?
+
+IL PODESTÀ
+Zitto!
+
+FABRIZIO
+Abbi prudenza!
+
+IL PODESTÀ
+Venga la rea. -- Stendete la sentenza.
+(all'Usciere, che parte subito)
+(ad uno de' Giudici)
+
+CORO
+Tremate, o popoli,
+A tale esempio!
+Questo è di Temide
+L'augusto tempio:
+Diva terribile,
+Che in lance pondera
+L'umano oprar:
+Il giusto libera,
+Protegge e vendica;
+Ma sempre il fulmine
+Sovra il colpevole
+Giugne a scagliar
+
+## Scena settima
+(Ninetta e detti.)
+(Ninetta entra accompagnata da alcune guardie che subito si ritirano, e preceduta dall'Usciere il quale le indica il luogo ov'ella debbe fermarsi.)
+
+IL PODESTÀ
+Infelice donzella,
+più non vi resta sperare nel ciel. -- Signor, porgete.
+(facendosi dare la sentenza dal Giudice che l'ha stesa)
+Considerando che la nominata
+Ninetta Villabella è rea convinta
+Di domestico furto; a pieni voti,
+Ed a tenor delle vigenti leggi,
+Il regio Tribunale
+La condanna alla pena capitale.
+
+CORO
+Ahi qual colpo!... Già d'intorno
+Ulular la morte ascolto:
+Già dipinto in ogni volto
+Miro il duolo ed il terror!
+
+GIANNETTO
+Aspettate; sospendete:
+(slanciandosi verso i Giudici)
+Voi punite un'innocente;
+Un arcano, ah non sapete!
+La meschina chiude in cor.
+
+CORO
+Un arcano!
+
+IL PODESTÀ
+E ben, parlate.
+(alla Nin.)
+
+NINETTA
+Rispettate il mio silenzio,
+
+GIANNETTO
+Ah Ninetta!
+
+FABRIZIO E PIPPO
+Palesate.
+
+NINETTA
+Non crescete il mio dolor
+
+IL PODESTÀ
+(Maledico il mio furor.)
+
+GIANNETTO E FABRIZIO
+Mi si spezza a brani il cor!
+
+IL PODESTÀ
+Ella tace: e ben, sia tratta
+Al supplizio.
+(alle guardie)
+## Scena ottava
+(Fernando che entra impetuosamente, e detti.)
+
+FERNANDO
+Ah no! fermate.
+
+NINETTA
+Voi qui, padre?
+
+GIANNETTO, FABRIZIO E IL PODESTÀ
+Chi veggio? vegg'io?
+
+FERNANDO
+Vengo a voi col sangue mio
+(a'Giudici)
+La mia figlia a liberar.
+
+NINETTA
+(Infelice! Possa il cielo
+I suoi giorni almen serbar!)
+
+FERNANDO
+I miei sforzi ed il mio zelo
+Possa il cielo coronar
+
+GIANNETTO E FABRIZIO
+Oh coraggio! Possa il cielo
+Tanto zelo secondar!
+
+IL PODESTÀ
+Signori; è quello, è quello
+(alzatosi)
+Il disertor che preme:
+Ecco gl'indizi, — e insieme
+Vi troverete l'ordine
+Di farlo imprigionar.
+(consegna al Pret. un foglio)
+
+NINETTA, GIANNETTO E FABRIZIO
+Gran Dio! Dio!
+
+CORO
+Fermatelo.
+(le guardie circondano Fer.)
+
+FABRIZIO
+Oh cielo! e fia pur vero?
+
+FERNANDO
+Son vostro prigioniero;
+Il capo mio troncate:
+Ma il sangue risparmiate
+D'un' innocente vittima
+Che non si sa scolpar.
+
+CORO
+La sentenza è pronunziata;
+Più nessun la può cambiar.
+
+FERNANDO
+Ma dunque?...
+
+CORO E IL PODESTÀ
+L'uno in carcere,
+E l'altra sul patibolo.
+La legge è inalterabile;
+Il reo perir dovrà.
+
+FERNANDO, NINETTA, GIANNETTO, FABRIZIO E IL PODESTÀ
+Che abisso di pene
+Mi perdo, deliro.
+Più fiero martiro
+L'Averno non ha.
+Un padre, una figlia
+Tra'ceppi, alla scure!
+A tante sciagure
+Chi mai reggerà!
+
+CORO
+Guardie, olà.
+
+GIANNETTO E FABRIZIO
+Più non poss'io
+
+GIANNETTO, FABRIZIO, FERNANDO E IL PODESTÀ
+Son fuor di me!
+
+NINETTA
+Che faceste, padre mio!
+Per voi solo io vado a morte;
+E voi stesso alle ritorte
+Volontario offrite il piè.
+
+FERNANDO
+Che dicesti?
+
+FERNANDO, GIANNETTO E FABRIZIO
+Parla; spiegati.
+
+CORO
+Via, sì tronchi ogni dimora;
+Alla carcere, al supplizio.
+
+NINETTA
+Ah mio padre, in pria ch'io mora!..
+(in atto di volere da lui un amplesso)
+
+FERNANDO
+Figlia! — Barbari, lasciatemi.
+(ai satelliti che lo trattengono)
+
+CORO
+Eseguite.
+(ai satelliti, i quali fanno subito per istrascinar via Nin. e Fern.)
+
+FERNANDO E NINETTA
+Oh Dio, soccorso!!
+
+GIANNETTO E FABRIZIO
+Ah Ninetta!
+
+IL PODESTÀ
+(Qual rimorso!)
+
+NINETTA
+Mio Giannetto! mio Fabrizio
+
+CORO
+Alla carcere; al supplizio.
+(ai satelliti)
+
+CORO
+(fuorchè il Pret. ed i Giud.)
+Ah neppur l'estremo amplesso!
+Questa è troppa crudeltà.
+Sino il pianto è negato al mio ciglio;
+Entro il seno s'arresta il sospir.
+Dio possente, mercede, consiglio!
+Tu m'aita il mio fato a soffrir.
+
+CORO E IL PODESTÀ
+(Ah già il pianto mi spunta sul ciglio!
+Tanto strazio mi fa impietosir.
+Ma la legge non ode consiglio;
+Noi dobbiamo alla legge ubbidir.)
+(Le guardie dall'una parte conducono Fern. alla carcere; dall'altra la Ninetta al luogo del supplizio. Il Pretore, i Giudici ed il Podestà si ritirano. Tutti gli altri partono costernati.)
+
+## Scena nona
+(Piazza del villaggio. Alla destra dello spettatore si vede il campanile ed una parte della chiesa: verso la cima del campanile sporge in fuori un piccolo ponte ad uso di far delle riparazioni. Alla sinistra è collocata la porta maggiore della Podesteria. Al di là della Podesteria c'è una contrada, e dirimpetto un'altra che mette dietro alla chiesa. Parimente alla sinistra, si vede una piccola porta, che è quella dell'orto della casa di Fabrizio.)
+(Ernesto, e subito Pippo.)
+
+ERNESTO
+Razza di villaggio!
+Neppure un cane che additar mi possa
+L'abitazion di questo Podestà,
+E quella di Fabrizio... Ah spero bene
+Di ritrovarvi ancora
+Il mio caro Fernando. Oh quanta gioja
+Ei proverà vedendo
+Il suo fedele Ernesto; ed ascoltando
+La felice notizia!... — Il ciel ti arrida,
+O clemente mio Re, che la sua grazia
+Col tuo nome segnasti — Ah finalmente
+(si vede arrivar Pip. dal fondo della piazza)
+Ecco un uomo: egli certo saprà dirmi...
+Amico, una parola: ov'è la casa
+Del Podestà?
+
+PIPPO
+La casa sua? Guardate:
+Laggiù, dopo il palazzo,
+C'è una contrada; entrate: alla sinistra
+La prima porta.
+
+ERNESTO
+E quella
+Di ser Fabrizio?
+
+PIPPO
+Dopo breve tratto
+Vien essa; ed è la quarta appunto.
+
+ERNESTO
+Grazie.
+(parte)
+
+## Scena decima
+(Pippo; quindi Giorgio; e in fine Antonio.)
+
+PIPPO
+Che nel castagno
+Ho riposto il denaro, veder bramo
+Quanto mi avanza ancor. — Sono più ricco
+(siede sovra una panchina di sasso presso l'orto di Fabr., e conta il suo denaro)
+Di quel che mi credeva.... Ah questa lira,
+Nuova di zecca, me la diè Ninetta:
+Un certo giorno; ... dunque a parte: insieme
+Tu starai colla croce. — Ah brutta diavola,
+(mette a parte la lira, e in questo momento compare la gazza sulla porta dell'orto.)
+Che fai lì? se ti colgo...
+
+GIORGIO
+Con chi l'hai?
+
+PIPPO
+Con quella gazza infame. Oh! ecco Antonio.
+(alzandosi, e raccogliendo il denaro)
+E ben che nuove abbiamo?
+(ad Ant.)
+E la Ninetta?...
+
+ANTONIO
+(piangendo)
+Ahimè! tutto è finito.
+
+PIPPO
+Podestà scellerato!
+(qui, la gazza discende sulla panchina, rapisce la lira messa in disparte, e se ne vola sul campanile)
+
+GIORGIO
+Oh guarda, guarda.
+(additandogli la gazza)
+
+PIPPO
+Briccona! E giustamente
+Rubarmi la moneta
+Che tanto mi premeva. — Ah birba, birba!
+Eccola là sul ponte. Oh se potessi
+Arrampicarmi, forse
+Troverei la mia lira, Vo' provarmi.
+
+ANTONIO
+Andiamo insiem.
+
+PIPPO
+Gazzaccia maledetta!
+(Pip. Ant. corrono via)
+
+GIORGIO
+Ah ahà, non correr tanto, che ti aspetta.
+## Scena undicesima
+(Ninetta in mezzo alla gente d'arme; Contadini, e Giorgio che s'è ritirato in un angolo e ch'esprime il suo dolore.)
+(Alcuni satelliti fanno riparo alla calca de' Contadini nel fondo; Ninetta in mezzo ad altre genti d'arme discende dalla gradinata della Podesteria, s'avvia lentamente verso la contrada che gira dietro alla chiesa: essa è preceduta seguita dagli abitatori del villaggio.)
+
+CORO
+Infelice, sventurata,
+Ti rassegna alla tua sorte:
+No, crudel non è la morte
+Quando è termine al martir.
+
+NINETTA
+Deh tu reggi in tal momento
+(soffermandosi davanti alla chiesa)
+Il mio cor, pietoso Iddio!
+Deh proteggi il padre mio,
+E ti basti il mio morir!
+Or guidatemi alla morte.
+(ai satelliti)
+Si finisca di soffrir.
+
+CORO E GIORGIO
+Ah farebbe la sua sorte
+Anche un sasso intenerir!
+(La Ninetta prosegue il suo cammino, seguitata dal popolo, e ben tosto si toglie agli sguardi degli spettatori. Terminata la funebre marcia, Giorgio attraversa la scena lentamente e costernato.)
+
+## Scena dodicesima
+(Giorgio; Pippo ed Antonio nel campanile; e poscia Giannetto, Fabrizio, Lucia e diversi famigli.)
+
+PIPPO
+Giorgio, Giorgio? oh me felice!
+(sul ponte del campanile, tirando a sè qualche cosa da un buco in cui egli aveva intruso il braccio. Intanto la gazza è volata via)
+
+GIORGIO
+E così, che cosa è stato?
+
+PIPPO
+Tutto; tutto ho ritrovato:
+Guarda, guarda; avvisa, grida.
+(mostrandogli la posata)
+
+ANTONIO
+Non lasciamola ammazzar!
+
+GIORGIO
+Sei tu pazzo?
+
+ANTONIO E PIPPO
+Olà, fermate:
+(vedendo da lungi il convoglio, e gridando a tutta voce)
+Dove andate? cosa fate?
+Non mi vogliono ascoltar.
+
+PIPPO
+Inumani, andrò ben io...
+(Pip. e Ant. rientrano nel campanile)
+
+GIORGIO
+Ti compiango, amico mio:
+Il cervello se n'è andato.
+(Pip. e Ant. suonano una campana a tutta forza)
+Che fracasso indiavolato!
+Oh che pazzo da legar!
+
+LUCIA
+Che vuol dir?
+(uscendo precipitosamente dall'orto)
+
+FABRIZIO
+Che cosa avvenne?
+(idem e dietro loro alcuni famigli)
+
+PIPPO
+Innocente è la Ninetta,
+(ricomparendo sul ponte)
+
+CORO
+Innocente!
+
+ANTONIO
+Innocentissima.
+
+PIPPO
+Il cucchiajo, la forchetta,
+La mia lira, è tutto qua.
+
+ANTONIO
+Quella gazza maledetta
+Fu la ladra.
+
+GIANNETTO, FABRIZIO, LUCIA E GIORGIO
+Giusto cielo!
+
+CORO
+Caso eguale non si dà.
+
+PIPPO
+Padrona, spiegate
+Il vostro grembiale.
+(Pippo getta giù la posata nel grembiale della Lucia)
+
+FABRIZIO
+È desso; mirate:
+(l'uno prende subitamente la forchetta, e l'altro il cucchiajo, che mostrano alla Lucia)
+
+CORO
+Il colpo fatale
+Corriamo a impedir.
+
+LUCIA, GIORGIO, PIPPO E ANTONIO
+Il colpo fatale
+Correte a impedir.
+(Fab. e Gian., colla posata, corrono via, e dietro ad essi i famigli. Pippo e Antonio rientrano nel campanile, e suonano di nuovo a martello.)
+
+## Scena tredicesima
+(Il Podestà e suddetti, fuorchè Giannetto e Fabrizio.)
+
+IL PODESTÀ
+Che scampanar è questo!
+Che cosa è mai successo?
+
+LUCIA
+Del mio piacer l'eccesso
+(correndogli incontro)
+Non vi saprei spiegar.
+
+IL PODESTÀ
+Io non capisco niente.
+
+LUCIA
+La povera Ninetta
+Pur troppo era innocente.
+Ah cari amici miei,
+(a Gior. ed al Pod.)
+Andiamola a incontrar.
+
+GIORGIO
+Andiamola a incontrar.
+
+IL PODESTÀ
+Mi sembra di sognar.
+(mentre la Lucia insieme con Giorgio fa per incamminarsi; ode di lontano una scarica di fucili. Pippo ed Ant. sul campanile stanno osservando attentamente verso la campagna)
+
+LUCIA
+Ah! qual rimbombo! Oh Dei!
+È morta, è morta
+(s'abbandona svenuta fra le braccia di Giorgio)
+
+IL PODESTÀ
+Oh cielo!
+Qual fremito! qual gelo
+Mi piomba sovra il cor!
+
+ANTONIO E PIPPO
+Io la vedo. Viene, viene.
+Qual trionfo! Oh benedetta!
+
+CORO
+Viva, viva la Ninetta,
+(di dentro)
+
+IL PODESTÀ E GIORGIO
+Oh che sento
+
+GIORGIO
+Avete udito?
+(alla Lucia che s'è riscossa)
+
+ANTONIO, PIPPO E CORO
+Viene, viene: non temete.
+
+LUCIA
+Dite il vero?
+
+CORO
+La vedrete.
+
+IL PODESTÀ
+Ma lo sparo?
+
+CORO
+Fu allegria.
+
+ANTONIO, PIPPO E CORO
+Ecco, ecco!
+
+## Scena quattordicesima
+(I suddetti, Ninetta, Fabrizio, Giannetto, Abitanti, Genti d'arme; e poscia Ernesto con Fernando.)
+(La Ninetta è assisa sopra un carro, adornato all'infretta di rami e di fiori, e tratto da alcuni contadini. Giannetto, Fabrizio ed altri contadini le fanno corteggio. Diversi contadinelli si arrampicano qua e là per vedere.)
+
+LUCIA
+Figlia mia!
+(correndo incontro alla Ninetta)
+
+GIANNETTO
+Si rilasci la Ninetta.
+(leggendo ciò che sta scritto in una carta ch'egli consegna al Podestà)
+Questa è mano del Pretor.
+
+FABRIZIO, GIANNETTO E LUCIA
+Quando meno il cor l'aspetta,
+Sembra il giubilo maggior.
+
+IL PODESTÀ
+Quanto costa una vendetta!
+Di rimorsi ho pieno il cor.
+
+GIORGIO, PIPPO E ANTONIO
+Viva, viva la Ninetta,
+
+CORO
+La sua fede, il suo candor!
+(Pippo e Ant. discendono dal campanile)
+
+NINETTA
+Queste grida di letizia
+Danno tregua al mio tormento:
+Ma il mio cor non è contento;
+Ma con voi, miei fidi amici,
+No, gioir non posso ancor
+
+FABRIZIO, GIANNETTO E LUCIA
+Mia Ninetta, che mai dici?
+Svanito ogni timor.
+
+NINETTA
+No no!... Dov'è mio padre?...
+Nessun risponde: oh Dio!
+Vive? che fa?
+
+FERNANDO
+Cor mio,
+(comparendo improvvis. accompagnato da Ern.)
+Sì vive, e a te sen vola;
+Sempre con te sarà.
+(abbrace. la figlia)
+
+NINETTA
+Ah padre! Or sì che obblio
+Tutti i passati guai:
+Ah che perfetta è omai
+La mia felicità!
+
+CORO
+Ah chi provato ha mai
+Egual felicità!
+
+IL PODESTÀ
+Ma in che modo fu costui
+(accennando Fer.)
+Dal suo carcer liberato?
+
+FERNANDO
+Per un ordine firmato
+Dal monarca mio signor.
+(Ernes. ne fa testimonianza co' suoi cenni.)
+
+CORO
+Viva il Principe adorato
+Che sol regna coll'amor!
+
+IL PODESTÀ
+(Son confuso, strabiliato;
+Di me stesso sento orror.)
+
+CORO
+È confuso, strabiliato,
+(additando il Pod.)
+E già cambia di color.
+
+NINETTA
+E il buon Pippo? non lo vedo.
+
+PIPPO
+Cara amica, sono qua.
+(accorrendo verso la Nin., la quale gli fa grande accoglienza; dietro ad esso viene Ant.)
+
+LUCIA
+Mia Ninetta, ecco il tuo sposo;
+(unendo la mano di Nin. con quella di Gian.)
+
+GIANNETTO E NINETTA
+Oh momento avventuroso!
+
+LUCIA
+Ma perdona alla Lucia!
+(Nin. e Gian. l'abbracc.)
+
+FABRIZIO
+Brava, brava moglie mia!
+
+GIANNETTO E NINETTA
+Ah mio ben, fra tanto giubilo
+Sento il cor dal sen balzar.
+
+CORO
+Una scena così tenera
+Fa di gioja lagrimar.
+
+IL PODESTÀ
+(Una scena così tenera
+Mi costringe a lagrimar.)
+
+FERNANDO
+Ecco cessato il vento,
+Placato il mare infido:
+Salvi siam giunti al lido;
+Alfin respira il cor.
+
+IL PODESTÀ
+(Sordo susurra il vento,
+Minaccia il mare infido:
+Tutti son giunti al lido;
+Io son fra l'onde ancor.)
+
+CORO
+In gioja ed in contento
+Cangiato è il mio timor.
+
+NINETTA E PIPPO
+(D'un tardo pentimento
+Pavento, oh Dio, l'orror!)

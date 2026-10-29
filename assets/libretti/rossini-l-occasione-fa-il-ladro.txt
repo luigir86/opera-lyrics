@@ -1,0 +1,1826 @@
+title: L'occasione fa il ladro
+composer: Gioachino Rossini
+librettist: Luigi Prividali
+year: 1812
+source: https://www.loc.gov/item/2010660654/
+license: Pubblico dominio (Library of Congress, Music Division); trascrizione CC0
+
+# Atto primo
+
+## Scena prima
+(Sala in un albergo di campagna, che introduce in diverse stanze numerate.)
+(Notte oscura, e tempestosa.)
+(Don Parmenione, che mangia e beve ad una tavola rusticamente imbandita, e rischiarata da un lucerniere: Martino seduto in disparte, che approfitta dei di lui avanzi, malgrado lo spavento che soffre al fragore dei tuoni ed al chiarore dei lampi.)
+
+DON PARMENIONE
+E in cielo il nembo irato,
+Scoppi il tuono, e fischi il vento;
+Che qui placido, e contento
+Io mi voglio ristorar.
+Quanto è dolce il mar turbato
+Dalle sponde il contemplar!
+(tuono)
+
+MARTINO
+Ah saette maledette,
+Deh lasciatemi mangiar!
+(si spaventa)
+
+DON PARMENIONE
+Cos'è stato?
+
+MARTINO
+Eh niente, niente.
+
+DON PARMENIONE
+Ma tu tremi.
+
+MARTINO
+Ah! Non signore.
+
+DON PARMENIONE
+Tieni, e mangia allegramente.
+
+MARTINO
+Tante grazie
+(tuono)
+Oimè, che orrore!
+(lascia cadere il piatto ricevuto dal pa, e vuol fuggire)
+
+DON PARMENIONE
+Senti, olà!
+
+MARTINO
+Che comandate?
+(si ferma)
+
+DON PARMENIONE
+Dove vai?
+
+MARTINO
+Non m'arrestate.
+
+DON PARMENIONE
+Scaccia, bestia, il tuo timore
+
+MARTINO
+Non vi posso contentar.
+
+DON PARMENIONE
+Cosa fai là sciocco in piè?
+Siedi quì vicino a me.
+Se anche vedi il ciel cascar,
+Mangia, bevi, e non badar
+
+MARTINO
+Voi morir mi fate affè,
+O seduto, o stando in piè.
+Par che debba il ciel cascar.
+Come posso non tremar
+(D. Parmenione sforza il suo servo a sedere vicino a lui, facendolo tacere mangiare, per quanto è possibile, tranquillamente)
+(Conte Alberto, accompagnato da un domestico, il quale dopo aver gettato la valigia del padrone a canto a quella di D. Parmenione, si addormenta sopra una panca, e detti.)
+
+CONTE ALBERTO
+Il tuo rigore insano,
+Fiero destin, sospendi:
+Quel Dio d'amore offendi,
+Che scorta mia si fa.
+Tu gli elementi invano
+A danno mio fomenti;
+Di te, degli elementi
+Amor trionferà.
+(e lampo)
+
+MARTINO
+Misericordia !.. Ajuto !..
+(cade con la sedia)
+
+CONTE ALBERTO
+Chi è là?
+
+DON PARMENIONE
+Siam noi.
+
+CONTE ALBERTO
+Chi siete?
+
+DON PARMENIONE
+Dal tempo trattenuto
+Qui un forestier vedete.
+
+CONTE ALBERTO
+E la cagion medesima
+Me pur condotto ha qua.
+
+MARTINO
+E chi sa quando il Diavolo
+Da quì ci porterà !
+
+DON PARMENIONE
+Dunque facciamo un brindisi
+Con questo vin perfetto.
+
+CONTE ALBERTO
+L'amico invito accetto
+Di vostra urbanità,
+(stando in piedi empiono i bicchieri, mentre timoroso Martino sta in disparte osservandoli)
+
+DON PARMENIONE E CONTE ALBERTO
+Viva Bacco il Dio del vino
+Viva il sesso femminino!
+Che al piacer ogn'alma desta,
+Che fa i cori giubilar;
+E anche in mezzo alla tempesta
+Sa i perigli disprezzar.
+
+MARTINO
+Che terribile destino
+A tai pazzi star vicino!
+Riscaldata han già la testa,
+Non san più cos'han da far;
+Ma già un fulmine la festa
+Viene or ora a terminar.
+(toccano i bicchieri, e li vuotano, poi si rimettono a sedere)
+
+CONTE ALBERTO
+Grato conforto è l'incontrar per viaggio passaggier cortese !
+
+DON PARMENIONE
+Il fortunato
+In caso tal son io.
+
+CONTE ALBERTO
+Bene obligato.
+Se v'aggrada, possiamo
+A Napoli recarci in compagnia
+
+DON PARMENIONE
+Quella, signor, non è la strada mia.
+
+MARTINO
+Come!
+
+DON PARMENIONE
+A che c'entri tu?
+
+CONTE ALBERTO
+Me ne dispiace;
+Perchè in paese ignoto
+Fra tanta oscurità può facilmente
+L'un per l'altro cammin prendere in fallo,
+Chi solo, come me, viaggia a cavallo.
+
+DON PARMENIONE
+Esser deve l'affar di gran premura,
+Che a Napoli vi chiama.
+
+CONTE ALBERTO
+Un matrimonio.
+
+CONTE ALBERTO
+Certo.
+
+DON PARMENIONE
+La sposa
+Voi conoscete?
+
+CONTE ALBERTO
+Oibò. Molto impaziente
+Sono anzi di vederla, e giacchè parmi,
+Che la tempesta omai sia per finire,
+Con vostra permission voglio partire;
+
+DON PARMENIONE
+Come v'aggrada
+
+MARTINO
+E noi?
+
+CONTE ALBERTO
+Su presto
+Le valigie riprendi, andiam, che ho fretta.
+Vi ringrazio di nuovo, e vi saluto.
+
+DON PARMENIONE
+Mille felicità.
+
+CONTE ALBERTO
+Molto tenuto.
+(Alberto scuote il suo servo, che non ben desto ancora, prende senza avvedersi la valigia dell'altro forestiere per quella del suo padrone, e lentamente con lui allontana.)
+## Scena seconda
+(Parmenione, Martino.)
+
+MARTINO
+E noi quì che facciam?
+
+DON PARMENIONE
+Noi partiremo,
+
+MARTINO
+Per Napoli?
+
+DON PARMENIONE
+Si sa.
+
+MARTINO
+Ma perchè dire
+Di non volerci andar, perchè con l'altro
+Uniti non ci siam?
+
+DON PARMENIONE
+Perchè non voglio
+Far sapere ad ognuno i fatti miei,
+Perchè soffrir non posso,
+D'andar con chi può farmi i conti addosso,
+
+MARTINO
+Sarà bene così,
+
+DON PARMENIONE
+Paghiamo il conto,
+E poi si vada,
+(va per aprire la valigia, dove tiene il denaro.)
+
+MARTINO
+A meraviglia.
+
+DON PARMENIONE
+Oh bella!
+(si sforza inutilmente d'aprir la valigia)
+
+MARTINO
+Cos'è?
+
+DON PARMENIONE
+Per tua indolenza il forestiere
+Con la valigia sua cambiò la mia.
+
+MARTINO
+Credo, che un mal per voi questo non sia,
+
+DON PARMENIONE
+Che dici?
+
+MARTINO
+Eh c'intendiam,
+
+DON PARMENIONE
+Presto, va...
+
+MARTINO
+Dove?
+
+DON PARMENIONE
+Le mie carte... il denaro... il passaporto
+
+MARTINO
+Ma dove mai?
+
+DON PARMENIONE
+Corri a cercarlo.
+
+MARTINO
+Nel suo galoppo, al bujo ove trovarlo?
+
+DON PARMENIONE
+Ma intanto?..
+
+MARTINO
+Intanto approfittar bisogna
+Del favor della sorte.
+
+DON PARMENIONE
+E vuoi?..
+
+MARTINO
+Lasciate,
+Ch'ei sia l'indagator di tal scoperta.
+
+DON PARMENIONE
+Cosa fai?
+
+MARTINO
+Cosa faccio? Eccola aperta.
+(spezza il lucchetto, strappa la catena, ed apre la valigia.)
+
+DON PARMENIONE
+Oh che ribaldo!
+
+MARTINO
+Ecco una borsa.
+
+DON PARMENIONE
+Lascia star..
+
+MARTINO
+Quante gioje! Oh oh un ritratto
+
+DON PARMENIONE
+Mostralo.
+
+MARTINO
+Che vi par?
+
+DON PARMENIONE
+Che bella cosa!
+
+MARTINO
+Chi diavolo sarà.
+
+DON PARMENIONE
+Quest'è la sposa.
+
+MARTINO
+Buono! Quì c'è un grand'abito da gala.
+
+DON PARMENIONE
+Oh che vaga, e gentil fisonomia!
+
+MARTINO
+Che fina biancheria!
+
+DON PARMENIONE
+M'incanta.
+
+MARTINO
+Un passaporto
+
+DON PARMENIONE
+Un passaporto!
+(lo prende.)
+
+MARTINO
+Certo: e molte cambiali. Io ve l'ho detto,
+Che non vi pentirete.
+
+DON PARMENIONE
+Oh che bel colpo!
+Più resister non posso.
+
+MARTINO
+Ebben?.
+
+DON PARMENIONE
+Sì faccia.
+
+MARTINO
+Come!
+
+DON PARMENIONE
+Riponi presto entro ogni cosa
+
+MARTINO
+E volete?..
+
+DON PARMENIONE
+Per me voglio la sposa.
+Che sorte, che accidente,
+Che sbaglio fortunato!
+Amor
+Amor mi vuol beato,
+Ed io ringrazio amor.
+Martino, allegramente!
+Andiamo a farci onor.
+
+MARTINO
+Ma come?..
+
+DON PARMENIONE
+Che scioccone!
+Non sai capir?
+Che cosa
+
+MARTINO
+boccone,
+Che pasta deliziosa
+Consolerà il mio cor.
+Piuttosto d'un bastone
+Vi toccherà il favor.
+Che bestia, che buffone,
+Che ignobile timor!
+
+DON PARMENIONE
+D'arrogarsi un nome finto
+Veramente il passo è ardito,
+E può mettermi in procinto
+Di mangiare il pan pentito;
+Ma se l'oro all'altro io rendo,
+Se rinunzio a ogn'altro effetto,
+L'interesse non offendo,
+Non pregiudico l'onor.
+E poi questo bel visetto
+Fa scusabile ogni error.
+
+MARTINO
+Ebben Don Parmenione?..
+
+DON PARMENIONE
+Io sono il Conte Alberto.
+
+MARTINO
+Alberto voi?
+
+DON PARMENIONE
+Si certo.
+È questo il passaporto,
+Che mi conduce in porto,
+È questo il gran ricapito;
+Che ha sottoscritto amor.
+
+MARTINO
+Ma per pietà
+
+DON PARMENIONE
+Finiscila.
+Non odo i tuoi consigli,
+Non curo più perigli;
+Amore bricconcello
+M'ha colto nel cervello;
+E questa cara immagine
+Mi pizzica, mi stuzzica
+In petto mi stuzzica
+Dall'allegrezza il cor.
+(Martino ripone tutti gli effetti nella valigia, e portandola seco, segue il padrone, che pieno d'entusiasmo lo ha preceduto.)
+(Grand'atrio terreno in casa della Marchesa elegantemente addobbato, con ampio verone di prospetto, che mette nel giardino, e con varie porte laterali che introducono ai rispettivi loro appartamenti.)
+(D. Eusebio, Ernestina, Servi.)
+
+DON EUSEBIO
+Non lo permetto.
+
+ERNESTINA
+Il mio dover...
+
+DON EUSEBIO
+Scusate;
+Dell'urbano trattar so la maniera.
+
+ERNESTINA
+Ma in questa casa io son per cameriera
+
+DON EUSEBIO
+Il caso vostro esige
+Rispetto, e compassione, e mia nipote
+Sua compagna vi chiama, e non sua serva:
+
+ERNESTINA
+So, che molta bontà per me conserva,
+Ma in circostanze tali...
+
+DON EUSEBIO
+È ver, si tratta
+D'un sposalizio in grande;
+È lo sposo da noi splendidamente
+Oggi si accoglierà.
+
+ERNESTINA
+Dunque...
+
+DON EUSEBIO
+Per questo
+In uffizj servili il vostro grado
+Non dovete abbassar; che se vi piace
+Manifestar per noi qualche premura,
+Agli altri il comandar sia vostra cura.
+
+ERNESTINA
+Ebben; permetterete?..
+
+DON EUSEBIO
+Anzi a voi; presto
+Attenti i cenni suoi tutti ascoltate;
+È quanto essa dirà; fate; e distale.
+(via)
+
+ERNESTINA
+Eppur del mio destino
+Non mi posso lagnar; se in mezzo a tante
+Mie sciagure infinite...
+Basta; non ci pensiam: voi mi seguite.
+(parte con i Servi.)
+(Berenice, indi Ernestina, e detta)
+
+BERENICE
+Vicino è il momento;
+Che sposa sarò;
+Eppure contento
+Il core non ho:
+Il solito ardire
+Non trovo più in me,
+Mi sento languire;
+Nè intendo perché.
+Ma dal timore oppressa
+La mia ragion non resti:
+Arbitra di se stessa
+anima mia si desti;
+E ceda solo ai palpiti
+D'un corrisposto amor.
+Sposarsi ad un, che non s'è mai veduto,
+Senza saper, se brutto o splendidamente ei sia,
+Mi sembra una pazzia;
+Ma un certo non so che se in lui non trovo,
+Che col mio modo di pensar combina...
+
+BERENICE
+te appunto io volea, cara Ernestina!
+
+ERNESTINA
+Comandate.
+
+BERENICE
+Io per te non ho comandi.
+
+ERNESTINA
+Ma almen...
+
+BERENICE
+Già sai, che al figlio d'un suo amico
+Il mio buon genitor pria di morire
+Destinò la mia man.
+
+ERNESTINA
+Lo intesi a dire.
+
+BERENICE
+E sai, che dopo i viaggi suoi lontani
+Questo sposo a me ignoto
+Oggi quì giungerà?
+
+ERNESTINA
+Ciò pur m'è noto.
+
+BERENICE
+Nell'incertezza, c'ei mi piaccia, e ch'io
+A lui possa piacer, mia dolce amica,
+Ho bisogno di te.
+
+ERNESTINA
+Parlate,
+
+BERENICE
+Io voglio
+Cambiar teco di nome
+
+ERNESTINA
+In qual maniera?
+
+BERENICE
+Diventando tu sposa, io cameriera.
+
+ERNESTINA
+Che dirà vostro zio?
+
+BERENICE
+Con noi d'accordo
+Seconderà il progetto.
+
+ERNESTINA
+E qual motivo
+V'induce?..
+
+BERENICE
+E che, non lo conosci ancora?
+Di noi due vò scoprir chi l'innamora.
+
+ERNESTINA
+Ho già pensato.
+
+BERENICE
+Un tal pretesto...
+
+ERNESTINA
+Tu pensa a compiacermi, io penso al resto.
+
+(D. Parmenione in abito da gala, e Martino.)
+
+DON PARMENIONE
+Eccomi al gran cimento.
+
+MARTINO
+Ajuto!
+
+DON PARMENIONE
+Cosa fai?
+
+MARTINO
+Tremo all'aspetto
+Della tempesta, che per noi s'imbruna.
+
+DON PARMENIONE
+Eh, bisogna arrischiar, per far fortuna.
+
+MARTINO
+Ma se...
+
+DON PARMENIONE
+Taci, ubbidisci, e fa, che ognuno
+Sia dell'arrivo mio tosto informato.
+
+MARTINO
+Già non guarisce mai, chi pazzo è nato.
+
+DON PARMENIONE
+L'unico dubbio mio sta nel sapere
+Chi mai s'avanza?
+
+## Scena terza
+(Ernestina, e Parmenione.)
+
+ERNESTINA
+(Alma coraggio?)
+
+DON PARMENIONE
+Quel gentil, quel vago oggetto,
+Che a voi sposo il ciel destina,
+Tutto foco s'avvicina
+Alla cara sua metà.
+
+ERNESTINA
+Io m'inchino con rispetto
+Alla vostra civiltà.
+
+DON PARMENIONE
+(Non s'accorda col ritratto.)
+
+ERNESTINA
+(È bizzarro, ma grazioso.)
+
+DON PARMENIONE
+(Eh non serve! il colpo è fatto.)
+
+ERNESTINA
+(S'egli fosse almen mio sposo.)
+
+DON PARMENIONE E ERNESTINA
+(Ma non parla Cosa fa?..)
+
+DON PARMENIONE
+Marchesina
+
+ERNESTINA
+Mio Contino!
+
+DON PARMENIONE
+Io son quì.
+
+ERNESTINA
+Quì sono anch'io
+
+DON PARMENIONE
+Posso?..
+
+ERNESTINA
+Andiamo da mio zio;
+Che al vedervi esulterà.
+
+DON PARMENIONE
+Con voi sono a voi m'arrendo
+Lucidissima mia stella!
+Qual s'arrende il pulcinella
+A chi muovere lo fa.
+
+ERNESTINA
+(Più lo guardo, più m'accendo
+A quel garbo, a tanto brio.)
+Andiam presto da mio zio,
+Che al vedervi esulterà.
+(via.)
+
+## Scena quarta
+(Alberto, e Berenice da parti opposte incontrandosi.)
+
+CONTE ALBERTO
+Se non m'inganna il core
+Coi palpiti, ch'io provo,
+Quella beltà in voi trovo;
+Che sposa mia sarà.
+
+BERENICE
+Degna d'un tanto onore
+No, mio signor, non sono;
+Altra l'illustre dono
+Di vostra man godrà.
+
+CONTE ALBERTO
+Come?..
+
+BERENICE
+Vi ho detto il vero.
+
+CONTE ALBERTO
+Dunque?..
+
+BERENICE
+In error voi siete.
+
+CONTE ALBERTO
+Ma voi?..
+
+BERENICE
+Non conto un zero.
+
+CONTE ALBERTO
+La sposa mia?..
+
+BERENICE
+Vedrete.
+
+CONTE ALBERTO
+Mi sembra un'impossibile,
+
+BERENICE
+Vero vi sembrerà.
+
+CONTE ALBERTO
+Oh sventurato errore,
+perdita affannosa!
+perché non è mia sposa
+Questa gentil beltà?
+
+BERENICE
+Oh generoso amore,
+Oh mio destin beato!
+Sposo di lui più grato
+L'alma bramar non sa,
+
+## Scena quinta
+(Eusebio, e detti, indi D. Parmenione con Ernestina.)
+
+DON EUSEBIO
+Do: questo sposo?
+
+BERENICE
+È quì per l'appunto.
+
+DON EUSEBIO
+Oh siete alfin giunto?
+
+CONTE ALBERTO
+Vi son servitor,
+
+DON PARMENIONE
+Ov'è questo zio?
+
+ERNESTINA
+È lì, nol vedete?
+
+DON PARMENIONE
+Oh alfin permettete..
+
+DON EUSEBIO
+Chi siete signor?
+
+DON PARMENIONE
+Io son Don Alberto
+Or vostro parente.
+
+ERNESTINA
+Voi proprio?
+
+DON PARMENIONE
+Sì certo.
+
+CONTE ALBERTO
+Ed io?..
+
+DON PARMENIONE
+Non so niente.
+
+BERENICE, DON EUSEBIO E ERNESTINA
+Che strana sorpresa,
+Che caso inaudito!
+Chi è il vero marito,
+Chi è mai l'impostor?
+
+CONTE ALBERTO E DON PARMENIONE
+Ravviso il rivale,
+Conosco l'imbroglio;
+Ma ardito esser voglio,
+Qui vano è il timor.
+
+DON EUSEBIO
+Orsù, spiegatevi.
+
+DON PARMENIONE
+Cosa ho da dire?
+
+ERNESTINA
+Legittimatevi.
+Fate sentire...
+
+CONTE ALBERTO
+Io son lo sposo.
+
+DON PARMENIONE
+Quello son io.
+
+DON EUSEBIO
+Le prove io voglio, perché son zio.
+
+DON PARMENIONE
+Le prove? Subito: eccole quà.
+
+CONTE ALBERTO
+Le prove? Oh perfida temerità!
+
+DON EUSEBIO
+Tutto va in regola.
+
+DON PARMENIONE
+Mi son spiegato.
+
+ERNESTINA
+Voi state mutolo.
+Sono ingannato.
+
+DON PARMENIONE
+Non gli credete, non gli badate;
+Queste son frottole male inventate.
+Ch'io son lo sposo provato è già.
+
+DON EUSEBIO
+Dunque lasciateci in libertà.
+
+CONTE ALBERTO
+La mia valigia, gli effetti miei
+Prima tu rendere, vile, mi dei,
+E poi del resto si parlerà.
+
+DON EUSEBIO
+Dunque lasciateci in libertà.
+
+MARTINO
+Spoglia quell'abìto.
+
+MARTINO
+Meglio parlate.
+
+DON EUSEBIO
+Questa è una cabala.
+
+DON PARMENIONE
+Non v'alterate.
+
+DON EUSEBIO
+Tosto
+
+CONTE ALBERTO
+Voglio...
+
+DON EUSEBIO
+Sono...
+
+CONTE ALBERTO
+Sento...
+
+DON PARMENIONE
+Partite.
+
+ERNESTINA
+Ma via calmatevi per carità.
+Di tanto equivoco, di tal disordine
+Nel cupo, orribile, confuso vortice
+Urta, precipita, s'avvolge, rotola,
+Perduto il cerebro per aria va.
+Ma ti disimuli, che senza strepito
+Già tutto in seguito si scoprirà.
+
+## Scena sesta
+(Martino, poi D. Eusebio.)
+
+MARTINO
+Non so più cosa far. Cauto m'impone,
+Il timor del bastone
+D'evitar chi si sia: vuol l'appetito,
+Che ad incontrar qualche pagnotta io vada;
+Onde trovando, o non trovando alcuno,
+Bastonato morir devo, o digiuno.
+
+DON EUSEBIO
+Voi chi siete?
+
+MARTINO
+(Ecco il caso.)
+
+DON EUSEBIO
+Ebben?
+
+MARTINO
+Signore
+Io sono il servitore...
+
+DON EUSEBIO
+Del forestiero?
+
+MARTINO
+Appunto.
+
+DON EUSEBIO
+E quì che fate?
+
+MARTINO
+Io? Niente.
+
+DON EUSEBIO
+Dunque andate.
+
+MARTINO
+Vorrei...
+
+DON EUSEBIO
+Non serve il replicar.
+Andate dico.
+
+MARTINO
+E dove?
+
+DON EUSEBIO
+Oh che insensato!
+In cucina a mangiar.
+
+MARTINO
+(Ripiglio fiato.)
+(via.)
+
+(Ernestina, indi Alberto.)
+
+ERNESTINA
+Oh, qual destino è il mio! Perdo un'ingrato
+Che mi sedusse: a vagheggiarmi un nuovo
+Amante arriva, e questi...
+
+CONTE ALBERTO
+Oh alfin vi trovo!
+
+ERNESTINA
+Che cercate, signor?
+
+CONTE ALBERTO
+ione io cerco
+Dell'insulto sofferto.
+
+ERNESTINA
+E sostenete ancor?..
+
+CONTE ALBERTO
+D'essere Alberto.
+
+ERNESTINA
+Il vostro ardir...
+
+CONTE ALBERTO
+È quell'ardir, che nasce
+Dal vero onor. Da un'impostor tradito,
+Dall'apparenza condannato io sono;
+Il dritto mio, lo sbaglio vostro in breve
+Risarcito sarà.
+
+ERNESTINA
+Qualunque dritto
+Meco; signor; voi richiamate invano
+vostra esser non può mai questa Mano.
+
+CONTE ALBERTO
+Voi pur dunque in mio danno
+torti vostri agli altrui torti unite?
+un preventivo; e fortunato affetto
+Occupa il vostro cor, approvo, e lodo
+bella ingenuità; ma se v'induce
+Un'error tanto ingiusto ad insultarmi,
+Trovar la via saprò di vendicarmi.
+D'ogni più sacro impegno
+Sciolta pur sia la fede,
+Amor da voi non chiede,
+Chi amor per voi non ha
+l'era, chi vuol costringere
+D'un cor la libertà.
+Ma se un sospetto indegno
+Di soverchiarmi intende,
+Quel generoso sdégno,
+Che il mio decoro accende,
+Dalla ragione armato,
+Dal vero onor guidato,
+Un vano ardir confondere,
+E impallidir farà,
+(parte.)
+
+ERNESTINA
+Quei fermi accenti; quel sicuro aspetto
+
+mirar, nel sentire;
+Impossibile par ch'abbia a mentire,
+
+## Scena settima
+(Berenice, indi D. Parmenione.)
+
+ERNESTINA
+Per conoscer l'inganno, un'espediente
+Chi m'insegna a trovar? Ho un gran sospetto,
+Che questo sposo un temerario sia,
+Un basso avventuriere;
+Ma il vero come mai si può sapere?
+
+DON PARMENIONE
+(Fino adesso va ben.)
+
+ERNESTINA
+(Voglio provarmi.)
+
+DON PARMENIONE
+Oh!! chi vedo?
+
+ERNESTINA
+Signor!..
+(inchinando)
+
+DON PARMENIONE
+Brava, ragazza:
+Tu mi piaci.
+
+ERNESTINA
+Davver?
+
+DON PARMENIONE
+Certo: e se trovo
+In te condotta, e abilità discreta,
+Della mia protezione
+Forse ti onorerò..
+
+ERNESTINA
+(Che mascalzone!)
+
+DON PARMENIONE
+Cosa?
+
+ERNESTINA
+Troppo favore..
+
+DON PARMENIONE
+Io già ho fissato,
+Dopo il mio sposalizio,
+Di tener varie donne al mio servizio
+Onde..
+
+ERNESTINA
+Dopo?
+
+DON PARMENIONE
+Sì sa.
+
+ERNESTINA
+Badate bene
+A quel proverbio, che facendo il conto
+Senza l'oste, talvolta
+Sì va a rischio di farlo un'altra volta..
+
+DON PARMENIONE
+Olà !! Men confidenza: e se ti preme
+Di stare in questa casa,
+Bada di non mi far mai la dottora,
+O ch'io ......
+
+ERNESTINA
+Signor! Non siete sposo ancora.
+
+DON PARMENIONE
+Se no 'l son, lo sarò.
+
+BERENICE
+Ci son dei dubbj..
+
+DON PARMENIONE
+Quai dubbj?
+
+ERNESTINA
+Che appianar prima dovete,
+E poi ci parlerem.
+
+DON PARMENIONE
+Come!! In tal guisa
+Una vil serva in faccia mia favella,
+E non trema?
+
+ERNESTINA
+Sbagliate: io non son quella.
+
+DON PARMENIONE
+E chi sei dunque?
+
+ERNESTINA
+Io sono un farfarello,
+Che girar fa 'l cervello,
+A chi non ha giudizio,
+
+DON PARMENIONE
+Orsù! T'accheta,
+Lasciami..
+
+ERNESTINA
+Io son ......
+
+DON PARMENIONE
+Via dillo, in tua malora.
+
+ERNESTINA
+Io sono...
+
+DON PARMENIONE
+Una servaccia ardimentosa.
+
+ERNESTINA
+Oh! Tutt'altro, signore: io son — la sposa.
+
+DON PARMENIONE
+Voi la sposa !!
+
+ERNESTINA
+Appunto io stessa.
+
+DON PARMENIONE
+Ma quell'altra?
+
+ERNESTINA
+È mia sorella,
+
+DON PARMENIONE
+(Se ciò è ver, l'ho fatta bella.)
+
+BERENICE
+(S'incomincia a imbarazzar,)
+
+DON PARMENIONE
+D'un parlar sì stravagante
+Non son molto persuaso;
+Pur se quella siete a caso,
+Il mio sbaglio è da scusar.
+
+ERNESTINA
+Per un vero, e gran birbante
+Presso ognun quì voi passate;
+Ma il contrario se provate;
+Anch'io so, quel ch'ho da far.
+
+DON PARMENIONE
+Le mie lettere...
+
+ERNESTINA
+Ho vedute.
+
+DON PARMENIONE
+I ricapiti?...
+
+ERNESTINA
+Li ho letti.
+
+MARTINO
+Quai son dunque i miei difetti?
+
+ERNESTINA
+Or vi voglio esaminar:
+Il Padre vostro si porta bene?
+
+DON PARMENIONE
+Egli sanissimo è sempre stato.
+
+ERNESTINA
+Ma se ci ha scritto; ch'era ammalato?
+
+DON PARMENIONE
+Gli ha voluto così scherzar.
+
+ERNESTINA
+Come si chiama vostra sorella?
+
+DON PARMENIONE
+Ha un brutto nome; detta è Pandora:
+
+ERNESTINA
+Nelle sue lettere si scrive Aurora.
+
+MARTINO
+Io la più giovine volli indicar.
+
+ERNESTINA
+E del processo che nuove avete?
+
+DON PARMENIONE
+Il tribunale ci da ragione.
+
+ERNESTINA
+Ma qual è il punto della questione?
+
+MARTINO
+Non so spiegarvelo; lungo è l'affar.
+
+BERENICE
+Non c'è più equivoco, mi trovo a segno;
+Scoperto è il perfido vile impostore.
+Un foco, un impeto mi sento in core;
+Non so la collera dissimular.
+
+DON PARMENIONE
+Sempre più critico divien l'impegno,
+D'un passo simile quasi mi pento:
+Un certo brivido al cor mi sento;
+Ma forza e spirito convien mostrar
+
+BERENICE
+E così contino mio?
+
+DON PARMENIONE
+Cosa far per voi poss'io?
+
+ERNESTINA
+Mi saluti il genitore.
+
+DON PARMENIONE
+Lo farò con tutto il core.
+
+ERNESTINA
+E la cara sua sorella?
+
+MARTINO
+Sempre è buona quanto bella
+
+ERNESTINA
+Guadagnato è già il processo?
+
+DON PARMENIONE
+Così almen mi fu promesso.
+
+ERNESTINA
+Dunque tutto va a dovere?
+
+DON PARMENIONE
+Tutto va, come ha d'andar,
+
+BERENICE
+Ah uomo petulante,
+Incomodo, arrogante!
+Cessate di mentire,
+Scoperto è il vostro ardire;
+Voi siete un'impostore,
+Un vile avventuriere,
+E queste le maniere
+Non sono di trattar.
+Per forza, o per amore
+Da qui dovrete andar,
+
+DON PARMENIONE
+Ragazza impertinente,
+Ridicola, imprudente!
+A te non rendo conti,
+Da te non voglio affronti;
+Io sono un uom d'onore
+Un cavalier son io
+So dire il fatto mio,
+So il modo di trattar.
+Per forza, o per amore
+Mi voglio vendicar,
+
+DON EUSEBIO, ERNESTINA E MARTINO
+Qui non c'è scampo.
+
+ERNESTINA
+Qui parlar bisogna.
+
+MARTINO
+Cosa ho da far?
+
+DON EUSEBIO
+La verità ci spiega.
+
+MARTINO
+La verità! Ma come mai, signore,
+Pretenderla si può da un servitore?
+
+ERNESTINA
+Meno pretesti.
+
+DON EUSEBIO
+Il tuo padron vogliamo
+Conoscere da te.
+
+MARTINO
+Vorrei...
+
+ERNESTINA
+Palesa
+Il suo nome.
+
+MARTINO
+Mi spiace...
+
+DON EUSEBIO
+Il suo casato...
+
+MARTINO
+V'assicuro...
+
+ERNESTINA
+Il suo stato...
+
+DON EUSEBIO
+Quel che fa.
+
+ERNESTINA
+Quel che pensa.
+
+MARTINO
+E voi bramate?...
+
+ERNESTINA
+Tutto scoprir da te.
+
+MARTINO
+Dunque ascoltate,
+Il mio padrone è un'uomo,
+Ognun che il vede il sa:
+Rassembra un galantuomo.
+E forse tal sarà.
+Vecchio non è; né giovine,
+Nè brutto, nè avvenente,
+Nè ricco, nè indigente,
+È in somma un di quegli esseri
+Comuni in società.
+Portato è per le femmine,
+Gli piace il vino, e il gioco,
+Amante è di far debiti
+Ma di pagarli poco,
+Tutto censura, e critica,
+Benché sia un ignorante,
+Con tutti fà il sensibile,
+Ma di sè solo è amante,
+Procura ognor di vivere
+In pace, e in sanità;
+È in somma un di quegli esseri
+Comuni in società.
+(fugge)
+
+DON EUSEBIO
+Aspetta, ove vai?
+(lo insegue.)
+
+ERNESTINA
+Se fosse vero,
+che vero pur sembra, io spererei
+vedere appagati i voti miei.
+(parte.)
+
+## Scena ottava
+(D. Parmenione, ed Alberto.)
+
+CONTE ALBERTO
+Voi qui appunto io cercava..
+
+DON PARMENIONE
+Ed io correva in traccia di voi.
+
+CONTE ALBERTO
+Dopo l'eccesso vostra impostura arrossite ancor?
+
+DON PARMENIONE
+Dopo d'avermi la mia valigia
+Mostrate tanto ardir?
+
+CONTE ALBERTO
+Dei cenci vostri
+Io non ne sò che far.
+
+DON PARMENIONE
+Io non mi curo
+Delle vostre ricchezze.
+
+CONTE ALBERTO
+Ebben, sul fatto
+Io le voglio,
+
+DON PARMENIONE
+Le avrete,
+Quando gli effetti miei mi renderete.
+
+CONTE ALBERTO
+È il finto nome, compromesso onore
+la mal tolta sposa
+Chiedon riparo.
+
+DON PARMENIONE
+Oh questa è un'altra cosa!
+
+CONTE ALBERTO
+Resistete?
+
+DON PARMENIONE
+Si sa.
+
+CONTE ALBERTO
+Così a un par mio?
+
+DON PARMENIONE
+Un mio pari risponde,
+
+CONTE ALBERTO
+Soffrir non so...
+
+DON PARMENIONE
+Ceder non posso ...
+
+CONTE ALBERTO
+Io giuro,
+Che vi farò pentir.
+
+DON PARMENIONE
+Ed io protesto,
+Che non mi pentirò.
+
+## Scena nona
+(Berenice, e detti.)
+
+ERNESTINA
+qual chiasso è questo?
+
+DON PARMENIONE
+Tu quì che vuoi?
+
+ERNESTINA
+Più flemma,
+
+CONTE ALBERTO
+(Oh quanto è bella!)
+
+DON PARMENIONE
+Ebben, che cerchi?
+
+ERNESTINA
+Se per mia disgrazia
+Lo sposo foste voi, nulla io ricerco;
+Ma se poi.
+
+CONTE ALBERTO
+Se la prova,
+Che lo sposo son io, fosse evidente?..
+
+ERNESTINA
+Allora parlerei diversamente.
+
+DON PARMENIONE
+Tanto meglio.
+
+ERNESTINA
+Eh, già so, ch'altra v'accende
+Di me più vaga, e più gentil donzella.
+
+DON PARMENIONE
+La tua padrona, e la mia sposa è quella.
+
+CONTE ALBERTO
+Dunque restiam d'accordo,
+Che se l'altra è la sposa, io ve la cedo,
+E gli insulti sofferti a voi perdono.
+
+DON PARMENIONE
+Ottimamente.
+
+CONTE ALBERTO
+Ma del vero Alberto
+Se il premio è questo; l'usurpato nome,
+I lesi dritti, l'onor mio tradito,
+E questa man, che m'appartiene, io voglio.
+
+DON PARMENIONE
+E così finirà qualunque imbroglio
+
+ERNESTINA
+Ma se incerti voi siete,
+Quale la sposa sia, dubbia non meno
+Del mio destin, dell'esser vostro io sono;
+Ne tai patti sì fanno in presenza,
+Prima di conseguir la mia licenza.
+Voi la sposa pretendete,
+Voi mi fate il cascamorto:
+Ma, signori miei, chi siete,
+Chi ha ragion di voi, chi ha torto?
+Se l'intrigo mi sciogliete,
+Qualche cosa nascerà.
+
+DON PARMENIONE
+Se voi sposa esser bramate,
+Io non son più il conte Alberto.
+
+CONTE ALBERTO
+Se il mio cor non rifiutate,
+Io vi sposo, ancorchè incerto.
+
+ERNESTINA
+Che parole inzuccherate,
+Che obbligante ingenuità!
+
+BERENICE
+Deh non tradirmi amore
+In sì fatal mistero!
+Tu mi rischiara il vero
+In tanta oscurità.
+
+DON PARMENIONE E CONTE ALBERTO
+Se siete un'uom d'onore,
+Io sono un'uom sincero:
+Si scopra prima il vero,
+poi si parlerà.
+
+ERNESTINA
+E così, nessun favella?
+
+CONTE ALBERTO
+Mia vi voglio ad ogni costo.
+
+DON PARMENIONE
+Per me scielta ho l'altra bella
+
+BERENICE
+Vò saper la verità.
+
+CONTE ALBERTO
+Io v'ho detto.
+
+DON PARMENIONE
+Io v'ho risposto.
+
+DON PARMENIONE
+Stabilito il patto è già.
+
+ERNESTINA
+Io non soffro quest'oltraggio,
+Chi voi siete io vò sapere:
+D'ingannarmi chi ha coraggio,
+Chi deciso ha di tacere,
+Quì scoperto, smascherato,
+Vilipeso resterà;
+E d'un misero attentato
+Tardi poi si pentirà.
+(parte.)
+
+CONTE ALBERTO
+Fermatevi.
+
+DON PARMENIONE
+Che c'è?
+
+CONTE ALBERTO
+L'impegno preso mantener.
+
+DON PARMENIONE
+Son pronte.
+
+CONTE ALBERTO
+Insieme
+Verificar dobbiam, qual sia la sposa.
+
+DON PARMENIONE
+È poi, come si è detto...
+
+CONTE ALBERTO
+Il patto convenuto avrà effetto.
+(D. Eusebio, Ernestina, indi D. Parmenione e detti.)
+
+ERNESTINA
+Il suo trascorso alfine
+Un capriccio sarà, non un delitto.
+
+DON EUSEBIO
+Ma se ancor non parlava il servitore,
+Io parente sarei d'un impostore.
+
+ERNESTINA
+Non mi pare.
+
+DON EUSEBIO
+Perchè?
+
+ERNESTINA
+Perchè diretto
+Egli aveva a me sola ogni desio.
+
+DON PARMENIONE
+Eccomi al vostro piè, bell'idol mio.
+
+ERNESTINA
+Lo sentite?
+
+DON EUSEBIO
+Oh! la burla
+V'invito a terminar: già l'esser vostro
+Più un mistero non è.
+
+DON PARMENIONE
+Se anche lo fosse,
+Vengo io stesso a finire ogni questione,
+E più Alberto non son, son Parmenione.
+
+ERNESTINA
+Voi Parmenion di Castelnuovo?
+
+DON PARMENIONE
+Appunto,
+Del Conte Ernesto, or gravemente infermo,
+L'amico io son, scelto a inseguir la sua
+Fuggitiva sorella.
+
+ERNESTINA
+Voi trovata l'avete: ecco io son quella.
+
+DON PARMENIONE
+Voi!
+
+DON EUSEBIO
+Che sento?
+
+ERNESTINA
+Ah Pur troppo io fui sedotta
+Da un'alma scellerata,
+Che vincer non potendo il mio rigore;
+Sola quì mi lasciò!
+
+DON PARMENIONE
+Che traditore?
+
+DON EUSEBIO
+Or comprendo..
+
+DON PARMENIONE
+Non più: giacché m'è tolta
+Di punir quell'indegno, all'onor vostro
+Un riparo sarà forse non vano,
+L'offerta ch'io vi fo della mia mano.
+
+DON PARMENIONE
+Quello, ch'io fui, ritorno,
+Chiedo all'error perdono:
+Se sposo vostro io sono,
+Più che bramar non so.
+
+ERNESTINA
+D'un sì prezioso dono
+L'offerta accetterò.
+
+DON EUSEBIO
+Ma chi sarà frattanto
+Quell'altro forestiero?
+
+DON PARMENIONE
+Egli è lo sposo vero,
+Già tutto io vi dirò.
+
+ERNESTINA
+Che bel momento è questo!
+
+MARTINO
+Che fortunato giorno!
+
+DON EUSEBIO
+Io sbalordito resto.
+
+DON PARMENIONE
+(Ern..)
+
+ERNESTINA
+Io vostra ognor sarò.
+Inaspettato evento.
+Del giubilo, che sento,
+Ognuno a parte io vò.
+
+## Scena decima
+(Alberto, e Berenice.)
+
+CONTE ALBERTO E BERENICE
+Oh, quanto son grate
+Le pene in amore,
+Se premio al dolore
+È un tanto piacer!
+
+ERNESTINA
+Fidarmi poss'io?
+
+CONTE ALBERTO
+E ancor stai dubbiosa?
+
+ERNESTINA
+Tu sei dunque mio.
+
+CONTE ALBERTO
+Tu sei la mia sposa.
+
+ERNESTINA E CONTE ALBERTO
+Un tenero io provo
+Tumulto nel petto.
+A tanto diletto
+Si perde il pensier.
+
+## Scena undicesima
+(Martino, e detti, indi D. Eusebio con Ernestina, e D. Parmenione)
+
+MARTINO
+Su signori, allegramente,
+Ogn'imbroglio è accomodato.
+
+ERNESTINA
+Cosa dici?
+
+CONTE ALBERTO
+Cosa è stato?
+
+MARTINO
+Ciò ch'è stato, non val niente,
+Buono è ciò, che seguirà.
+
+CONTE ALBERTO
+Dunque?..
+
+BERENICE
+Parla..
+
+MARTINO
+Appunto, or viene
+Chi più chiaro parlerà.
+
+DON EUSEBIO
+Ah nipote!
+
+ERNESTINA
+Amica mia!
+
+DON PARMENIONE
+Io son vostro servitore
+
+ERNESTINA
+D'onde vien quest'allegria?
+
+CONTE ALBERTO
+D'onde mai tal buon umore?
+
+DON EUSEBIO
+Non vedete?
+
+ERNESTINA
+Non capite?
+
+DON PARMENIONE
+D'ascoltar se favorite;
+Tutto noto si farà.
+Voi padron mi avete eletto
+Per un gioco della sorte
+Delle vostre proprietà:
+Io per esserlo in effetto,
+Volli ancor, che la consorte
+Diventasse mia metà;
+E fu sol questo ritratto,
+Che colpevole mi ha fatto
+Di si gran bestialità.
+
+ERNESTINA
+Come mai?..
+
+CONTE ALBERTO
+Di mia sorella
+Il ritratto è questo quà.
+Alla sposa mia novella
+Era in dono destinato.
+
+DON PARMENIONE
+Vidi anch'io d'aver sbagliato,
+Ma allor tardi era di già.
+
+DON EUSEBIO
+Dunque?..
+
+DON PARMENIONE
+Invece ho ritrovato,
+Ciò che appunto io ricercava.
+
+MARTINO
+Così amore ha quì pigliato
+Due piccioni ad una fava.
+
+DON PARMENIONE
+Spero poi, che scuserete
+
+ERNESTINA
+Già scusato appien voi siete.
+
+ERNESTINA
+Io per me contenta sono.
+
+CONTE ALBERTO
+Io v'abbraccio, e vi perdono.
+
+DON EUSEBIO
+Ed un doppio matrimonio
+La burletta finirà.
+
+TUTTI
+D'un sì placido contento
+Sia partecipe ogni core,
+E costante il Dio d'amore
+Renda il nostro giubilar;
+E se a caso l'occasione
+L'uom fa ladro diventar
+C'è talvolta una ragione;
+Che lo può legittim
